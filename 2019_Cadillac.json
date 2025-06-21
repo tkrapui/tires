@@ -1,0 +1,232 @@
+{
+  "brand": "Cadillac",
+  "year": 2019,
+  "vehicles": [
+    {
+      "model": "CT6",
+      "trim": "Luxury",
+      "tire_sizes": [
+        "235/50R18",
+        "245/40R20",
+        "245/45R19"
+      ]
+    },
+    {
+      "model": "CT6",
+      "trim": "Platinum",
+      "tire_sizes": [
+        "245/40R20"
+      ]
+    },
+    {
+      "model": "CT6",
+      "trim": "Premium Luxury",
+      "tire_sizes": [
+        "245/40R20",
+        "245/45R19"
+      ]
+    },
+    {
+      "model": "CT6",
+      "trim": "Sport",
+      "tire_sizes": [
+        "245/40R20",
+        "245/45R19"
+      ]
+    },
+    {
+      "model": "CT6",
+      "trim": "V",
+      "tire_sizes": [
+        "245/40R20"
+      ]
+    },
+    {
+      "model": "CTS",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/45R17"
+      ]
+    },
+    {
+      "model": "CTS",
+      "trim": "Luxury",
+      "tire_sizes": [
+        "P245/40R18"
+      ]
+    },
+    {
+      "model": "CTS",
+      "trim": "Premium Luxury",
+      "tire_sizes": [
+        "255/35R19",
+        "P245/40R18"
+      ]
+    },
+    {
+      "model": "CTS",
+      "trim": "V",
+      "tire_sizes": [
+        "265/35R19",
+        "295/30R19"
+      ]
+    },
+    {
+      "model": "CTS",
+      "trim": "Vsport Premium Luxury",
+      "tire_sizes": [
+        "245/40R18",
+        "275/35R18"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "Base",
+      "tire_sizes": [
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "ESV Base",
+      "tire_sizes": [
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "ESV Luxury",
+      "tire_sizes": [
+        "P285/45R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "ESV Platinum",
+      "tire_sizes": [
+        "P285/45R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "ESV Premium Luxury",
+      "tire_sizes": [
+        "P285/45R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "Luxury",
+      "tire_sizes": [
+        "P285/45R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "Platinum",
+      "tire_sizes": [
+        "P285/45R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "Premium Luxury",
+      "tire_sizes": [
+        "P285/45R22"
+      ]
+    },
+    {
+      "model": "XT4",
+      "trim": "Luxury",
+      "tire_sizes": [
+        "235/60R18",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "XT4",
+      "trim": "Premium Luxury",
+      "tire_sizes": [
+        "235/60R18",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "XT4",
+      "trim": "Sport",
+      "tire_sizes": [
+        "235/60R18",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "XT5",
+      "trim": "Base",
+      "tire_sizes": [
+        "235/65R18"
+      ]
+    },
+    {
+      "model": "XT5",
+      "trim": "Luxury",
+      "tire_sizes": [
+        "235/65R18",
+        "235/55R20"
+      ]
+    },
+    {
+      "model": "XT5",
+      "trim": "Platinum",
+      "tire_sizes": [
+        "235/55R20"
+      ]
+    },
+    {
+      "model": "XT5",
+      "trim": "Premium Luxury",
+      "tire_sizes": [
+        "235/55R20"
+      ]
+    },
+    {
+      "model": "XTS",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/45R19"
+      ]
+    },
+    {
+      "model": "XTS",
+      "trim": "Luxury",
+      "tire_sizes": [
+        "245/45R19"
+      ]
+    },
+    {
+      "model": "XTS",
+      "trim": "Platinum",
+      "tire_sizes": [
+        "P245/40R20"
+      ]
+    },
+    {
+      "model": "XTS",
+      "trim": "Premium Luxury",
+      "tire_sizes": [
+        "P245/40R20"
+      ]
+    },
+    {
+      "model": "XTS",
+      "trim": "Vsport Platinum",
+      "tire_sizes": [
+        "P245/40R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T17:12:31.359707",
+    "total_vehicles": 30,
+    "total_tire_sizes": 17
+  }
+}

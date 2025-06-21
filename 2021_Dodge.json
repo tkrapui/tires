@@ -1,0 +1,228 @@
+{
+  "brand": "Dodge",
+  "year": 2021,
+  "vehicles": [
+    {
+      "model": "Challenger",
+      "trim": "GT (AWD)",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "GT (RWD)",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "R/T",
+      "tire_sizes": [
+        "275/40R20",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "R/T Scat Pack",
+      "tire_sizes": [
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "R/T Scat Pack Widebody",
+      "tire_sizes": [
+        "305/35R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "SRT Hellcat",
+      "tire_sizes": [
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "SRT Hellcat Redeye",
+      "tire_sizes": [
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "SRT Hellcat Redeye Widebody",
+      "tire_sizes": [
+        "305/35R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "SRT Hellcat Widebody",
+      "tire_sizes": [
+        "305/35R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "SXT (AWD)",
+      "tire_sizes": [
+        "235/55R19",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "SXT (RWD)",
+      "tire_sizes": [
+        "235/55R18",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "Scat Pack 392",
+      "tire_sizes": [
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "Scat Pack 392 Widebody",
+      "tire_sizes": [
+        "305/35R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "GT (AWD)",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "GT (RWD)",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "Pursuit Police",
+      "tire_sizes": [
+        "245/55R18",
+        "P225/60R18"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "R/T",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SRT Hellcat Redeye Widebody",
+      "tire_sizes": [
+        "305/35R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SXT (AWD)",
+      "tire_sizes": [
+        "235/55R19",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SXT (RWD)",
+      "tire_sizes": [
+        "P215/65R17",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "Scat Pack 392",
+      "tire_sizes": [
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "Scat Pack 392 Widebody",
+      "tire_sizes": [
+        "305/35R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "Scat Pack Widebody",
+      "tire_sizes": [
+        "305/35R20"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "Citadel V6",
+      "tire_sizes": [
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "Citadel V8",
+      "tire_sizes": [
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "GT",
+      "tire_sizes": [
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "R/T",
+      "tire_sizes": [
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "SRT",
+      "tire_sizes": [
+        "295/45R20"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "SRT Hellcat",
+      "tire_sizes": [
+        "295/45R20"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "SXT",
+      "tire_sizes": [
+        "P265/60R18",
+        "265/60R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T15:36:13.592581",
+    "total_vehicles": 30,
+    "total_tire_sizes": 12
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "brand": "Land Rover",
+  "year": 2021,
+  "vehicles": [
+    {
+      "model": "Defender",
+      "trim": "110 S",
+      "tire_sizes": [
+        "255/65R19",
+        "275/45R22",
+        "255/60R20",
+        "255/70R18"
+      ]
+    },
+    {
+      "model": "Defender",
+      "trim": "110 SE",
+      "tire_sizes": [
+        "255/65R19",
+        "275/45R22",
+        "255/60R20"
+      ]
+    },
+    {
+      "model": "Defender",
+      "trim": "110 X",
+      "tire_sizes": [
+        "255/65R19",
+        "275/45R22",
+        "255/60R20"
+      ]
+    },
+    {
+      "model": "Defender",
+      "trim": "110 X-Dynamic HSE",
+      "tire_sizes": [
+        "255/65R19",
+        "275/45R22",
+        "255/60R20"
+      ]
+    },
+    {
+      "model": "Defender",
+      "trim": "110 X-Dynamic SE",
+      "tire_sizes": [
+        "255/65R19",
+        "275/45R22",
+        "255/60R20"
+      ]
+    },
+    {
+      "model": "Defender",
+      "trim": "90 First Edition",
+      "tire_sizes": [
+        "255/65R19",
+        "275/45R22",
+        "255/60R20"
+      ]
+    },
+    {
+      "model": "Defender",
+      "trim": "90 S",
+      "tire_sizes": [
+        "255/65R19",
+        "255/70R18",
+        "255/60R20",
+        "275/45R22"
+      ]
+    },
+    {
+      "model": "Defender",
+      "trim": "90 X",
+      "tire_sizes": [
+        "255/65R19",
+        "275/45R22",
+        "255/60R20"
+      ]
+    },
+    {
+      "model": "Defender",
+      "trim": "90 X-Dynamic S",
+      "tire_sizes": [
+        "255/65R19",
+        "275/45R22",
+        "255/60R20"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "R-Dynamic HSE",
+      "tire_sizes": [
+        "275/45R21",
+        "285/40R22",
+        "255/55R20"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "R-Dynamic S",
+      "tire_sizes": [
+        "255/55R20",
+        "275/45R21",
+        "285/40R22"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "S",
+      "tire_sizes": [
+        "255/55R20",
+        "275/45R21",
+        "285/40R22"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "Sport R-Dynamic HSE",
+      "tire_sizes": [
+        "235/55R19",
+        "235/50R20",
+        "245/45R21",
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "Sport R-Dynamic S",
+      "tire_sizes": [
+        "235/55R19",
+        "235/50R20",
+        "245/45R21",
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "Sport R-Dynamic SE",
+      "tire_sizes": [
+        "235/55R19",
+        "235/50R20",
+        "245/45R21",
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "Sport SE",
+      "tire_sizes": [
+        "235/55R19",
+        "235/50R20",
+        "245/45R21",
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Autobiography",
+      "tire_sizes": [
+        "275/45R21",
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Autobiography (LWB)",
+      "tire_sizes": [
+        "275/45R21",
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Autobiography Fifty Edition",
+      "tire_sizes": [
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Autobiography Plug-In Hybrid",
+      "tire_sizes": [
+        "255/55R20",
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque R-Dynamic HSE",
+      "tire_sizes": [
+        "235/50R20",
+        "245/45R21",
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque R-Dynamic S",
+      "tire_sizes": [
+        "235/50R20",
+        "245/45R21",
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque R-Dynamic SE",
+      "tire_sizes": [
+        "235/50R20",
+        "245/45R21",
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque S",
+      "tire_sizes": [
+        "235/50R20",
+        "245/45R21",
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque SE",
+      "tire_sizes": [
+        "235/50R20",
+        "245/45R21",
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover HSE",
+      "tire_sizes": [
+        "255/55R20",
+        "275/45R21",
+        "235/65R19",
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover HSE Plug-In Hybrid",
+      "tire_sizes": [
+        "255/55R20",
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover SVAutobiography",
+      "tire_sizes": [
+        "275/45R21",
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover SVAutobiography Dynamic",
+      "tire_sizes": [
+        "275/45R21",
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover SVAutobiography Dynamic Black Edition",
+      "tire_sizes": [
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport Autobiography Dynamic",
+      "tire_sizes": [
+        "275/45R21",
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport Autobiography Dynamic Plug-In Hybrid",
+      "tire_sizes": [
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport HSE Dynamic",
+      "tire_sizes": [
+        "275/45R21",
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport HSE Silver Edition",
+      "tire_sizes": [
+        "275/45R21",
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport HSE Silver Edition Plug-In Hybrid",
+      "tire_sizes": [
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport HST",
+      "tire_sizes": [
+        "275/45R21",
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport SE",
+      "tire_sizes": [
+        "255/55R20",
+        "275/45R21",
+        "235/65R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport SVR",
+      "tire_sizes": [
+        "275/45R21",
+        "285/40R22",
+        "295/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport SVR Carbon Edition",
+      "tire_sizes": [
+        "285/40R22",
+        "295/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Velar R-Dynamic HSE",
+      "tire_sizes": [
+        "255/50R20",
+        "265/45R21",
+        "255/55R19",
+        "265/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Velar R-Dynamic S",
+      "tire_sizes": [
+        "255/50R20",
+        "265/45R21",
+        "255/55R19",
+        "265/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Velar S",
+      "tire_sizes": [
+        "255/50R20",
+        "265/45R21",
+        "255/55R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Westminster Edition",
+      "tire_sizes": [
+        "275/45R21",
+        "275/40R22"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T16:06:00.684713",
+    "total_vehicles": 43,
+    "total_tire_sizes": 18
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "brand": "Volvo",
+  "year": 2021,
+  "vehicles": [
+    {
+      "model": "S60",
+      "trim": "T5 Momentum",
+      "tire_sizes": [
+        "235/40R19",
+        "235/45R18"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "T6 Inscription",
+      "tire_sizes": [
+        "235/40R19",
+        "235/45R18"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "T6 Momentum",
+      "tire_sizes": [
+        "235/40R19",
+        "235/45R18"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "T6 R-Design",
+      "tire_sizes": [
+        "235/40R19",
+        "235/45R18"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "T8 Recharge Polestar",
+      "tire_sizes": [
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "T8 Recharge R-Design",
+      "tire_sizes": [
+        "235/40R19",
+        "235/45R18"
+      ]
+    },
+    {
+      "model": "S90",
+      "trim": "T6 Inscription",
+      "tire_sizes": [
+        "255/35R20",
+        "255/40R19"
+      ]
+    },
+    {
+      "model": "S90",
+      "trim": "T8 Recharge Inscription",
+      "tire_sizes": [
+        "245/40R20",
+        "255/40R19"
+      ]
+    },
+    {
+      "model": "V60",
+      "trim": "T5 Momentum",
+      "tire_sizes": [
+        "235/40R19",
+        "235/45R18"
+      ]
+    },
+    {
+      "model": "V60",
+      "trim": "T6 Inscription",
+      "tire_sizes": [
+        "235/40R19",
+        "235/45R18"
+      ]
+    },
+    {
+      "model": "V60",
+      "trim": "T6 Momentum",
+      "tire_sizes": [
+        "235/40R19",
+        "235/45R18"
+      ]
+    },
+    {
+      "model": "V60",
+      "trim": "T6 R-Design",
+      "tire_sizes": [
+        "235/40R19",
+        "235/45R18"
+      ]
+    },
+    {
+      "model": "V60",
+      "trim": "T8 Recharge Inscription",
+      "tire_sizes": [
+        "235/40R19"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-19T16:28:11.971079",
+    "total_vehicles": 13,
+    "total_tire_sizes": 5,
+    "scraping_mode": "differential"
+  }
+}

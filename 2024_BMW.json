@@ -1,0 +1,528 @@
+{
+  "brand": "BMW",
+  "year": 2024,
+  "vehicles": [
+    {
+      "model": "230i",
+      "trim": "xDrive Base",
+      "tire_sizes": [
+        "225/40R19",
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "330e",
+      "trim": "Base",
+      "tire_sizes": [
+        "225/40R19",
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "330e",
+      "trim": "xDrive Base",
+      "tire_sizes": [
+        "225/40R19",
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "330i",
+      "trim": "xDrive Base",
+      "tire_sizes": [
+        "225/40R19",
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "430i",
+      "trim": "xDrive Convertible",
+      "tire_sizes": [
+        "225/40R19",
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "430i",
+      "trim": "xDrive Coupe",
+      "tire_sizes": [
+        "225/40R19",
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "530i",
+      "trim": "xDrive Base",
+      "tire_sizes": [
+        "245/45R19"
+      ]
+    },
+    {
+      "model": "750e",
+      "trim": "xDrive Base",
+      "tire_sizes": [
+        "255/45R20",
+        "285/40R20",
+        "285/35R21",
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "760i",
+      "trim": "xDrive Base",
+      "tire_sizes": [
+        "255/45R20",
+        "285/40R20",
+        "285/35R21",
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "Alpina",
+      "trim": "B8 Gran Coupe xDrive",
+      "tire_sizes": [
+        "285/30R21",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Alpina",
+      "trim": "B8 Gran Coupe xDrive (20 Inch Option)",
+      "tire_sizes": [
+        "275/35R20",
+        "245/40R20"
+      ]
+    },
+    {
+      "model": "Alpina",
+      "trim": "XB7 Base",
+      "tire_sizes": [
+        "285/45R21"
+      ]
+    },
+    {
+      "model": "M2",
+      "trim": "Base",
+      "tire_sizes": [
+        "275/35R19",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "M240i",
+      "trim": "xDrive Coupe",
+      "tire_sizes": [
+        "225/40R19"
+      ]
+    },
+    {
+      "model": "M3",
+      "trim": "Base",
+      "tire_sizes": [
+        "275/40R18",
+        "275/35R19",
+        "285/35R19",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "M3",
+      "trim": "CS",
+      "tire_sizes": [
+        "275/35R19",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "M3",
+      "trim": "Competition",
+      "tire_sizes": [
+        "275/35R19",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "M3",
+      "trim": "Competition xDrive",
+      "tire_sizes": [
+        "275/35R19",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "M340i",
+      "trim": "xDrive Base",
+      "tire_sizes": [
+        "225/40R19"
+      ]
+    },
+    {
+      "model": "M4",
+      "trim": "Base",
+      "tire_sizes": [
+        "275/40R18",
+        "275/35R19",
+        "285/35R19",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "M4",
+      "trim": "Competition",
+      "tire_sizes": [
+        "275/35R19",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "M4",
+      "trim": "Competition xDrive Convertible",
+      "tire_sizes": [
+        "275/35R19",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "M4",
+      "trim": "Competition xDrive Coupe",
+      "tire_sizes": [
+        "275/35R19",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "M440i",
+      "trim": "xDrive Convertible",
+      "tire_sizes": [
+        "225/40R19"
+      ]
+    },
+    {
+      "model": "M440i",
+      "trim": "xDrive Coupe",
+      "tire_sizes": [
+        "225/40R19"
+      ]
+    },
+    {
+      "model": "M8",
+      "trim": "Competition Coupe & Convertible",
+      "tire_sizes": [
+        "275/35R20",
+        "285/35R20"
+      ]
+    },
+    {
+      "model": "M8",
+      "trim": "Gran Coupe Competition",
+      "tire_sizes": [
+        "275/35R20",
+        "285/35R20"
+      ]
+    },
+    {
+      "model": "M850i",
+      "trim": "xDrive Convertible",
+      "tire_sizes": [
+        "275/30R20",
+        "245/40R19",
+        "275/35R19",
+        "245/35R20"
+      ]
+    },
+    {
+      "model": "M850i",
+      "trim": "xDrive Coupe",
+      "tire_sizes": [
+        "275/30R20",
+        "245/40R19",
+        "275/35R19",
+        "245/35R20"
+      ]
+    },
+    {
+      "model": "M850i",
+      "trim": "xDrive Gran Coupe Base",
+      "tire_sizes": [
+        "275/30R20",
+        "245/40R19",
+        "275/35R19",
+        "245/35R20"
+      ]
+    },
+    {
+      "model": "X1",
+      "trim": "M35i xDrive",
+      "tire_sizes": [
+        "245/40R20",
+        "245/45R19"
+      ]
+    },
+    {
+      "model": "X2",
+      "trim": "M35i",
+      "tire_sizes": [
+        "245/40R20",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "X2",
+      "trim": "xDrive28i",
+      "tire_sizes": [
+        "245/40R20",
+        "245/45R19",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "X3",
+      "trim": "M40i",
+      "tire_sizes": [
+        "245/50R19"
+      ]
+    },
+    {
+      "model": "X3",
+      "trim": "xDrive30e",
+      "tire_sizes": [
+        "245/50R19"
+      ]
+    },
+    {
+      "model": "X3",
+      "trim": "xDrive30i",
+      "tire_sizes": [
+        "245/50R19"
+      ]
+    },
+    {
+      "model": "X4",
+      "trim": "M Competition",
+      "tire_sizes": [
+        "265/40R21",
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "X4",
+      "trim": "M40i",
+      "tire_sizes": [
+        "245/50R19"
+      ]
+    },
+    {
+      "model": "X4",
+      "trim": "xDrive30i",
+      "tire_sizes": [
+        "245/50R19"
+      ]
+    },
+    {
+      "model": "X5",
+      "trim": "M Competition",
+      "tire_sizes": [
+        "315/30R22",
+        "315/35R21",
+        "295/35R21"
+      ]
+    },
+    {
+      "model": "X5",
+      "trim": "M60i",
+      "tire_sizes": [
+        "275/45R20"
+      ]
+    },
+    {
+      "model": "X5",
+      "trim": "xDrive40i",
+      "tire_sizes": [
+        "275/45R20"
+      ]
+    },
+    {
+      "model": "X5",
+      "trim": "xDrive50e",
+      "tire_sizes": [
+        "275/45R20"
+      ]
+    },
+    {
+      "model": "X6",
+      "trim": "M Competition",
+      "tire_sizes": [
+        "315/35R21",
+        "275/40R21"
+      ]
+    },
+    {
+      "model": "X6",
+      "trim": "M60i",
+      "tire_sizes": [
+        "275/45R20"
+      ]
+    },
+    {
+      "model": "X6",
+      "trim": "xDrive40i",
+      "tire_sizes": [
+        "275/45R20"
+      ]
+    },
+    {
+      "model": "X7",
+      "trim": "M60i",
+      "tire_sizes": [
+        "285/45R21"
+      ]
+    },
+    {
+      "model": "X7",
+      "trim": "xDrive40i",
+      "tire_sizes": [
+        "285/45R21"
+      ]
+    },
+    {
+      "model": "XM",
+      "trim": "Base",
+      "tire_sizes": [
+        "275/40R22",
+        "315/35R22"
+      ]
+    },
+    {
+      "model": "XM",
+      "trim": "Label Red",
+      "tire_sizes": [
+        "275/40R22",
+        "315/35R22"
+      ]
+    },
+    {
+      "model": "Z4",
+      "trim": "M40i",
+      "tire_sizes": [
+        "255/35R19",
+        "275/35R19"
+      ]
+    },
+    {
+      "model": "Z4",
+      "trim": "sDrive30i",
+      "tire_sizes": [
+        "255/35R19",
+        "275/35R19",
+        "225/45R18",
+        "275/40R18",
+        "255/40R18"
+      ]
+    },
+    {
+      "model": "i4",
+      "trim": "M50 xDrive",
+      "tire_sizes": [
+        "255/40R19",
+        "245/40R19",
+        "255/35R20",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "i4",
+      "trim": "eDrive35",
+      "tire_sizes": [
+        "225/50R18"
+      ]
+    },
+    {
+      "model": "i4",
+      "trim": "eDrive40",
+      "tire_sizes": [
+        "225/50R18"
+      ]
+    },
+    {
+      "model": "i4",
+      "trim": "xDrive40",
+      "tire_sizes": [
+        "225/50R18"
+      ]
+    },
+    {
+      "model": "i5",
+      "trim": "M60 xDrive",
+      "tire_sizes": [
+        "275/35R20",
+        "245/40R20",
+        "245/45R19",
+        "275/40R19"
+      ]
+    },
+    {
+      "model": "i7",
+      "trim": "M70 xDrive",
+      "tire_sizes": [
+        "255/45R20",
+        "285/40R20",
+        "285/35R21",
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "i7",
+      "trim": "xDrive60",
+      "tire_sizes": [
+        "245/50R19"
+      ]
+    },
+    {
+      "model": "i7",
+      "trim": "xDrive60 w/M Sport Pkg.",
+      "tire_sizes": [
+        "255/45R20",
+        "285/40R20",
+        "285/35R21",
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "iX",
+      "trim": "M60",
+      "tire_sizes": [
+        "255/50R21",
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "iX",
+      "trim": "xDrive40",
+      "tire_sizes": [
+        "255/50R21",
+        "275/40R22",
+        "235/60R20"
+      ]
+    },
+    {
+      "model": "iX",
+      "trim": "xDrive50",
+      "tire_sizes": [
+        "235/60R20"
+      ]
+    },
+    {
+      "model": "iX",
+      "trim": "xDrive50 w/Sport Pkg.",
+      "tire_sizes": [
+        "255/50R21",
+        "275/40R22"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T14:44:44.435195",
+    "total_vehicles": 64,
+    "total_tire_sizes": 37
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "brand": "Rolls-Royce",
+  "year": 2021,
+  "vehicles": [
+    {
+      "model": "Cullinan",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/50R21"
+      ]
+    },
+    {
+      "model": "Cullinan",
+      "trim": "Black Badge",
+      "tire_sizes": [
+        "255/50R21"
+      ]
+    },
+    {
+      "model": "Dawn",
+      "trim": "Base",
+      "tire_sizes": [
+        "285/35R21",
+        "255/45R20",
+        "285/40R20",
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "Dawn",
+      "trim": "Black Badge",
+      "tire_sizes": [
+        "285/35R21",
+        "255/45R20",
+        "285/40R20",
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "Ghost",
+      "trim": "(4 Passenger)",
+      "tire_sizes": [
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "Ghost",
+      "trim": "(5 Passenger)",
+      "tire_sizes": [
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "Ghost",
+      "trim": "EWB",
+      "tire_sizes": [
+        "285/35R21",
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "Phantom",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/45R22",
+        "255/50R21",
+        "285/40R22",
+        "285/45R21"
+      ]
+    },
+    {
+      "model": "Phantom",
+      "trim": "EWB",
+      "tire_sizes": [
+        "255/45R22",
+        "255/50R21",
+        "285/40R22",
+        "285/45R21"
+      ]
+    },
+    {
+      "model": "Wraith",
+      "trim": "Base",
+      "tire_sizes": [
+        "285/35R21",
+        "255/45R20",
+        "285/40R20",
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "Wraith",
+      "trim": "Black Badge",
+      "tire_sizes": [
+        "285/35R21",
+        "255/45R20",
+        "285/40R20",
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "Wraith",
+      "trim": "Kryptos",
+      "tire_sizes": [
+        "285/35R21",
+        "255/45R20",
+        "285/40R20",
+        "255/40R21"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T16:11:40.118020",
+    "total_vehicles": 12,
+    "total_tire_sizes": 9
+  }
+}

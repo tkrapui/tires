@@ -1,0 +1,830 @@
+{
+  "brand": "Audi",
+  "year": 2022,
+  "vehicles": [
+    {
+      "model": "A3",
+      "trim": "Quattro Komfort",
+      "tire_sizes": [
+        "225/40R18",
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "A3",
+      "trim": "Quattro Progressiv",
+      "tire_sizes": [
+        "235/35R19",
+        "225/40R18"
+      ]
+    },
+    {
+      "model": "A3",
+      "trim": "Quattro Technik",
+      "tire_sizes": [
+        "235/35R19",
+        "225/40R18"
+      ]
+    },
+    {
+      "model": "A4",
+      "trim": "Quattro Komfort (201 hp)",
+      "tire_sizes": [
+        "245/40R18",
+        "225/50R17"
+      ]
+    },
+    {
+      "model": "A4",
+      "trim": "Quattro Komfort (261 hp)",
+      "tire_sizes": [
+        "245/40R18"
+      ]
+    },
+    {
+      "model": "A4",
+      "trim": "Quattro Progressiv",
+      "tire_sizes": [
+        "245/40R18",
+        "245/35R19"
+      ]
+    },
+    {
+      "model": "A4",
+      "trim": "Quattro Technik",
+      "tire_sizes": [
+        "245/40R18",
+        "245/35R19"
+      ]
+    },
+    {
+      "model": "A4",
+      "trim": "allroad Komfort",
+      "tire_sizes": [
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "A4",
+      "trim": "allroad Progressiv",
+      "tire_sizes": [
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "A4",
+      "trim": "allroad Technik",
+      "tire_sizes": [
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "A5",
+      "trim": "Quattro Progressiv Cabriolet",
+      "tire_sizes": [
+        "255/35R19",
+        "265/30R20"
+      ]
+    },
+    {
+      "model": "A5",
+      "trim": "Quattro Progressiv Coupe",
+      "tire_sizes": [
+        "255/35R19",
+        "265/30R20"
+      ]
+    },
+    {
+      "model": "A5",
+      "trim": "Quattro Technik Cabriolet",
+      "tire_sizes": [
+        "255/35R19",
+        "265/30R20"
+      ]
+    },
+    {
+      "model": "A5",
+      "trim": "Quattro Technik Coupe",
+      "tire_sizes": [
+        "255/35R19",
+        "265/30R20"
+      ]
+    },
+    {
+      "model": "A5",
+      "trim": "Sportback Komfort",
+      "tire_sizes": [
+        "255/35R19"
+      ]
+    },
+    {
+      "model": "A5",
+      "trim": "Sportback Progressiv",
+      "tire_sizes": [
+        "255/35R19",
+        "265/30R20"
+      ]
+    },
+    {
+      "model": "A5",
+      "trim": "Sportback Technik",
+      "tire_sizes": [
+        "255/35R19",
+        "265/30R20"
+      ]
+    },
+    {
+      "model": "A6",
+      "trim": "Quattro Progressiv 2.0",
+      "tire_sizes": [
+        "245/45R19",
+        "255/40R20"
+      ]
+    },
+    {
+      "model": "A6",
+      "trim": "Quattro Progressiv 3.0",
+      "tire_sizes": [
+        "245/45R19",
+        "255/40R20"
+      ]
+    },
+    {
+      "model": "A6",
+      "trim": "Quattro Technik 2.0",
+      "tire_sizes": [
+        "245/45R19",
+        "255/40R20"
+      ]
+    },
+    {
+      "model": "A6",
+      "trim": "Quattro Technik 3.0",
+      "tire_sizes": [
+        "245/45R19",
+        "255/35R21",
+        "255/40R20"
+      ]
+    },
+    {
+      "model": "A6",
+      "trim": "allroad Progressiv",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "A6",
+      "trim": "allroad Technik",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "A7",
+      "trim": "Sportback Progressiv",
+      "tire_sizes": [
+        "245/45R19"
+      ]
+    },
+    {
+      "model": "A7",
+      "trim": "Sportback Technik",
+      "tire_sizes": [
+        "245/45R19",
+        "255/35R21"
+      ]
+    },
+    {
+      "model": "A7",
+      "trim": "Sportback Technik PHEV",
+      "tire_sizes": [
+        "245/45R19"
+      ]
+    },
+    {
+      "model": "A8",
+      "trim": "Quattro L",
+      "tire_sizes": [
+        "265/40R20",
+        "255/45R19",
+        "265/35R21"
+      ]
+    },
+    {
+      "model": "Q3",
+      "trim": "Komfort 40 TFSI",
+      "tire_sizes": [
+        "235/55R18",
+        "215/65R17"
+      ]
+    },
+    {
+      "model": "Q3",
+      "trim": "Komfort 40 TFSI (Vorsprung Edition)",
+      "tire_sizes": [
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Q3",
+      "trim": "Komfort 45 TFSI",
+      "tire_sizes": [
+        "235/55R18"
+      ]
+    },
+    {
+      "model": "Q3",
+      "trim": "Komfort 45 TFSI (Vorsprung Edition)",
+      "tire_sizes": [
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Q3",
+      "trim": "Progressiv 40 TFSI",
+      "tire_sizes": [
+        "235/55R18",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Q3",
+      "trim": "Progressiv 45 TFSI",
+      "tire_sizes": [
+        "235/50R19",
+        "255/45R19",
+        "255/40R20"
+      ]
+    },
+    {
+      "model": "Q3",
+      "trim": "Technik",
+      "tire_sizes": [
+        "235/50R19",
+        "255/45R19",
+        "255/40R20"
+      ]
+    },
+    {
+      "model": "Q4",
+      "trim": "e-tron Komfort",
+      "tire_sizes": [
+        "235/50R20",
+        "255/45R20",
+        "235/55R19",
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "Q4",
+      "trim": "e-tron Progressiv",
+      "tire_sizes": [
+        "235/50R20",
+        "255/45R20",
+        "235/55R19",
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "Q4",
+      "trim": "e-tron Sportback Progressiv",
+      "tire_sizes": [
+        "235/50R20",
+        "255/45R20"
+      ]
+    },
+    {
+      "model": "Q4",
+      "trim": "e-tron Sportback Technik",
+      "tire_sizes": [
+        "235/50R20",
+        "255/45R20"
+      ]
+    },
+    {
+      "model": "Q4",
+      "trim": "e-tron Technik",
+      "tire_sizes": [
+        "235/50R20",
+        "255/45R20",
+        "235/55R19",
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "Q5",
+      "trim": "Komfort",
+      "tire_sizes": [
+        "235/60R18",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Q5",
+      "trim": "PHEV Progressiv",
+      "tire_sizes": [
+        "255/45R20",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Q5",
+      "trim": "PHEV Progressiv w/Air Suspension",
+      "tire_sizes": [
+        "255/45R20",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Q5",
+      "trim": "PHEV Technik",
+      "tire_sizes": [
+        "255/45R20",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Q5",
+      "trim": "PHEV Technik w/Air Suspension",
+      "tire_sizes": [
+        "255/45R20",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Q5",
+      "trim": "Progressiv",
+      "tire_sizes": [
+        "255/45R20",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Q5",
+      "trim": "Sportback Progressiv",
+      "tire_sizes": [
+        "255/45R20",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Q5",
+      "trim": "Sportback Technik",
+      "tire_sizes": [
+        "255/45R20",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Q5",
+      "trim": "Technik",
+      "tire_sizes": [
+        "255/45R20",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Q7",
+      "trim": "Komfort 2.0",
+      "tire_sizes": [
+        "285/40R21",
+        "285/45R20"
+      ]
+    },
+    {
+      "model": "Q7",
+      "trim": "Komfort 3.0",
+      "tire_sizes": [
+        "285/40R21",
+        "285/45R20"
+      ]
+    },
+    {
+      "model": "Q7",
+      "trim": "Progressiv 2.0",
+      "tire_sizes": [
+        "285/40R21"
+      ]
+    },
+    {
+      "model": "Q7",
+      "trim": "Progressiv 3.0",
+      "tire_sizes": [
+        "285/35R22",
+        "285/40R21"
+      ]
+    },
+    {
+      "model": "Q7",
+      "trim": "Technik",
+      "tire_sizes": [
+        "285/35R22",
+        "285/40R21"
+      ]
+    },
+    {
+      "model": "Q8",
+      "trim": "Progressiv",
+      "tire_sizes": [
+        "285/45R21",
+        "285/40R22"
+      ]
+    },
+    {
+      "model": "Q8",
+      "trim": "Technik",
+      "tire_sizes": [
+        "285/45R21",
+        "285/40R22"
+      ]
+    },
+    {
+      "model": "R8",
+      "trim": "Performance",
+      "tire_sizes": [
+        "245/30R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "R8",
+      "trim": "Performance RWD",
+      "tire_sizes": [
+        "245/30R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "R8",
+      "trim": "Performance RWD Spyder",
+      "tire_sizes": [
+        "245/30R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "R8",
+      "trim": "Performance Spyder",
+      "tire_sizes": [
+        "245/30R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "RS",
+      "trim": "Q8 Base",
+      "tire_sizes": [
+        "295/35R23",
+        "295/40R22"
+      ]
+    },
+    {
+      "model": "RS",
+      "trim": "Q8 w/Ceramic Brake Pkg.",
+      "tire_sizes": [
+        "295/35R23",
+        "295/40R22"
+      ]
+    },
+    {
+      "model": "RS",
+      "trim": "e-tron GT Base",
+      "tire_sizes": [
+        "245/45R20",
+        "285/40R20"
+      ]
+    },
+    {
+      "model": "RS3",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/35R19",
+        "265/30R19"
+      ]
+    },
+    {
+      "model": "RS5",
+      "trim": "Base",
+      "tire_sizes": [
+        "275/30R20"
+      ]
+    },
+    {
+      "model": "RS5",
+      "trim": "Sportback Base",
+      "tire_sizes": [
+        "275/30R20"
+      ]
+    },
+    {
+      "model": "RS5",
+      "trim": "Sportback w/Sport Pkg.",
+      "tire_sizes": [
+        "275/30R20"
+      ]
+    },
+    {
+      "model": "RS5",
+      "trim": "w/Sport Pkg.",
+      "tire_sizes": [
+        "275/30R20"
+      ]
+    },
+    {
+      "model": "RS6",
+      "trim": "Avant Base",
+      "tire_sizes": [
+        "275/35R21",
+        "285/30R22"
+      ]
+    },
+    {
+      "model": "RS6",
+      "trim": "Avant w/Ceramic Brake Pkg.",
+      "tire_sizes": [
+        "275/35R21",
+        "285/30R22"
+      ]
+    },
+    {
+      "model": "RS7",
+      "trim": "Sportback Base",
+      "tire_sizes": [
+        "275/35R21",
+        "285/30R22"
+      ]
+    },
+    {
+      "model": "RS7",
+      "trim": "Sportback w/Ceramic Brake Pkg.",
+      "tire_sizes": [
+        "275/35R21",
+        "285/30R22"
+      ]
+    },
+    {
+      "model": "S3",
+      "trim": "Komfort",
+      "tire_sizes": [
+        "225/40R18"
+      ]
+    },
+    {
+      "model": "S3",
+      "trim": "Progressiv",
+      "tire_sizes": [
+        "235/35R19",
+        "225/40R18"
+      ]
+    },
+    {
+      "model": "S3",
+      "trim": "Technik",
+      "tire_sizes": [
+        "235/35R19",
+        "225/40R18"
+      ]
+    },
+    {
+      "model": "S4",
+      "trim": "Progressiv",
+      "tire_sizes": [
+        "255/35R19"
+      ]
+    },
+    {
+      "model": "S4",
+      "trim": "Technik",
+      "tire_sizes": [
+        "255/35R19"
+      ]
+    },
+    {
+      "model": "S5",
+      "trim": "Progressiv Cabriolet",
+      "tire_sizes": [
+        "255/35R19",
+        "265/30R20"
+      ]
+    },
+    {
+      "model": "S5",
+      "trim": "Progressiv Coupe",
+      "tire_sizes": [
+        "255/35R19",
+        "265/30R20"
+      ]
+    },
+    {
+      "model": "S5",
+      "trim": "Sportback Progressiv",
+      "tire_sizes": [
+        "255/35R19",
+        "265/30R20"
+      ]
+    },
+    {
+      "model": "S5",
+      "trim": "Sportback Technik",
+      "tire_sizes": [
+        "255/35R19",
+        "265/30R20"
+      ]
+    },
+    {
+      "model": "S5",
+      "trim": "Technik Cabriolet",
+      "tire_sizes": [
+        "255/35R19",
+        "265/30R20"
+      ]
+    },
+    {
+      "model": "S5",
+      "trim": "Technik Coupe",
+      "tire_sizes": [
+        "255/35R19",
+        "265/30R20"
+      ]
+    },
+    {
+      "model": "S6",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/35R21"
+      ]
+    },
+    {
+      "model": "S7",
+      "trim": "Sportback Base",
+      "tire_sizes": [
+        "255/35R21"
+      ]
+    },
+    {
+      "model": "S8",
+      "trim": "Base",
+      "tire_sizes": [
+        "265/40R20",
+        "265/35R21"
+      ]
+    },
+    {
+      "model": "SQ5",
+      "trim": "Progressiv",
+      "tire_sizes": [
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "SQ5",
+      "trim": "Progressiv w/Air Suspension",
+      "tire_sizes": [
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "SQ5",
+      "trim": "Sportback Progressiv",
+      "tire_sizes": [
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "SQ5",
+      "trim": "Sportback Progressiv w/Air Suspension",
+      "tire_sizes": [
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "SQ5",
+      "trim": "Sportback Technik",
+      "tire_sizes": [
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "SQ5",
+      "trim": "Sportback Technik w/Air Suspension",
+      "tire_sizes": [
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "SQ5",
+      "trim": "Technik",
+      "tire_sizes": [
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "SQ5",
+      "trim": "Technik w/Air Suspension",
+      "tire_sizes": [
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "SQ7",
+      "trim": "Base",
+      "tire_sizes": [
+        "285/40R21"
+      ]
+    },
+    {
+      "model": "SQ8",
+      "trim": "Base",
+      "tire_sizes": [
+        "285/45R21",
+        "285/40R22"
+      ]
+    },
+    {
+      "model": "TT",
+      "trim": "Quattro Base",
+      "tire_sizes": [
+        "255/30R20",
+        "245/35R19"
+      ]
+    },
+    {
+      "model": "TT",
+      "trim": "RS Quattro (155 mph)",
+      "tire_sizes": [
+        "255/30R20"
+      ]
+    },
+    {
+      "model": "TT",
+      "trim": "RS Quattro (174 mph)",
+      "tire_sizes": [
+        "255/30R20"
+      ]
+    },
+    {
+      "model": "TTS",
+      "trim": "Quattro Base",
+      "tire_sizes": [
+        "255/30R20"
+      ]
+    },
+    {
+      "model": "e-tron",
+      "trim": "GT Base",
+      "tire_sizes": [
+        "245/45R20",
+        "285/40R20"
+      ]
+    },
+    {
+      "model": "e-tron",
+      "trim": "Quattro Progressiv",
+      "tire_sizes": [
+        "265/45R21",
+        "255/50R20"
+      ]
+    },
+    {
+      "model": "e-tron",
+      "trim": "Quattro Technik",
+      "tire_sizes": [
+        "265/45R21",
+        "265/40R22",
+        "255/50R20"
+      ]
+    },
+    {
+      "model": "e-tron",
+      "trim": "S Sportback Base",
+      "tire_sizes": [
+        "285/35R22",
+        "285/40R21",
+        "255/50R20"
+      ]
+    },
+    {
+      "model": "e-tron",
+      "trim": "Sportback Progressiv",
+      "tire_sizes": [
+        "265/45R21",
+        "255/50R20"
+      ]
+    },
+    {
+      "model": "e-tron",
+      "trim": "Sportback Technik",
+      "tire_sizes": [
+        "265/45R21",
+        "265/40R22",
+        "255/50R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T11:39:54.129616",
+    "total_vehicles": 105,
+    "total_tire_sizes": 43
+  }
+}

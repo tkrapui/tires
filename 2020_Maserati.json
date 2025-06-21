@@ -1,0 +1,128 @@
+{
+  "brand": "Maserati",
+  "year": 2020,
+  "vehicles": [
+    {
+      "model": "Ghibli",
+      "trim": "Base",
+      "tire_sizes": [
+        "275/40R19",
+        "245/45R19",
+        "285/35R20",
+        "245/40R20"
+      ]
+    },
+    {
+      "model": "Ghibli",
+      "trim": "S",
+      "tire_sizes": [
+        "275/40R19",
+        "245/45R19",
+        "285/35R20",
+        "245/40R20"
+      ]
+    },
+    {
+      "model": "Ghibli",
+      "trim": "S Q4",
+      "tire_sizes": [
+        "275/40R19",
+        "245/45R19",
+        "285/35R20",
+        "245/40R20"
+      ]
+    },
+    {
+      "model": "Levante",
+      "trim": "(20 Inch Option)",
+      "tire_sizes": [
+        "265/45R20"
+      ]
+    },
+    {
+      "model": "Levante",
+      "trim": "(21 Inch Option)",
+      "tire_sizes": [
+        "265/40R21"
+      ]
+    },
+    {
+      "model": "Levante",
+      "trim": "Base",
+      "tire_sizes": [
+        "265/50R19"
+      ]
+    },
+    {
+      "model": "Levante",
+      "trim": "GTS",
+      "tire_sizes": [
+        "265/45R20",
+        "295/40R20"
+      ]
+    },
+    {
+      "model": "Levante",
+      "trim": "GTS (21 Inch Option)",
+      "tire_sizes": [
+        "295/35R21",
+        "265/40R21"
+      ]
+    },
+    {
+      "model": "Levante",
+      "trim": "GTS (22 Inch Option)",
+      "tire_sizes": [
+        "265/35R22",
+        "295/30R22"
+      ]
+    },
+    {
+      "model": "Levante",
+      "trim": "S",
+      "tire_sizes": [
+        "265/50R19",
+        "295/45R19"
+      ]
+    },
+    {
+      "model": "Levante",
+      "trim": "S (20 Inch Option)",
+      "tire_sizes": [
+        "265/45R20",
+        "295/40R20"
+      ]
+    },
+    {
+      "model": "Levante",
+      "trim": "S (21 Inch Option)",
+      "tire_sizes": [
+        "295/35R21",
+        "265/40R21"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "GTS",
+      "tire_sizes": [
+        "245/40R20",
+        "285/35R20"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "S Q4",
+      "tire_sizes": [
+        "275/40R19",
+        "245/45R19",
+        "285/35R20",
+        "245/40R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T17:00:57.708448",
+    "total_vehicles": 14,
+    "total_tire_sizes": 12
+  }
+}

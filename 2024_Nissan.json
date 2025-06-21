@@ -1,0 +1,133 @@
+{
+  "brand": "Nissan",
+  "year": 2024,
+  "vehicles": [
+    {
+      "model": "Altima",
+      "trim": "Platinum",
+      "tire_sizes": [
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "SR",
+      "tire_sizes": [
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "SR Premium",
+      "tire_sizes": [
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "Ariya",
+      "trim": "Engage",
+      "tire_sizes": [
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Ariya",
+      "trim": "Engage w/Heated Steering",
+      "tire_sizes": [
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Ariya",
+      "trim": "Evolve",
+      "tire_sizes": [
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Ariya",
+      "trim": "Evolve w/Heated Steering",
+      "tire_sizes": [
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Ariya",
+      "trim": "Evolve+",
+      "tire_sizes": [
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Ariya",
+      "trim": "Evolve+ w/Heated Steering",
+      "tire_sizes": [
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Armada",
+      "trim": "Midnight Edition",
+      "tire_sizes": [
+        "P275/60R20"
+      ]
+    },
+    {
+      "model": "Armada",
+      "trim": "Platinum",
+      "tire_sizes": [
+        "P275/50R22"
+      ]
+    },
+    {
+      "model": "Armada",
+      "trim": "SL",
+      "tire_sizes": [
+        "P275/60R20"
+      ]
+    },
+    {
+      "model": "Frontier",
+      "trim": "Hardbody Edition",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Frontier",
+      "trim": "PRO-4X",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Frontier",
+      "trim": "SL",
+      "tire_sizes": [
+        "265/65R17"
+      ]
+    },
+    {
+      "model": "Frontier",
+      "trim": "SV",
+      "tire_sizes": [
+        "265/65R17",
+        "P265/70R16"
+      ]
+    },
+    {
+      "model": "GT-R",
+      "trim": "Nismo",
+      "tire_sizes": [
+        "255/40R20",
+        "LT265/75R16"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-18T23:21:09.336166",
+    "total_vehicles": 17,
+    "total_tire_sizes": 9,
+    "scraping_mode": "differential"
+  }
+}

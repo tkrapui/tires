@@ -1,0 +1,149 @@
+{
+  "brand": "Buick",
+  "year": 2018,
+  "vehicles": [
+    {
+      "model": "Enclave",
+      "trim": "Avenir",
+      "tire_sizes": [
+        "255/55R20"
+      ]
+    },
+    {
+      "model": "Enclave",
+      "trim": "Essence",
+      "tire_sizes": [
+        "255/55R20",
+        "255/65R18"
+      ]
+    },
+    {
+      "model": "Enclave",
+      "trim": "Premium",
+      "tire_sizes": [
+        "255/55R20",
+        "255/65R18"
+      ]
+    },
+    {
+      "model": "Encore",
+      "trim": "Base",
+      "tire_sizes": [
+        "P215/55R18"
+      ]
+    },
+    {
+      "model": "Encore",
+      "trim": "Essence",
+      "tire_sizes": [
+        "P215/55R18"
+      ]
+    },
+    {
+      "model": "Encore",
+      "trim": "Preferred",
+      "tire_sizes": [
+        "P215/55R18"
+      ]
+    },
+    {
+      "model": "Encore",
+      "trim": "Premium",
+      "tire_sizes": [
+        "P215/55R18"
+      ]
+    },
+    {
+      "model": "Encore",
+      "trim": "Sport Touring",
+      "tire_sizes": [
+        "P215/55R18"
+      ]
+    },
+    {
+      "model": "Envision",
+      "trim": "Essence",
+      "tire_sizes": [
+        "225/60R18"
+      ]
+    },
+    {
+      "model": "Envision",
+      "trim": "Preferred",
+      "tire_sizes": [
+        "225/60R18"
+      ]
+    },
+    {
+      "model": "Envision",
+      "trim": "Premium",
+      "tire_sizes": [
+        "235/50R19"
+      ]
+    },
+    {
+      "model": "LaCrosse",
+      "trim": "Avenir",
+      "tire_sizes": [
+        "245/45R19",
+        "P245/40R20"
+      ]
+    },
+    {
+      "model": "LaCrosse",
+      "trim": "Base",
+      "tire_sizes": [
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "LaCrosse",
+      "trim": "Essence",
+      "tire_sizes": [
+        "P245/40R20",
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "LaCrosse",
+      "trim": "Preferred",
+      "tire_sizes": [
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "LaCrosse",
+      "trim": "Premium",
+      "tire_sizes": [
+        "P245/40R20",
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "Sportback Essence",
+      "tire_sizes": [
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "Sportback GS",
+      "tire_sizes": [
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "Sportback Preferred II",
+      "tire_sizes": [
+        "245/45R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T18:48:36.567941",
+    "total_vehicles": 19,
+    "total_tire_sizes": 10
+  }
+}

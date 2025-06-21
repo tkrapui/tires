@@ -1,0 +1,77 @@
+{
+  "brand": "Rolls-Royce",
+  "year": 2023,
+  "vehicles": [
+    {
+      "model": "Cullinan",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/50R21"
+      ]
+    },
+    {
+      "model": "Cullinan",
+      "trim": "Black Badge",
+      "tire_sizes": [
+        "255/50R21"
+      ]
+    },
+    {
+      "model": "Ghost",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "Ghost",
+      "trim": "Black Badge",
+      "tire_sizes": [
+        "255/40R21",
+        "285/35R21"
+      ]
+    },
+    {
+      "model": "Ghost",
+      "trim": "EWB",
+      "tire_sizes": [
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "Phantom",
+      "trim": "Base",
+      "tire_sizes": [
+        "285/45R21",
+        "255/45R22",
+        "255/50R21",
+        "285/40R22"
+      ]
+    },
+    {
+      "model": "Phantom",
+      "trim": "EWB",
+      "tire_sizes": [
+        "285/45R21",
+        "255/45R22",
+        "255/50R21",
+        "285/40R22"
+      ]
+    },
+    {
+      "model": "Phantom",
+      "trim": "Platino",
+      "tire_sizes": [
+        "285/45R21",
+        "255/45R22",
+        "255/50R21",
+        "285/40R22"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T14:32:02.302829",
+    "total_vehicles": 8,
+    "total_tire_sizes": 7
+  }
+}

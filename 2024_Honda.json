@@ -1,0 +1,125 @@
+{
+  "brand": "Honda",
+  "year": 2024,
+  "vehicles": [
+    {
+      "model": "Accord",
+      "trim": "EX",
+      "tire_sizes": [
+        "225/50R17"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "Hybrid Sport",
+      "tire_sizes": [
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "Hybrid Touring",
+      "tire_sizes": [
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "CR-V",
+      "trim": "EX-L",
+      "tire_sizes": [
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "CR-V",
+      "trim": "Hybrid Touring",
+      "tire_sizes": [
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "CR-V",
+      "trim": "LX",
+      "tire_sizes": [
+        "235/65R17"
+      ]
+    },
+    {
+      "model": "CR-V",
+      "trim": "Sport",
+      "tire_sizes": [
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "EX Sedan",
+      "tire_sizes": [
+        "215/55R16"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "LX Hatchback",
+      "tire_sizes": [
+        "215/55R16"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "LX-B Sedan",
+      "tire_sizes": [
+        "215/55R16"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "Si",
+      "tire_sizes": [
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "Sport Hatchback",
+      "tire_sizes": [
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "Sport Sedan",
+      "tire_sizes": [
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "Sport Touring Hatchback",
+      "tire_sizes": [
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "Touring Sedan",
+      "tire_sizes": [
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "Type R",
+      "tire_sizes": [
+        "265/30R19",
+        "LT265/75R16"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-19T18:31:45.496580",
+    "total_vehicles": 16,
+    "total_tire_sizes": 9,
+    "scraping_mode": "differential"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "brand": "Bentley",
+  "year": 2020,
+  "vehicles": [
+    {
+      "model": "Bentayga",
+      "trim": "Hybrid",
+      "tire_sizes": [
+        "285/45R21",
+        "275/50R20"
+      ]
+    },
+    {
+      "model": "Bentayga",
+      "trim": "Speed",
+      "tire_sizes": [
+        "285/40R22"
+      ]
+    },
+    {
+      "model": "Bentayga",
+      "trim": "V8",
+      "tire_sizes": [
+        "285/45R21",
+        "275/50R20"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GT First Edition",
+      "tire_sizes": [
+        "315/30R22",
+        "275/35R22"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GT V8",
+      "tire_sizes": [
+        "315/30R22",
+        "275/35R22"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GT W12",
+      "tire_sizes": [
+        "315/30R22",
+        "275/35R22"
+      ]
+    },
+    {
+      "model": "Flying",
+      "trim": "Spur First Edition",
+      "tire_sizes": [
+        "305/35R21",
+        "265/40R21"
+      ]
+    },
+    {
+      "model": "Flying",
+      "trim": "Spur First Edition (22 Inch Option)",
+      "tire_sizes": [
+        "315/30R22",
+        "275/35R22"
+      ]
+    },
+    {
+      "model": "Flying",
+      "trim": "Spur W12",
+      "tire_sizes": [
+        "305/35R21",
+        "265/40R21"
+      ]
+    },
+    {
+      "model": "Flying",
+      "trim": "Spur W12 (22 Inch Option)",
+      "tire_sizes": [
+        "315/30R22",
+        "275/35R22"
+      ]
+    },
+    {
+      "model": "Mulsanne",
+      "trim": "Base",
+      "tire_sizes": [
+        "265/45R20",
+        "265/40R21"
+      ]
+    },
+    {
+      "model": "Mulsanne",
+      "trim": "Speed",
+      "tire_sizes": [
+        "265/40R21"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T17:00:19.754082",
+    "total_vehicles": 12,
+    "total_tire_sizes": 8
+  }
+}

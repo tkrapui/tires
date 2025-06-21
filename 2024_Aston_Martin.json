@@ -1,0 +1,45 @@
+{
+  "brand": "Aston Martin",
+  "year": 2024,
+  "vehicles": [
+    {
+      "model": "DB12",
+      "trim": "Coupe",
+      "tire_sizes": [
+        "325/30R21",
+        "275/35R21"
+      ]
+    },
+    {
+      "model": "DB12",
+      "trim": "Volante Convertible",
+      "tire_sizes": [
+        "325/30R21",
+        "275/35R21"
+      ]
+    },
+    {
+      "model": "DBX",
+      "trim": "Base",
+      "tire_sizes": [
+        "285/40R22",
+        "325/35R22"
+      ]
+    },
+    {
+      "model": "DBX707",
+      "trim": "Base",
+      "tire_sizes": [
+        "285/40R22",
+        "325/35R22",
+        "325/30R23",
+        "285/35R23"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T15:19:32.266432",
+    "total_vehicles": 4,
+    "total_tire_sizes": 6
+  }
+}

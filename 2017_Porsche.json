@@ -1,0 +1,368 @@
+{
+  "brand": "Porsche",
+  "year": 2017,
+  "vehicles": [
+    {
+      "model": "718",
+      "trim": "Boxster Base",
+      "tire_sizes": [
+        "265/45R18",
+        "235/35R20",
+        "235/45R18",
+        "265/35R20",
+        "235/40R19",
+        "265/40R19"
+      ]
+    },
+    {
+      "model": "718",
+      "trim": "Boxster S",
+      "tire_sizes": [
+        "265/35R20",
+        "265/40R19",
+        "235/35R20",
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "718",
+      "trim": "Cayman Base",
+      "tire_sizes": [
+        "265/45R18",
+        "235/35R20",
+        "235/45R18",
+        "265/35R20",
+        "235/40R19",
+        "265/40R19"
+      ]
+    },
+    {
+      "model": "718",
+      "trim": "Cayman S",
+      "tire_sizes": [
+        "265/35R20",
+        "265/40R19",
+        "235/35R20",
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera",
+      "tire_sizes": [
+        "245/35R20",
+        "295/35R19",
+        "305/30R20",
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera 4",
+      "tire_sizes": [
+        "245/35R20",
+        "295/35R19",
+        "305/30R20",
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera 4 GTS",
+      "tire_sizes": [
+        "245/35R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera 4 GTS (Center Lock)",
+      "tire_sizes": [
+        "245/35R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera 4S",
+      "tire_sizes": [
+        "245/35R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera GTS",
+      "tire_sizes": [
+        "245/35R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera GTS (Center Lock)",
+      "tire_sizes": [
+        "245/35R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera S",
+      "tire_sizes": [
+        "245/35R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "GT3 RS",
+      "tire_sizes": [
+        "325/30R21",
+        "265/35R20"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "R",
+      "tire_sizes": [
+        "245/35R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Targa 4",
+      "tire_sizes": [
+        "245/35R20",
+        "295/35R19",
+        "305/30R20",
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Targa 4 GTS",
+      "tire_sizes": [
+        "245/35R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Targa 4 GTS (Center Lock)",
+      "tire_sizes": [
+        "245/35R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Targa 4S",
+      "tire_sizes": [
+        "245/35R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Turbo",
+      "tire_sizes": [
+        "245/35R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Turbo (Center Lock)",
+      "tire_sizes": [
+        "245/35R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Turbo S",
+      "tire_sizes": [
+        "245/35R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Turbo S (Center Lock)",
+      "tire_sizes": [
+        "245/35R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "Base",
+      "tire_sizes": [
+        "275/45R20",
+        "255/55R18",
+        "295/35R21",
+        "265/50R19"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "GTS",
+      "tire_sizes": [
+        "275/45R20",
+        "295/35R21",
+        "265/50R19"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "S",
+      "tire_sizes": [
+        "275/45R20",
+        "255/55R18",
+        "295/35R21",
+        "265/50R19"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "S E-Hybrid",
+      "tire_sizes": [
+        "275/45R20",
+        "255/55R18",
+        "295/35R21",
+        "265/50R19"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "Turbo",
+      "tire_sizes": [
+        "275/45R20",
+        "295/35R21",
+        "265/50R19"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "Turbo S",
+      "tire_sizes": [
+        "295/35R21"
+      ]
+    },
+    {
+      "model": "Macan",
+      "trim": "GTS",
+      "tire_sizes": [
+        "295/35R21",
+        "265/45R20",
+        "255/50R19",
+        "235/55R19",
+        "295/40R20",
+        "265/40R21"
+      ]
+    },
+    {
+      "model": "Macan",
+      "trim": "S",
+      "tire_sizes": [
+        "295/35R21",
+        "265/45R20",
+        "255/50R19",
+        "235/60R18",
+        "235/55R19",
+        "255/55R18",
+        "295/40R20",
+        "265/40R21"
+      ]
+    },
+    {
+      "model": "Macan",
+      "trim": "Turbo",
+      "tire_sizes": [
+        "295/35R21",
+        "265/45R20",
+        "255/50R19",
+        "235/55R19",
+        "295/40R20",
+        "265/40R21"
+      ]
+    },
+    {
+      "model": "Panamera",
+      "trim": "4",
+      "tire_sizes": [
+        "315/30R21",
+        "275/35R21",
+        "315/35R20",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Panamera",
+      "trim": "4 Executive",
+      "tire_sizes": [
+        "315/30R21",
+        "275/35R21",
+        "315/35R20",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Panamera",
+      "trim": "4S",
+      "tire_sizes": [
+        "315/30R21",
+        "275/35R21",
+        "315/35R20",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Panamera",
+      "trim": "4S Executive",
+      "tire_sizes": [
+        "315/30R21",
+        "275/35R21",
+        "315/35R20",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Panamera",
+      "trim": "Base",
+      "tire_sizes": [
+        "315/30R21",
+        "275/35R21",
+        "315/35R20",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Panamera",
+      "trim": "Turbo",
+      "tire_sizes": [
+        "315/30R21",
+        "275/35R21",
+        "315/35R20",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Panamera",
+      "trim": "Turbo Executive",
+      "tire_sizes": [
+        "315/30R21",
+        "275/35R21",
+        "315/35R20",
+        "275/40R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T22:25:23.723575",
+    "total_vehicles": 38,
+    "total_tire_sizes": 24
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "brand": "Lincoln",
+  "year": 2023,
+  "vehicles": [
+    {
+      "model": "Aviator",
+      "trim": "Grand Touring Plug-In Hybrid",
+      "tire_sizes": [
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "Aviator",
+      "trim": "Reserve (AWD)",
+      "tire_sizes": [
+        "255/55R20",
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Corsair",
+      "trim": "Base",
+      "tire_sizes": [
+        "225/55R19",
+        "225/60R18",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Corsair",
+      "trim": "Grand Touring Plug-In Hybrid",
+      "tire_sizes": [
+        "225/55R19",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Corsair",
+      "trim": "Reserve",
+      "tire_sizes": [
+        "225/55R19",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Nautilus",
+      "trim": "Reserve",
+      "tire_sizes": [
+        "265/40R21",
+        "245/50R20",
+        "245/60R18"
+      ]
+    },
+    {
+      "model": "Navigator",
+      "trim": "L Reserve",
+      "tire_sizes": [
+        "285/45R22"
+      ]
+    },
+    {
+      "model": "Navigator",
+      "trim": "Reserve",
+      "tire_sizes": [
+        "285/45R22"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T14:07:48.877004",
+    "total_vehicles": 8,
+    "total_tire_sizes": 10
+  }
+}

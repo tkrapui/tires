@@ -1,0 +1,67 @@
+{
+  "brand": "McLaren",
+  "year": 2023,
+  "vehicles": [
+    {
+      "model": "720S",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/35R19",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "720S",
+      "trim": "Spider",
+      "tire_sizes": [
+        "245/35R19",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "Artura",
+      "trim": "Base",
+      "tire_sizes": [
+        "235/35R19",
+        "295/35R20"
+      ]
+    },
+    {
+      "model": "Artura",
+      "trim": "Performance",
+      "tire_sizes": [
+        "235/35R19",
+        "295/35R20"
+      ]
+    },
+    {
+      "model": "Artura",
+      "trim": "TechLux",
+      "tire_sizes": [
+        "235/35R19",
+        "295/35R20"
+      ]
+    },
+    {
+      "model": "Artura",
+      "trim": "Vision",
+      "tire_sizes": [
+        "235/35R19",
+        "295/35R20"
+      ]
+    },
+    {
+      "model": "GT",
+      "trim": "Base",
+      "tire_sizes": [
+        "295/30R21",
+        "225/35R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T14:31:35.916612",
+    "total_vehicles": 7,
+    "total_tire_sizes": 6
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "brand": "McLaren",
+  "year": 2022,
+  "vehicles": [
+    {
+      "model": "720S",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/35R19",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "720S",
+      "trim": "Spider",
+      "tire_sizes": [
+        "245/35R19",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "765LT",
+      "trim": "Spider",
+      "tire_sizes": [
+        "245/35R19",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "GT",
+      "trim": "Base",
+      "tire_sizes": [
+        "295/30R21",
+        "225/35R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T13:39:01.541469",
+    "total_vehicles": 4,
+    "total_tire_sizes": 4
+  }
+}

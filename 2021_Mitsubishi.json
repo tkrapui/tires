@@ -1,0 +1,102 @@
+{
+  "brand": "Mitsubishi",
+  "year": 2021,
+  "vehicles": [
+    {
+      "model": "Mirage",
+      "trim": "Carbonite Edition",
+      "tire_sizes": [
+        "165/65R14"
+      ]
+    },
+    {
+      "model": "Mirage",
+      "trim": "ES",
+      "tire_sizes": [
+        "165/65R14"
+      ]
+    },
+    {
+      "model": "Mirage",
+      "trim": "GT",
+      "tire_sizes": [
+        "175/55R15"
+      ]
+    },
+    {
+      "model": "Mirage",
+      "trim": "SE",
+      "tire_sizes": [
+        "165/65R14"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "PHEV GT",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "PHEV LE",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "PHEV SE",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "PHEV SEL",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    },
+    {
+      "model": "RVR",
+      "trim": "ES",
+      "tire_sizes": [
+        "P215/70R16"
+      ]
+    },
+    {
+      "model": "RVR",
+      "trim": "GT",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    },
+    {
+      "model": "RVR",
+      "trim": "Limited Edition",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    },
+    {
+      "model": "RVR",
+      "trim": "SE",
+      "tire_sizes": [
+        "P215/70R16"
+      ]
+    },
+    {
+      "model": "RVR",
+      "trim": "SEL",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T15:55:14.857868",
+    "total_vehicles": 13,
+    "total_tire_sizes": 4
+  }
+}

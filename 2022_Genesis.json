@@ -1,0 +1,143 @@
+{
+  "brand": "Genesis",
+  "year": 2022,
+  "vehicles": [
+    {
+      "model": "G70",
+      "trim": "Advanced 2.0T AWD",
+      "tire_sizes": [
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "G70",
+      "trim": "Advanced 3.3T AWD",
+      "tire_sizes": [
+        "225/40R19",
+        "255/35R19"
+      ]
+    },
+    {
+      "model": "G70",
+      "trim": "Prestige 2.0T AWD",
+      "tire_sizes": [
+        "225/40R19",
+        "255/35R19"
+      ]
+    },
+    {
+      "model": "G70",
+      "trim": "Select 2.0T AWD",
+      "tire_sizes": [
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "G70",
+      "trim": "Sport 3.3T AWD",
+      "tire_sizes": [
+        "225/40R19",
+        "255/35R19"
+      ]
+    },
+    {
+      "model": "G80",
+      "trim": "Advanced 2.5T",
+      "tire_sizes": [
+        "275/40R19",
+        "245/45R19"
+      ]
+    },
+    {
+      "model": "G80",
+      "trim": "Prestige 3.5T AWD",
+      "tire_sizes": [
+        "245/40R20",
+        "275/35R20"
+      ]
+    },
+    {
+      "model": "G90",
+      "trim": "Prestige",
+      "tire_sizes": [
+        "275/40R19",
+        "245/45R19"
+      ]
+    },
+    {
+      "model": "GV70",
+      "trim": "Advanced 2.5T AWD",
+      "tire_sizes": [
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "GV70",
+      "trim": "Advanced Plus 2.5T AWD",
+      "tire_sizes": [
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "GV70",
+      "trim": "Prestige 2.5T AWD",
+      "tire_sizes": [
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "GV70",
+      "trim": "Select 2.5T AWD",
+      "tire_sizes": [
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "GV70",
+      "trim": "Sport 3.5T AWD",
+      "tire_sizes": [
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "GV70",
+      "trim": "Sport Plus 3.5T AWD",
+      "tire_sizes": [
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "GV80",
+      "trim": "Advanced 2.5T AWD",
+      "tire_sizes": [
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "GV80",
+      "trim": "Advanced 3.5T",
+      "tire_sizes": [
+        "265/40R22"
+      ]
+    },
+    {
+      "model": "GV80",
+      "trim": "Prestige 3.5T AWD",
+      "tire_sizes": [
+        "265/40R22"
+      ]
+    },
+    {
+      "model": "GV80",
+      "trim": "Select 2.5T",
+      "tire_sizes": [
+        "265/55R19"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T13:33:06.508126",
+    "total_vehicles": 18,
+    "total_tire_sizes": 13
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "brand": "Chrysler",
+  "year": 2024,
+  "vehicles": [
+    {
+      "model": "Grand",
+      "trim": "Caravan SXT",
+      "tire_sizes": [
+        "235/65R17"
+      ]
+    },
+    {
+      "model": "Pacifica",
+      "trim": "Minivan Hybrid Pinnacle",
+      "tire_sizes": [
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Pacifica",
+      "trim": "Minivan Hybrid Premium S Appearance",
+      "tire_sizes": [
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Pacifica",
+      "trim": "Minivan Hybrid Road Tripper",
+      "tire_sizes": [
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Pacifica",
+      "trim": "Minivan Hybrid S Appearance",
+      "tire_sizes": [
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Pacifica",
+      "trim": "Minivan Hybrid Select",
+      "tire_sizes": [
+        "235/65R17"
+      ]
+    },
+    {
+      "model": "Pacifica",
+      "trim": "Minivan Limited",
+      "tire_sizes": [
+        "245/60R18"
+      ]
+    },
+    {
+      "model": "Pacifica",
+      "trim": "Minivan Limited w/S Appearance Pkg.",
+      "tire_sizes": [
+        "245/50R20"
+      ]
+    },
+    {
+      "model": "Pacifica",
+      "trim": "Minivan Touring",
+      "tire_sizes": [
+        "235/65R17",
+        "245/60R18"
+      ]
+    },
+    {
+      "model": "Pacifica",
+      "trim": "Minivan Touring L (AWD)",
+      "tire_sizes": [
+        "245/60R18"
+      ]
+    },
+    {
+      "model": "Pacifica",
+      "trim": "Minivan Touring L (AWD) w/Road Tripper/S Pkg.",
+      "tire_sizes": [
+        "245/50R20"
+      ]
+    },
+    {
+      "model": "Pacifica",
+      "trim": "Minivan Touring L (FWD)",
+      "tire_sizes": [
+        "235/65R17"
+      ]
+    },
+    {
+      "model": "Pacifica",
+      "trim": "Minivan Touring L (FWD) w/Road Tripper/S Pkg.",
+      "tire_sizes": [
+        "245/50R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T14:50:15.859356",
+    "total_vehicles": 13,
+    "total_tire_sizes": 4
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "brand": "Dodge",
+  "year": 2017,
+  "vehicles": [
+    {
+      "model": "Challenger",
+      "trim": "392 Hemi Scat Pack Shaker",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "GT",
+      "tire_sizes": [
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "R/T",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "R/T Scat Pack",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "R/T Shaker",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "SRT 392",
+      "tire_sizes": [
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "SRT Hellcat",
+      "tire_sizes": [
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "SXT",
+      "tire_sizes": [
+        "245/45R20",
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "SXT Plus",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "R/T",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "R/T 392",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "R/T Scat Pack",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SE (AWD)",
+      "tire_sizes": [
+        "P235/55R19"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SE (RWD)",
+      "tire_sizes": [
+        "245/45R20",
+        "P215/65R17"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SRT 392",
+      "tire_sizes": [
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SRT Hellcat",
+      "tire_sizes": [
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SXT (AWD)",
+      "tire_sizes": [
+        "P235/55R19"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SXT (RWD)",
+      "tire_sizes": [
+        "245/45R20",
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SXT Plus (AWD)",
+      "tire_sizes": [
+        "P235/55R19"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SXT Plus (RWD)",
+      "tire_sizes": [
+        "245/45R20",
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "Citadel V6",
+      "tire_sizes": [
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "Citadel V8",
+      "tire_sizes": [
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "GT",
+      "tire_sizes": [
+        "265/60R18",
+        "265/50R20",
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "R/T",
+      "tire_sizes": [
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "SXT",
+      "tire_sizes": [
+        "265/60R18",
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Caravan GT",
+      "tire_sizes": [
+        "P225/65R17",
+        "225/65R17"
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Caravan SE",
+      "tire_sizes": [
+        "225/65R17"
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Caravan SXT",
+      "tire_sizes": [
+        "225/65R17"
+      ]
+    },
+    {
+      "model": "Journey",
+      "trim": "Canada Value Package",
+      "tire_sizes": [
+        "P225/65R17"
+      ]
+    },
+    {
+      "model": "Journey",
+      "trim": "Crossroad",
+      "tire_sizes": [
+        "225/55R19"
+      ]
+    },
+    {
+      "model": "Journey",
+      "trim": "GT",
+      "tire_sizes": [
+        "225/55R19"
+      ]
+    },
+    {
+      "model": "Journey",
+      "trim": "SE Plus",
+      "tire_sizes": [
+        "P225/65R17"
+      ]
+    },
+    {
+      "model": "Journey",
+      "trim": "SXT",
+      "tire_sizes": [
+        "P225/65R17",
+        "225/55R19"
+      ]
+    },
+    {
+      "model": "Viper",
+      "trim": "ACR",
+      "tire_sizes": [
+        "295/25R19",
+        "355/30R19"
+      ]
+    },
+    {
+      "model": "Viper",
+      "trim": "GTC",
+      "tire_sizes": [
+        "355/30R19",
+        "295/30R18"
+      ]
+    },
+    {
+      "model": "Viper",
+      "trim": "GTC (ACR Pkg.)",
+      "tire_sizes": [
+        "295/25R19",
+        "355/30R19"
+      ]
+    },
+    {
+      "model": "Viper",
+      "trim": "GTS",
+      "tire_sizes": [
+        "355/30R19",
+        "295/30R18"
+      ]
+    },
+    {
+      "model": "Viper",
+      "trim": "SRT",
+      "tire_sizes": [
+        "355/30R19",
+        "295/30R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T21:55:00.667850",
+    "total_vehicles": 38,
+    "total_tire_sizes": 15
+  }
+}

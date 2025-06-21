@@ -1,0 +1,105 @@
+{
+  "brand": "Alfa Romeo",
+  "year": 2024,
+  "vehicles": [
+    {
+      "model": "Giulia",
+      "trim": "Competizione",
+      "tire_sizes": [
+        "225/40R19"
+      ]
+    },
+    {
+      "model": "Giulia",
+      "trim": "Quadrifoglio",
+      "tire_sizes": [
+        "285/30R19",
+        "245/35R19"
+      ]
+    },
+    {
+      "model": "Giulia",
+      "trim": "Sprint",
+      "tire_sizes": [
+        "225/45R18",
+        "225/50R17"
+      ]
+    },
+    {
+      "model": "Giulia",
+      "trim": "Ti",
+      "tire_sizes": [
+        "225/40R19",
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "Giulia",
+      "trim": "Veloce",
+      "tire_sizes": [
+        "225/40R19"
+      ]
+    },
+    {
+      "model": "Stelvio",
+      "trim": "Competizione",
+      "tire_sizes": [
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "Stelvio",
+      "trim": "Quadrifoglio",
+      "tire_sizes": [
+        "255/45R20",
+        "285/40R20",
+        "285/35R21",
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "Stelvio",
+      "trim": "Sprint",
+      "tire_sizes": [
+        "235/55R19",
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Stelvio",
+      "trim": "Ti",
+      "tire_sizes": [
+        "255/45R20",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Stelvio",
+      "trim": "Veloce",
+      "tire_sizes": [
+        "255/45R20",
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "Tonale",
+      "trim": "Sprint",
+      "tire_sizes": [
+        "235/45R19",
+        "225/55R18"
+      ]
+    },
+    {
+      "model": "Tonale",
+      "trim": "Veloce",
+      "tire_sizes": [
+        "235/45R19"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T15:16:37.616059",
+    "total_vehicles": 12,
+    "total_tire_sizes": 13
+  }
+}

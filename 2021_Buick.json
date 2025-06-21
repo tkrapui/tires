@@ -1,0 +1,113 @@
+{
+  "brand": "Buick",
+  "year": 2021,
+  "vehicles": [
+    {
+      "model": "Enclave",
+      "trim": "Avenir",
+      "tire_sizes": [
+        "255/55R20"
+      ]
+    },
+    {
+      "model": "Enclave",
+      "trim": "Essence",
+      "tire_sizes": [
+        "255/55R20",
+        "255/65R18"
+      ]
+    },
+    {
+      "model": "Enclave",
+      "trim": "Essence Sport Touring Edition",
+      "tire_sizes": [
+        "255/55R20"
+      ]
+    },
+    {
+      "model": "Enclave",
+      "trim": "Premium",
+      "tire_sizes": [
+        "255/55R20",
+        "255/65R18"
+      ]
+    },
+    {
+      "model": "Encore",
+      "trim": "GX Essence",
+      "tire_sizes": [
+        "225/55R18"
+      ]
+    },
+    {
+      "model": "Encore",
+      "trim": "GX Preferred",
+      "tire_sizes": [
+        "225/55R18"
+      ]
+    },
+    {
+      "model": "Encore",
+      "trim": "GX ST",
+      "tire_sizes": [
+        "225/55R18"
+      ]
+    },
+    {
+      "model": "Encore",
+      "trim": "GX Select",
+      "tire_sizes": [
+        "225/55R18"
+      ]
+    },
+    {
+      "model": "Encore",
+      "trim": "Preferred",
+      "tire_sizes": [
+        "P215/55R18"
+      ]
+    },
+    {
+      "model": "Envision",
+      "trim": "Avenir",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Envision",
+      "trim": "Essence",
+      "tire_sizes": [
+        "235/60R18",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Envision",
+      "trim": "Essence Sport Touring Edition",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Envision",
+      "trim": "Preferred",
+      "tire_sizes": [
+        "235/60R18",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Envision",
+      "trim": "Preferred Sport Touring Edition",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T15:31:02.546053",
+    "total_vehicles": 14,
+    "total_tire_sizes": 6
+  }
+}

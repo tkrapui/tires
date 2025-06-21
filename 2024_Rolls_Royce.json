@@ -1,0 +1,78 @@
+{
+  "brand": "Rolls-Royce",
+  "year": 2024,
+  "vehicles": [
+    {
+      "model": "Cullinan",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/50R21"
+      ]
+    },
+    {
+      "model": "Cullinan",
+      "trim": "Black Badge",
+      "tire_sizes": [
+        "285/40R22",
+        "255/45R22"
+      ]
+    },
+    {
+      "model": "Ghost",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "Ghost",
+      "trim": "Black Badge",
+      "tire_sizes": [
+        "255/40R21",
+        "285/35R21"
+      ]
+    },
+    {
+      "model": "Ghost",
+      "trim": "EWB",
+      "tire_sizes": [
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "Phantom",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/50R21",
+        "285/45R21",
+        "285/40R22",
+        "255/45R22"
+      ]
+    },
+    {
+      "model": "Phantom",
+      "trim": "EWB",
+      "tire_sizes": [
+        "255/50R21",
+        "285/45R21",
+        "285/40R22",
+        "255/45R22"
+      ]
+    },
+    {
+      "model": "Spectre",
+      "trim": "Base",
+      "tire_sizes": [
+        "285/40R22",
+        "255/40R23",
+        "295/35R23",
+        "255/45R22"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T15:19:12.556430",
+    "total_vehicles": 8,
+    "total_tire_sizes": 9
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "brand": "Lincoln",
+  "year": 2019,
+  "vehicles": [
+    {
+      "model": "Continental",
+      "trim": "Reserve (AWD)",
+      "tire_sizes": [
+        "245/40R20",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "Select (AWD)",
+      "tire_sizes": [
+        "245/40R20",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "MKC",
+      "trim": "Reserve",
+      "tire_sizes": [
+        "235/50R18",
+        "235/45R19",
+        "255/40R20",
+        "245/45R19"
+      ]
+    },
+    {
+      "model": "MKC",
+      "trim": "Select",
+      "tire_sizes": [
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "MKT",
+      "trim": "Reserve",
+      "tire_sizes": [
+        "255/45R20"
+      ]
+    },
+    {
+      "model": "MKZ",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "MKZ",
+      "trim": "Reserve I",
+      "tire_sizes": [
+        "245/45R18",
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "MKZ",
+      "trim": "Reserve I Hybrid",
+      "tire_sizes": [
+        "245/45R18",
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "MKZ",
+      "trim": "Reserve II",
+      "tire_sizes": [
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "MKZ",
+      "trim": "Reserve II Hybrid",
+      "tire_sizes": [
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "Nautilus",
+      "trim": "Reserve",
+      "tire_sizes": [
+        "265/40R21",
+        "245/50R20"
+      ]
+    },
+    {
+      "model": "Nautilus",
+      "trim": "Select",
+      "tire_sizes": [
+        "245/50R20",
+        "245/60R18"
+      ]
+    },
+    {
+      "model": "Navigator",
+      "trim": "L Reserve",
+      "tire_sizes": [
+        "285/45R22"
+      ]
+    },
+    {
+      "model": "Navigator",
+      "trim": "L Select",
+      "tire_sizes": [
+        "285/45R22"
+      ]
+    },
+    {
+      "model": "Navigator",
+      "trim": "Reserve",
+      "tire_sizes": [
+        "285/45R22"
+      ]
+    },
+    {
+      "model": "Navigator",
+      "trim": "Select",
+      "tire_sizes": [
+        "285/45R22"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T17:29:24.126981",
+    "total_vehicles": 16,
+    "total_tire_sizes": 13
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "brand": "Genesis",
+  "year": 2023,
+  "vehicles": [
+    {
+      "model": "Electrified",
+      "trim": "G80 Prestige",
+      "tire_sizes": [
+        "245/45R19",
+        "275/40R19"
+      ]
+    },
+    {
+      "model": "Electrified",
+      "trim": "GV70 Prestige",
+      "tire_sizes": [
+        "265/45R20"
+      ]
+    },
+    {
+      "model": "G70",
+      "trim": "Advanced 2.0T AWD",
+      "tire_sizes": [
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "G70",
+      "trim": "Advanced 3.3T AWD",
+      "tire_sizes": [
+        "255/35R19",
+        "225/40R19"
+      ]
+    },
+    {
+      "model": "G70",
+      "trim": "Select 2.0T AWD",
+      "tire_sizes": [
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "G70",
+      "trim": "Sport 3.3T AWD",
+      "tire_sizes": [
+        "255/35R19",
+        "225/40R19"
+      ]
+    },
+    {
+      "model": "G80",
+      "trim": "Advanced 2.5T",
+      "tire_sizes": [
+        "245/45R19",
+        "275/40R19"
+      ]
+    },
+    {
+      "model": "G80",
+      "trim": "Sport 3.5T AWD",
+      "tire_sizes": [
+        "245/40R20",
+        "275/35R20"
+      ]
+    },
+    {
+      "model": "G80",
+      "trim": "Sport Plus 3.5T AWD",
+      "tire_sizes": [
+        "245/40R20",
+        "275/35R20"
+      ]
+    },
+    {
+      "model": "G90",
+      "trim": "E-Supercharger",
+      "tire_sizes": [
+        "275/35R21",
+        "245/40R21"
+      ]
+    },
+    {
+      "model": "GV60",
+      "trim": "Advanced AWD",
+      "tire_sizes": [
+        "255/45R20"
+      ]
+    },
+    {
+      "model": "GV60",
+      "trim": "Performance AWD",
+      "tire_sizes": [
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "GV70",
+      "trim": "Advanced 2.5T AWD",
+      "tire_sizes": [
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "GV70",
+      "trim": "Advanced Plus 2.5T AWD",
+      "tire_sizes": [
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "GV70",
+      "trim": "Prestige 2.5T AWD",
+      "tire_sizes": [
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "GV70",
+      "trim": "Sport 3.5T AWD",
+      "tire_sizes": [
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "GV70",
+      "trim": "Sport Plus 3.5T AWD",
+      "tire_sizes": [
+        "255/40R21"
+      ]
+    },
+    {
+      "model": "GV80",
+      "trim": "Advanced 2.5T AWD",
+      "tire_sizes": [
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "GV80",
+      "trim": "Advanced 3.5T",
+      "tire_sizes": [
+        "265/40R22"
+      ]
+    },
+    {
+      "model": "GV80",
+      "trim": "Advanced 3.5T (7 Seater)",
+      "tire_sizes": [
+        "265/40R22"
+      ]
+    },
+    {
+      "model": "GV80",
+      "trim": "Prestige 3.5T AWD",
+      "tire_sizes": [
+        "265/40R22"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T14:23:17.692169",
+    "total_vehicles": 21,
+    "total_tire_sizes": 15
+  }
+}

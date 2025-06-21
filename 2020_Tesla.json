@@ -1,0 +1,86 @@
+{
+  "brand": "Tesla",
+  "year": 2020,
+  "vehicles": [
+    {
+      "model": "Model",
+      "trim": "3 Long Range",
+      "tire_sizes": [
+        "235/40R19",
+        "235/45R18"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "3 Performance",
+      "tire_sizes": [
+        "235/45R18"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "3 Standard Plus",
+      "tire_sizes": [
+        "235/40R19",
+        "235/45R18"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S Long Range Plus",
+      "tire_sizes": [
+        "245/45R19",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S Performance",
+      "tire_sizes": [
+        "245/45R19",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "X Long Range Plus",
+      "tire_sizes": [
+        "265/35R22",
+        "285/35R22",
+        "265/45R20",
+        "275/45R20"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "X Performance",
+      "tire_sizes": [
+        "265/35R22",
+        "285/35R22",
+        "265/45R20",
+        "275/45R20"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "Y Long Range",
+      "tire_sizes": [
+        "255/40R20",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "Y Performance",
+      "tire_sizes": [
+        "255/35R21",
+        "275/35R21"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T16:59:09.452827",
+    "total_vehicles": 9,
+    "total_tire_sizes": 12
+  }
+}

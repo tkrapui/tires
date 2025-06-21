@@ -1,0 +1,76 @@
+{
+  "brand": "Alfa Romeo",
+  "year": 2022,
+  "vehicles": [
+    {
+      "model": "Giulia",
+      "trim": "Quadrifoglio",
+      "tire_sizes": [
+        "245/35R19",
+        "285/30R19"
+      ]
+    },
+    {
+      "model": "Giulia",
+      "trim": "Sprint",
+      "tire_sizes": [
+        "225/50R17",
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "Giulia",
+      "trim": "Ti",
+      "tire_sizes": [
+        "225/45R18",
+        "225/40R19"
+      ]
+    },
+    {
+      "model": "Giulia",
+      "trim": "Veloce",
+      "tire_sizes": [
+        "225/40R19"
+      ]
+    },
+    {
+      "model": "Stelvio",
+      "trim": "Quadrifoglio",
+      "tire_sizes": [
+        "285/40R20",
+        "255/45R20",
+        "255/40R21",
+        "285/35R21"
+      ]
+    },
+    {
+      "model": "Stelvio",
+      "trim": "Sprint (AWD)",
+      "tire_sizes": [
+        "235/60R18",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Stelvio",
+      "trim": "Ti",
+      "tire_sizes": [
+        "255/45R20",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Stelvio",
+      "trim": "Veloce",
+      "tire_sizes": [
+        "255/45R20",
+        "255/40R21"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T13:37:29.507435",
+    "total_vehicles": 8,
+    "total_tire_sizes": 11
+  }
+}

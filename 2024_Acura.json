@@ -1,0 +1,116 @@
+{
+  "brand": "Acura",
+  "year": 2024,
+  "vehicles": [
+    {
+      "model": "Integra",
+      "trim": "A-Spec",
+      "tire_sizes": [
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "Integra",
+      "trim": "Base",
+      "tire_sizes": [
+        "215/50R17"
+      ]
+    },
+    {
+      "model": "Integra",
+      "trim": "Elite A-Spec",
+      "tire_sizes": [
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "MDX",
+      "trim": "SH-AWD",
+      "tire_sizes": [
+        "255/55R19"
+      ]
+    },
+    {
+      "model": "MDX",
+      "trim": "SH-AWD A-Spec",
+      "tire_sizes": [
+        "255/50R20"
+      ]
+    },
+    {
+      "model": "MDX",
+      "trim": "SH-AWD Advance Pkg.",
+      "tire_sizes": [
+        "255/50R20"
+      ]
+    },
+    {
+      "model": "MDX",
+      "trim": "SH-AWD Tech Pkg.",
+      "tire_sizes": [
+        "255/50R20"
+      ]
+    },
+    {
+      "model": "MDX",
+      "trim": "Type S",
+      "tire_sizes": [
+        "275/40R21"
+      ]
+    },
+    {
+      "model": "RDX",
+      "trim": "SH-AWD A-Spec",
+      "tire_sizes": [
+        "255/45R20"
+      ]
+    },
+    {
+      "model": "RDX",
+      "trim": "SH-AWD Platinum Elite A-Spec",
+      "tire_sizes": [
+        "255/45R20"
+      ]
+    },
+    {
+      "model": "RDX",
+      "trim": "SH-AWD Tech Pkg.",
+      "tire_sizes": [
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "TLX",
+      "trim": "A-Spec",
+      "tire_sizes": [
+        "255/40R19"
+      ]
+    },
+    {
+      "model": "TLX",
+      "trim": "Type S",
+      "tire_sizes": [
+        "255/35R20"
+      ]
+    },
+    {
+      "model": "ZDX",
+      "trim": "A-Spec",
+      "tire_sizes": [
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "ZDX",
+      "trim": "Type S",
+      "tire_sizes": [
+        "275/40R22"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T14:39:31.754028",
+    "total_vehicles": 15,
+    "total_tire_sizes": 11
+  }
+}

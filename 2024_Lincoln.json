@@ -1,0 +1,121 @@
+{
+  "brand": "Lincoln",
+  "year": 2024,
+  "vehicles": [
+    {
+      "model": "Aviator",
+      "trim": "Reserve (AWD)",
+      "tire_sizes": [
+        "275/40R22",
+        "255/55R20"
+      ]
+    },
+    {
+      "model": "Aviator",
+      "trim": "Reserve w/Dynamic Handling Pkg.",
+      "tire_sizes": [
+        "275/40R22",
+        "255/55R20"
+      ]
+    },
+    {
+      "model": "Aviator",
+      "trim": "Reserve w/Jet Appearance Pkg.",
+      "tire_sizes": [
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Corsair",
+      "trim": "Grand Touring",
+      "tire_sizes": [
+        "225/55R19",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Corsair",
+      "trim": "Premiere Collection I",
+      "tire_sizes": [
+        "225/60R18"
+      ]
+    },
+    {
+      "model": "Corsair",
+      "trim": "Premiere Collection II & Collection III",
+      "tire_sizes": [
+        "225/55R19",
+        "225/60R18"
+      ]
+    },
+    {
+      "model": "Corsair",
+      "trim": "Premiere w/Jet Appearance Pkg.",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Corsair",
+      "trim": "Reserve",
+      "tire_sizes": [
+        "225/55R19",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Corsair",
+      "trim": "Reserve w/Jet Appearance Pkg.",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Nautilus",
+      "trim": "Reserve",
+      "tire_sizes": [
+        "255/50R21"
+      ]
+    },
+    {
+      "model": "Nautilus",
+      "trim": "Reserve Hybrid",
+      "tire_sizes": [
+        "255/50R21"
+      ]
+    },
+    {
+      "model": "Nautilus",
+      "trim": "Reserve Hybrid w/Jet Appearance Pkg.",
+      "tire_sizes": [
+        "255/45R22"
+      ]
+    },
+    {
+      "model": "Nautilus",
+      "trim": "Reserve w/Jet Appearance Pkg.",
+      "tire_sizes": [
+        "255/45R22"
+      ]
+    },
+    {
+      "model": "Navigator",
+      "trim": "L Reserve",
+      "tire_sizes": [
+        "285/45R22"
+      ]
+    },
+    {
+      "model": "Navigator",
+      "trim": "Reserve",
+      "tire_sizes": [
+        "285/45R22"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T15:01:01.728480",
+    "total_vehicles": 15,
+    "total_tire_sizes": 8
+  }
+}

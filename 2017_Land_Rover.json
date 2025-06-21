@@ -1,0 +1,264 @@
+{
+  "brand": "Land Rover",
+  "year": 2017,
+  "vehicles": [
+    {
+      "model": "Discovery",
+      "trim": "First Edition",
+      "tire_sizes": [
+        "285/40R22",
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "HSE",
+      "tire_sizes": [
+        "275/45R21",
+        "285/40R22",
+        "255/55R20"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "HSE Luxury",
+      "tire_sizes": [
+        "275/45R21",
+        "285/40R22",
+        "255/55R20"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "SE",
+      "tire_sizes": [
+        "275/45R21",
+        "285/40R22",
+        "255/55R20",
+        "255/60R19"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "Sport HSE",
+      "tire_sizes": [
+        "235/55R19",
+        "235/60R18",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "Sport HSE (3rd Row Seat)",
+      "tire_sizes": [
+        "235/55R19",
+        "235/60R18",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "Sport HSE Luxury",
+      "tire_sizes": [
+        "235/55R19",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "Sport HSE Luxury (3rd Row Seat)",
+      "tire_sizes": [
+        "235/55R19",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "Sport SE",
+      "tire_sizes": [
+        "235/55R19",
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "Sport SE (3rd Row Seat)",
+      "tire_sizes": [
+        "235/55R19",
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Autobiography",
+      "tire_sizes": [
+        "275/40R22",
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Base",
+      "tire_sizes": [
+        "255/55R20",
+        "235/65R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque Autobiography",
+      "tire_sizes": [
+        "P245/45R20"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque HSE",
+      "tire_sizes": [
+        "235/55R19",
+        "P245/45R20",
+        "P235/55R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque HSE Dynamic",
+      "tire_sizes": [
+        "235/55R19",
+        "P245/45R20",
+        "P235/55R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque HSE Dynamic Convertible",
+      "tire_sizes": [
+        "235/55R19",
+        "245/45R20",
+        "P235/55R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque SE",
+      "tire_sizes": [
+        "235/55R19",
+        "P235/55R19",
+        "P235/60R18"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque SE Dynamic Convertible",
+      "tire_sizes": [
+        "235/55R19",
+        "P235/55R19",
+        "P235/60R18"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque SE Premium",
+      "tire_sizes": [
+        "235/55R19",
+        "P235/55R19",
+        "P235/60R18"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover HSE",
+      "tire_sizes": [
+        "275/40R22",
+        "255/55R20",
+        "235/65R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover SVAutobiography",
+      "tire_sizes": [
+        "275/40R22",
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport Autobiography",
+      "tire_sizes": [
+        "275/45R21",
+        "275/40R22",
+        "255/55R20"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport HSE",
+      "tire_sizes": [
+        "275/45R21",
+        "275/40R22",
+        "255/55R20",
+        "235/65R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport HSE Dynamic",
+      "tire_sizes": [
+        "255/55R20",
+        "275/40R22",
+        "275/45R21",
+        "235/65R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport SE",
+      "tire_sizes": [
+        "275/45R21",
+        "275/40R22",
+        "255/55R20",
+        "235/65R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport SVR",
+      "tire_sizes": [
+        "275/45R21",
+        "295/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport Supercharged",
+      "tire_sizes": [
+        "275/45R21",
+        "275/40R22",
+        "255/55R20"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport Supercharged Dynamic",
+      "tire_sizes": [
+        "275/45R21",
+        "275/40R22",
+        "255/55R20"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Supercharged",
+      "tire_sizes": [
+        "275/40R22",
+        "275/45R21"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T22:24:05.631701",
+    "total_vehicles": 29,
+    "total_tire_sizes": 13
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "brand": "Tesla",
+  "year": 2024,
+  "vehicles": [
+    {
+      "model": "Cybertruck",
+      "trim": "Base",
+      "tire_sizes": [
+        "285/65R20"
+      ]
+    },
+    {
+      "model": "Cybertruck",
+      "trim": "Cyberbeast",
+      "tire_sizes": [
+        "285/65R20"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "3 Base",
+      "tire_sizes": [
+        "235/40R19",
+        "235/45R18"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "3 Long Range",
+      "tire_sizes": [
+        "235/40R19",
+        "235/45R18"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "3 Performance",
+      "tire_sizes": [
+        "275/30R20",
+        "235/35R20"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S Base",
+      "tire_sizes": [
+        "285/40R19",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S Plaid",
+      "tire_sizes": [
+        "285/40R19",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "X Base",
+      "tire_sizes": [
+        "265/35R22",
+        "285/35R22",
+        "275/45R20",
+        "265/45R20"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "X Plaid",
+      "tire_sizes": [
+        "265/35R22",
+        "285/35R22",
+        "275/45R20",
+        "265/45R20"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "Y Base",
+      "tire_sizes": [
+        "255/40R20",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "Y Long Range",
+      "tire_sizes": [
+        "255/40R20",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "Y Performance",
+      "tire_sizes": [
+        "255/35R21",
+        "275/35R21"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T15:16:04.632350",
+    "total_vehicles": 12,
+    "total_tire_sizes": 14
+  }
+}
