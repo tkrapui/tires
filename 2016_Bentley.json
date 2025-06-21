@@ -1,0 +1,113 @@
+{
+  "brand": "Bentley",
+  "year": 2016,
+  "vehicles": [
+    {
+      "model": "Continental",
+      "trim": "GT",
+      "tire_sizes": [
+        "275/40R20",
+        "275/35R21"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GT Speed",
+      "tire_sizes": [
+        "275/35R21"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GT V8",
+      "tire_sizes": [
+        "275/40R20",
+        "275/35R21"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GT V8 S",
+      "tire_sizes": [
+        "275/40R20",
+        "275/35R21"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GTC",
+      "tire_sizes": [
+        "275/40R20",
+        "275/35R21"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GTC Speed",
+      "tire_sizes": [
+        "275/35R21"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GTC V8",
+      "tire_sizes": [
+        "275/40R20",
+        "275/35R21"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GTC V8 S",
+      "tire_sizes": [
+        "275/40R20",
+        "275/35R21"
+      ]
+    },
+    {
+      "model": "Flying",
+      "trim": "Spur Base",
+      "tire_sizes": [
+        "275/40R20",
+        "275/35R21"
+      ]
+    },
+    {
+      "model": "Flying",
+      "trim": "Spur V8",
+      "tire_sizes": [
+        "275/45R19",
+        "275/40R20",
+        "275/35R21"
+      ]
+    },
+    {
+      "model": "Flying",
+      "trim": "Spur V8 S",
+      "tire_sizes": [
+        "275/40R20",
+        "275/35R21"
+      ]
+    },
+    {
+      "model": "Mulsanne",
+      "trim": "Base",
+      "tire_sizes": [
+        "265/45R20",
+        "265/40R21"
+      ]
+    },
+    {
+      "model": "Mulsanne",
+      "trim": "Speed",
+      "tire_sizes": [
+        "265/40R21"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T07:52:00.844952",
+    "total_vehicles": 13,
+    "total_tire_sizes": 5
+  }
+}

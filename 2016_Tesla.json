@@ -1,0 +1,162 @@
+{
+  "brand": "Tesla",
+  "year": 2016,
+  "vehicles": [
+    {
+      "model": "Model",
+      "trim": "S 70",
+      "tire_sizes": [
+        "245/45R19",
+        "P245/45R19",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S 70 w/Sport Pkg.",
+      "tire_sizes": [
+        "265/35R21",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S 70D",
+      "tire_sizes": [
+        "245/45R19",
+        "P245/45R19",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S 70D w/Sport Pkg.",
+      "tire_sizes": [
+        "265/35R21",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S 85",
+      "tire_sizes": [
+        "245/45R19",
+        "P245/45R19",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S 85 w/Sport Pkg.",
+      "tire_sizes": [
+        "265/35R21",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S 85D",
+      "tire_sizes": [
+        "245/45R19",
+        "P245/45R19",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S 85D w/Sport Pkg.",
+      "tire_sizes": [
+        "265/35R21",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S 90D",
+      "tire_sizes": [
+        "245/45R19",
+        "P245/45R19",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S 90D w/Sport Pkg.",
+      "tire_sizes": [
+        "265/35R21",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S P85D",
+      "tire_sizes": [
+        "245/45R19",
+        "P245/45R19",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S P85D w/Sport Pkg.",
+      "tire_sizes": [
+        "265/35R21",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S P90D",
+      "tire_sizes": [
+        "245/45R19",
+        "P245/45R19",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S P90D w/Sport Pkg.",
+      "tire_sizes": [
+        "265/35R21",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "X 75D",
+      "tire_sizes": [
+        "265/45R20",
+        "275/45R20"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "X 90D",
+      "tire_sizes": [
+        "265/45R20",
+        "275/45R20"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "X P90D",
+      "tire_sizes": [
+        "265/35R22",
+        "285/35R22"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "X P90D Founder",
+      "tire_sizes": [
+        "265/35R22",
+        "285/35R22"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T07:51:09.922780",
+    "total_vehicles": 18,
+    "total_tire_sizes": 8
+  }
+}

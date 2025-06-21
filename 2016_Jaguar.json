@@ -1,0 +1,131 @@
+{
+  "brand": "Jaguar",
+  "year": 2016,
+  "vehicles": [
+    {
+      "model": "F-Type",
+      "trim": "Base",
+      "tire_sizes": [
+        "275/40R18",
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "F-Type",
+      "trim": "Project 7",
+      "tire_sizes": [
+        "255/35R20",
+        "295/30R20"
+      ]
+    },
+    {
+      "model": "F-Type",
+      "trim": "R",
+      "tire_sizes": [
+        "255/35R20",
+        "295/30R20"
+      ]
+    },
+    {
+      "model": "F-Type",
+      "trim": "S",
+      "tire_sizes": [
+        "255/35R20",
+        "245/40R19",
+        "295/30R20",
+        "275/35R19"
+      ]
+    },
+    {
+      "model": "XF",
+      "trim": "Premium",
+      "tire_sizes": [
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "XF",
+      "trim": "Prestige",
+      "tire_sizes": [
+        "255/35R20",
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "XF",
+      "trim": "R-Sport",
+      "tire_sizes": [
+        "255/35R20",
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "XF",
+      "trim": "S",
+      "tire_sizes": [
+        "255/35R20"
+      ]
+    },
+    {
+      "model": "XJ",
+      "trim": "L Portfolio",
+      "tire_sizes": [
+        "P245/45R19",
+        "P275/40R19"
+      ]
+    },
+    {
+      "model": "XJ",
+      "trim": "L Supercharged",
+      "tire_sizes": [
+        "245/40R20",
+        "275/35R20"
+      ]
+    },
+    {
+      "model": "XJ",
+      "trim": "Portfolio",
+      "tire_sizes": [
+        "P245/45R19",
+        "P275/40R19"
+      ]
+    },
+    {
+      "model": "XJ",
+      "trim": "R-Sport",
+      "tire_sizes": [
+        "P245/45R19",
+        "P275/40R19"
+      ]
+    },
+    {
+      "model": "XJ",
+      "trim": "Supercharged",
+      "tire_sizes": [
+        "245/40R20",
+        "275/35R20"
+      ]
+    },
+    {
+      "model": "XJR",
+      "trim": "Base",
+      "tire_sizes": [
+        "265/35R20",
+        "295/30R20"
+      ]
+    },
+    {
+      "model": "XJR",
+      "trim": "L",
+      "tire_sizes": [
+        "265/35R20",
+        "295/30R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T07:47:47.706238",
+    "total_vehicles": 15,
+    "total_tire_sizes": 11
+  }
+}

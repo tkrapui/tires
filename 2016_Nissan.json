@@ -1,0 +1,546 @@
+{
+  "brand": "Nissan",
+  "year": 2016,
+  "vehicles": [
+    {
+      "model": "370Z",
+      "trim": "Coupe",
+      "tire_sizes": [
+        "245/45R18",
+        "225/50R18"
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Nismo",
+      "tire_sizes": [
+        "245/40R19",
+        "285/35R19"
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Touring Coupe",
+      "tire_sizes": [
+        "245/45R18",
+        "225/50R18"
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Touring Roadster",
+      "tire_sizes": [
+        "245/45R18",
+        "225/50R18"
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Touring Sport Coupe",
+      "tire_sizes": [
+        "245/40R19",
+        "275/35R19"
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Touring Sport Roadster",
+      "tire_sizes": [
+        "245/40R19",
+        "275/35R19"
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "Base",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "S",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "SL 2.5",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "SL 3.5",
+      "tire_sizes": [
+        "P235/45R18"
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "SR",
+      "tire_sizes": [
+        "P235/45R18"
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "SV",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "Frontier",
+      "trim": "PRO-4X",
+      "tire_sizes": [
+        "P265/75R16"
+      ]
+    },
+    {
+      "model": "Frontier",
+      "trim": "S King Cab",
+      "tire_sizes": [
+        "P235/75R15"
+      ]
+    },
+    {
+      "model": "Frontier",
+      "trim": "SL",
+      "tire_sizes": [
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "Frontier",
+      "trim": "SV",
+      "tire_sizes": [
+        "P265/70R16"
+      ]
+    },
+    {
+      "model": "GT-R",
+      "trim": "Black Edition",
+      "tire_sizes": [
+        "255/40R20",
+        "285/35R20"
+      ]
+    },
+    {
+      "model": "GT-R",
+      "trim": "Premium",
+      "tire_sizes": [
+        "255/40R20",
+        "285/35R20"
+      ]
+    },
+    {
+      "model": "GT-R",
+      "trim": "Premium w/Cold Weather Pkg.",
+      "tire_sizes": [
+        "255/40R20",
+        "285/35R20"
+      ]
+    },
+    {
+      "model": "Juke",
+      "trim": "Nismo (FWD)",
+      "tire_sizes": [
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "Juke",
+      "trim": "Nismo RS (AWD)",
+      "tire_sizes": [
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "Juke",
+      "trim": "SL (AWD)",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "Juke",
+      "trim": "SV (AWD)",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "Juke",
+      "trim": "SV (FWD)",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "LEAF",
+      "trim": "S",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "LEAF",
+      "trim": "SL",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "LEAF",
+      "trim": "SV",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "Maxima",
+      "trim": "Platinum",
+      "tire_sizes": [
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "Maxima",
+      "trim": "SL",
+      "tire_sizes": [
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "Maxima",
+      "trim": "SR",
+      "tire_sizes": [
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "Maxima",
+      "trim": "SV",
+      "tire_sizes": [
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "Micra",
+      "trim": "S",
+      "tire_sizes": [
+        "P185/60R15"
+      ]
+    },
+    {
+      "model": "Micra",
+      "trim": "SR",
+      "tire_sizes": [
+        "185/55R16"
+      ]
+    },
+    {
+      "model": "Micra",
+      "trim": "SV",
+      "tire_sizes": [
+        "P185/60R15"
+      ]
+    },
+    {
+      "model": "Murano",
+      "trim": "Platinum",
+      "tire_sizes": [
+        "235/55R20"
+      ]
+    },
+    {
+      "model": "Murano",
+      "trim": "S",
+      "tire_sizes": [
+        "235/65R18"
+      ]
+    },
+    {
+      "model": "Murano",
+      "trim": "SL",
+      "tire_sizes": [
+        "235/65R18"
+      ]
+    },
+    {
+      "model": "Murano",
+      "trim": "SV",
+      "tire_sizes": [
+        "235/65R18"
+      ]
+    },
+    {
+      "model": "NV1500",
+      "trim": "S",
+      "tire_sizes": [
+        "245/70R17"
+      ]
+    },
+    {
+      "model": "NV1500",
+      "trim": "SV",
+      "tire_sizes": [
+        "245/70R17"
+      ]
+    },
+    {
+      "model": "NV200",
+      "trim": "S (C-Type Tires)",
+      "tire_sizes": [
+        "185/60R15"
+      ]
+    },
+    {
+      "model": "NV200",
+      "trim": "SV (C-Type Tires)",
+      "tire_sizes": [
+        "185/60R15"
+      ]
+    },
+    {
+      "model": "NV2500",
+      "trim": "S",
+      "tire_sizes": [
+        "245/70R17"
+      ]
+    },
+    {
+      "model": "NV2500",
+      "trim": "SL",
+      "tire_sizes": [
+        "245/70R17"
+      ]
+    },
+    {
+      "model": "NV2500",
+      "trim": "SV",
+      "tire_sizes": [
+        "245/70R17"
+      ]
+    },
+    {
+      "model": "NV3500",
+      "trim": "S Cargo Van",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "NV3500",
+      "trim": "S Passenger Van",
+      "tire_sizes": [
+        "245/70R17"
+      ]
+    },
+    {
+      "model": "NV3500",
+      "trim": "SL Cargo Van",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "NV3500",
+      "trim": "SL Passenger Van",
+      "tire_sizes": [
+        "245/70R17"
+      ]
+    },
+    {
+      "model": "NV3500",
+      "trim": "SV Cargo Van",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "NV3500",
+      "trim": "SV Passenger Van",
+      "tire_sizes": [
+        "245/70R17"
+      ]
+    },
+    {
+      "model": "Pathfinder",
+      "trim": "Platinum",
+      "tire_sizes": [
+        "P235/55R20",
+        "235/55R20"
+      ]
+    },
+    {
+      "model": "Pathfinder",
+      "trim": "S",
+      "tire_sizes": [
+        "235/65R18"
+      ]
+    },
+    {
+      "model": "Pathfinder",
+      "trim": "SL",
+      "tire_sizes": [
+        "235/65R18"
+      ]
+    },
+    {
+      "model": "Pathfinder",
+      "trim": "SV",
+      "tire_sizes": [
+        "235/65R18"
+      ]
+    },
+    {
+      "model": "Quest",
+      "trim": "Platinum",
+      "tire_sizes": [
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Quest",
+      "trim": "S",
+      "tire_sizes": [
+        "P225/65R16"
+      ]
+    },
+    {
+      "model": "Quest",
+      "trim": "SL",
+      "tire_sizes": [
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Quest",
+      "trim": "SV",
+      "tire_sizes": [
+        "P225/65R16"
+      ]
+    },
+    {
+      "model": "Rogue",
+      "trim": "S",
+      "tire_sizes": [
+        "225/65R17"
+      ]
+    },
+    {
+      "model": "Rogue",
+      "trim": "SL",
+      "tire_sizes": [
+        "225/60R18"
+      ]
+    },
+    {
+      "model": "Rogue",
+      "trim": "SV",
+      "tire_sizes": [
+        "225/65R17"
+      ]
+    },
+    {
+      "model": "Sentra",
+      "trim": "S",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "Sentra",
+      "trim": "SL",
+      "tire_sizes": [
+        "205/50R17"
+      ]
+    },
+    {
+      "model": "Sentra",
+      "trim": "SR",
+      "tire_sizes": [
+        "205/50R17"
+      ]
+    },
+    {
+      "model": "Sentra",
+      "trim": "SV",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "XD PRO-4X",
+      "tire_sizes": [
+        "275/65R18"
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "XD Platinum Reserve",
+      "tire_sizes": [
+        "265/60R20"
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "XD S",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "XD SL",
+      "tire_sizes": [
+        "265/60R20"
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "XD SV",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "Versa",
+      "trim": "Note S",
+      "tire_sizes": [
+        "P185/65R15"
+      ]
+    },
+    {
+      "model": "Versa",
+      "trim": "Note SL",
+      "tire_sizes": [
+        "P195/55R16"
+      ]
+    },
+    {
+      "model": "Versa",
+      "trim": "Note SR",
+      "tire_sizes": [
+        "P195/55R16"
+      ]
+    },
+    {
+      "model": "Versa",
+      "trim": "Note SV",
+      "tire_sizes": [
+        "P185/65R15"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T07:40:10.588094",
+    "total_vehicles": 75,
+    "total_tire_sizes": 34
+  }
+}

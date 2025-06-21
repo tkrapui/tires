@@ -1,0 +1,185 @@
+{
+  "brand": "Volvo",
+  "year": 2016,
+  "vehicles": [
+    {
+      "model": "S60",
+      "trim": "Cross Country T5 Platinum",
+      "tire_sizes": [
+        "235/45R19",
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "T5",
+      "tire_sizes": [
+        "235/40R18",
+        "235/45R17",
+        "215/50R17"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "T5 Inscription",
+      "tire_sizes": [
+        "235/40R18",
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "T5 Premier",
+      "tire_sizes": [
+        "235/40R18",
+        "235/45R17",
+        "215/50R17",
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "T6",
+      "tire_sizes": [
+        "235/40R18",
+        "235/45R17",
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "T6 Platinum",
+      "tire_sizes": [
+        "235/40R18",
+        "235/45R17",
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "T6 Polestar",
+      "tire_sizes": [
+        "245/35R20"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "T6 R-Design",
+      "tire_sizes": [
+        "235/40R18",
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "S80",
+      "trim": "T5",
+      "tire_sizes": [
+        "235/40R18",
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "V60",
+      "trim": "Cross Country T5",
+      "tire_sizes": [
+        "235/45R19",
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "V60",
+      "trim": "T5 Premier",
+      "tire_sizes": [
+        "235/40R18",
+        "235/45R17",
+        "215/50R17",
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "V60",
+      "trim": "T6 R-Design",
+      "tire_sizes": [
+        "235/40R18",
+        "235/45R18",
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "XC60",
+      "trim": "T5",
+      "tire_sizes": [
+        "235/55R19",
+        "235/60R18",
+        "255/45R20"
+      ]
+    },
+    {
+      "model": "XC60",
+      "trim": "T6",
+      "tire_sizes": [
+        "235/55R19",
+        "235/60R18",
+        "255/45R20"
+      ]
+    },
+    {
+      "model": "XC60",
+      "trim": "T6 R-Design",
+      "tire_sizes": [
+        "255/45R20"
+      ]
+    },
+    {
+      "model": "XC70",
+      "trim": "T5",
+      "tire_sizes": [
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "XC70",
+      "trim": "T5 Premier",
+      "tire_sizes": [
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "XC90",
+      "trim": "T6 Inscription",
+      "tire_sizes": [
+        "275/40R21",
+        "275/45R20"
+      ]
+    },
+    {
+      "model": "XC90",
+      "trim": "T6 Momentum",
+      "tire_sizes": [
+        "235/55R19",
+        "275/45R20"
+      ]
+    },
+    {
+      "model": "XC90",
+      "trim": "T6 R-Design",
+      "tire_sizes": [
+        "275/35R22",
+        "275/45R20"
+      ]
+    },
+    {
+      "model": "XC90",
+      "trim": "T8 Inscription",
+      "tire_sizes": [
+        "275/40R21",
+        "275/45R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T07:46:48.625998",
+    "total_vehicles": 21,
+    "total_tire_sizes": 14
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "brand": "McLaren",
+  "year": 2017,
+  "vehicles": [
+    {
+      "model": "570GT",
+      "trim": "Base",
+      "tire_sizes": [
+        "225/35R19",
+        "285/35R20"
+      ]
+    },
+    {
+      "model": "570S",
+      "trim": "Base",
+      "tire_sizes": [
+        "225/35R19",
+        "285/35R20"
+      ]
+    },
+    {
+      "model": "650S",
+      "trim": "Base",
+      "tire_sizes": [
+        "235/35R19",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "650S",
+      "trim": "Spider",
+      "tire_sizes": [
+        "235/35R19",
+        "305/30R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T22:28:16.194932",
+    "total_vehicles": 4,
+    "total_tire_sizes": 4
+  }
+}

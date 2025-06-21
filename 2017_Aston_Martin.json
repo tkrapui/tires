@@ -1,0 +1,59 @@
+{
+  "brand": "Aston Martin",
+  "year": 2017,
+  "vehicles": [
+    {
+      "model": "DB11",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/40R20",
+        "295/35R20"
+      ]
+    },
+    {
+      "model": "Rapide",
+      "trim": "S",
+      "tire_sizes": [
+        "245/40R20",
+        "295/35R20"
+      ]
+    },
+    {
+      "model": "V12",
+      "trim": "Vantage S",
+      "tire_sizes": [
+        "295/30R19",
+        "255/35R19"
+      ]
+    },
+    {
+      "model": "V8",
+      "trim": "Vantage GTS",
+      "tire_sizes": [
+        "245/40R19",
+        "285/35R19"
+      ]
+    },
+    {
+      "model": "Vanquish",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/35R20",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "Vanquish",
+      "trim": "Volante",
+      "tire_sizes": [
+        "255/35R20",
+        "305/30R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T22:29:05.120871",
+    "total_vehicles": 6,
+    "total_tire_sizes": 9
+  }
+}

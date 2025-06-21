@@ -1,0 +1,136 @@
+{
+  "brand": "Bentley",
+  "year": 2017,
+  "vehicles": [
+    {
+      "model": "Bentayga",
+      "trim": "Base",
+      "tire_sizes": [
+        "285/45R21",
+        "275/50R20"
+      ]
+    },
+    {
+      "model": "Bentayga",
+      "trim": "First Edition",
+      "tire_sizes": [
+        "285/40R22"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GT",
+      "tire_sizes": [
+        "275/35R21",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GT Speed",
+      "tire_sizes": [
+        "275/35R21"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GT V8",
+      "tire_sizes": [
+        "275/35R21",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GT V8 S",
+      "tire_sizes": [
+        "275/35R21",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GTC",
+      "tire_sizes": [
+        "275/35R21",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GTC Speed",
+      "tire_sizes": [
+        "275/35R21"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GTC V8",
+      "tire_sizes": [
+        "275/35R21",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GTC V8 S",
+      "tire_sizes": [
+        "275/35R21",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Flying",
+      "trim": "Spur Base",
+      "tire_sizes": [
+        "275/35R21",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Flying",
+      "trim": "Spur V8",
+      "tire_sizes": [
+        "275/35R21",
+        "275/40R20",
+        "275/45R19"
+      ]
+    },
+    {
+      "model": "Flying",
+      "trim": "Spur V8 S",
+      "tire_sizes": [
+        "275/35R21",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Flying",
+      "trim": "Spur W12 S",
+      "tire_sizes": [
+        "275/35R21",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Mulsanne",
+      "trim": "Base",
+      "tire_sizes": [
+        "265/40R21",
+        "265/45R20"
+      ]
+    },
+    {
+      "model": "Mulsanne",
+      "trim": "Speed",
+      "tire_sizes": [
+        "265/40R21"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-20T22:27:19.715802",
+    "total_vehicles": 16,
+    "total_tire_sizes": 8
+  }
+}
