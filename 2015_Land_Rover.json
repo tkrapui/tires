@@ -1,0 +1,222 @@
+{
+  "brand": "Land Rover",
+  "year": 2015,
+  "vehicles": [
+    {
+      "model": "Discovery",
+      "trim": "Sport HSE",
+      "tire_sizes": [
+        "235/55R19",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "Sport HSE (3rd Row Seat)",
+      "tire_sizes": [
+        "235/55R19",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "Sport HSE Luxury",
+      "tire_sizes": [
+        "235/55R19",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "Sport HSE Luxury (3rd Row Seat)",
+      "tire_sizes": [
+        "235/55R19",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "Sport SE",
+      "tire_sizes": [
+        "235/60R18",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Discovery",
+      "trim": "Sport SE (3rd Row Seat)",
+      "tire_sizes": [
+        "235/60R18",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "LR2",
+      "trim": "Base",
+      "tire_sizes": [
+        "235/60R18",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "LR2",
+      "trim": "HSE",
+      "tire_sizes": [
+        "235/60R18",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "LR2",
+      "trim": "HSE Lux",
+      "tire_sizes": [
+        "235/60R18",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "LR4",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/50R20",
+        "255/55R19"
+      ]
+    },
+    {
+      "model": "LR4",
+      "trim": "HSE",
+      "tire_sizes": [
+        "255/50R20",
+        "255/55R19"
+      ]
+    },
+    {
+      "model": "LR4",
+      "trim": "HSE Lux",
+      "tire_sizes": [
+        "255/50R20",
+        "255/55R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Autobiography",
+      "tire_sizes": [
+        "275/45R21",
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Base",
+      "tire_sizes": [
+        "255/55R20",
+        "235/65R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque Autobiography",
+      "tire_sizes": [
+        "245/45R20",
+        "P245/45R20"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque Autobiography Dynamic",
+      "tire_sizes": [
+        "245/45R20",
+        "P245/45R20"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque Dynamic",
+      "tire_sizes": [
+        "P235/55R19",
+        "235/55R19",
+        "245/45R20",
+        "P245/45R20"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque Prestige",
+      "tire_sizes": [
+        "P235/55R19",
+        "235/55R19",
+        "245/45R20",
+        "P245/45R20"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover HSE",
+      "tire_sizes": [
+        "255/55R20",
+        "275/40R22",
+        "235/65R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport Autobiography",
+      "tire_sizes": [
+        "255/55R20",
+        "275/45R21",
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport HSE",
+      "tire_sizes": [
+        "255/55R20",
+        "275/45R21",
+        "235/65R19",
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport SE",
+      "tire_sizes": [
+        "255/55R20",
+        "275/45R21",
+        "235/65R19",
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport SVR",
+      "tire_sizes": [
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport Supercharged",
+      "tire_sizes": [
+        "255/55R20",
+        "275/45R21",
+        "235/65R19",
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Supercharged",
+      "tire_sizes": [
+        "275/45R21",
+        "275/40R22"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T08:56:38.957648",
+    "total_vehicles": 25,
+    "total_tire_sizes": 11
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "brand": "Toyota",
+  "year": 2026,
+  "vehicles": [
+    {
+      "model": "Camry",
+      "trim": "Hybrid XLE SIZE LOAD SPEED RIM WIDTH OD INFLATION 235/45R18 94V 26.33 * * Calculated based on size. Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Camry",
+      "trim": "Hybrid XSE SIZE LOAD SPEED RIM WIDTH OD INFLATION 235/40R19 92V 26.40 * * Calculated based on size. Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Crown",
+      "trim": "Platinum SIZE LOAD SPEED RIM WIDTH OD INFLATION 225/45R21 95W 28.97 * * Calculated based on size. Fitment Details Search Tires",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T16:15:16.521292",
+    "total_vehicles": 3,
+    "total_tire_sizes": 0
+  }
+}

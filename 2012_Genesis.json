@@ -1,0 +1,58 @@
+{
+  "brand": "Genesis",
+  "year": 2012,
+  "vehicles": [
+    {
+      "model": "Hyundai",
+      "trim": "3.8",
+      "tire_sizes": [
+        "P225/55R17",
+        "P235/50R18"
+      ]
+    },
+    {
+      "model": "Hyundai",
+      "trim": "5.0 R-Spec",
+      "tire_sizes": [
+        "P235/45R19"
+      ]
+    },
+    {
+      "model": "Hyundai",
+      "trim": "Coupe 2.0T",
+      "tire_sizes": [
+        "225/45R18",
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "Hyundai",
+      "trim": "Coupe 2.0T GT",
+      "tire_sizes": [
+        "245/40R19",
+        "225/40R19"
+      ]
+    },
+    {
+      "model": "Hyundai",
+      "trim": "Coupe 3.8",
+      "tire_sizes": [
+        "225/45R18",
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "Hyundai",
+      "trim": "Coupe 3.8 GT",
+      "tire_sizes": [
+        "245/40R19",
+        "225/40R19"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T11:50:33.194625",
+    "total_vehicles": 6,
+    "total_tire_sizes": 7
+  }
+}

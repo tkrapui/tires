@@ -1,0 +1,16 @@
+{
+  "brand": "Tesla",
+  "year": 2010,
+  "vehicles": [
+    {
+      "model": "Roadster",
+      "trim": "Base SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 175/55R16 80W 6J 23.58 * * Calculated based on size. 30 psi Search Tires Rear: 225/45R17 91W 7.5J 24.97 * * Calculated based on size. 40 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T17:46:09.502206",
+    "total_vehicles": 1,
+    "total_tire_sizes": 0
+  }
+}

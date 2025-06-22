@@ -1,0 +1,56 @@
+{
+  "brand": "Land Rover",
+  "year": 2010,
+  "vehicles": [
+    {
+      "model": "LR2",
+      "trim": "HSE",
+      "tire_sizes": [
+        "235/55R19",
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "LR4",
+      "trim": "HSE",
+      "tire_sizes": [
+        "255/55R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover HSE",
+      "tire_sizes": [
+        "255/55R19",
+        "255/50R20"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport HSE",
+      "tire_sizes": [
+        "275/40R20",
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport Supercharged",
+      "tire_sizes": [
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Supercharged",
+      "tire_sizes": [
+        "255/50R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T17:44:30.743336",
+    "total_vehicles": 6,
+    "total_tire_sizes": 6
+  }
+}

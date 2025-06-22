@@ -1,0 +1,485 @@
+{
+  "brand": "Nissan",
+  "year": 2011,
+  "vehicles": [
+    {
+      "model": "370Z",
+      "trim": "Coupe",
+      "tire_sizes": [
+        "225/50R18",
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Coupe w/Sport Pkg.",
+      "tire_sizes": [
+        "245/40R19",
+        "275/35R19"
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Nismo",
+      "tire_sizes": [
+        "245/40R19",
+        "285/35R19"
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Roadster",
+      "tire_sizes": [
+        "225/50R18",
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Touring Coupe",
+      "tire_sizes": [
+        "225/50R18",
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Touring Coupe w/Sport Pkg.",
+      "tire_sizes": [
+        "245/40R19",
+        "275/35R19"
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Touring Roadster",
+      "tire_sizes": [
+        "225/50R18",
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Touring Roadster w/Sport Pkg.",
+      "tire_sizes": [
+        "245/40R19",
+        "275/35R19"
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "Hybrid",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "S Coupe (6MT)",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "S Coupe (CVT)",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "S Sedan",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "SR Coupe",
+      "tire_sizes": [
+        "P235/45R18"
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "SR Coupe w/VDC",
+      "tire_sizes": [
+        "P235/45R18"
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "SR Sedan",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "Armada",
+      "trim": "Platinum",
+      "tire_sizes": [
+        "P275/60R20"
+      ]
+    },
+    {
+      "model": "Cube",
+      "trim": "Krom",
+      "tire_sizes": [
+        "P195/55R16"
+      ]
+    },
+    {
+      "model": "Cube",
+      "trim": "S",
+      "tire_sizes": [
+        "P195/60R15"
+      ]
+    },
+    {
+      "model": "Cube",
+      "trim": "SL",
+      "tire_sizes": [
+        "P195/55R16"
+      ]
+    },
+    {
+      "model": "Frontier",
+      "trim": "PRO-4X",
+      "tire_sizes": [
+        "P265/75R16"
+      ]
+    },
+    {
+      "model": "Frontier",
+      "trim": "S Crew Cab",
+      "tire_sizes": [
+        "P265/70R16"
+      ]
+    },
+    {
+      "model": "Frontier",
+      "trim": "S King Cab",
+      "tire_sizes": [
+        "P235/75R15"
+      ]
+    },
+    {
+      "model": "Frontier",
+      "trim": "SL",
+      "tire_sizes": [
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "Frontier",
+      "trim": "SV",
+      "tire_sizes": [
+        "P265/70R16"
+      ]
+    },
+    {
+      "model": "GT-R",
+      "trim": "Premium",
+      "tire_sizes": [
+        "255/40R20",
+        "285/35R20"
+      ]
+    },
+    {
+      "model": "GT-R",
+      "trim": "Premium w/Cold Weather Pkg.",
+      "tire_sizes": [
+        "255/40R20",
+        "285/35R20"
+      ]
+    },
+    {
+      "model": "Juke",
+      "trim": "SL (AWD)",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "Juke",
+      "trim": "SL (FWD)(6MT)",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "Juke",
+      "trim": "SL (FWD)(CVT)",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "Juke",
+      "trim": "SV (AWD)",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "Juke",
+      "trim": "SV (FWD)(6MT)",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "Juke",
+      "trim": "SV (FWD)(CVT)",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "LEAF",
+      "trim": "SL",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "LEAF",
+      "trim": "SV",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "Maxima",
+      "trim": "SV",
+      "tire_sizes": [
+        "P245/45R18"
+      ]
+    },
+    {
+      "model": "Maxima",
+      "trim": "SV w/Sport Pkg.",
+      "tire_sizes": [
+        "245/40R19",
+        "P245/40R19"
+      ]
+    },
+    {
+      "model": "Murano",
+      "trim": "LE",
+      "tire_sizes": [
+        "P235/55R20"
+      ]
+    },
+    {
+      "model": "Murano",
+      "trim": "S",
+      "tire_sizes": [
+        "P235/65R18"
+      ]
+    },
+    {
+      "model": "Murano",
+      "trim": "SL",
+      "tire_sizes": [
+        "P235/65R18"
+      ]
+    },
+    {
+      "model": "Murano",
+      "trim": "SV",
+      "tire_sizes": [
+        "P235/65R18"
+      ]
+    },
+    {
+      "model": "Pathfinder",
+      "trim": "LE",
+      "tire_sizes": [
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "Pathfinder",
+      "trim": "S",
+      "tire_sizes": [
+        "P245/75R16"
+      ]
+    },
+    {
+      "model": "Pathfinder",
+      "trim": "SV",
+      "tire_sizes": [
+        "P265/65R17"
+      ]
+    },
+    {
+      "model": "Quest",
+      "trim": "LE",
+      "tire_sizes": [
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Quest",
+      "trim": "S",
+      "tire_sizes": [
+        "P225/65R16"
+      ]
+    },
+    {
+      "model": "Quest",
+      "trim": "SL",
+      "tire_sizes": [
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Quest",
+      "trim": "SV",
+      "tire_sizes": [
+        "P225/65R16"
+      ]
+    },
+    {
+      "model": "Rogue",
+      "trim": "S",
+      "tire_sizes": [
+        "P215/70R16"
+      ]
+    },
+    {
+      "model": "Rogue",
+      "trim": "SV",
+      "tire_sizes": [
+        "P225/60R17"
+      ]
+    },
+    {
+      "model": "Rogue",
+      "trim": "SV AWD w/SL Pkg.",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    },
+    {
+      "model": "Rogue",
+      "trim": "SV FWD w/SL Pkg.",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    },
+    {
+      "model": "Sentra",
+      "trim": "Base",
+      "tire_sizes": [
+        "P205/60R15"
+      ]
+    },
+    {
+      "model": "Sentra",
+      "trim": "S",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "Sentra",
+      "trim": "SE-R",
+      "tire_sizes": [
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "Sentra",
+      "trim": "SE-R Spec V",
+      "tire_sizes": [
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "Sentra",
+      "trim": "SL",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "PRO-4X",
+      "tire_sizes": [
+        "P275/70R18"
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "S",
+      "tire_sizes": [
+        "P265/70R18"
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "SL",
+      "tire_sizes": [
+        "P275/60R20"
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "SV",
+      "tire_sizes": [
+        "P265/70R18"
+      ]
+    },
+    {
+      "model": "Versa",
+      "trim": "1.6",
+      "tire_sizes": [
+        "P185/65R14"
+      ]
+    },
+    {
+      "model": "Versa",
+      "trim": "S",
+      "tire_sizes": [
+        "P185/65R15"
+      ]
+    },
+    {
+      "model": "Versa",
+      "trim": "SL",
+      "tire_sizes": [
+        "P185/65R15",
+        "P195/55R16"
+      ]
+    },
+    {
+      "model": "Xterra",
+      "trim": "PRO-4X",
+      "tire_sizes": [
+        "P265/75R16"
+      ]
+    },
+    {
+      "model": "Xterra",
+      "trim": "S",
+      "tire_sizes": [
+        "P265/70R16"
+      ]
+    },
+    {
+      "model": "Xterra",
+      "trim": "SV",
+      "tire_sizes": [
+        "P265/65R17"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T16:52:53.721741",
+    "total_vehicles": 66,
+    "total_tire_sizes": 35
+  }
+}

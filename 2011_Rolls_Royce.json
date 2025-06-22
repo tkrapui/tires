@@ -1,0 +1,50 @@
+{
+  "brand": "Rolls-Royce",
+  "year": 2011,
+  "vehicles": [
+    {
+      "model": "Ghost",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "Phantom",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/50R21",
+        "285/45R21"
+      ]
+    },
+    {
+      "model": "Phantom",
+      "trim": "Coupe",
+      "tire_sizes": [
+        "255/50R21",
+        "285/45R21"
+      ]
+    },
+    {
+      "model": "Phantom",
+      "trim": "Drophead Coupe",
+      "tire_sizes": [
+        "255/50R21",
+        "285/45R21"
+      ]
+    },
+    {
+      "model": "Phantom",
+      "trim": "EWB",
+      "tire_sizes": [
+        "255/50R21",
+        "285/45R21"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T17:03:07.205160",
+    "total_vehicles": 5,
+    "total_tire_sizes": 3
+  }
+}

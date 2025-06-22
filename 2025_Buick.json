@@ -1,0 +1,99 @@
+{
+  "brand": "Buick",
+  "year": 2025,
+  "vehicles": [
+    {
+      "model": "Enclave",
+      "trim": "Avenir",
+      "tire_sizes": [
+        "275/45R22"
+      ]
+    },
+    {
+      "model": "Enclave",
+      "trim": "Preferred",
+      "tire_sizes": [
+        "255/55R20",
+        "275/45R22"
+      ]
+    },
+    {
+      "model": "Enclave",
+      "trim": "Sport Touring",
+      "tire_sizes": [
+        "255/55R20",
+        "275/45R22"
+      ]
+    },
+    {
+      "model": "Encore",
+      "trim": "GX Avenir",
+      "tire_sizes": [
+        "245/45R19"
+      ]
+    },
+    {
+      "model": "Encore",
+      "trim": "GX Preferred",
+      "tire_sizes": [
+        "225/55R18"
+      ]
+    },
+    {
+      "model": "Encore",
+      "trim": "GX Sport Touring",
+      "tire_sizes": [
+        "245/45R19",
+        "225/55R18"
+      ]
+    },
+    {
+      "model": "Envision",
+      "trim": "Avenir",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Envision",
+      "trim": "Preferred",
+      "tire_sizes": [
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Envision",
+      "trim": "Sport Touring",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Envista",
+      "trim": "Avenir",
+      "tire_sizes": [
+        "245/45R19"
+      ]
+    },
+    {
+      "model": "Envista",
+      "trim": "Preferred",
+      "tire_sizes": [
+        "225/60R17"
+      ]
+    },
+    {
+      "model": "Envista",
+      "trim": "Sport Touring",
+      "tire_sizes": [
+        "245/45R19",
+        "225/55R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T10:01:26.962918",
+    "total_vehicles": 12,
+    "total_tire_sizes": 7
+  }
+}

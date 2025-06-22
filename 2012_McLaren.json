@@ -1,0 +1,16 @@
+{
+  "brand": "McLaren",
+  "year": 2012,
+  "vehicles": [
+    {
+      "model": "MP4-12C",
+      "trim": "Base SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 235/35ZR19 91(Y) 8.5J 25.48 * * Calculated based on size. 29 psi Search Tires Rear: 305/30ZR20 99(Y) 11J 27.20 * * Calculated based on size. 32 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T11:54:57.322075",
+    "total_vehicles": 1,
+    "total_tire_sizes": 0
+  }
+}

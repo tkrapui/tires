@@ -1,0 +1,123 @@
+{
+  "brand": "Mitsubishi",
+  "year": 2010,
+  "vehicles": [
+    {
+      "model": "Eclipse",
+      "trim": "GS",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "Eclipse",
+      "trim": "Spyder GS",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "Endeavor",
+      "trim": "SE",
+      "tire_sizes": [
+        "P255/55R18"
+      ]
+    },
+    {
+      "model": "Galant",
+      "trim": "ES",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "DE",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "Evolution GSR",
+      "tire_sizes": [
+        "245/40R18"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "Evolution MR",
+      "tire_sizes": [
+        "245/40R18"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "Evolution SE",
+      "tire_sizes": [
+        "245/40R18"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "GTS",
+      "tire_sizes": [
+        "215/45R18"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "GTS Sportback",
+      "tire_sizes": [
+        "215/45R18"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "Ralliart",
+      "tire_sizes": [
+        "P215/45R18"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "Ralliart Sportback",
+      "tire_sizes": [
+        "P215/45R18"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "SE",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "ES",
+      "tire_sizes": [
+        "P215/70R16"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "LS",
+      "tire_sizes": [
+        "P215/70R16"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "XLS",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T17:35:31.912005",
+    "total_vehicles": 16,
+    "total_tire_sizes": 9
+  }
+}

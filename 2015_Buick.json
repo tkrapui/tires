@@ -1,0 +1,146 @@
+{
+  "brand": "Buick",
+  "year": 2015,
+  "vehicles": [
+    {
+      "model": "Enclave",
+      "trim": "Convenience",
+      "tire_sizes": [
+        "P255/65R18"
+      ]
+    },
+    {
+      "model": "Enclave",
+      "trim": "Leather",
+      "tire_sizes": [
+        "P255/55R20",
+        "P255/60R19"
+      ]
+    },
+    {
+      "model": "Enclave",
+      "trim": "Premium",
+      "tire_sizes": [
+        "P255/55R20",
+        "P255/60R19"
+      ]
+    },
+    {
+      "model": "Encore",
+      "trim": "Convenience",
+      "tire_sizes": [
+        "P215/55R18"
+      ]
+    },
+    {
+      "model": "Encore",
+      "trim": "Leather",
+      "tire_sizes": [
+        "P215/55R18"
+      ]
+    },
+    {
+      "model": "Encore",
+      "trim": "Premium",
+      "tire_sizes": [
+        "P215/55R18"
+      ]
+    },
+    {
+      "model": "LaCrosse",
+      "trim": "2.4L",
+      "tire_sizes": [
+        "P225/55R17",
+        "P235/50R18"
+      ]
+    },
+    {
+      "model": "LaCrosse",
+      "trim": "3.6L",
+      "tire_sizes": [
+        "P235/50R18"
+      ]
+    },
+    {
+      "model": "LaCrosse",
+      "trim": "Leather 2.4L",
+      "tire_sizes": [
+        "P225/55R17",
+        "P235/50R18"
+      ]
+    },
+    {
+      "model": "LaCrosse",
+      "trim": "Leather 3.6L",
+      "tire_sizes": [
+        "P245/45R19",
+        "P235/50R18"
+      ]
+    },
+    {
+      "model": "LaCrosse",
+      "trim": "Leather 3.6L (AWD)",
+      "tire_sizes": [
+        "P245/45R19"
+      ]
+    },
+    {
+      "model": "LaCrosse",
+      "trim": "Premium",
+      "tire_sizes": [
+        "P245/40R20",
+        "P245/45R19",
+        "P235/50R18"
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "Base",
+      "tire_sizes": [
+        "P235/50R18"
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "GS",
+      "tire_sizes": [
+        "P245/40R19"
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "Premium Turbo",
+      "tire_sizes": [
+        "P235/50R18"
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "Premium eAssist",
+      "tire_sizes": [
+        "P235/50R18",
+        "P235/50R17"
+      ]
+    },
+    {
+      "model": "Verano",
+      "trim": "Base",
+      "tire_sizes": [
+        "P235/45R18",
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "Verano",
+      "trim": "Leather",
+      "tire_sizes": [
+        "P235/45R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T08:24:03.178237",
+    "total_vehicles": 18,
+    "total_tire_sizes": 12
+  }
+}

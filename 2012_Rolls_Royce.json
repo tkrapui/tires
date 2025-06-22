@@ -1,0 +1,41 @@
+{
+  "brand": "Rolls-Royce",
+  "year": 2012,
+  "vehicles": [
+    {
+      "model": "Ghost",
+      "trim": "Base SIZE LOAD SPEED RIM WIDTH OD INFLATION 255/50R19 103Y 8.5J 29.04 * * Calculated based on size. Front: 32 psi Rear: 30 psi Fitment Details Search Tires Front: 255/45R20 101Y 8.5J 29.04 * * Calculated based on size. 32 psi Search Tires Rear: 285/40R20 104Y 9.5J 28.98 * * Calculated based on size. 30 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    },
+    {
+      "model": "Ghost",
+      "trim": "EWB SIZE LOAD SPEED RIM WIDTH OD INFLATION 255/50R19 103Y 8.5J 29.04 * * Calculated based on size. Front: 32 psi Rear: 30 psi Fitment Details Search Tires Front: 255/45R20 101Y 8.5J 29.04 * * Calculated based on size. 32 psi Search Tires Rear: 285/40R20 104Y 9.5J 28.98 * * Calculated based on size. 30 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    },
+    {
+      "model": "Phantom",
+      "trim": "Base SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 255/50R21 106W 8J 31.04 * * Calculated based on size. 30 psi Search Tires Rear: 285/45R21 109W 9.5J 31.10 * * Calculated based on size. 32 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    },
+    {
+      "model": "Phantom",
+      "trim": "Coupe SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 255/50R21 106W 8J 31.04 * * Calculated based on size. 30 psi Search Tires Rear: 285/45R21 109W 9.5J 31.10 * * Calculated based on size. 32 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    },
+    {
+      "model": "Phantom",
+      "trim": "Drophead Coupe SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 255/50R21 106W 8J 31.04 * * Calculated based on size. 32 psi Search Tires Rear: 285/45R21 109W 9.5J 31.10 * * Calculated based on size. 33 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    },
+    {
+      "model": "Phantom",
+      "trim": "EWB SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 255/50R21 106W 8J 31.04 * * Calculated based on size. 30 psi Search Tires Rear: 285/45R21 109W 9.5J 31.10 * * Calculated based on size. 32 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T11:56:20.138000",
+    "total_vehicles": 6,
+    "total_tire_sizes": 0
+  }
+}

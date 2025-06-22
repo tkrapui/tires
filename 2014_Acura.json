@@ -1,0 +1,99 @@
+{
+  "brand": "Acura",
+  "year": 2014,
+  "vehicles": [
+    {
+      "model": "ILX",
+      "trim": "Base",
+      "tire_sizes": [
+        "P215/45R17"
+      ]
+    },
+    {
+      "model": "ILX",
+      "trim": "Dynamic",
+      "tire_sizes": [
+        "P215/45R17"
+      ]
+    },
+    {
+      "model": "ILX",
+      "trim": "Hybrid",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "MDX",
+      "trim": "SH-AWD",
+      "tire_sizes": [
+        "245/55R19",
+        "245/60R18"
+      ]
+    },
+    {
+      "model": "RDX",
+      "trim": "Base",
+      "tire_sizes": [
+        "P235/60R18"
+      ]
+    },
+    {
+      "model": "RLX",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/40R19",
+        "P245/45R18"
+      ]
+    },
+    {
+      "model": "RLX",
+      "trim": "Sport Hybrid SH-AWD",
+      "tire_sizes": [
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "TL",
+      "trim": "Base",
+      "tire_sizes": [
+        "P245/45R18",
+        "P245/50R17"
+      ]
+    },
+    {
+      "model": "TL",
+      "trim": "SH-AWD",
+      "tire_sizes": [
+        "P245/45R18",
+        "P245/40R19"
+      ]
+    },
+    {
+      "model": "TSX",
+      "trim": "Premium",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "TSX",
+      "trim": "Tech",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "TSX",
+      "trim": "V6 Tech",
+      "tire_sizes": [
+        "P235/45R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T09:03:08.794102",
+    "total_vehicles": 12,
+    "total_tire_sizes": 11
+  }
+}

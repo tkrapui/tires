@@ -1,0 +1,333 @@
+{
+  "brand": "Mazda",
+  "year": 2025,
+  "vehicles": [
+    {
+      "model": "3",
+      "trim": "GS",
+      "tire_sizes": [
+        "205/60R16"
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "GT",
+      "tire_sizes": [
+        "215/45R18"
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "GT Turbo",
+      "tire_sizes": [
+        "215/45R18"
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "GX",
+      "tire_sizes": [
+        "205/60R16"
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "Sport GS",
+      "tire_sizes": [
+        "205/60R16"
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "Sport GT",
+      "tire_sizes": [
+        "215/45R18"
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "Sport GX",
+      "tire_sizes": [
+        "205/60R16"
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "Sport Suna Edition",
+      "tire_sizes": [
+        "215/45R18"
+      ]
+    },
+    {
+      "model": "CX-30",
+      "trim": "GS",
+      "tire_sizes": [
+        "215/55R18"
+      ]
+    },
+    {
+      "model": "CX-30",
+      "trim": "GT",
+      "tire_sizes": [
+        "215/55R18"
+      ]
+    },
+    {
+      "model": "CX-30",
+      "trim": "GT Turbo",
+      "tire_sizes": [
+        "215/55R18"
+      ]
+    },
+    {
+      "model": "CX-30",
+      "trim": "GX",
+      "tire_sizes": [
+        "215/65R16"
+      ]
+    },
+    {
+      "model": "CX-30",
+      "trim": "Suna Edition",
+      "tire_sizes": [
+        "215/55R18"
+      ]
+    },
+    {
+      "model": "CX-5",
+      "trim": "GS",
+      "tire_sizes": [
+        "P225/65R17"
+      ]
+    },
+    {
+      "model": "CX-5",
+      "trim": "GT",
+      "tire_sizes": [
+        "P225/55R19"
+      ]
+    },
+    {
+      "model": "CX-5",
+      "trim": "GX",
+      "tire_sizes": [
+        "P225/65R17"
+      ]
+    },
+    {
+      "model": "CX-5",
+      "trim": "Kuro Edition",
+      "tire_sizes": [
+        "P225/55R19"
+      ]
+    },
+    {
+      "model": "CX-5",
+      "trim": "Signature",
+      "tire_sizes": [
+        "P225/55R19"
+      ]
+    },
+    {
+      "model": "CX-5",
+      "trim": "Sport Design",
+      "tire_sizes": [
+        "P225/55R19"
+      ]
+    },
+    {
+      "model": "CX-5",
+      "trim": "Suna Edition",
+      "tire_sizes": [
+        "P225/55R19"
+      ]
+    },
+    {
+      "model": "CX-50",
+      "trim": "2.5 Turbo Meridian Edition",
+      "tire_sizes": [
+        "225/60R18"
+      ]
+    },
+    {
+      "model": "CX-50",
+      "trim": "GS-L",
+      "tire_sizes": [
+        "225/65R17"
+      ]
+    },
+    {
+      "model": "CX-50",
+      "trim": "GT",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "CX-50",
+      "trim": "Hybrid GS-L",
+      "tire_sizes": [
+        "225/65R17"
+      ]
+    },
+    {
+      "model": "CX-50",
+      "trim": "Hybrid GT",
+      "tire_sizes": [
+        "225/55R19"
+      ]
+    },
+    {
+      "model": "CX-50",
+      "trim": "Hybrid Kuro",
+      "tire_sizes": [
+        "225/65R17"
+      ]
+    },
+    {
+      "model": "CX-70",
+      "trim": "PHEV GS-L",
+      "tire_sizes": [
+        "265/55R19"
+      ]
+    },
+    {
+      "model": "CX-70",
+      "trim": "PHEV GT",
+      "tire_sizes": [
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "CX-70",
+      "trim": "Turbo GS-L",
+      "tire_sizes": [
+        "265/55R19"
+      ]
+    },
+    {
+      "model": "CX-70",
+      "trim": "Turbo GT",
+      "tire_sizes": [
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "CX-70",
+      "trim": "Turbo GT-P",
+      "tire_sizes": [
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "CX-70",
+      "trim": "Turbo Signature",
+      "tire_sizes": [
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "CX-90",
+      "trim": "GS",
+      "tire_sizes": [
+        "P255/60R18"
+      ]
+    },
+    {
+      "model": "CX-90",
+      "trim": "GS-L",
+      "tire_sizes": [
+        "265/55R19"
+      ]
+    },
+    {
+      "model": "CX-90",
+      "trim": "GT",
+      "tire_sizes": [
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "CX-90",
+      "trim": "GT-P",
+      "tire_sizes": [
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "CX-90",
+      "trim": "PHEV GS",
+      "tire_sizes": [
+        "265/55R19"
+      ]
+    },
+    {
+      "model": "CX-90",
+      "trim": "PHEV GS-L",
+      "tire_sizes": [
+        "265/55R19"
+      ]
+    },
+    {
+      "model": "CX-90",
+      "trim": "PHEV GT",
+      "tire_sizes": [
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "CX-90",
+      "trim": "Signature",
+      "tire_sizes": [
+        "275/45R21"
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata 35th Anniversary",
+      "tire_sizes": [
+        "205/45R17"
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata GS",
+      "tire_sizes": [
+        "205/45R17"
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata GS-P",
+      "tire_sizes": [
+        "205/45R17"
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata GT",
+      "tire_sizes": [
+        "205/45R17"
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata RF GS-P",
+      "tire_sizes": [
+        "205/45R17"
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata RF GT",
+      "tire_sizes": [
+        "205/45R17"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T12:30:20.137292",
+    "total_vehicles": 46,
+    "total_tire_sizes": 14
+  }
+}

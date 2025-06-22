@@ -1,0 +1,16 @@
+{
+  "brand": "Honda",
+  "year": 2026,
+  "vehicles": [
+    {
+      "model": "Passport",
+      "trim": "TrailSport SIZE LOAD SPEED RIM WIDTH OD INFLATION 275/60R18 113T 8J 30.99 * * Calculated based on size. 35 psi 35 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T16:11:27.037927",
+    "total_vehicles": 1,
+    "total_tire_sizes": 0
+  }
+}

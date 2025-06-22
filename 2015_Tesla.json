@@ -1,0 +1,28 @@
+{
+  "brand": "Tesla",
+  "year": 2015,
+  "vehicles": [
+    {
+      "model": "Model",
+      "trim": "S Base",
+      "tire_sizes": [
+        "245/45R19",
+        "P245/45R19",
+        "245/35R21"
+      ]
+    },
+    {
+      "model": "Model",
+      "trim": "S w/Sport Pkg.",
+      "tire_sizes": [
+        "265/35R21",
+        "245/35R21"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T08:58:19.759687",
+    "total_vehicles": 2,
+    "total_tire_sizes": 4
+  }
+}

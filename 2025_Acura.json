@@ -57,12 +57,46 @@
       "tire_sizes": [
         "275/40R21"
       ]
+    },
+    {
+      "model": "RDX",
+      "trim": "SH-AWD",
+      "tire_sizes": [
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "RDX",
+      "trim": "SH-AWD A-Spec",
+      "tire_sizes": [
+        "255/45R20"
+      ]
+    },
+    {
+      "model": "RDX",
+      "trim": "SH-AWD Platinum Elite A-Spec",
+      "tire_sizes": [
+        "255/45R20"
+      ]
+    },
+    {
+      "model": "TLX",
+      "trim": "A-Spec",
+      "tire_sizes": [
+        "255/40R19"
+      ]
+    },
+    {
+      "model": "TLX",
+      "trim": "Type S",
+      "tire_sizes": [
+        "255/35R20"
+      ]
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-19T18:43:10.517463",
-    "total_vehicles": 8,
-    "total_tire_sizes": 5,
-    "scraping_mode": "differential"
+    "scraping_date": "2025-06-21T12:08:47.802025",
+    "total_vehicles": 13,
+    "total_tire_sizes": 9
   }
 }

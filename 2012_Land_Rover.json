@@ -1,0 +1,156 @@
+{
+  "brand": "Land Rover",
+  "year": 2012,
+  "vehicles": [
+    {
+      "model": "LR2",
+      "trim": "Base",
+      "tire_sizes": [
+        "235/55R19",
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "LR2",
+      "trim": "HSE",
+      "tire_sizes": [
+        "235/55R19",
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "LR2",
+      "trim": "HSE Lux",
+      "tire_sizes": [
+        "235/55R19",
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "LR4",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/55R19"
+      ]
+    },
+    {
+      "model": "LR4",
+      "trim": "HSE",
+      "tire_sizes": [
+        "255/50R20",
+        "255/55R19"
+      ]
+    },
+    {
+      "model": "LR4",
+      "trim": "HSE Lux",
+      "tire_sizes": [
+        "255/50R20",
+        "255/55R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Autobiography",
+      "tire_sizes": [
+        "255/50R20",
+        "255/55R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque Dynamic",
+      "tire_sizes": [
+        "235/55R19",
+        "P245/45R20",
+        "245/45R20",
+        "P235/55R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque Prestige",
+      "tire_sizes": [
+        "235/55R19",
+        "P245/45R20",
+        "245/45R20",
+        "P235/55R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Evoque Pure",
+      "tire_sizes": [
+        "P245/45R20",
+        "235/60R18",
+        "P235/60R18",
+        "245/45R20",
+        "P235/55R19",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover HSE",
+      "tire_sizes": [
+        "255/55R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover HSE Lux",
+      "tire_sizes": [
+        "255/50R20"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport Autobiography",
+      "tire_sizes": [
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport GT Limited Edition 3",
+      "tire_sizes": [
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport HSE",
+      "tire_sizes": [
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport HSE Lux",
+      "tire_sizes": [
+        "255/50R19",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport Supercharged",
+      "tire_sizes": [
+        "255/50R19",
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Supercharged",
+      "tire_sizes": [
+        "255/50R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T11:51:55.865119",
+    "total_vehicles": 18,
+    "total_tire_sizes": 10
+  }
+}

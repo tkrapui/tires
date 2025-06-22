@@ -1,0 +1,35 @@
+{
+  "brand": "McLaren",
+  "year": 2015,
+  "vehicles": [
+    {
+      "model": "650S",
+      "trim": "Base",
+      "tire_sizes": [
+        "235/35R19",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "650S",
+      "trim": "Spider",
+      "tire_sizes": [
+        "235/35R19",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "P1",
+      "trim": "Base",
+      "tire_sizes": [
+        "315/30R20",
+        "245/35R19"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T08:59:53.356461",
+    "total_vehicles": 3,
+    "total_tire_sizes": 4
+  }
+}

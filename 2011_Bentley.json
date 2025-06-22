@@ -1,0 +1,71 @@
+{
+  "brand": "Bentley",
+  "year": 2011,
+  "vehicles": [
+    {
+      "model": "Continental",
+      "trim": "Flying Spur",
+      "tire_sizes": [
+        "275/40R19",
+        "275/35R20"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "Flying Spur Speed",
+      "tire_sizes": [
+        "275/35R20"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GT",
+      "tire_sizes": [
+        "275/40R19",
+        "275/35R20"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GT Speed",
+      "tire_sizes": [
+        "275/35R20"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GTC",
+      "tire_sizes": [
+        "275/40R19",
+        "275/35R20"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GTC Speed",
+      "tire_sizes": [
+        "275/35R20"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "Supersports",
+      "tire_sizes": [
+        "275/35R20"
+      ]
+    },
+    {
+      "model": "Mulsanne",
+      "trim": "Base",
+      "tire_sizes": [
+        "265/40R21",
+        "265/45R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T17:02:06.293413",
+    "total_vehicles": 8,
+    "total_tire_sizes": 4
+  }
+}

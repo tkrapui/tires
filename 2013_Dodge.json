@@ -1,0 +1,303 @@
+{
+  "brand": "Dodge",
+  "year": 2013,
+  "vehicles": [
+    {
+      "model": "Avenger",
+      "trim": "R/T",
+      "tire_sizes": [
+        "P225/50R18"
+      ]
+    },
+    {
+      "model": "Avenger",
+      "trim": "SE Canada Value Package",
+      "tire_sizes": [
+        "225/55R17"
+      ]
+    },
+    {
+      "model": "Avenger",
+      "trim": "SXT",
+      "tire_sizes": [
+        "P225/50R18",
+        "225/55R17"
+      ]
+    },
+    {
+      "model": "Avenger",
+      "trim": "SXT Plus",
+      "tire_sizes": [
+        "P225/50R18"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "R/T",
+      "tire_sizes": [
+        "245/45R20",
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "R/T Classic",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "R/T Plus",
+      "tire_sizes": [
+        "245/45R20",
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "R/T w/Super Track Pkg.",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "SRT8",
+      "tire_sizes": [
+        "255/45R20",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "SXT",
+      "tire_sizes": [
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "SXT Plus",
+      "tire_sizes": [
+        "245/45R20",
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "R/T (AWD)",
+      "tire_sizes": [
+        "P235/55R19"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "R/T (RWD)",
+      "tire_sizes": [
+        "245/45R20",
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "R/T w/Road & Track Pkg.",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SE",
+      "tire_sizes": [
+        "P215/65R17"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SRT8",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SXT (AWD)",
+      "tire_sizes": [
+        "P235/55R19"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SXT (RWD)",
+      "tire_sizes": [
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SXT Plus (AWD)",
+      "tire_sizes": [
+        "P235/55R19"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SXT Plus (RWD)",
+      "tire_sizes": [
+        "245/45R20",
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Dart",
+      "trim": "Limited",
+      "tire_sizes": [
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "Dart",
+      "trim": "R/T",
+      "tire_sizes": [
+        "225/40R18"
+      ]
+    },
+    {
+      "model": "Dart",
+      "trim": "Rallye",
+      "tire_sizes": [
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "Dart",
+      "trim": "SE",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "Dart",
+      "trim": "SXT",
+      "tire_sizes": [
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "Citadel",
+      "tire_sizes": [
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "Crew Plus",
+      "tire_sizes": [
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "R/T",
+      "tire_sizes": [
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "SXT",
+      "tire_sizes": [
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Caravan Canada Value Package",
+      "tire_sizes": [
+        "225/65R16",
+        "235/60R16"
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Caravan Crew",
+      "tire_sizes": [
+        "P225/65R17",
+        "225/65R16"
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Caravan Crew Plus",
+      "tire_sizes": [
+        "P225/65R17",
+        "225/65R16"
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Caravan R/T",
+      "tire_sizes": [
+        "P225/65R17"
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Caravan SXT",
+      "tire_sizes": [
+        "P225/65R17"
+      ]
+    },
+    {
+      "model": "Journey",
+      "trim": "Canada Value Package",
+      "tire_sizes": [
+        "P225/65R17"
+      ]
+    },
+    {
+      "model": "Journey",
+      "trim": "Crew",
+      "tire_sizes": [
+        "225/55R19"
+      ]
+    },
+    {
+      "model": "Journey",
+      "trim": "R/T",
+      "tire_sizes": [
+        "225/55R19"
+      ]
+    },
+    {
+      "model": "Journey",
+      "trim": "R/T Rallye",
+      "tire_sizes": [
+        "225/55R19"
+      ]
+    },
+    {
+      "model": "Journey",
+      "trim": "SE Plus",
+      "tire_sizes": [
+        "P225/65R17",
+        "225/55R19"
+      ]
+    },
+    {
+      "model": "Journey",
+      "trim": "SXT",
+      "tire_sizes": [
+        "P225/65R17",
+        "225/55R19"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T10:41:53.875674",
+    "total_vehicles": 40,
+    "total_tire_sizes": 16
+  }
+}

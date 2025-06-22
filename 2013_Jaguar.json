@@ -1,0 +1,142 @@
+{
+  "brand": "Jaguar",
+  "year": 2013,
+  "vehicles": [
+    {
+      "model": "XF",
+      "trim": "(20 Inch Option)",
+      "tire_sizes": [
+        "255/35R20",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "XF",
+      "trim": "3.0L AWD",
+      "tire_sizes": [
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "XF",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/40R19",
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "XF",
+      "trim": "Supercharged",
+      "tire_sizes": [
+        "255/35R20",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "XF",
+      "trim": "Supercharged (All-Season Tire)",
+      "tire_sizes": [
+        "255/35R20",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "XFR",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/35R20",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "XFR-S",
+      "trim": "Base",
+      "tire_sizes": [
+        "265/35R20",
+        "295/30R20"
+      ]
+    },
+    {
+      "model": "XJ",
+      "trim": "Base",
+      "tire_sizes": [
+        "P275/40R19",
+        "P245/45R19"
+      ]
+    },
+    {
+      "model": "XJ",
+      "trim": "L Portfolio",
+      "tire_sizes": [
+        "P275/40R19",
+        "P245/45R19"
+      ]
+    },
+    {
+      "model": "XJ",
+      "trim": "L Supercharged",
+      "tire_sizes": [
+        "P275/40R19",
+        "P245/45R19"
+      ]
+    },
+    {
+      "model": "XJ",
+      "trim": "L Supersport",
+      "tire_sizes": [
+        "P275/40R19",
+        "P245/45R19"
+      ]
+    },
+    {
+      "model": "XJ",
+      "trim": "Supercharged",
+      "tire_sizes": [
+        "P275/40R19",
+        "P245/45R19"
+      ]
+    },
+    {
+      "model": "XJ",
+      "trim": "Supersport",
+      "tire_sizes": [
+        "P275/40R19",
+        "P245/45R19"
+      ]
+    },
+    {
+      "model": "XK",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/40R19",
+        "255/35R20",
+        "275/35R19",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "XKR",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/40R19",
+        "255/35R20",
+        "275/35R19",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "XKR-S",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/35R20",
+        "295/30R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T11:06:27.927909",
+    "total_vehicles": 16,
+    "total_tire_sizes": 9
+  }
+}

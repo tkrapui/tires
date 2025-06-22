@@ -1,0 +1,145 @@
+{
+  "brand": "Mitsubishi",
+  "year": 2015,
+  "vehicles": [
+    {
+      "model": "Lancer",
+      "trim": "DE",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "Evolution GSR",
+      "tire_sizes": [
+        "245/40R18"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "Evolution MR",
+      "tire_sizes": [
+        "245/40R18"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "GT",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "GT Sportback",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "Ralliart",
+      "tire_sizes": [
+        "P215/45R18"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "SE",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "SE Limited Edition",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "SE Limited Edition Sportback",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "SE Sportback",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Mirage",
+      "trim": "ES",
+      "tire_sizes": [
+        "165/65R14"
+      ]
+    },
+    {
+      "model": "Mirage",
+      "trim": "SE",
+      "tire_sizes": [
+        "165/65R14"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "ES",
+      "tire_sizes": [
+        "P215/70R16"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "GT",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "SE",
+      "tire_sizes": [
+        "P225/55R18",
+        "P215/70R16"
+      ]
+    },
+    {
+      "model": "RVR",
+      "trim": "ES",
+      "tire_sizes": [
+        "P215/70R16"
+      ]
+    },
+    {
+      "model": "RVR",
+      "trim": "GT",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    },
+    {
+      "model": "RVR",
+      "trim": "Limited",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    },
+    {
+      "model": "RVR",
+      "trim": "SE",
+      "tire_sizes": [
+        "P215/70R16"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T08:45:23.567477",
+    "total_vehicles": 19,
+    "total_tire_sizes": 6
+  }
+}

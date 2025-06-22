@@ -1,0 +1,55 @@
+{
+  "brand": "Aston Martin",
+  "year": 2013,
+  "vehicles": [
+    {
+      "model": "DB9",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/35R20",
+        "295/30R20"
+      ]
+    },
+    {
+      "model": "DB9",
+      "trim": "Volante",
+      "tire_sizes": [
+        "235/40R19",
+        "275/35R19",
+        "245/35R20",
+        "295/30R20"
+      ]
+    },
+    {
+      "model": "Rapide",
+      "trim": "Base",
+      "tire_sizes": [
+        "295/35R20",
+        "245/40R20"
+      ]
+    },
+    {
+      "model": "V8",
+      "trim": "Vantage Base",
+      "tire_sizes": [
+        "235/40R19",
+        "245/40R19",
+        "275/35R19",
+        "285/35R19"
+      ]
+    },
+    {
+      "model": "V8",
+      "trim": "Vantage S",
+      "tire_sizes": [
+        "245/40R19",
+        "285/35R19"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T11:10:28.147150",
+    "total_vehicles": 5,
+    "total_tire_sizes": 8
+  }
+}

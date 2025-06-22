@@ -1,0 +1,440 @@
+{
+  "brand": "Ram",
+  "year": 2015,
+  "vehicles": [
+    {
+      "model": "1500",
+      "trim": "Big Horn",
+      "tire_sizes": [
+        "P275/60R20"
+      ]
+    },
+    {
+      "model": "1500",
+      "trim": "Express",
+      "tire_sizes": [
+        "P275/60R20"
+      ]
+    },
+    {
+      "model": "1500",
+      "trim": "HFE",
+      "tire_sizes": [
+        "P265/70R17"
+      ]
+    },
+    {
+      "model": "1500",
+      "trim": "Laramie",
+      "tire_sizes": [
+        "P275/60R20",
+        "P265/70R17"
+      ]
+    },
+    {
+      "model": "1500",
+      "trim": "Laramie Limited",
+      "tire_sizes": [
+        "P275/60R20"
+      ]
+    },
+    {
+      "model": "1500",
+      "trim": "Laramie Longhorn",
+      "tire_sizes": [
+        "P275/60R20"
+      ]
+    },
+    {
+      "model": "1500",
+      "trim": "Outdoorsman",
+      "tire_sizes": [
+        "P275/60R20"
+      ]
+    },
+    {
+      "model": "1500",
+      "trim": "SLT",
+      "tire_sizes": [
+        "P265/70R17"
+      ]
+    },
+    {
+      "model": "1500",
+      "trim": "ST",
+      "tire_sizes": [
+        "P275/60R20",
+        "P265/70R17"
+      ]
+    },
+    {
+      "model": "1500",
+      "trim": "SXT",
+      "tire_sizes": [
+        "P265/70R17"
+      ]
+    },
+    {
+      "model": "1500",
+      "trim": "Sport",
+      "tire_sizes": [
+        "P275/60R20"
+      ]
+    },
+    {
+      "model": "1500",
+      "trim": "Sport Reg. Cab",
+      "tire_sizes": [
+        "285/45R22"
+      ]
+    },
+    {
+      "model": "2500",
+      "trim": "Laramie 4x2",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "2500",
+      "trim": "Laramie 4x4",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "2500",
+      "trim": "Laramie Limited 4x2",
+      "tire_sizes": [
+        "285/60R20"
+      ]
+    },
+    {
+      "model": "2500",
+      "trim": "Laramie Limited 4x4",
+      "tire_sizes": [
+        "285/60R20"
+      ]
+    },
+    {
+      "model": "2500",
+      "trim": "Laramie Longhorn 4x2",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "2500",
+      "trim": "Laramie Longhorn 4x4",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "2500",
+      "trim": "Outdoorsman",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "2500",
+      "trim": "Power Wagon",
+      "tire_sizes": [
+        "285/70R17"
+      ]
+    },
+    {
+      "model": "2500",
+      "trim": "SLT 4x2 Crew Cab",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "2500",
+      "trim": "SLT 4x2 Mega Cab",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "2500",
+      "trim": "SLT 4x2 Reg. Cab",
+      "tire_sizes": [
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "2500",
+      "trim": "SLT 4x4 Crew Cab",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "2500",
+      "trim": "SLT 4x4 Mega Cab",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "2500",
+      "trim": "SLT 4x4 Reg. Cab",
+      "tire_sizes": [
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "2500",
+      "trim": "ST 4x2",
+      "tire_sizes": [
+        "275/70R18",
+        "245/70R17"
+      ]
+    },
+    {
+      "model": "2500",
+      "trim": "ST 4x4",
+      "tire_sizes": [
+        "275/70R18",
+        "245/70R17"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "Laramie 4x2",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "Laramie 4x2 (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "Laramie 4x4",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "Laramie 4x4 (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "Laramie Limited 4x2",
+      "tire_sizes": [
+        "285/60R20"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "Laramie Limited 4x2 (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "Laramie Limited 4x4",
+      "tire_sizes": [
+        "285/60R20"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "Laramie Limited 4x4 (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "Laramie Longhorn 4x2",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "Laramie Longhorn 4x2 (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "Laramie Longhorn 4x4",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "Laramie Longhorn 4x4 (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "SLT 4x2 (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "SLT 4x2 Crew Cab",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "SLT 4x2 Mega Cab",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "SLT 4x2 Reg. Cab",
+      "tire_sizes": [
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "SLT 4x4 (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "SLT 4x4 Crew Cab",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "SLT 4x4 Mega Cab",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "SLT 4x4 Reg. Cab",
+      "tire_sizes": [
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "3500",
+      "trim": "ST Base",
+      "tire_sizes": [
+        "285/60R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "C/V",
+      "trim": "Base",
+      "tire_sizes": [
+        "225/65R17",
+        "225/65R16"
+      ]
+    },
+    {
+      "model": "ProMaster",
+      "trim": "1500 (C-Type Tires)",
+      "tire_sizes": [
+        "225/75R16"
+      ]
+    },
+    {
+      "model": "ProMaster",
+      "trim": "1500 (LT Tire Option)",
+      "tire_sizes": [
+        "225/75R16"
+      ]
+    },
+    {
+      "model": "ProMaster",
+      "trim": "2500 (C-Type Tires)",
+      "tire_sizes": [
+        "225/75R16"
+      ]
+    },
+    {
+      "model": "ProMaster",
+      "trim": "3500 (C-Type Tires)",
+      "tire_sizes": [
+        "225/75R16"
+      ]
+    },
+    {
+      "model": "ProMaster",
+      "trim": "City SLT",
+      "tire_sizes": [
+        "215/55R16"
+      ]
+    },
+    {
+      "model": "ProMaster",
+      "trim": "City SLT w/aluminum wheels",
+      "tire_sizes": [
+        "215/55R16"
+      ]
+    },
+    {
+      "model": "ProMaster",
+      "trim": "City ST",
+      "tire_sizes": [
+        "215/55R16"
+      ]
+    },
+    {
+      "model": "ProMaster",
+      "trim": "City ST w/alloy wheels",
+      "tire_sizes": [
+        "215/55R16"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T08:49:20.373198",
+    "total_vehicles": 58,
+    "total_tire_sizes": 12
+  }
+}

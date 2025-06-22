@@ -1,0 +1,65 @@
+{
+  "brand": "Buick",
+  "year": 2012,
+  "vehicles": [
+    {
+      "model": "Enclave",
+      "trim": "Base",
+      "tire_sizes": [
+        "P255/60R19",
+        "P255/55R20"
+      ]
+    },
+    {
+      "model": "LaCrosse",
+      "trim": "Base",
+      "tire_sizes": [
+        "P235/50R18",
+        "P245/40R19",
+        "P245/50R17"
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "Base",
+      "tire_sizes": [
+        "P235/50R18"
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "GS",
+      "tire_sizes": [
+        "P245/40R19"
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "Turbo",
+      "tire_sizes": [
+        "P235/50R18",
+        "P245/40R19"
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "eAssist",
+      "tire_sizes": [
+        "P235/50R17"
+      ]
+    },
+    {
+      "model": "Verano",
+      "trim": "Base",
+      "tire_sizes": [
+        "P235/45R18",
+        "P225/50R17"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T11:21:28.181010",
+    "total_vehicles": 7,
+    "total_tire_sizes": 8
+  }
+}

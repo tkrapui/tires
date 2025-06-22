@@ -1,0 +1,132 @@
+{
+  "brand": "Mitsubishi",
+  "year": 2012,
+  "vehicles": [
+    {
+      "model": "Eclipse",
+      "trim": "GS",
+      "tire_sizes": [
+        "P235/45R18"
+      ]
+    },
+    {
+      "model": "Eclipse",
+      "trim": "GT-P",
+      "tire_sizes": [
+        "P235/45R18"
+      ]
+    },
+    {
+      "model": "Eclipse",
+      "trim": "Spyder GS",
+      "tire_sizes": [
+        "P235/45R18"
+      ]
+    },
+    {
+      "model": "Eclipse",
+      "trim": "Spyder GT-P",
+      "tire_sizes": [
+        "P235/45R18"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "DE",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "GT",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "GT Sportback",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "SE",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "SE Sportback",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "ES",
+      "tire_sizes": [
+        "P215/70R16"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "LS",
+      "tire_sizes": [
+        "P215/70R16"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "XLS",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    },
+    {
+      "model": "RVR",
+      "trim": "ES",
+      "tire_sizes": [
+        "P215/70R16"
+      ]
+    },
+    {
+      "model": "RVR",
+      "trim": "GT",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    },
+    {
+      "model": "RVR",
+      "trim": "SE",
+      "tire_sizes": [
+        "P215/70R16"
+      ]
+    },
+    {
+      "model": "i-MiEV",
+      "trim": "ES",
+      "tire_sizes": [
+        "145/65R15",
+        "175/60R15"
+      ]
+    },
+    {
+      "model": "i-MiEV",
+      "trim": "SE",
+      "tire_sizes": [
+        "145/65R15",
+        "175/60R15"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T11:41:48.896202",
+    "total_vehicles": 17,
+    "total_tire_sizes": 6
+  }
+}

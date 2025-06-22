@@ -1,0 +1,50 @@
+{
+  "brand": "Genesis",
+  "year": 2015,
+  "vehicles": [
+    {
+      "model": "Hyundai",
+      "trim": "3.8",
+      "tire_sizes": [
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "Hyundai",
+      "trim": "5.0 (AWD)",
+      "tire_sizes": [
+        "275/35R19",
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "Hyundai",
+      "trim": "Coupe 3.8",
+      "tire_sizes": [
+        "245/45R18",
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "Hyundai",
+      "trim": "Coupe 3.8 GT",
+      "tire_sizes": [
+        "225/40R19",
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "Hyundai",
+      "trim": "Coupe 3.8 R-Spec",
+      "tire_sizes": [
+        "225/40R19",
+        "245/40R19"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T08:54:57.718864",
+    "total_vehicles": 5,
+    "total_tire_sizes": 5
+  }
+}

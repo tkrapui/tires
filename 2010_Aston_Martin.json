@@ -1,0 +1,46 @@
+{
+  "brand": "Aston Martin",
+  "year": 2010,
+  "vehicles": [
+    {
+      "model": "DB9",
+      "trim": "Base SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 235/40ZR19 92(Y) 8.5J 26.40 * * Calculated based on size. 36 psi Search Tires Rear: 275/35ZR19 96(Y) 9.5J 26.58 * * Calculated based on size. 38 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    },
+    {
+      "model": "DB9",
+      "trim": "Volante SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 235/40ZR19 92(Y) 8.5J 26.40 * * Calculated based on size. 36 psi Search Tires Rear: 275/35ZR19 96(Y) 9.5J 26.58 * * Calculated based on size. 38 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    },
+    {
+      "model": "DBS",
+      "trim": "Base SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 245/35ZR20 95(Y) 8.5J 26.75 * * Calculated based on size. 36 psi Search Tires Rear: 295/30ZR20 101(Y) 11J 26.97 * * Calculated based on size. 38 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    },
+    {
+      "model": "DBS",
+      "trim": "Volante SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 245/35ZR20 95(Y) 8.5J 26.75 * * Calculated based on size. 36 psi Search Tires Rear: 295/30ZR20 101(Y) 11J 26.97 * * Calculated based on size. 38 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    },
+    {
+      "model": "Rapide",
+      "trim": "Base SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 245/40ZR20 95(Y) 8.5J 27.72 * * Calculated based on size. 36 psi Search Tires Rear: 295/35ZR20 105(Y) 11J 28.13 * * Calculated based on size. 38 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    },
+    {
+      "model": "V12",
+      "trim": "Vantage Base SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 255/35ZR19 96(Y) 9J 26.03 * * Calculated based on size. 36 psi Search Tires Rear: 295/30ZR19 100(Y) 11J 25.97 * * Calculated based on size. 38 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    },
+    {
+      "model": "V8",
+      "trim": "Vantage Base SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 235/40ZR19 92(Y) 8.5J 26.40 * * Calculated based on size. 34 psi Search Tires Rear: 275/35ZR19 96(Y) 9.5J 26.58 * * Calculated based on size. 36 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T17:52:57.088664",
+    "total_vehicles": 7,
+    "total_tire_sizes": 0
+  }
+}

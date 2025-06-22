@@ -1,0 +1,395 @@
+{
+  "brand": "Mercedes-Benz",
+  "year": 2012,
+  "vehicles": [
+    {
+      "model": "C250",
+      "trim": "4Matic",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "C250",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/55R16",
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "C300",
+      "trim": "4Matic",
+      "tire_sizes": [
+        "245/40R17",
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "C350",
+      "trim": "4Matic",
+      "tire_sizes": [
+        "225/40R18",
+        "255/35R18"
+      ]
+    },
+    {
+      "model": "C350",
+      "trim": "Base",
+      "tire_sizes": [
+        "225/40R18",
+        "255/35R18"
+      ]
+    },
+    {
+      "model": "C63",
+      "trim": "AMG Base",
+      "tire_sizes": [
+        "255/30R19",
+        "235/35R19",
+        "255/35R18",
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "CL550",
+      "trim": "4Matic",
+      "tire_sizes": [
+        "255/40R19"
+      ]
+    },
+    {
+      "model": "CL600",
+      "trim": "Base",
+      "tire_sizes": [
+        "275/40R19",
+        "255/40R19"
+      ]
+    },
+    {
+      "model": "CL63",
+      "trim": "AMG Base",
+      "tire_sizes": [
+        "275/40R19",
+        "255/40R19"
+      ]
+    },
+    {
+      "model": "CL65",
+      "trim": "AMG Base",
+      "tire_sizes": [
+        "275/35R20",
+        "255/35R20"
+      ]
+    },
+    {
+      "model": "CLS550",
+      "trim": "4Matic",
+      "tire_sizes": [
+        "285/30R19",
+        "285/35R18",
+        "255/40R18",
+        "255/35R19"
+      ]
+    },
+    {
+      "model": "CLS63",
+      "trim": "AMG Base",
+      "tire_sizes": [
+        "285/30R19",
+        "255/35R19"
+      ]
+    },
+    {
+      "model": "E300",
+      "trim": "4Matic",
+      "tire_sizes": [
+        "245/45R17"
+      ]
+    },
+    {
+      "model": "E350",
+      "trim": "4Matic Sedan",
+      "tire_sizes": [
+        "245/40R18"
+      ]
+    },
+    {
+      "model": "E350",
+      "trim": "4Matic Wagon",
+      "tire_sizes": [
+        "245/40R18"
+      ]
+    },
+    {
+      "model": "E350",
+      "trim": "Bluetec",
+      "tire_sizes": [
+        "245/40R18"
+      ]
+    },
+    {
+      "model": "E350",
+      "trim": "Cabriolet",
+      "tire_sizes": [
+        "255/35R18",
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "E350",
+      "trim": "Coupe",
+      "tire_sizes": [
+        "255/35R18",
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "E550",
+      "trim": "4Matic",
+      "tire_sizes": [
+        "245/40R18"
+      ]
+    },
+    {
+      "model": "E550",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/35R18",
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "E63",
+      "trim": "AMG Base",
+      "tire_sizes": [
+        "285/30R19",
+        "255/35R19"
+      ]
+    },
+    {
+      "model": "G550",
+      "trim": "Base",
+      "tire_sizes": [
+        "265/60R18"
+      ]
+    },
+    {
+      "model": "GL350",
+      "trim": "Bluetec 4Matic",
+      "tire_sizes": [
+        "295/40R21"
+      ]
+    },
+    {
+      "model": "GL550",
+      "trim": "4Matic",
+      "tire_sizes": [
+        "295/40R21"
+      ]
+    },
+    {
+      "model": "GLK350",
+      "trim": "4Matic",
+      "tire_sizes": [
+        "235/45R20"
+      ]
+    },
+    {
+      "model": "GLK350",
+      "trim": "Base",
+      "tire_sizes": [
+        "235/45R20"
+      ]
+    },
+    {
+      "model": "ML350",
+      "trim": "4Matic",
+      "tire_sizes": [
+        "255/50R19",
+        "265/45R20"
+      ]
+    },
+    {
+      "model": "ML350",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/50R19",
+        "265/45R20"
+      ]
+    },
+    {
+      "model": "ML350",
+      "trim": "Bluetec 4Matic",
+      "tire_sizes": [
+        "255/50R19",
+        "265/45R20"
+      ]
+    },
+    {
+      "model": "ML550",
+      "trim": "4Matic",
+      "tire_sizes": [
+        "265/45R20"
+      ]
+    },
+    {
+      "model": "ML63",
+      "trim": "AMG Base",
+      "tire_sizes": [
+        "295/35R21"
+      ]
+    },
+    {
+      "model": "R350",
+      "trim": "4Matic",
+      "tire_sizes": [
+        "255/50R19",
+        "265/45R20"
+      ]
+    },
+    {
+      "model": "R350",
+      "trim": "Bluetec 4Matic",
+      "tire_sizes": [
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "S350",
+      "trim": "Bluetec 4Matic",
+      "tire_sizes": [
+        "255/40R19"
+      ]
+    },
+    {
+      "model": "S400",
+      "trim": "Hybrid",
+      "tire_sizes": [
+        "275/40R19",
+        "255/40R19"
+      ]
+    },
+    {
+      "model": "S550",
+      "trim": "4Matic",
+      "tire_sizes": [
+        "255/40R19"
+      ]
+    },
+    {
+      "model": "S600",
+      "trim": "w/Sport Pkg.",
+      "tire_sizes": [
+        "275/40R19",
+        "255/40R19"
+      ]
+    },
+    {
+      "model": "S63",
+      "trim": "AMG Base",
+      "tire_sizes": [
+        "275/35R20",
+        "255/35R20"
+      ]
+    },
+    {
+      "model": "S65",
+      "trim": "AMG Base",
+      "tire_sizes": [
+        "275/35R20",
+        "255/35R20"
+      ]
+    },
+    {
+      "model": "SL550",
+      "trim": "Avantgarde",
+      "tire_sizes": [
+        "285/30R19",
+        "255/35R19"
+      ]
+    },
+    {
+      "model": "SL550",
+      "trim": "Grand Edition",
+      "tire_sizes": [
+        "285/30R19",
+        "255/35R19"
+      ]
+    },
+    {
+      "model": "SL63",
+      "trim": "AMG Avantgarde",
+      "tire_sizes": [
+        "285/30R19",
+        "255/35R19"
+      ]
+    },
+    {
+      "model": "SLK250",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/40R17",
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "SLK250",
+      "trim": "w/AMG Sport Pkg.",
+      "tire_sizes": [
+        "225/40R18",
+        "245/35R18"
+      ]
+    },
+    {
+      "model": "SLK350",
+      "trim": "Base",
+      "tire_sizes": [
+        "225/40R18",
+        "245/35R18"
+      ]
+    },
+    {
+      "model": "SLK55",
+      "trim": "AMG Base",
+      "tire_sizes": [
+        "255/35R18",
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "SLS",
+      "trim": "AMG Base",
+      "tire_sizes": [
+        "295/30R20",
+        "265/35R19"
+      ]
+    },
+    {
+      "model": "Sprinter",
+      "trim": "2500 (Alloy Wheels)",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "Sprinter",
+      "trim": "2500 (Steel Wheels)",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "Sprinter",
+      "trim": "3500 (DRW)",
+      "tire_sizes": [
+        "215/85R16"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T11:41:08.716904",
+    "total_vehicles": 50,
+    "total_tire_sizes": 29
+  }
+}

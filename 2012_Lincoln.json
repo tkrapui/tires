@@ -1,0 +1,86 @@
+{
+  "brand": "Lincoln",
+  "year": 2012,
+  "vehicles": [
+    {
+      "model": "MKS",
+      "trim": "Base",
+      "tire_sizes": [
+        "P255/45R19",
+        "245/45R20",
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "MKS",
+      "trim": "EcoBoost",
+      "tire_sizes": [
+        "245/45R20",
+        "P255/45R19"
+      ]
+    },
+    {
+      "model": "MKT",
+      "trim": "Base",
+      "tire_sizes": [
+        "P255/45R20"
+      ]
+    },
+    {
+      "model": "MKT",
+      "trim": "EcoBoost",
+      "tire_sizes": [
+        "P235/55R19",
+        "P255/45R20"
+      ]
+    },
+    {
+      "model": "MKX",
+      "trim": "Base",
+      "tire_sizes": [
+        "P245/50R20",
+        "P245/60R18"
+      ]
+    },
+    {
+      "model": "MKZ",
+      "trim": "Base",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "MKZ",
+      "trim": "Hybrid",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "MKZ",
+      "trim": "w/Sport Appearance Pkg.",
+      "tire_sizes": [
+        "P225/45R18"
+      ]
+    },
+    {
+      "model": "Navigator",
+      "trim": "Base",
+      "tire_sizes": [
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "Navigator",
+      "trim": "L",
+      "tire_sizes": [
+        "P275/55R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T11:38:44.127591",
+    "total_vehicles": 10,
+    "total_tire_sizes": 10
+  }
+}

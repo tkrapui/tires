@@ -1,0 +1,98 @@
+{
+  "brand": "Maserati",
+  "year": 2014,
+  "vehicles": [
+    {
+      "model": "Ghibli",
+      "trim": "Base",
+      "tire_sizes": [
+        "285/30R21",
+        "275/40R19",
+        "245/35R21",
+        "245/45R19",
+        "245/40R20",
+        "285/35R20",
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "Ghibli",
+      "trim": "S Q4",
+      "tire_sizes": [
+        "275/45R18",
+        "285/30R21",
+        "275/40R19",
+        "245/35R21",
+        "245/45R19",
+        "245/40R20",
+        "285/35R20",
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "GranTurismo",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/35R20",
+        "285/35R20"
+      ]
+    },
+    {
+      "model": "GranTurismo",
+      "trim": "MC",
+      "tire_sizes": [
+        "245/35R20",
+        "285/35R20"
+      ]
+    },
+    {
+      "model": "GranTurismo",
+      "trim": "Sport",
+      "tire_sizes": [
+        "245/35R20",
+        "285/35R20"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "GTS",
+      "tire_sizes": [
+        "285/30R21",
+        "275/40R19",
+        "245/35R21",
+        "245/45R19",
+        "245/40R20",
+        "285/35R20"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "S",
+      "tire_sizes": [
+        "285/30R21",
+        "275/40R19",
+        "245/35R21",
+        "245/45R19",
+        "245/40R20",
+        "285/35R20"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "S Q4",
+      "tire_sizes": [
+        "285/30R21",
+        "275/40R19",
+        "245/35R21",
+        "245/45R19",
+        "245/40R20",
+        "285/35R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T09:42:32.462705",
+    "total_vehicles": 8,
+    "total_tire_sizes": 9
+  }
+}

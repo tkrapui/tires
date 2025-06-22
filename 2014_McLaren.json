@@ -1,0 +1,35 @@
+{
+  "brand": "McLaren",
+  "year": 2014,
+  "vehicles": [
+    {
+      "model": "MP4-12C",
+      "trim": "Base",
+      "tire_sizes": [
+        "235/35R19",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "MP4-12C",
+      "trim": "Spider",
+      "tire_sizes": [
+        "235/35R19",
+        "305/30R20"
+      ]
+    },
+    {
+      "model": "P1",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/35R19",
+        "315/30R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T09:42:50.528932",
+    "total_vehicles": 3,
+    "total_tire_sizes": 4
+  }
+}

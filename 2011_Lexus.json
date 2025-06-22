@@ -1,0 +1,198 @@
+{
+  "brand": "Lexus",
+  "year": 2011,
+  "vehicles": [
+    {
+      "model": "CT200h",
+      "trim": "Base",
+      "tire_sizes": [
+        "P205/55R16",
+        "P215/45R17"
+      ]
+    },
+    {
+      "model": "ES350",
+      "trim": "Base",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "GS350",
+      "trim": "(AWD)",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "GS450h",
+      "trim": "(Run-Flat Tire Option)",
+      "tire_sizes": [
+        "P245/40R18"
+      ]
+    },
+    {
+      "model": "GS450h",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/40R18"
+      ]
+    },
+    {
+      "model": "GS460",
+      "trim": "(Run-Flat Tire Option)",
+      "tire_sizes": [
+        "P245/40R18"
+      ]
+    },
+    {
+      "model": "GS460",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/40R18"
+      ]
+    },
+    {
+      "model": "GX460",
+      "trim": "Premium",
+      "tire_sizes": [
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "GX460",
+      "trim": "Ultra Premium",
+      "tire_sizes": [
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "HS250h",
+      "trim": "Premium",
+      "tire_sizes": [
+        "P215/55R17",
+        "P225/45R18"
+      ]
+    },
+    {
+      "model": "HS250h",
+      "trim": "Ultra Premium",
+      "tire_sizes": [
+        "P225/45R18"
+      ]
+    },
+    {
+      "model": "IS",
+      "trim": "F Base",
+      "tire_sizes": [
+        "255/35R19",
+        "225/40R19"
+      ]
+    },
+    {
+      "model": "IS250",
+      "trim": "(AWD)",
+      "tire_sizes": [
+        "225/45R17",
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "IS250",
+      "trim": "(RWD)",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "IS250",
+      "trim": "C",
+      "tire_sizes": [
+        "225/45R17",
+        "245/45R17",
+        "255/40R18",
+        "225/40R18"
+      ]
+    },
+    {
+      "model": "IS350",
+      "trim": "(AWD)",
+      "tire_sizes": [
+        "225/45R17",
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "IS350",
+      "trim": "(RWD)",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "IS350",
+      "trim": "C",
+      "tire_sizes": [
+        "255/40R18",
+        "225/40R18"
+      ]
+    },
+    {
+      "model": "LS460",
+      "trim": "Base",
+      "tire_sizes": [
+        "P245/45R19",
+        "245/45R19",
+        "P235/50R18",
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "LS460",
+      "trim": "L",
+      "tire_sizes": [
+        "P245/45R19",
+        "245/45R19",
+        "P235/50R18",
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "LS600h",
+      "trim": "L",
+      "tire_sizes": [
+        "245/45R19",
+        "P245/45R19",
+        "P235/50R18"
+      ]
+    },
+    {
+      "model": "LX570",
+      "trim": "Base",
+      "tire_sizes": [
+        "P285/50R20"
+      ]
+    },
+    {
+      "model": "RX350",
+      "trim": "Base",
+      "tire_sizes": [
+        "P235/55R19",
+        "P235/60R18"
+      ]
+    },
+    {
+      "model": "RX450h",
+      "trim": "Base",
+      "tire_sizes": [
+        "P235/55R19",
+        "P235/60R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T16:46:45.944567",
+    "total_vehicles": 24,
+    "total_tire_sizes": 22
+  }
+}

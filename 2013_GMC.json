@@ -1,0 +1,463 @@
+{
+  "brand": "GMC",
+  "year": 2013,
+  "vehicles": [
+    {
+      "model": "Acadia",
+      "trim": "Denali",
+      "tire_sizes": [
+        "P255/55R20"
+      ]
+    },
+    {
+      "model": "Acadia",
+      "trim": "SL",
+      "tire_sizes": [
+        "P255/65R18",
+        "P255/55R20"
+      ]
+    },
+    {
+      "model": "Acadia",
+      "trim": "SLE",
+      "tire_sizes": [
+        "P255/65R18",
+        "P255/55R20"
+      ]
+    },
+    {
+      "model": "Acadia",
+      "trim": "SLT",
+      "tire_sizes": [
+        "P255/60R19",
+        "P255/55R20"
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "1500 Base",
+      "tire_sizes": [
+        "P245/70R17"
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "1500 SL",
+      "tire_sizes": [
+        "P245/70R17"
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "1500 SLE",
+      "tire_sizes": [
+        "P245/70R17"
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "2500 Base",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "2500 SL",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "2500 SLE",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "3500 Base",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "3500 SL",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "3500 SLE",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "1500 Denali",
+      "tire_sizes": [
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "1500 Hybrid",
+      "tire_sizes": [
+        "P265/65R18"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "1500 SLE (20 Inch Option)",
+      "tire_sizes": [
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "1500 SLE 4x2",
+      "tire_sizes": [
+        "P265/70R17",
+        "P245/70R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "1500 SLE 4x4",
+      "tire_sizes": [
+        "P265/70R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "1500 SLE 4x4 Ext. Cab Long Box",
+      "tire_sizes": [
+        "P265/70R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "1500 SLE Z71",
+      "tire_sizes": [
+        "P265/70R17",
+        "P265/65R18"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "1500 SLT (20 Inch Option)",
+      "tire_sizes": [
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "1500 SLT 4x2",
+      "tire_sizes": [
+        "P265/70R17",
+        "P245/70R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "1500 SLT 4x4",
+      "tire_sizes": [
+        "P265/70R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "1500 SLT 4x4 Ext. Cab Long Box",
+      "tire_sizes": [
+        "P265/70R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "1500 SLT Z71",
+      "tire_sizes": [
+        "P265/70R17",
+        "P265/65R18"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "1500 WT 4x2",
+      "tire_sizes": [
+        "P245/70R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "1500 WT 4x4",
+      "tire_sizes": [
+        "P265/70R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "1500 WT 4x4 Ext. Cab Long Box",
+      "tire_sizes": [
+        "P265/70R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "2500 HD Denali",
+      "tire_sizes": [
+        "265/70R18",
+        "265/60R20"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "2500 HD SLE Crew Cab",
+      "tire_sizes": [
+        "265/70R18",
+        "245/75R17",
+        "265/60R20",
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "2500 HD SLE Ext. Cab",
+      "tire_sizes": [
+        "265/70R18",
+        "245/75R17",
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "2500 HD SLE Reg. Cab",
+      "tire_sizes": [
+        "265/70R18",
+        "245/75R17",
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "2500 HD SLT (20 Inch Option)",
+      "tire_sizes": [
+        "265/60R20"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "2500 HD SLT Crew Cab",
+      "tire_sizes": [
+        "265/70R18"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "2500 HD SLT Ext. Cab",
+      "tire_sizes": [
+        "265/70R18"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "2500 HD WT Crew Cab",
+      "tire_sizes": [
+        "265/70R18",
+        "245/75R17",
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "2500 HD WT Ext. Cab",
+      "tire_sizes": [
+        "265/70R18",
+        "245/75R17",
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "2500 HD WT Reg. Cab",
+      "tire_sizes": [
+        "265/70R18",
+        "245/75R17",
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "3500 HD Denali",
+      "tire_sizes": [
+        "265/70R18",
+        "265/60R20"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "3500 HD Denali (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "3500 HD SLE",
+      "tire_sizes": [
+        "265/70R18"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "3500 HD SLE (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "3500 HD SLT",
+      "tire_sizes": [
+        "265/70R18"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "3500 HD SLT (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "3500 HD WT",
+      "tire_sizes": [
+        "265/70R18"
+      ]
+    },
+    {
+      "model": "Sierra",
+      "trim": "3500 HD WT (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Terrain",
+      "trim": "Denali",
+      "tire_sizes": [
+        "P235/55R19",
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Terrain",
+      "trim": "SLE",
+      "tire_sizes": [
+        "P235/60R17",
+        "P235/55R19",
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Terrain",
+      "trim": "SLT",
+      "tire_sizes": [
+        "P235/60R17",
+        "P235/55R19",
+        "P235/55R18"
+      ]
+    },
+    {
+      "model": "Yukon",
+      "trim": "Denali",
+      "tire_sizes": [
+        "P285/45R22",
+        "P285/50R20",
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "Yukon",
+      "trim": "Denali Hybrid",
+      "tire_sizes": [
+        "P285/45R22"
+      ]
+    },
+    {
+      "model": "Yukon",
+      "trim": "Hybrid",
+      "tire_sizes": [
+        "P265/65R18"
+      ]
+    },
+    {
+      "model": "Yukon",
+      "trim": "SLE",
+      "tire_sizes": [
+        "P265/70R17",
+        "P285/45R22",
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "Yukon",
+      "trim": "SLT",
+      "tire_sizes": [
+        "P265/70R17",
+        "P285/45R22",
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "Yukon",
+      "trim": "XL 1500 Denali",
+      "tire_sizes": [
+        "P285/45R22",
+        "P285/50R20",
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "Yukon",
+      "trim": "XL 1500 SLE",
+      "tire_sizes": [
+        "P265/70R17",
+        "P285/45R22",
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "Yukon",
+      "trim": "XL 1500 SLT",
+      "tire_sizes": [
+        "P265/70R17",
+        "P285/45R22",
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "Yukon",
+      "trim": "XL 2500 SLE",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Yukon",
+      "trim": "XL 2500 SLT",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T10:47:03.445227",
+    "total_vehicles": 59,
+    "total_tire_sizes": 18
+  }
+}

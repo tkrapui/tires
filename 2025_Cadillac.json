@@ -1,0 +1,457 @@
+{
+  "brand": "Cadillac",
+  "year": 2025,
+  "vehicles": [
+    {
+      "model": "CT4",
+      "trim": "Luxury (AWD)",
+      "tire_sizes": [
+        "225/45R17",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "CT4",
+      "trim": "Luxury (RWD)",
+      "tire_sizes": [
+        "225/45R17",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "CT4",
+      "trim": "Premium Luxury (AWD)",
+      "tire_sizes": [
+        "235/40R18",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "CT4",
+      "trim": "Premium Luxury (RWD)",
+      "tire_sizes": [
+        "235/40R18",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "CT4",
+      "trim": "Sport (AWD)",
+      "tire_sizes": [
+        "235/40R18",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "CT4",
+      "trim": "Sport (RWD)",
+      "tire_sizes": [
+        "235/40R18",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "CT4",
+      "trim": "V (AWD)",
+      "tire_sizes": [
+        "235/40R18",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "CT4",
+      "trim": "V (RWD)",
+      "tire_sizes": [
+        "235/40R18",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "CT4",
+      "trim": "V Blackwing",
+      "tire_sizes": [
+        "255/35R18",
+        "275/35R18"
+      ]
+    },
+    {
+      "model": "CT5",
+      "trim": "Premium Luxury (AWD)",
+      "tire_sizes": [
+        "245/45R18",
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "CT5",
+      "trim": "Premium Luxury (RWD)",
+      "tire_sizes": [
+        "245/45R18",
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "CT5",
+      "trim": "Sport (AWD)",
+      "tire_sizes": [
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "CT5",
+      "trim": "Sport (RWD)",
+      "tire_sizes": [
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "CT5",
+      "trim": "V (AWD)",
+      "tire_sizes": [
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "CT5",
+      "trim": "V (RWD)",
+      "tire_sizes": [
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "CT5",
+      "trim": "V Blackwing",
+      "tire_sizes": [
+        "305/30R19",
+        "275/35R19"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "ESV Luxury",
+      "tire_sizes": [
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "ESV Premium Luxury (AWD)",
+      "tire_sizes": [
+        "285/40R24",
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "ESV Premium Luxury (RWD)",
+      "tire_sizes": [
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "ESV Premium Luxury Platinum (AWD)",
+      "tire_sizes": [
+        "285/40R24",
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "ESV Premium Luxury Platinum (RWD)",
+      "tire_sizes": [
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "ESV Sport (AWD)",
+      "tire_sizes": [
+        "285/40R24",
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "ESV Sport (RWD)",
+      "tire_sizes": [
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "ESV Sport Platinum (AWD)",
+      "tire_sizes": [
+        "285/40R24",
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "ESV Sport Platinum (RWD)",
+      "tire_sizes": [
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "ESV V",
+      "tire_sizes": [
+        "285/40R24"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "IQ Luxury 1",
+      "tire_sizes": [
+        "275/50R24"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "IQ Luxury 2",
+      "tire_sizes": [
+        "275/50R24"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "IQ Sport 1",
+      "tire_sizes": [
+        "275/50R24"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "IQ Sport 2",
+      "tire_sizes": [
+        "275/50R24"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "Luxury",
+      "tire_sizes": [
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "Premium Luxury (AWD)",
+      "tire_sizes": [
+        "285/40R24",
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "Premium Luxury (RWD)",
+      "tire_sizes": [
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "Premium Luxury Platinum (AWD)",
+      "tire_sizes": [
+        "285/40R24",
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "Premium Luxury Platinum (RWD)",
+      "tire_sizes": [
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "Sport (AWD)",
+      "tire_sizes": [
+        "285/40R24",
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "Sport (RWD)",
+      "tire_sizes": [
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "Sport Platinum (AWD)",
+      "tire_sizes": [
+        "285/40R24",
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "Sport Platinum (RWD)",
+      "tire_sizes": [
+        "275/50R22"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "V",
+      "tire_sizes": [
+        "285/40R24"
+      ]
+    },
+    {
+      "model": "LYRIQ",
+      "trim": "Luxury 1",
+      "tire_sizes": [
+        "275/40R22",
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "LYRIQ",
+      "trim": "Luxury 2",
+      "tire_sizes": [
+        "275/40R22",
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "LYRIQ",
+      "trim": "Luxury 3",
+      "tire_sizes": [
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "LYRIQ",
+      "trim": "Sport 1",
+      "tire_sizes": [
+        "275/40R22",
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "LYRIQ",
+      "trim": "Sport 2",
+      "tire_sizes": [
+        "275/40R22",
+        "265/50R20"
+      ]
+    },
+    {
+      "model": "LYRIQ",
+      "trim": "Sport 3",
+      "tire_sizes": [
+        "275/40R22"
+      ]
+    },
+    {
+      "model": "OPTIQ",
+      "trim": "Luxury 1",
+      "tire_sizes": [
+        "245/50R20",
+        "275/40R21"
+      ]
+    },
+    {
+      "model": "OPTIQ",
+      "trim": "Luxury 2",
+      "tire_sizes": [
+        "245/50R20",
+        "275/40R21"
+      ]
+    },
+    {
+      "model": "OPTIQ",
+      "trim": "Sport 1",
+      "tire_sizes": [
+        "245/50R20",
+        "275/40R21"
+      ]
+    },
+    {
+      "model": "OPTIQ",
+      "trim": "Sport 2",
+      "tire_sizes": [
+        "245/50R20",
+        "275/40R21"
+      ]
+    },
+    {
+      "model": "XT4",
+      "trim": "Premium Luxury",
+      "tire_sizes": [
+        "235/60R18",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "XT4",
+      "trim": "Sport",
+      "tire_sizes": [
+        "235/60R18",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "XT5",
+      "trim": "Luxury",
+      "tire_sizes": [
+        "235/65R18",
+        "235/55R20"
+      ]
+    },
+    {
+      "model": "XT5",
+      "trim": "Premium Luxury",
+      "tire_sizes": [
+        "235/55R20"
+      ]
+    },
+    {
+      "model": "XT5",
+      "trim": "Sport",
+      "tire_sizes": [
+        "235/55R20"
+      ]
+    },
+    {
+      "model": "XT6",
+      "trim": "Luxury",
+      "tire_sizes": [
+        "235/65R18",
+        "235/55R20"
+      ]
+    },
+    {
+      "model": "XT6",
+      "trim": "Premium Luxury",
+      "tire_sizes": [
+        "235/55R20"
+      ]
+    },
+    {
+      "model": "XT6",
+      "trim": "Premium Luxury w/Platinum Pkg.",
+      "tire_sizes": [
+        "265/45R21"
+      ]
+    },
+    {
+      "model": "XT6",
+      "trim": "Sport",
+      "tire_sizes": [
+        "265/45R21",
+        "235/55R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T10:03:15.188919",
+    "total_vehicles": 59,
+    "total_tire_sizes": 21
+  }
+}

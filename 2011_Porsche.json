@@ -1,0 +1,345 @@
+{
+  "brand": "Porsche",
+  "year": 2011,
+  "vehicles": [
+    {
+      "model": "911",
+      "trim": "Carrera",
+      "tire_sizes": [
+        "265/40R18",
+        "235/40R18",
+        "295/30R19",
+        "235/35R19",
+        "305/30R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera (Winter Tires)",
+      "tire_sizes": [
+        "235/40R18",
+        "295/30R19",
+        "235/35R19",
+        "265/40R18"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera 4",
+      "tire_sizes": [
+        "235/40R18",
+        "295/30R19",
+        "295/35R18",
+        "235/35R19",
+        "305/30R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera 4 (Winter Tires)",
+      "tire_sizes": [
+        "235/40R18",
+        "295/35R18",
+        "235/35R19",
+        "295/30R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera 4S",
+      "tire_sizes": [
+        "305/30R19",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera 4S (Winter Tires)",
+      "tire_sizes": [
+        "295/30R19",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera GTS",
+      "tire_sizes": [
+        "305/30R19",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera S",
+      "tire_sizes": [
+        "295/30R19",
+        "305/30R19",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera S (Winter Tires)",
+      "tire_sizes": [
+        "295/30R19",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "GT2 RS",
+      "tire_sizes": [
+        "245/35R19",
+        "325/30R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "GT3",
+      "tire_sizes": [
+        "305/30R19",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "GT3 RS",
+      "tire_sizes": [
+        "245/35R19",
+        "325/30R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Speedster",
+      "tire_sizes": [
+        "305/30R19",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Targa 4",
+      "tire_sizes": [
+        "235/40R18",
+        "305/30R19",
+        "295/35R18",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Targa 4 (Winter Tires)",
+      "tire_sizes": [
+        "235/40R18",
+        "295/35R18",
+        "235/35R19",
+        "295/30R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Targa 4S",
+      "tire_sizes": [
+        "305/30R19",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Targa 4S (Winter Tires)",
+      "tire_sizes": [
+        "295/30R19",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Turbo",
+      "tire_sizes": [
+        "305/30R19",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Turbo (Winter Tires)",
+      "tire_sizes": [
+        "235/40R18",
+        "295/35R18",
+        "235/35R19",
+        "295/30R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Turbo S",
+      "tire_sizes": [
+        "305/30R19",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "Boxster",
+      "trim": "(Winter Tires)",
+      "tire_sizes": [
+        "205/55R17",
+        "235/50R17"
+      ]
+    },
+    {
+      "model": "Boxster",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/55R17",
+        "235/50R17"
+      ]
+    },
+    {
+      "model": "Boxster",
+      "trim": "S",
+      "tire_sizes": [
+        "235/40R18",
+        "235/35R19",
+        "265/35R19",
+        "265/40R18"
+      ]
+    },
+    {
+      "model": "Boxster",
+      "trim": "S (Winter Tires)",
+      "tire_sizes": [
+        "235/40R18",
+        "255/40R18"
+      ]
+    },
+    {
+      "model": "Boxster",
+      "trim": "Spyder",
+      "tire_sizes": [
+        "235/35R19",
+        "265/35R19"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "Base",
+      "tire_sizes": [
+        "265/50R19",
+        "255/55R18",
+        "275/45R20",
+        "295/35R21"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "S",
+      "tire_sizes": [
+        "265/50R19",
+        "255/55R18",
+        "275/45R20",
+        "295/35R21"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "S Hybrid",
+      "tire_sizes": [
+        "265/50R19",
+        "255/55R18",
+        "275/45R20",
+        "295/35R21"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "Turbo",
+      "tire_sizes": [
+        "265/50R19",
+        "275/45R20",
+        "295/35R21"
+      ]
+    },
+    {
+      "model": "Cayman",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/55R17",
+        "235/50R17"
+      ]
+    },
+    {
+      "model": "Cayman",
+      "trim": "S",
+      "tire_sizes": [
+        "235/40R18",
+        "235/35R19",
+        "265/35R19",
+        "265/40R18"
+      ]
+    },
+    {
+      "model": "Panamera",
+      "trim": "4",
+      "tire_sizes": [
+        "285/40R19",
+        "255/40R20",
+        "245/50R18",
+        "255/45R19",
+        "275/45R18",
+        "295/35R20"
+      ]
+    },
+    {
+      "model": "Panamera",
+      "trim": "4S",
+      "tire_sizes": [
+        "285/40R19",
+        "255/40R20",
+        "245/50R18",
+        "255/45R19",
+        "275/45R18",
+        "295/35R20"
+      ]
+    },
+    {
+      "model": "Panamera",
+      "trim": "Base",
+      "tire_sizes": [
+        "285/40R19",
+        "255/40R20",
+        "245/50R18",
+        "255/45R19",
+        "275/45R18",
+        "295/35R20"
+      ]
+    },
+    {
+      "model": "Panamera",
+      "trim": "S",
+      "tire_sizes": [
+        "285/40R19",
+        "255/40R20",
+        "245/50R18",
+        "255/45R19",
+        "275/45R18",
+        "295/35R20"
+      ]
+    },
+    {
+      "model": "Panamera",
+      "trim": "Turbo",
+      "tire_sizes": [
+        "285/40R19",
+        "255/40R20",
+        "255/45R19",
+        "295/35R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T17:01:09.889137",
+    "total_vehicles": 36,
+    "total_tire_sizes": 22
+  }
+}
