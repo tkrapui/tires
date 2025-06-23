@@ -1,0 +1,130 @@
+{
+  "brand": "Oldsmobile",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "Oldsmobile",
+      "trim": "Alero GL",
+      "tires": [
+        {
+          "size": "P215/60R15"
+        }
+      ]
+    },
+    {
+      "model": "Oldsmobile",
+      "trim": "Alero GL 1",
+      "tires": [
+        {
+          "size": "P225/50R16"
+        }
+      ]
+    },
+    {
+      "model": "Oldsmobile",
+      "trim": "Alero GL 2",
+      "tires": [
+        {
+          "size": "P225/50R16"
+        }
+      ]
+    },
+    {
+      "model": "Oldsmobile",
+      "trim": "Alero GL 3",
+      "tires": [
+        {
+          "size": "P225/50R16"
+        }
+      ]
+    },
+    {
+      "model": "Oldsmobile",
+      "trim": "Alero GLS",
+      "tires": [
+        {
+          "size": "P225/50R16"
+        }
+      ]
+    },
+    {
+      "model": "Oldsmobile",
+      "trim": "Alero GX",
+      "tires": [
+        {
+          "size": "P215/60R15"
+        }
+      ]
+    },
+    {
+      "model": "Oldsmobile",
+      "trim": "Bravada Base",
+      "tires": [
+        {
+          "size": "P235/70R15"
+        }
+      ]
+    },
+    {
+      "model": "Oldsmobile",
+      "trim": "Intrigue GL",
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Oldsmobile",
+      "trim": "Intrigue GLS",
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Oldsmobile",
+      "trim": "Intrigue GX",
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Oldsmobile",
+      "trim": "Silhouette GL",
+      "tires": [
+        {
+          "size": "P215/70R15"
+        }
+      ]
+    },
+    {
+      "model": "Oldsmobile",
+      "trim": "Silhouette GLS",
+      "tires": [
+        {
+          "size": "P215/70R15"
+        }
+      ]
+    },
+    {
+      "model": "Oldsmobile",
+      "trim": "Silhouette Premiere",
+      "tires": [
+        {
+          "size": "P215/70R15"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T10:55:33.269832",
+    "total_vehicles": 13,
+    "total_tire_sizes": 5,
+    "migration_date": "2025-06-23T14:37:31.736395",
+    "migrated_to_new_format": true
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "brand": "Mercury",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "Mercury",
+      "trim": "Cougar Base",
+      "tires": [
+        {
+          "size": "P205/60R15"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Cougar V6",
+      "tires": [
+        {
+          "size": "P205/60R15"
+        },
+        {
+          "size": "P215/50R16"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Grand Marquis GS",
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Grand Marquis GS w/Handling Pkg.",
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Grand Marquis LS",
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Grand Marquis LS w/Handling Pkg.",
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Mountaineer V6",
+      "tires": [
+        {
+          "size": "P235/75R15"
+        },
+        {
+          "size": "P225/70R15"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Mountaineer V8",
+      "tires": [
+        {
+          "size": "P235/75R15"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Mystique GS",
+      "tires": [
+        {
+          "size": "P185/70R14"
+        },
+        {
+          "size": "P205/60R15"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Mystique LS",
+      "tires": [
+        {
+          "size": "P205/60R15"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Sable GS Sedan",
+      "tires": [
+        {
+          "size": "P215/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Sable GS Wagon",
+      "tires": [
+        {
+          "size": "P215/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Sable LS",
+      "tires": [
+        {
+          "size": "P215/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Sable LS Premium Sedan",
+      "tires": [
+        {
+          "size": "P215/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Sable LS Premium Wagon",
+      "tires": [
+        {
+          "size": "P215/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Villager Base",
+      "tires": [
+        {
+          "size": "P215/70R15"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Villager Estate",
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Mercury",
+      "trim": "Villager Sport",
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T10:50:44.389653",
+    "total_vehicles": 18,
+    "total_tire_sizes": 8,
+    "migration_date": "2025-06-23T14:37:30.954697",
+    "migrated_to_new_format": true
+  }
+}

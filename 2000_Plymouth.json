@@ -1,0 +1,76 @@
+{
+  "brand": "Plymouth",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "Plymouth",
+      "trim": "Breeze Base",
+      "tires": [
+        {
+          "size": "P195/70R14"
+        }
+      ]
+    },
+    {
+      "model": "Plymouth",
+      "trim": "Grand Voyager Base",
+      "tires": [
+        {
+          "size": "P215/65R15"
+        },
+        {
+          "size": "P205/75R14"
+        }
+      ]
+    },
+    {
+      "model": "Plymouth",
+      "trim": "Grand Voyager SE",
+      "tires": [
+        {
+          "size": "P215/65R15"
+        }
+      ]
+    },
+    {
+      "model": "Plymouth",
+      "trim": "Prowler Base",
+      "tires": [
+        {
+          "size": "P295/40R20"
+        },
+        {
+          "size": "P225/45R17"
+        }
+      ]
+    },
+    {
+      "model": "Plymouth",
+      "trim": "Voyager Base",
+      "tires": [
+        {
+          "size": "P215/65R15"
+        },
+        {
+          "size": "P205/75R14"
+        }
+      ]
+    },
+    {
+      "model": "Plymouth",
+      "trim": "Voyager SE",
+      "tires": [
+        {
+          "size": "P215/65R15"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T10:56:42.880769",
+    "total_vehicles": 6,
+    "total_tire_sizes": 5,
+    "migration_date": "2025-06-23T14:37:31.233756",
+    "migrated_to_new_format": true
+  }
+}

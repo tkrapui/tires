@@ -5,817 +5,1179 @@
     {
       "model": "Blazer",
       "trim": "Base",
-      "tire_sizes": [
-        "235/65R18",
-        "235/55R20"
+      "tires": [
+        {
+          "size": "235/65R18"
+        },
+        {
+          "size": "235/55R20"
+        }
       ]
     },
     {
       "model": "Blazer",
       "trim": "L",
-      "tire_sizes": [
-        "235/65R18"
+      "tires": [
+        {
+          "size": "235/65R18"
+        }
       ]
     },
     {
       "model": "Blazer",
       "trim": "Premier",
-      "tire_sizes": [
-        "265/45R21",
-        "235/55R20"
+      "tires": [
+        {
+          "size": "265/45R21"
+        },
+        {
+          "size": "235/55R20"
+        }
       ]
     },
     {
       "model": "Blazer",
       "trim": "RS",
-      "tire_sizes": [
-        "265/45R21",
-        "235/55R20"
+      "tires": [
+        {
+          "size": "265/45R21"
+        },
+        {
+          "size": "235/55R20"
+        }
       ]
     },
     {
       "model": "Blazer",
       "trim": "True North",
-      "tire_sizes": [
-        "235/65R18",
-        "235/55R20"
+      "tires": [
+        {
+          "size": "235/65R18"
+        },
+        {
+          "size": "235/55R20"
+        }
       ]
     },
     {
       "model": "Bolt",
       "trim": "EV LT",
-      "tire_sizes": [
-        "215/50R17"
+      "tires": [
+        {
+          "size": "215/50R17"
+        }
       ]
     },
     {
       "model": "Bolt",
       "trim": "EV Premier",
-      "tire_sizes": [
-        "215/50R17"
+      "tires": [
+        {
+          "size": "215/50R17"
+        }
       ]
     },
     {
       "model": "Camaro",
       "trim": "LS",
-      "tire_sizes": [
-        "245/40R20",
-        "245/50R18"
+      "tires": [
+        {
+          "size": "245/40R20"
+        },
+        {
+          "size": "245/50R18"
+        }
       ]
     },
     {
       "model": "Camaro",
       "trim": "LS 1LE Pkg.",
-      "tire_sizes": [
-        "275/35R20",
-        "245/40R20"
+      "tires": [
+        {
+          "size": "275/35R20"
+        },
+        {
+          "size": "245/40R20"
+        }
       ]
     },
     {
       "model": "Camaro",
       "trim": "LT",
-      "tire_sizes": [
-        "245/40R20",
-        "245/50R18"
+      "tires": [
+        {
+          "size": "245/40R20"
+        },
+        {
+          "size": "245/50R18"
+        }
       ]
     },
     {
       "model": "Camaro",
       "trim": "LT 1LE Pkg.",
-      "tire_sizes": [
-        "275/35R20",
-        "245/40R20"
+      "tires": [
+        {
+          "size": "275/35R20"
+        },
+        {
+          "size": "245/40R20"
+        }
       ]
     },
     {
       "model": "Camaro",
       "trim": "LT RS",
-      "tire_sizes": [
-        "245/40R20"
+      "tires": [
+        {
+          "size": "245/40R20"
+        }
       ]
     },
     {
       "model": "Camaro",
       "trim": "SS",
-      "tire_sizes": [
-        "275/35R20",
-        "245/40R20"
+      "tires": [
+        {
+          "size": "275/35R20"
+        },
+        {
+          "size": "245/40R20"
+        }
       ]
     },
     {
       "model": "Camaro",
       "trim": "SS 1LE Pkg.",
-      "tire_sizes": [
-        "285/30R20",
-        "305/30R20"
+      "tires": [
+        {
+          "size": "285/30R20"
+        },
+        {
+          "size": "305/30R20"
+        }
       ]
     },
     {
       "model": "Camaro",
       "trim": "ZL1",
-      "tire_sizes": [
-        "285/30R20",
-        "305/30R20"
+      "tires": [
+        {
+          "size": "285/30R20"
+        },
+        {
+          "size": "305/30R20"
+        }
       ]
     },
     {
       "model": "Camaro",
       "trim": "ZL1 1LE Pkg.",
-      "tire_sizes": [
-        "325/30R19",
-        "305/30R19"
+      "tires": [
+        {
+          "size": "325/30R19"
+        },
+        {
+          "size": "305/30R19"
+        }
       ]
     },
     {
       "model": "Colorado",
       "trim": "Base",
-      "tire_sizes": [
-        "265/70R16"
+      "tires": [
+        {
+          "size": "265/70R16"
+        }
       ]
     },
     {
       "model": "Colorado",
       "trim": "LT",
-      "tire_sizes": [
-        "265/60R18",
-        "255/65R17"
+      "tires": [
+        {
+          "size": "265/60R18"
+        },
+        {
+          "size": "255/65R17"
+        }
       ]
     },
     {
       "model": "Colorado",
       "trim": "WT",
-      "tire_sizes": [
-        "265/70R16",
-        "265/60R18",
-        "255/65R17"
+      "tires": [
+        {
+          "size": "265/70R16"
+        },
+        {
+          "size": "265/60R18"
+        },
+        {
+          "size": "255/65R17"
+        }
       ]
     },
     {
       "model": "Colorado",
       "trim": "Z71",
-      "tire_sizes": [
-        "255/65R17"
+      "tires": [
+        {
+          "size": "255/65R17"
+        }
       ]
     },
     {
       "model": "Colorado",
       "trim": "ZR2",
-      "tire_sizes": [
-        "265/65R17"
+      "tires": [
+        {
+          "size": "265/65R17"
+        }
       ]
     },
     {
       "model": "Corvette",
       "trim": "Grand Sport",
-      "tire_sizes": [
-        "335/25R20",
-        "285/30R19"
+      "tires": [
+        {
+          "size": "335/25R20"
+        },
+        {
+          "size": "285/30R19"
+        }
       ]
     },
     {
       "model": "Corvette",
       "trim": "Stingray",
-      "tire_sizes": [
-        "285/30R20",
-        "245/35R19"
+      "tires": [
+        {
+          "size": "285/30R20"
+        },
+        {
+          "size": "245/35R19"
+        }
       ]
     },
     {
       "model": "Corvette",
       "trim": "Z06",
-      "tire_sizes": [
-        "335/25R20",
-        "285/30R19"
+      "tires": [
+        {
+          "size": "335/25R20"
+        },
+        {
+          "size": "285/30R19"
+        }
       ]
     },
     {
       "model": "Corvette",
       "trim": "ZR1",
-      "tire_sizes": [
-        "335/25R20",
-        "285/30R19"
+      "tires": [
+        {
+          "size": "335/25R20"
+        },
+        {
+          "size": "285/30R19"
+        }
       ]
     },
     {
       "model": "Cruze",
       "trim": "Diesel",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "Cruze",
       "trim": "L",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Cruze",
       "trim": "LS",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Cruze",
       "trim": "LT",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "Cruze",
       "trim": "LT w/RS Pkg.",
-      "tire_sizes": [
-        "225/45R17",
-        "P225/40R18"
+      "tires": [
+        {
+          "size": "225/45R17"
+        },
+        {
+          "size": "P225/40R18"
+        }
       ]
     },
     {
       "model": "Cruze",
       "trim": "Premier",
-      "tire_sizes": [
-        "225/45R17",
-        "P225/40R18"
+      "tires": [
+        {
+          "size": "225/45R17"
+        },
+        {
+          "size": "P225/40R18"
+        }
       ]
     },
     {
       "model": "Equinox",
       "trim": "LS",
-      "tire_sizes": [
-        "235/50R19",
-        "225/65R17"
+      "tires": [
+        {
+          "size": "235/50R19"
+        },
+        {
+          "size": "225/65R17"
+        }
       ]
     },
     {
       "model": "Equinox",
       "trim": "LT",
-      "tire_sizes": [
-        "235/50R19",
-        "225/65R17",
-        "225/60R18"
+      "tires": [
+        {
+          "size": "235/50R19"
+        },
+        {
+          "size": "225/65R17"
+        },
+        {
+          "size": "225/60R18"
+        }
       ]
     },
     {
       "model": "Equinox",
       "trim": "Premier",
-      "tire_sizes": [
-        "235/50R19",
-        "225/60R18"
+      "tires": [
+        {
+          "size": "235/50R19"
+        },
+        {
+          "size": "225/60R18"
+        }
       ]
     },
     {
       "model": "Express",
       "trim": "2500 Base",
-      "tire_sizes": [
-        "245/75R16"
+      "tires": [
+        {
+          "size": "245/75R16"
+        }
       ]
     },
     {
       "model": "Express",
       "trim": "2500 LS",
-      "tire_sizes": [
-        "245/75R16"
+      "tires": [
+        {
+          "size": "245/75R16"
+        }
       ]
     },
     {
       "model": "Express",
       "trim": "2500 LT",
-      "tire_sizes": [
-        "245/75R16"
+      "tires": [
+        {
+          "size": "245/75R16"
+        }
       ]
     },
     {
       "model": "Express",
       "trim": "3500 Base",
-      "tire_sizes": [
-        "245/75R16"
+      "tires": [
+        {
+          "size": "245/75R16"
+        }
       ]
     },
     {
       "model": "Express",
       "trim": "3500 LS",
-      "tire_sizes": [
-        "245/75R16"
+      "tires": [
+        {
+          "size": "245/75R16"
+        }
       ]
     },
     {
       "model": "Express",
       "trim": "3500 LT",
-      "tire_sizes": [
-        "245/75R16"
+      "tires": [
+        {
+          "size": "245/75R16"
+        }
       ]
     },
     {
       "model": "Impala",
       "trim": "LS",
-      "tire_sizes": [
-        "P235/50R18"
+      "tires": [
+        {
+          "size": "P235/50R18"
+        }
       ]
     },
     {
       "model": "Impala",
       "trim": "LT",
-      "tire_sizes": [
-        "P245/45R19",
-        "P235/50R18"
+      "tires": [
+        {
+          "size": "P245/45R19"
+        },
+        {
+          "size": "P235/50R18"
+        }
       ]
     },
     {
       "model": "Impala",
       "trim": "Premier",
-      "tire_sizes": [
-        "P245/40R20",
-        "P245/45R19"
+      "tires": [
+        {
+          "size": "P245/40R20"
+        },
+        {
+          "size": "P245/45R19"
+        }
       ]
     },
     {
       "model": "Malibu",
       "trim": "Hybrid",
-      "tire_sizes": [
-        "P225/55R17"
+      "tires": [
+        {
+          "size": "P225/55R17"
+        }
       ]
     },
     {
       "model": "Malibu",
       "trim": "L",
-      "tire_sizes": [
-        "P205/65R16"
+      "tires": [
+        {
+          "size": "P205/65R16"
+        }
       ]
     },
     {
       "model": "Malibu",
       "trim": "LS",
-      "tire_sizes": [
-        "P205/65R16"
+      "tires": [
+        {
+          "size": "P205/65R16"
+        }
       ]
     },
     {
       "model": "Malibu",
       "trim": "LT",
-      "tire_sizes": [
-        "245/45R18",
-        "P225/55R17",
-        "245/40R19"
+      "tires": [
+        {
+          "size": "245/45R18"
+        },
+        {
+          "size": "P225/55R17"
+        },
+        {
+          "size": "245/40R19"
+        }
       ]
     },
     {
       "model": "Malibu",
       "trim": "Premier",
-      "tire_sizes": [
-        "245/45R18",
-        "245/40R19"
+      "tires": [
+        {
+          "size": "245/45R18"
+        },
+        {
+          "size": "245/40R19"
+        }
       ]
     },
     {
       "model": "Malibu",
       "trim": "RS",
-      "tire_sizes": [
-        "245/45R18"
+      "tires": [
+        {
+          "size": "245/45R18"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "1500 Custom",
-      "tire_sizes": [
-        "275/50R22",
-        "275/60R20"
+      "tires": [
+        {
+          "size": "275/50R22"
+        },
+        {
+          "size": "275/60R20"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "1500 Custom Trail Boss",
-      "tire_sizes": [
-        "275/60R20"
+      "tires": [
+        {
+          "size": "275/60R20"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "1500 High Country",
-      "tire_sizes": [
-        "275/50R22",
-        "275/60R20"
+      "tires": [
+        {
+          "size": "275/50R22"
+        },
+        {
+          "size": "275/60R20"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "1500 LD Custom",
-      "tire_sizes": [
-        "P275/55R20"
+      "tires": [
+        {
+          "size": "P275/55R20"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "1500 LD LT",
-      "tire_sizes": [
-        "P265/70R17",
-        "P265/65R18",
-        "P255/70R17"
+      "tires": [
+        {
+          "size": "P265/70R17"
+        },
+        {
+          "size": "P265/65R18"
+        },
+        {
+          "size": "P255/70R17"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "1500 LD LT (22 Inch Option)",
-      "tire_sizes": [
-        "P285/45R22"
+      "tires": [
+        {
+          "size": "P285/45R22"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "1500 LD LT Z71 4x4",
-      "tire_sizes": [
-        "P265/65R18",
-        "P285/45R22"
+      "tires": [
+        {
+          "size": "P265/65R18"
+        },
+        {
+          "size": "P285/45R22"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "1500 LD WT",
-      "tire_sizes": [
-        "P265/70R17",
-        "P255/70R17"
+      "tires": [
+        {
+          "size": "P265/70R17"
+        },
+        {
+          "size": "P255/70R17"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "1500 LT",
-      "tire_sizes": [
-        "265/65R18",
-        "255/70R17",
-        "275/50R22",
-        "265/70R17",
-        "275/60R20"
+      "tires": [
+        {
+          "size": "265/65R18"
+        },
+        {
+          "size": "255/70R17"
+        },
+        {
+          "size": "275/50R22"
+        },
+        {
+          "size": "265/70R17"
+        },
+        {
+          "size": "275/60R20"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "1500 LT Trail Boss",
-      "tire_sizes": [
-        "275/60R20"
+      "tires": [
+        {
+          "size": "275/60R20"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "1500 LTZ",
-      "tire_sizes": [
-        "275/50R22",
-        "275/60R20",
-        "265/65R18"
+      "tires": [
+        {
+          "size": "275/50R22"
+        },
+        {
+          "size": "275/60R20"
+        },
+        {
+          "size": "265/65R18"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "1500 RST",
-      "tire_sizes": [
-        "275/50R22",
-        "275/60R20",
-        "265/65R18"
+      "tires": [
+        {
+          "size": "275/50R22"
+        },
+        {
+          "size": "275/60R20"
+        },
+        {
+          "size": "265/65R18"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "1500 WT",
-      "tire_sizes": [
-        "265/70R17",
-        "255/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        },
+        {
+          "size": "255/70R17"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "2500 HD High Country",
-      "tire_sizes": [
-        "265/60R20"
+      "tires": [
+        {
+          "size": "265/60R20"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "2500 HD High Country Snow Plow Prep Pkg.",
-      "tire_sizes": [
-        "265/60R20"
+      "tires": [
+        {
+          "size": "265/60R20"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "2500 HD LT",
-      "tire_sizes": [
-        "265/70R18",
-        "265/60R20",
-        "265/70R17",
-        "275/65R18",
-        "245/75R17"
+      "tires": [
+        {
+          "size": "265/70R18"
+        },
+        {
+          "size": "265/60R20"
+        },
+        {
+          "size": "265/70R17"
+        },
+        {
+          "size": "275/65R18"
+        },
+        {
+          "size": "245/75R17"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "2500 HD LT Snow Plow Prep Pkg.",
-      "tire_sizes": [
-        "265/60R20",
-        "245/75R17",
-        "265/70R18",
-        "275/65R18"
+      "tires": [
+        {
+          "size": "265/60R20"
+        },
+        {
+          "size": "245/75R17"
+        },
+        {
+          "size": "265/70R18"
+        },
+        {
+          "size": "275/65R18"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "2500 HD LTZ",
-      "tire_sizes": [
-        "265/60R20",
-        "265/70R18",
-        "275/65R18"
+      "tires": [
+        {
+          "size": "265/60R20"
+        },
+        {
+          "size": "265/70R18"
+        },
+        {
+          "size": "275/65R18"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "2500 HD LTZ Snow Plow Prep Pkg.",
-      "tire_sizes": [
-        "265/60R20",
-        "265/70R18"
+      "tires": [
+        {
+          "size": "265/60R20"
+        },
+        {
+          "size": "265/70R18"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "2500 HD WT",
-      "tire_sizes": [
-        "265/70R18",
-        "265/60R20",
-        "265/70R17",
-        "275/65R18",
-        "245/75R17"
+      "tires": [
+        {
+          "size": "265/70R18"
+        },
+        {
+          "size": "265/60R20"
+        },
+        {
+          "size": "265/70R17"
+        },
+        {
+          "size": "275/65R18"
+        },
+        {
+          "size": "245/75R17"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "2500 HD WT Snow Plow Prep Pkg.",
-      "tire_sizes": [
-        "265/60R20",
-        "245/75R17",
-        "265/70R18",
-        "275/65R18"
+      "tires": [
+        {
+          "size": "265/60R20"
+        },
+        {
+          "size": "245/75R17"
+        },
+        {
+          "size": "265/70R18"
+        },
+        {
+          "size": "275/65R18"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "3500 HD High Country",
-      "tire_sizes": [
-        "265/70R18"
+      "tires": [
+        {
+          "size": "265/70R18"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "3500 HD High Country (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "3500 HD High Country Snow Plow Prep Pkg.",
-      "tire_sizes": [
-        "265/70R18"
+      "tires": [
+        {
+          "size": "265/70R18"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "3500 HD High Country Snow Plow Prep Pkg. (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "3500 HD LT",
-      "tire_sizes": [
-        "265/70R18"
+      "tires": [
+        {
+          "size": "265/70R18"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "3500 HD LT (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "3500 HD LT Snow Plow Prep Pkg.",
-      "tire_sizes": [
-        "265/70R18"
+      "tires": [
+        {
+          "size": "265/70R18"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "3500 HD LT Snow Plow Prep Pkg. (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "3500 HD LTZ",
-      "tire_sizes": [
-        "265/70R18"
+      "tires": [
+        {
+          "size": "265/70R18"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "3500 HD LTZ (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "3500 HD LTZ Snow Plow Prep Pkg.",
-      "tire_sizes": [
-        "265/70R18"
+      "tires": [
+        {
+          "size": "265/70R18"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "3500 HD LTZ Snow Plow Prep Pkg. (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "3500 HD WT",
-      "tire_sizes": [
-        "265/70R18"
+      "tires": [
+        {
+          "size": "265/70R18"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "3500 HD WT (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "3500 HD WT Snow Plow Prep Pkg.",
-      "tire_sizes": [
-        "265/70R18"
+      "tires": [
+        {
+          "size": "265/70R18"
+        }
       ]
     },
     {
       "model": "Silverado",
       "trim": "3500 HD WT Snow Plow Prep Pkg. (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Spark",
       "trim": "LS",
-      "tire_sizes": [
-        "185/55R15"
+      "tires": [
+        {
+          "size": "185/55R15"
+        }
       ]
     },
     {
       "model": "Spark",
       "trim": "LT",
-      "tire_sizes": [
-        "185/55R15"
+      "tires": [
+        {
+          "size": "185/55R15"
+        }
       ]
     },
     {
       "model": "Suburban",
       "trim": "LS",
-      "tire_sizes": [
-        "P265/65R18",
-        "P285/45R22",
-        "P275/55R20"
+      "tires": [
+        {
+          "size": "P265/65R18"
+        },
+        {
+          "size": "P285/45R22"
+        },
+        {
+          "size": "P275/55R20"
+        }
       ]
     },
     {
       "model": "Suburban",
       "trim": "LT",
-      "tire_sizes": [
-        "P265/65R18",
-        "P285/45R22",
-        "P275/55R20"
+      "tires": [
+        {
+          "size": "P265/65R18"
+        },
+        {
+          "size": "P285/45R22"
+        },
+        {
+          "size": "P275/55R20"
+        }
       ]
     },
     {
       "model": "Suburban",
       "trim": "Premier",
-      "tire_sizes": [
-        "P275/55R20",
-        "P285/45R22"
+      "tires": [
+        {
+          "size": "P275/55R20"
+        },
+        {
+          "size": "P285/45R22"
+        }
       ]
     },
     {
       "model": "Tahoe",
       "trim": "LS",
-      "tire_sizes": [
-        "P265/65R18",
-        "P285/45R22",
-        "P275/55R20"
+      "tires": [
+        {
+          "size": "P265/65R18"
+        },
+        {
+          "size": "P285/45R22"
+        },
+        {
+          "size": "P275/55R20"
+        }
       ]
     },
     {
       "model": "Tahoe",
       "trim": "LT",
-      "tire_sizes": [
-        "P265/65R18",
-        "P285/45R22",
-        "P275/55R20"
+      "tires": [
+        {
+          "size": "P265/65R18"
+        },
+        {
+          "size": "P285/45R22"
+        },
+        {
+          "size": "P275/55R20"
+        }
       ]
     },
     {
       "model": "Tahoe",
       "trim": "Premier",
-      "tire_sizes": [
-        "P275/55R20",
-        "P285/45R22"
+      "tires": [
+        {
+          "size": "P275/55R20"
+        },
+        {
+          "size": "P285/45R22"
+        }
       ]
     },
     {
       "model": "Traverse",
       "trim": "High Country",
-      "tire_sizes": [
-        "255/55R20"
+      "tires": [
+        {
+          "size": "255/55R20"
+        }
       ]
     },
     {
       "model": "Traverse",
       "trim": "LS",
-      "tire_sizes": [
-        "255/65R18",
-        "255/55R20"
+      "tires": [
+        {
+          "size": "255/65R18"
+        },
+        {
+          "size": "255/55R20"
+        }
       ]
     },
     {
       "model": "Traverse",
       "trim": "LT",
-      "tire_sizes": [
-        "255/65R18",
-        "255/55R20"
+      "tires": [
+        {
+          "size": "255/65R18"
+        },
+        {
+          "size": "255/55R20"
+        }
       ]
     },
     {
       "model": "Traverse",
       "trim": "Premier",
-      "tire_sizes": [
-        "255/55R20"
+      "tires": [
+        {
+          "size": "255/55R20"
+        }
       ]
     },
     {
       "model": "Traverse",
       "trim": "RS",
-      "tire_sizes": [
-        "255/55R20"
+      "tires": [
+        {
+          "size": "255/55R20"
+        }
       ]
     },
     {
       "model": "Traverse",
       "trim": "True North",
-      "tire_sizes": [
-        "255/55R20"
+      "tires": [
+        {
+          "size": "255/55R20"
+        }
       ]
     },
     {
       "model": "Trax",
       "trim": "LS",
-      "tire_sizes": [
-        "P205/70R16"
+      "tires": [
+        {
+          "size": "P205/70R16"
+        }
       ]
     },
     {
       "model": "Trax",
       "trim": "LT",
-      "tire_sizes": [
-        "P205/70R16",
-        "P215/55R18"
+      "tires": [
+        {
+          "size": "P205/70R16"
+        },
+        {
+          "size": "P215/55R18"
+        }
       ]
     },
     {
       "model": "Trax",
       "trim": "Premier",
-      "tire_sizes": [
-        "P215/55R18"
+      "tires": [
+        {
+          "size": "P215/55R18"
+        }
       ]
     },
     {
       "model": "Volt",
       "trim": "LT",
-      "tire_sizes": [
-        "215/50R17"
+      "tires": [
+        {
+          "size": "215/50R17"
+        }
       ]
     },
     {
       "model": "Volt",
       "trim": "Premier",
-      "tire_sizes": [
-        "215/50R17"
+      "tires": [
+        {
+          "size": "215/50R17"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-20T17:15:35.444920",
     "total_vehicles": 105,
-    "total_tire_sizes": 53
+    "total_tire_sizes": 53,
+    "migration_date": "2025-06-23T14:37:31.657671",
+    "migrated_to_new_format": true
   }
 }

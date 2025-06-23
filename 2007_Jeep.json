@@ -5,171 +5,237 @@
     {
       "model": "Commander",
       "trim": "Base",
-      "tire_sizes": [
-        "P245/65R17"
+      "tires": [
+        {
+          "size": "P245/65R17"
+        }
       ]
     },
     {
       "model": "Commander",
       "trim": "Limited",
-      "tire_sizes": [
-        "P245/65R17"
+      "tires": [
+        {
+          "size": "P245/65R17"
+        }
       ]
     },
     {
       "model": "Commander",
       "trim": "Overland",
-      "tire_sizes": [
-        "P245/65R17",
-        "245/60R18"
+      "tires": [
+        {
+          "size": "P245/65R17"
+        },
+        {
+          "size": "245/60R18"
+        }
       ]
     },
     {
       "model": "Commander",
       "trim": "Sport",
-      "tire_sizes": [
-        "P245/65R17"
+      "tires": [
+        {
+          "size": "P245/65R17"
+        }
       ]
     },
     {
       "model": "Compass",
       "trim": "Base",
-      "tire_sizes": [
-        "P215/65R17",
-        "P215/60R17"
+      "tires": [
+        {
+          "size": "P215/65R17"
+        },
+        {
+          "size": "P215/60R17"
+        }
       ]
     },
     {
       "model": "Compass",
       "trim": "Limited",
-      "tire_sizes": [
-        "P215/55R18"
+      "tires": [
+        {
+          "size": "P215/55R18"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee Laredo",
-      "tire_sizes": [
-        "P245/65R17"
+      "tires": [
+        {
+          "size": "P245/65R17"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee Limited",
-      "tire_sizes": [
-        "P245/65R17"
+      "tires": [
+        {
+          "size": "P245/65R17"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee Overland",
-      "tire_sizes": [
-        "P245/65R17"
+      "tires": [
+        {
+          "size": "P245/65R17"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee SRT8",
-      "tire_sizes": [
-        "255/45R20",
-        "285/40R20"
+      "tires": [
+        {
+          "size": "255/45R20"
+        },
+        {
+          "size": "285/40R20"
+        }
       ]
     },
     {
       "model": "Liberty",
       "trim": "Limited",
-      "tire_sizes": [
-        "P235/65R17"
+      "tires": [
+        {
+          "size": "P235/65R17"
+        }
       ]
     },
     {
       "model": "Liberty",
       "trim": "Sport",
-      "tire_sizes": [
-        "P225/75R16",
-        "P235/70R16"
+      "tires": [
+        {
+          "size": "P225/75R16"
+        },
+        {
+          "size": "P235/70R16"
+        }
       ]
     },
     {
       "model": "Patriot",
       "trim": "Limited",
-      "tire_sizes": [
-        "P215/65R17",
-        "P215/60R17"
+      "tires": [
+        {
+          "size": "P215/65R17"
+        },
+        {
+          "size": "P215/60R17"
+        }
       ]
     },
     {
       "model": "Patriot",
       "trim": "Sport",
-      "tire_sizes": [
-        "P215/65R17",
-        "P205/70R16"
+      "tires": [
+        {
+          "size": "P215/65R17"
+        },
+        {
+          "size": "P205/70R16"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "Rubicon",
-      "tire_sizes": [
-        "255/75R17"
+      "tires": [
+        {
+          "size": "255/75R17"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "Sahara",
-      "tire_sizes": [
-        "P255/75R17",
-        "P255/70R18"
+      "tires": [
+        {
+          "size": "P255/75R17"
+        },
+        {
+          "size": "P255/70R18"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "Unlimited Rubicon",
-      "tire_sizes": [
-        "255/75R17"
+      "tires": [
+        {
+          "size": "255/75R17"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "Unlimited Sahara",
-      "tire_sizes": [
-        "P255/75R17",
-        "P255/70R18"
+      "tires": [
+        {
+          "size": "P255/75R17"
+        },
+        {
+          "size": "P255/70R18"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "Unlimited X (C Pkg.)",
-      "tire_sizes": [
-        "P225/75R16"
+      "tires": [
+        {
+          "size": "P225/75R16"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "Unlimited X (S Pkg.)",
-      "tire_sizes": [
-        "P245/75R16"
+      "tires": [
+        {
+          "size": "P245/75R16"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "X (B & C Pkg.)",
-      "tire_sizes": [
-        "P255/75R17",
-        "P225/75R16"
+      "tires": [
+        {
+          "size": "P255/75R17"
+        },
+        {
+          "size": "P225/75R16"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "X (S Pkg.)",
-      "tire_sizes": [
-        "P255/75R17",
-        "P245/75R16"
+      "tires": [
+        {
+          "size": "P255/75R17"
+        },
+        {
+          "size": "P245/75R16"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-22T17:01:26.854246",
     "total_vehicles": 22,
-    "total_tire_sizes": 15
+    "total_tire_sizes": 15,
+    "migration_date": "2025-06-23T14:37:31.387485",
+    "migrated_to_new_format": true
   }
 }

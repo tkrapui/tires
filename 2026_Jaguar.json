@@ -5,17 +5,19 @@
     {
       "model": "F-Pace",
       "trim": "R-Dynamic S SIZE LOAD SPEED RIM WIDTH OD INFLATION 255/55R19 111W 8.5J 30.04 * * Calculated based on size. 40 psi 40 psi Fitment Details Search Tires 255/50R20 109W 8.5J 30.04 * * Calculated based on size. 43 psi 43 psi Fitment Details Search Tires 265/45R21 104W 8.5J 30.39 * * Calculated based on size. Front: 43 psi Rear: 45 psi Fitment Details Search Tires 265/40R22 106Y 9J 30.35 * * Calculated based on size. 43 psi 43 psi Fitment Details Search Tires",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "F-Pace",
       "trim": "SVR 575 Edition SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 265/45R21 108Y 9J 30.39 * * Calculated based on size. 45 psi Search Tires Rear: 295/40R21 111Y 10J 30.29 * * Calculated based on size. 45 psi Search Tires Fitment Details Search Both Front: 265/40R22 106Y 9J 30.35 * * Calculated based on size. 45 psi Search Tires Rear: 295/35R22 108Y 10J 30.13 * * Calculated based on size. 45 psi Search Tires Fitment Details Search Both",
-      "tire_sizes": []
+      "tires": []
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-21T16:17:22.611286",
     "total_vehicles": 2,
-    "total_tire_sizes": 0
+    "total_tire_sizes": 0,
+    "migration_date": "2025-06-23T14:37:31.838938",
+    "migrated_to_new_format": true
   }
 }

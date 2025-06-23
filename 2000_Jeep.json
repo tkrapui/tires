@@ -5,75 +5,105 @@
     {
       "model": "Cherokee",
       "trim": "Classic",
-      "tire_sizes": [
-        "P225/70R16"
+      "tires": [
+        {
+          "size": "P225/70R16"
+        }
       ]
     },
     {
       "model": "Cherokee",
       "trim": "Limited",
-      "tire_sizes": [
-        "P225/70R16"
+      "tires": [
+        {
+          "size": "P225/70R16"
+        }
       ]
     },
     {
       "model": "Cherokee",
       "trim": "SE",
-      "tire_sizes": [
-        "P225/75R15",
-        "P215/75R15"
+      "tires": [
+        {
+          "size": "P225/75R15"
+        },
+        {
+          "size": "P215/75R15"
+        }
       ]
     },
     {
       "model": "Cherokee",
       "trim": "Sport",
-      "tire_sizes": [
-        "P225/75R15"
+      "tires": [
+        {
+          "size": "P225/75R15"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee Laredo",
-      "tire_sizes": [
-        "P225/75R16",
-        "P245/70R16"
+      "tires": [
+        {
+          "size": "P225/75R16"
+        },
+        {
+          "size": "P245/70R16"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee Limited",
-      "tire_sizes": [
-        "P245/70R16"
+      "tires": [
+        {
+          "size": "P245/70R16"
+        }
       ]
     },
     {
       "model": "TJ",
       "trim": "SE",
-      "tire_sizes": [
-        "P215/75R15",
-        "P225/75R15",
-        "P205/75R15"
+      "tires": [
+        {
+          "size": "P215/75R15"
+        },
+        {
+          "size": "P225/75R15"
+        },
+        {
+          "size": "P205/75R15"
+        }
       ]
     },
     {
       "model": "TJ",
       "trim": "Sahara",
-      "tire_sizes": [
-        "P225/70R15"
+      "tires": [
+        {
+          "size": "P225/70R15"
+        }
       ]
     },
     {
       "model": "TJ",
       "trim": "Sport",
-      "tire_sizes": [
-        "P225/75R15",
-        "P215/75R15"
+      "tires": [
+        {
+          "size": "P225/75R15"
+        },
+        {
+          "size": "P215/75R15"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-23T10:11:18.721896",
     "total_vehicles": 9,
-    "total_tire_sizes": 7
+    "total_tire_sizes": 7,
+    "migration_date": "2025-06-23T14:37:31.023549",
+    "migrated_to_new_format": true
   }
 }

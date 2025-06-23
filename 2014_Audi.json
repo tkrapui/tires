@@ -5,367 +5,525 @@
     {
       "model": "A4",
       "trim": "Komfort",
-      "tire_sizes": [
-        "P245/45R17",
-        "245/45R17",
-        "245/40R18"
+      "tires": [
+        {
+          "size": "P245/45R17"
+        },
+        {
+          "size": "245/45R17"
+        },
+        {
+          "size": "245/40R18"
+        }
       ]
     },
     {
       "model": "A4",
       "trim": "Quattro Komfort",
-      "tire_sizes": [
-        "P245/45R17",
-        "245/45R17",
-        "245/40R18"
+      "tires": [
+        {
+          "size": "P245/45R17"
+        },
+        {
+          "size": "245/45R17"
+        },
+        {
+          "size": "245/40R18"
+        }
       ]
     },
     {
       "model": "A4",
       "trim": "Quattro Progressiv",
-      "tire_sizes": [
-        "245/40R18"
+      "tires": [
+        {
+          "size": "245/40R18"
+        }
       ]
     },
     {
       "model": "A4",
       "trim": "Quattro Progressiv (19 Inch Option)",
-      "tire_sizes": [
-        "255/35R19"
+      "tires": [
+        {
+          "size": "255/35R19"
+        }
       ]
     },
     {
       "model": "A4",
       "trim": "Quattro Technik",
-      "tire_sizes": [
-        "245/40R18"
+      "tires": [
+        {
+          "size": "245/40R18"
+        }
       ]
     },
     {
       "model": "A4",
       "trim": "allroad Base",
-      "tire_sizes": [
-        "245/45R18"
+      "tires": [
+        {
+          "size": "245/45R18"
+        }
       ]
     },
     {
       "model": "A5",
       "trim": "Quattro Base",
-      "tire_sizes": [
-        "245/40R18"
+      "tires": [
+        {
+          "size": "245/40R18"
+        }
       ]
     },
     {
       "model": "A5",
       "trim": "Quattro Cabriolet",
-      "tire_sizes": [
-        "245/40R18"
+      "tires": [
+        {
+          "size": "245/40R18"
+        }
       ]
     },
     {
       "model": "A6",
       "trim": "Quattro Base",
-      "tire_sizes": [
-        "255/35R20",
-        "245/45R18",
-        "255/40R19"
+      "tires": [
+        {
+          "size": "255/35R20"
+        },
+        {
+          "size": "245/45R18"
+        },
+        {
+          "size": "255/40R19"
+        }
       ]
     },
     {
       "model": "A6",
       "trim": "Quattro TDI",
-      "tire_sizes": [
-        "255/35R20",
-        "245/45R18",
-        "255/40R19"
+      "tires": [
+        {
+          "size": "255/35R20"
+        },
+        {
+          "size": "245/45R18"
+        },
+        {
+          "size": "255/40R19"
+        }
       ]
     },
     {
       "model": "A7",
       "trim": "Quattro (20 Inch Option)",
-      "tire_sizes": [
-        "265/35R20"
+      "tires": [
+        {
+          "size": "265/35R20"
+        }
       ]
     },
     {
       "model": "A7",
       "trim": "Quattro Base",
-      "tire_sizes": [
-        "255/45R18",
-        "255/40R19"
+      "tires": [
+        {
+          "size": "255/45R18"
+        },
+        {
+          "size": "255/40R19"
+        }
       ]
     },
     {
       "model": "A7",
       "trim": "Quattro TDI",
-      "tire_sizes": [
-        "255/45R18",
-        "255/40R19"
+      "tires": [
+        {
+          "size": "255/45R18"
+        },
+        {
+          "size": "255/40R19"
+        }
       ]
     },
     {
       "model": "A7",
       "trim": "Quattro TDI (20 Inch Option)",
-      "tire_sizes": [
-        "265/35R20"
+      "tires": [
+        {
+          "size": "265/35R20"
+        }
       ]
     },
     {
       "model": "A8",
       "trim": "Quattro Base",
-      "tire_sizes": [
-        "265/40R20",
-        "255/45R19"
+      "tires": [
+        {
+          "size": "265/40R20"
+        },
+        {
+          "size": "255/45R19"
+        }
       ]
     },
     {
       "model": "A8",
       "trim": "Quattro L",
-      "tire_sizes": [
-        "265/40R20",
-        "255/45R19"
+      "tires": [
+        {
+          "size": "265/40R20"
+        },
+        {
+          "size": "255/45R19"
+        }
       ]
     },
     {
       "model": "A8",
       "trim": "Quattro L TDI",
-      "tire_sizes": [
-        "265/40R20",
-        "255/45R19"
+      "tires": [
+        {
+          "size": "265/40R20"
+        },
+        {
+          "size": "255/45R19"
+        }
       ]
     },
     {
       "model": "A8",
       "trim": "Quattro L W12",
-      "tire_sizes": [
-        "265/40R20",
-        "255/45R19"
+      "tires": [
+        {
+          "size": "265/40R20"
+        },
+        {
+          "size": "255/45R19"
+        }
       ]
     },
     {
       "model": "Q5",
       "trim": "2.0T",
-      "tire_sizes": [
-        "235/55R19",
-        "235/60R18"
+      "tires": [
+        {
+          "size": "235/55R19"
+        },
+        {
+          "size": "235/60R18"
+        }
       ]
     },
     {
       "model": "Q5",
       "trim": "3.0T",
-      "tire_sizes": [
-        "235/55R19",
-        "235/60R18"
+      "tires": [
+        {
+          "size": "235/55R19"
+        },
+        {
+          "size": "235/60R18"
+        }
       ]
     },
     {
       "model": "Q5",
       "trim": "Hybrid",
-      "tire_sizes": [
-        "255/45R20",
-        "235/55R19"
+      "tires": [
+        {
+          "size": "255/45R20"
+        },
+        {
+          "size": "235/55R19"
+        }
       ]
     },
     {
       "model": "Q5",
       "trim": "TDI",
-      "tire_sizes": [
-        "235/60R18"
+      "tires": [
+        {
+          "size": "235/60R18"
+        }
       ]
     },
     {
       "model": "Q7",
       "trim": "(19 Inch Option)",
-      "tire_sizes": [
-        "265/50R19"
+      "tires": [
+        {
+          "size": "265/50R19"
+        }
       ]
     },
     {
       "model": "Q7",
       "trim": "(20 Inch Option)",
-      "tire_sizes": [
-        "275/45R20"
+      "tires": [
+        {
+          "size": "275/45R20"
+        }
       ]
     },
     {
       "model": "Q7",
       "trim": "Base",
-      "tire_sizes": [
-        "P255/55R18",
-        "255/55R18"
+      "tires": [
+        {
+          "size": "P255/55R18"
+        },
+        {
+          "size": "255/55R18"
+        }
       ]
     },
     {
       "model": "Q7",
       "trim": "Sport",
-      "tire_sizes": [
-        "295/35R21"
+      "tires": [
+        {
+          "size": "295/35R21"
+        }
       ]
     },
     {
       "model": "Q7",
       "trim": "TDI",
-      "tire_sizes": [
-        "265/50R19",
-        "275/45R20"
+      "tires": [
+        {
+          "size": "265/50R19"
+        },
+        {
+          "size": "275/45R20"
+        }
       ]
     },
     {
       "model": "R8",
       "trim": "Plus",
-      "tire_sizes": [
-        "235/35R19",
-        "305/30R19"
+      "tires": [
+        {
+          "size": "235/35R19"
+        },
+        {
+          "size": "305/30R19"
+        }
       ]
     },
     {
       "model": "R8",
       "trim": "Spyder V10",
-      "tire_sizes": [
-        "235/35R19",
-        "295/30R19"
+      "tires": [
+        {
+          "size": "235/35R19"
+        },
+        {
+          "size": "295/30R19"
+        }
       ]
     },
     {
       "model": "R8",
       "trim": "Spyder V8",
-      "tire_sizes": [
-        "235/35R19",
-        "295/30R19"
+      "tires": [
+        {
+          "size": "235/35R19"
+        },
+        {
+          "size": "295/30R19"
+        }
       ]
     },
     {
       "model": "R8",
       "trim": "V10",
-      "tire_sizes": [
-        "235/35R19",
-        "295/30R19"
+      "tires": [
+        {
+          "size": "235/35R19"
+        },
+        {
+          "size": "295/30R19"
+        }
       ]
     },
     {
       "model": "R8",
       "trim": "V8",
-      "tire_sizes": [
-        "235/35R19",
-        "295/30R19"
+      "tires": [
+        {
+          "size": "235/35R19"
+        },
+        {
+          "size": "295/30R19"
+        }
       ]
     },
     {
       "model": "RS5",
       "trim": "Base",
-      "tire_sizes": [
-        "275/30R20"
+      "tires": [
+        {
+          "size": "275/30R20"
+        }
       ]
     },
     {
       "model": "RS5",
       "trim": "Cabriolet",
-      "tire_sizes": [
-        "275/30R20"
+      "tires": [
+        {
+          "size": "275/30R20"
+        }
       ]
     },
     {
       "model": "RS7",
       "trim": "Base",
-      "tire_sizes": [
-        "275/30R21",
-        "275/35R20"
+      "tires": [
+        {
+          "size": "275/30R21"
+        },
+        {
+          "size": "275/35R20"
+        }
       ]
     },
     {
       "model": "S4",
       "trim": "Base",
-      "tire_sizes": [
-        "245/40R18",
-        "255/35R19"
+      "tires": [
+        {
+          "size": "245/40R18"
+        },
+        {
+          "size": "255/35R19"
+        }
       ]
     },
     {
       "model": "S5",
       "trim": "Cabriolet",
-      "tire_sizes": [
-        "245/40R18"
+      "tires": [
+        {
+          "size": "245/40R18"
+        }
       ]
     },
     {
       "model": "S5",
       "trim": "Coupe",
-      "tire_sizes": [
-        "245/40R18"
+      "tires": [
+        {
+          "size": "245/40R18"
+        }
       ]
     },
     {
       "model": "S6",
       "trim": "Base",
-      "tire_sizes": [
-        "255/35R20",
-        "255/40R19"
+      "tires": [
+        {
+          "size": "255/35R20"
+        },
+        {
+          "size": "255/40R19"
+        }
       ]
     },
     {
       "model": "S7",
       "trim": "Base",
-      "tire_sizes": [
-        "265/35R20",
-        "255/40R19"
+      "tires": [
+        {
+          "size": "265/35R20"
+        },
+        {
+          "size": "255/40R19"
+        }
       ]
     },
     {
       "model": "S8",
       "trim": "(Summer Tires)",
-      "tire_sizes": [
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "S8",
       "trim": "Base",
-      "tire_sizes": [
-        "265/35R21"
+      "tires": [
+        {
+          "size": "265/35R21"
+        }
       ]
     },
     {
       "model": "SQ5",
       "trim": "Progressiv",
-      "tire_sizes": [
-        "255/45R20",
-        "255/40R21"
+      "tires": [
+        {
+          "size": "255/45R20"
+        },
+        {
+          "size": "255/40R21"
+        }
       ]
     },
     {
       "model": "SQ5",
       "trim": "Technik",
-      "tire_sizes": [
-        "255/45R20",
-        "255/40R21"
+      "tires": [
+        {
+          "size": "255/45R20"
+        },
+        {
+          "size": "255/40R21"
+        }
       ]
     },
     {
       "model": "TT",
       "trim": "Quattro (S Line Pkg.)",
-      "tire_sizes": [
-        "255/35R19"
+      "tires": [
+        {
+          "size": "255/35R19"
+        }
       ]
     },
     {
       "model": "TT",
       "trim": "Quattro Base",
-      "tire_sizes": [
-        "245/40R18",
-        "255/35R19"
+      "tires": [
+        {
+          "size": "245/40R18"
+        },
+        {
+          "size": "255/35R19"
+        }
       ]
     },
     {
       "model": "TTS",
       "trim": "Quattro Base",
-      "tire_sizes": [
-        "255/35R19"
+      "tires": [
+        {
+          "size": "255/35R19"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-21T09:04:39.648459",
     "total_vehicles": 47,
-    "total_tire_sizes": 28
+    "total_tire_sizes": 28,
+    "migration_date": "2025-06-23T14:37:31.219600",
+    "migrated_to_new_format": true
   }
 }

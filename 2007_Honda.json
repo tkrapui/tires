@@ -5,266 +5,344 @@
     {
       "model": "Accord",
       "trim": "EX",
-      "tire_sizes": [
-        "P205/60R16"
+      "tires": [
+        {
+          "size": "P205/60R16"
+        }
       ]
     },
     {
       "model": "Accord",
       "trim": "EX Coupe V6",
-      "tire_sizes": [
-        "P215/50R17"
+      "tires": [
+        {
+          "size": "P215/50R17"
+        }
       ]
     },
     {
       "model": "Accord",
       "trim": "EX Sedan V6",
-      "tire_sizes": [
-        "P215/50R17"
+      "tires": [
+        {
+          "size": "P215/50R17"
+        }
       ]
     },
     {
       "model": "Accord",
       "trim": "Hybrid",
-      "tire_sizes": [
-        "P215/60R16"
+      "tires": [
+        {
+          "size": "P215/60R16"
+        }
       ]
     },
     {
       "model": "Accord",
       "trim": "LX Coupe 4 Cyl.",
-      "tire_sizes": [
-        "P205/60R16"
+      "tires": [
+        {
+          "size": "P205/60R16"
+        }
       ]
     },
     {
       "model": "Accord",
       "trim": "LX Coupe V6",
-      "tire_sizes": [
-        "P215/50R17"
+      "tires": [
+        {
+          "size": "P215/50R17"
+        }
       ]
     },
     {
       "model": "Accord",
       "trim": "LX Sedan 4 Cyl.",
-      "tire_sizes": [
-        "P205/65R15"
+      "tires": [
+        {
+          "size": "P205/65R15"
+        }
       ]
     },
     {
       "model": "Accord",
       "trim": "LX Sedan 4 Cyl. Special Edition",
-      "tire_sizes": [
-        "P205/60R16"
+      "tires": [
+        {
+          "size": "P205/60R16"
+        }
       ]
     },
     {
       "model": "Accord",
       "trim": "LX Sedan V6",
-      "tire_sizes": [
-        "P215/50R17"
+      "tires": [
+        {
+          "size": "P215/50R17"
+        }
       ]
     },
     {
       "model": "Accord",
       "trim": "Special Edition",
-      "tire_sizes": [
-        "P215/50R17"
+      "tires": [
+        {
+          "size": "P215/50R17"
+        }
       ]
     },
     {
       "model": "Accord",
       "trim": "Value Package",
-      "tire_sizes": [
-        "P195/65R15"
+      "tires": [
+        {
+          "size": "P195/65R15"
+        }
       ]
     },
     {
       "model": "CR-V",
       "trim": "EX",
-      "tire_sizes": [
-        "225/65R17"
+      "tires": [
+        {
+          "size": "225/65R17"
+        }
       ]
     },
     {
       "model": "CR-V",
       "trim": "EX-L",
-      "tire_sizes": [
-        "225/65R17"
+      "tires": [
+        {
+          "size": "225/65R17"
+        }
       ]
     },
     {
       "model": "CR-V",
       "trim": "LX",
-      "tire_sizes": [
-        "225/65R17"
+      "tires": [
+        {
+          "size": "225/65R17"
+        }
       ]
     },
     {
       "model": "Civic",
       "trim": "DX",
-      "tire_sizes": [
-        "P195/65R15"
+      "tires": [
+        {
+          "size": "P195/65R15"
+        }
       ]
     },
     {
       "model": "Civic",
       "trim": "EX",
-      "tire_sizes": [
-        "P205/55R16"
+      "tires": [
+        {
+          "size": "P205/55R16"
+        }
       ]
     },
     {
       "model": "Civic",
       "trim": "Hybrid",
-      "tire_sizes": [
-        "P195/65R15"
+      "tires": [
+        {
+          "size": "P195/65R15"
+        }
       ]
     },
     {
       "model": "Civic",
       "trim": "LX",
-      "tire_sizes": [
-        "P205/55R16"
+      "tires": [
+        {
+          "size": "P205/55R16"
+        }
       ]
     },
     {
       "model": "Civic",
       "trim": "Si",
-      "tire_sizes": [
-        "P215/45R17"
+      "tires": [
+        {
+          "size": "P215/45R17"
+        }
       ]
     },
     {
       "model": "Civic",
       "trim": "Si (Summer Tires)",
-      "tire_sizes": [
-        "215/45R17"
+      "tires": [
+        {
+          "size": "215/45R17"
+        }
       ]
     },
     {
       "model": "Element",
       "trim": "EX",
-      "tire_sizes": [
-        "P215/70R16"
+      "tires": [
+        {
+          "size": "P215/70R16"
+        }
       ]
     },
     {
       "model": "Element",
       "trim": "LX",
-      "tire_sizes": [
-        "P215/70R16"
+      "tires": [
+        {
+          "size": "P215/70R16"
+        }
       ]
     },
     {
       "model": "Element",
       "trim": "SC",
-      "tire_sizes": [
-        "P225/55R18"
+      "tires": [
+        {
+          "size": "P225/55R18"
+        }
       ]
     },
     {
       "model": "Fit",
       "trim": "Base",
-      "tire_sizes": [
-        "205/45R16",
-        "P175/65R14"
+      "tires": [
+        {
+          "size": "205/45R16"
+        },
+        {
+          "size": "P175/65R14"
+        }
       ]
     },
     {
       "model": "Fit",
       "trim": "Sport",
-      "tire_sizes": [
-        "P195/55R15"
+      "tires": [
+        {
+          "size": "P195/55R15"
+        }
       ]
     },
     {
       "model": "Odyssey",
       "trim": "EX",
-      "tire_sizes": [
-        "235/65R16"
+      "tires": [
+        {
+          "size": "235/65R16"
+        }
       ]
     },
     {
       "model": "Odyssey",
       "trim": "EX-L",
-      "tire_sizes": [
-        "235/65R16"
+      "tires": [
+        {
+          "size": "235/65R16"
+        }
       ]
     },
     {
       "model": "Odyssey",
       "trim": "LX",
-      "tire_sizes": [
-        "235/65R16"
+      "tires": [
+        {
+          "size": "235/65R16"
+        }
       ]
     },
     {
       "model": "Odyssey",
       "trim": "Touring",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Pilot",
       "trim": "EX",
-      "tire_sizes": [
-        "P235/70R16"
+      "tires": [
+        {
+          "size": "P235/70R16"
+        }
       ]
     },
     {
       "model": "Pilot",
       "trim": "EX-L",
-      "tire_sizes": [
-        "P235/70R16"
+      "tires": [
+        {
+          "size": "P235/70R16"
+        }
       ]
     },
     {
       "model": "Pilot",
       "trim": "LX",
-      "tire_sizes": [
-        "P235/70R16"
+      "tires": [
+        {
+          "size": "P235/70R16"
+        }
       ]
     },
     {
       "model": "Ridgeline",
       "trim": "RT",
-      "tire_sizes": [
-        "P245/65R17"
+      "tires": [
+        {
+          "size": "P245/65R17"
+        }
       ]
     },
     {
       "model": "Ridgeline",
       "trim": "RTL",
-      "tire_sizes": [
-        "P245/65R17"
+      "tires": [
+        {
+          "size": "P245/65R17"
+        }
       ]
     },
     {
       "model": "Ridgeline",
       "trim": "RTS",
-      "tire_sizes": [
-        "P245/65R17"
+      "tires": [
+        {
+          "size": "P245/65R17"
+        }
       ]
     },
     {
       "model": "Ridgeline",
       "trim": "RTX",
-      "tire_sizes": [
-        "P245/65R17"
+      "tires": [
+        {
+          "size": "P245/65R17"
+        }
       ]
     },
     {
       "model": "S2000",
       "trim": "Base",
-      "tire_sizes": [
-        "215/45R17",
-        "245/40R17"
+      "tires": [
+        {
+          "size": "215/45R17"
+        },
+        {
+          "size": "245/40R17"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-22T01:00:17.008293",
     "total_vehicles": 37,
-    "total_tire_sizes": 18
+    "total_tire_sizes": 18,
+    "migration_date": "2025-06-23T14:37:31.689216",
+    "migrated_to_new_format": true
   }
 }

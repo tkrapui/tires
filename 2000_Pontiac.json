@@ -1,0 +1,201 @@
+{
+  "brand": "Pontiac",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "Pontiac",
+      "trim": "Bonneville SE",
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Bonneville SLE",
+      "tires": [
+        {
+          "size": "P235/55R17"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Bonneville SSEi",
+      "tires": [
+        {
+          "size": "P235/55R17"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Firebird Base",
+      "tires": [
+        {
+          "size": "P235/55R16"
+        },
+        {
+          "size": "P215/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Firebird Formula",
+      "tires": []
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Firebird Formula w/Hi-Performance Pkg.",
+      "tires": []
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Firebird Trans Am",
+      "tires": []
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Firebird Trans Am w/Hi-Performance Pkg.",
+      "tires": []
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Firefly Base",
+      "tires": [
+        {
+          "size": "P155/80R13"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Grand Am GT",
+      "tires": [
+        {
+          "size": "P225/50R16"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Grand Am GT1",
+      "tires": [
+        {
+          "size": "P225/50R16"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Grand Am SE",
+      "tires": [
+        {
+          "size": "P215/60R15"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Grand Am SE1",
+      "tires": [
+        {
+          "size": "P215/60R15"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Grand Am SE2",
+      "tires": [
+        {
+          "size": "P225/50R16"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Grand Prix GT",
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Grand Prix GTP",
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Grand Prix SE",
+      "tires": [
+        {
+          "size": "P205/70R15"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Montana Ext. Length",
+      "tires": [
+        {
+          "size": "P215/70R15"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Montana Reg. Length",
+      "tires": [
+        {
+          "size": "P215/70R15"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Sunfire GT",
+      "tires": [
+        {
+          "size": "P205/55R16"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Sunfire GT Convertible",
+      "tires": [
+        {
+          "size": "P195/65R15"
+        }
+      ]
+    },
+    {
+      "model": "Pontiac",
+      "trim": "Sunfire SE",
+      "tires": [
+        {
+          "size": "P195/70R14"
+        },
+        {
+          "size": "P195/65R15"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T10:58:17.237731",
+    "total_vehicles": 22,
+    "total_tire_sizes": 12,
+    "migration_date": "2025-06-23T14:37:31.151106",
+    "migrated_to_new_format": true
+  }
+}

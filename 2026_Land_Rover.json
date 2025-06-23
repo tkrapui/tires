@@ -5,47 +5,49 @@
     {
       "model": "Range",
       "trim": "Rover Evoque Autobiography SIZE LOAD SPEED RIM WIDTH OD INFLATION 235/50R20 104W 8J 29.25 * * Calculated based on size. Front: 44 psi Rear: 43 psi Fitment Details Search Tires",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Range",
       "trim": "Rover Evoque Autobiography w/Dynamic Handling Pkg. SIZE LOAD SPEED RIM WIDTH OD INFLATION 245/45R21 104W 8J 29.68 * * Calculated based on size. Front: 44 psi Rear: 43 psi Fitment Details Search Tires",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Range",
       "trim": "Rover Evoque Dynamic SE SIZE LOAD SPEED RIM WIDTH OD INFLATION 235/55R19 105W 8J 29.18 * * Calculated based on size. Front: 44 psi Rear: 43 psi Fitment Details Search Tires 235/50R20 104W 8J 29.25 * * Calculated based on size. Front: 44 psi Rear: 43 psi Fitment Details Search Tires",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Range",
       "trim": "Rover Evoque Dynamic SE w/Dynamic Handling Pkg. SIZE LOAD SPEED RIM WIDTH OD INFLATION 245/45R21 104W 8J 29.68 * * Calculated based on size. Front: 44 psi Rear: 43 psi Fitment Details Search Tires",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Range",
       "trim": "Rover Evoque S SIZE LOAD SPEED RIM WIDTH OD INFLATION 235/60R18 107V 8J 29.10 * * Calculated based on size. Front: 38 psi Rear: 40 psi Fitment Details Search Tires 235/55R19 105W 8J 29.18 * * Calculated based on size. Front: 44 psi Rear: 43 psi Fitment Details Search Tires 235/50R20 104W 8J 29.25 * * Calculated based on size. Front: 44 psi Rear: 43 psi Fitment Details Search Tires",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Range",
       "trim": "Rover Evoque S w/Dynamic Handling Pkg. SIZE LOAD SPEED RIM WIDTH OD INFLATION 245/45R21 104W 8J 29.68 * * Calculated based on size. Front: 44 psi Rear: 43 psi Fitment Details Search Tires",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Range",
       "trim": "Rover Velar Autobiography SIZE LOAD SPEED RIM WIDTH OD INFLATION 265/45R21 104W 8.5J 30.39 * * Calculated based on size. Front: 41 psi Rear: 48 psi Fitment Details Search Tires 265/40R22 106Y 9J 30.35 * * Calculated based on size. Front: 43 psi Rear: 45 psi Fitment Details Search Tires",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Range",
       "trim": "Rover Velar Dynamic SE SIZE LOAD SPEED RIM WIDTH OD INFLATION 255/55R19 111W 8.5J 30.04 * * Calculated based on size. Front: 44 psi Rear: 50 psi Fitment Details Search Tires 255/50R20 109W 8.5J 30.04 * * Calculated based on size. Front: 38 psi Rear: 47 psi Fitment Details Search Tires 265/45R21 104W 8.5J 30.39 * * Calculated based on size. Front: 41 psi Rear: 48 psi Fitment Details Search Tires 265/40R22 106Y 9J 30.35 * * Calculated based on size. Front: 43 psi Rear: 45 psi Fitment Details Search Tires",
-      "tire_sizes": []
+      "tires": []
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-21T16:19:08.460900",
     "total_vehicles": 8,
-    "total_tire_sizes": 0
+    "total_tire_sizes": 0,
+    "migration_date": "2025-06-23T14:37:31.740470",
+    "migrated_to_new_format": true
   }
 }

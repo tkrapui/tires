@@ -5,83 +5,117 @@
     {
       "model": "Continental",
       "trim": "Flying Spur",
-      "tire_sizes": [
-        "275/35R20",
-        "275/40R19"
+      "tires": [
+        {
+          "size": "275/35R20"
+        },
+        {
+          "size": "275/40R19"
+        }
       ]
     },
     {
       "model": "Continental",
       "trim": "Flying Spur Speed",
-      "tire_sizes": [
-        "275/35R20"
+      "tires": [
+        {
+          "size": "275/35R20"
+        }
       ]
     },
     {
       "model": "Continental",
       "trim": "GT",
-      "tire_sizes": [
-        "275/40R20",
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/40R20"
+        },
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "Continental",
       "trim": "GT Speed",
-      "tire_sizes": [
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "Continental",
       "trim": "GT V8",
-      "tire_sizes": [
-        "275/40R20",
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/40R20"
+        },
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "Continental",
       "trim": "GTC",
-      "tire_sizes": [
-        "275/40R20",
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/40R20"
+        },
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "Continental",
       "trim": "GTC Speed",
-      "tire_sizes": [
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "Continental",
       "trim": "GTC V8",
-      "tire_sizes": [
-        "275/40R20",
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/40R20"
+        },
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "Continental",
       "trim": "Supersports ISR",
-      "tire_sizes": [
-        "275/40R20"
+      "tires": [
+        {
+          "size": "275/40R20"
+        }
       ]
     },
     {
       "model": "Mulsanne",
       "trim": "Base",
-      "tire_sizes": [
-        "265/45R20",
-        "265/40R21"
+      "tires": [
+        {
+          "size": "265/45R20"
+        },
+        {
+          "size": "265/40R21"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-21T11:09:06.553155",
     "total_vehicles": 10,
-    "total_tire_sizes": 6
+    "total_tire_sizes": 6,
+    "migration_date": "2025-06-23T14:37:31.886197",
+    "migrated_to_new_format": true
   }
 }

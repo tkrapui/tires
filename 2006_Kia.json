@@ -5,119 +5,153 @@
     {
       "model": "Amanti",
       "trim": "Base",
-      "tire_sizes": [
-        "P225/60R16"
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
       ]
     },
     {
       "model": "Magentis",
       "trim": "LX 4 Cyl.",
-      "tire_sizes": [
-        "P205/60R15"
+      "tires": [
+        {
+          "size": "P205/60R15"
+        }
       ]
     },
     {
       "model": "Magentis",
       "trim": "LX V6",
-      "tire_sizes": [
-        "P205/55R16"
+      "tires": [
+        {
+          "size": "P205/55R16"
+        }
       ]
     },
     {
       "model": "Rio",
       "trim": "Base",
-      "tire_sizes": [
-        "P175/70R14"
+      "tires": [
+        {
+          "size": "P175/70R14"
+        }
       ]
     },
     {
       "model": "Rio5",
       "trim": "EX",
-      "tire_sizes": [
-        "P175/70R14"
+      "tires": [
+        {
+          "size": "P175/70R14"
+        }
       ]
     },
     {
       "model": "Rio5",
       "trim": "EX Convenience",
-      "tire_sizes": [
-        "P175/70R14"
+      "tires": [
+        {
+          "size": "P175/70R14"
+        }
       ]
     },
     {
       "model": "Rio5",
       "trim": "EX Sport",
-      "tire_sizes": [
-        "P195/55R15"
+      "tires": [
+        {
+          "size": "P195/55R15"
+        }
       ]
     },
     {
       "model": "Sedona",
       "trim": "EX",
-      "tire_sizes": [
-        "235/60R17"
+      "tires": [
+        {
+          "size": "235/60R17"
+        }
       ]
     },
     {
       "model": "Sedona",
       "trim": "LX",
-      "tire_sizes": [
-        "225/70R16"
+      "tires": [
+        {
+          "size": "225/70R16"
+        }
       ]
     },
     {
       "model": "Sorento",
       "trim": "EX",
-      "tire_sizes": [
-        "P245/70R16"
+      "tires": [
+        {
+          "size": "P245/70R16"
+        }
       ]
     },
     {
       "model": "Sorento",
       "trim": "LX",
-      "tire_sizes": [
-        "P245/70R16"
+      "tires": [
+        {
+          "size": "P245/70R16"
+        }
       ]
     },
     {
       "model": "Spectra",
       "trim": "EX",
-      "tire_sizes": [
-        "P195/60R15"
+      "tires": [
+        {
+          "size": "P195/60R15"
+        }
       ]
     },
     {
       "model": "Spectra5",
       "trim": "Base",
-      "tire_sizes": [
-        "P205/50R16"
+      "tires": [
+        {
+          "size": "P205/50R16"
+        }
       ]
     },
     {
       "model": "Sportage",
       "trim": "EX V6",
-      "tire_sizes": [
-        "P235/60R16"
+      "tires": [
+        {
+          "size": "P235/60R16"
+        }
       ]
     },
     {
       "model": "Sportage",
       "trim": "LX I4",
-      "tire_sizes": [
-        "P215/65R16"
+      "tires": [
+        {
+          "size": "P215/65R16"
+        }
       ]
     },
     {
       "model": "Sportage",
       "trim": "LX V6",
-      "tire_sizes": [
-        "P235/60R16"
+      "tires": [
+        {
+          "size": "P235/60R16"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-22T15:28:41.166574",
     "total_vehicles": 16,
-    "total_tire_sizes": 12
+    "total_tire_sizes": 12,
+    "migration_date": "2025-06-23T14:37:31.850851",
+    "migrated_to_new_format": true
   }
 }

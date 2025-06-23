@@ -5,436 +5,588 @@
     {
       "model": "Beetle",
       "trim": "Classic",
-      "tire_sizes": [
-        "215/55R17"
+      "tires": [
+        {
+          "size": "215/55R17"
+        }
       ]
     },
     {
       "model": "Beetle",
       "trim": "Comfortline",
-      "tire_sizes": [
-        "215/55R17"
+      "tires": [
+        {
+          "size": "215/55R17"
+        }
       ]
     },
     {
       "model": "Beetle",
       "trim": "Comfortline Convertible",
-      "tire_sizes": [
-        "235/45R18",
-        "215/55R17"
+      "tires": [
+        {
+          "size": "235/45R18"
+        },
+        {
+          "size": "215/55R17"
+        }
       ]
     },
     {
       "model": "Beetle",
       "trim": "Comfortline TDI",
-      "tire_sizes": [
-        "215/55R17"
+      "tires": [
+        {
+          "size": "215/55R17"
+        }
       ]
     },
     {
       "model": "Beetle",
       "trim": "Comfortline TDI Convertible",
-      "tire_sizes": [
-        "215/55R17"
+      "tires": [
+        {
+          "size": "215/55R17"
+        }
       ]
     },
     {
       "model": "Beetle",
       "trim": "Sportline",
-      "tire_sizes": [
-        "235/40R19",
-        "235/45R18"
+      "tires": [
+        {
+          "size": "235/40R19"
+        },
+        {
+          "size": "235/45R18"
+        }
       ]
     },
     {
       "model": "Beetle",
       "trim": "Trendline",
-      "tire_sizes": [
-        "215/60R16"
+      "tires": [
+        {
+          "size": "215/60R16"
+        }
       ]
     },
     {
       "model": "Beetle",
       "trim": "Trendline Convertible",
-      "tire_sizes": [
-        "215/60R16"
+      "tires": [
+        {
+          "size": "215/60R16"
+        }
       ]
     },
     {
       "model": "CC",
       "trim": "Execline",
-      "tire_sizes": [
-        "235/40R18"
+      "tires": [
+        {
+          "size": "235/40R18"
+        }
       ]
     },
     {
       "model": "CC",
       "trim": "Highline",
-      "tire_sizes": [
-        "235/40R18"
+      "tires": [
+        {
+          "size": "235/40R18"
+        }
       ]
     },
     {
       "model": "CC",
       "trim": "Sportline",
-      "tire_sizes": [
-        "235/45R17",
-        "235/40R18",
-        "P235/45R17"
+      "tires": [
+        {
+          "size": "235/45R17"
+        },
+        {
+          "size": "235/40R18"
+        },
+        {
+          "size": "P235/45R17"
+        }
       ]
     },
     {
       "model": "Eos",
       "trim": "Wolfsburg Edition",
-      "tire_sizes": [
-        "235/40R18"
+      "tires": [
+        {
+          "size": "235/40R18"
+        }
       ]
     },
     {
       "model": "GTI",
       "trim": "Autobahn",
-      "tire_sizes": [
-        "225/40R18"
+      "tires": [
+        {
+          "size": "225/40R18"
+        }
       ]
     },
     {
       "model": "GTI",
       "trim": "Autobahn w/Performance Pkg.",
-      "tire_sizes": [
-        "225/40R18"
+      "tires": [
+        {
+          "size": "225/40R18"
+        }
       ]
     },
     {
       "model": "GTI",
       "trim": "Base",
-      "tire_sizes": [
-        "225/45R17"
+      "tires": [
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "GTI",
       "trim": "w/Performance Pkg.",
-      "tire_sizes": [
-        "225/40R18"
+      "tires": [
+        {
+          "size": "225/40R18"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "Comfortline",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "Comfortline TDI",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "Highline",
-      "tire_sizes": [
-        "225/45R17"
+      "tires": [
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "Highline TDI",
-      "tire_sizes": [
-        "225/45R17"
+      "tires": [
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "R Base",
-      "tire_sizes": [
-        "235/35R19",
-        "225/40R18"
+      "tires": [
+        {
+          "size": "235/35R19"
+        },
+        {
+          "size": "225/40R18"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "SportWagen Comfortline",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "SportWagen Comfortline TDI",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "SportWagen Highline",
-      "tire_sizes": [
-        "225/45R17"
+      "tires": [
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "SportWagen Highline TDI",
-      "tire_sizes": [
-        "225/45R17"
+      "tires": [
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "SportWagen Trendline",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "SportWagen Trendline TDI",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "Trendline",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "Trendline TDI",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "Comfortline",
-      "tire_sizes": [
-        "205/55R16",
-        "225/45R17"
+      "tires": [
+        {
+          "size": "205/55R16"
+        },
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "Comfortline TDI",
-      "tire_sizes": [
-        "205/55R16",
-        "205/50R17"
+      "tires": [
+        {
+          "size": "205/55R16"
+        },
+        {
+          "size": "205/50R17"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "GLI",
-      "tire_sizes": [
-        "225/45R17",
-        "225/40R18"
+      "tires": [
+        {
+          "size": "225/45R17"
+        },
+        {
+          "size": "225/40R18"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "GLI Autobahn",
-      "tire_sizes": [
-        "225/40R18"
+      "tires": [
+        {
+          "size": "225/40R18"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "Highline",
-      "tire_sizes": [
-        "225/45R17"
+      "tires": [
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "Highline TDI",
-      "tire_sizes": [
-        "205/50R17"
+      "tires": [
+        {
+          "size": "205/50R17"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "Trendline",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "Trendline+",
-      "tire_sizes": [
-        "205/55R16",
-        "195/65R15"
+      "tires": [
+        {
+          "size": "205/55R16"
+        },
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "Trendline+ TDI",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "Comfortline 1.8T",
-      "tire_sizes": [
-        "235/40R19",
-        "215/55R17"
+      "tires": [
+        {
+          "size": "235/40R19"
+        },
+        {
+          "size": "215/55R17"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "Comfortline TDI",
-      "tire_sizes": [
-        "215/55R17"
+      "tires": [
+        {
+          "size": "215/55R17"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "Comfortline V6",
-      "tire_sizes": [
-        "235/40R19",
-        "215/55R17"
+      "tires": [
+        {
+          "size": "235/40R19"
+        },
+        {
+          "size": "215/55R17"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "Highline 1.8T",
-      "tire_sizes": [
-        "235/45R18"
+      "tires": [
+        {
+          "size": "235/45R18"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "Highline TDI",
-      "tire_sizes": [
-        "235/45R18"
+      "tires": [
+        {
+          "size": "235/45R18"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "Highline V6",
-      "tire_sizes": [
-        "235/45R18"
+      "tires": [
+        {
+          "size": "235/45R18"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "Trendline",
-      "tire_sizes": [
-        "215/60R16"
+      "tires": [
+        {
+          "size": "215/60R16"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "Trendline TDI",
-      "tire_sizes": [
-        "215/60R16"
+      "tires": [
+        {
+          "size": "215/60R16"
+        }
       ]
     },
     {
       "model": "Tiguan",
       "trim": "Comfortline",
-      "tire_sizes": [
-        "235/50R18",
-        "235/55R17"
+      "tires": [
+        {
+          "size": "235/50R18"
+        },
+        {
+          "size": "235/55R17"
+        }
       ]
     },
     {
       "model": "Tiguan",
       "trim": "Comfortline 4Motion",
-      "tire_sizes": [
-        "235/50R18",
-        "235/55R17"
+      "tires": [
+        {
+          "size": "235/50R18"
+        },
+        {
+          "size": "235/55R17"
+        }
       ]
     },
     {
       "model": "Tiguan",
       "trim": "Highline",
-      "tire_sizes": [
-        "235/50R18",
-        "255/40R19"
+      "tires": [
+        {
+          "size": "235/50R18"
+        },
+        {
+          "size": "255/40R19"
+        }
       ]
     },
     {
       "model": "Tiguan",
       "trim": "Trendline",
-      "tire_sizes": [
-        "215/65R16"
+      "tires": [
+        {
+          "size": "215/65R16"
+        }
       ]
     },
     {
       "model": "Tiguan",
       "trim": "Trendline 4Motion",
-      "tire_sizes": [
-        "215/65R16"
+      "tires": [
+        {
+          "size": "215/65R16"
+        }
       ]
     },
     {
       "model": "Touareg",
       "trim": "Comfortline",
-      "tire_sizes": [
-        "255/55R18"
+      "tires": [
+        {
+          "size": "255/55R18"
+        }
       ]
     },
     {
       "model": "Touareg",
       "trim": "Comfortline TDI",
-      "tire_sizes": [
-        "255/55R18"
+      "tires": [
+        {
+          "size": "255/55R18"
+        }
       ]
     },
     {
       "model": "Touareg",
       "trim": "Execline",
-      "tire_sizes": [
-        "275/45R20"
+      "tires": [
+        {
+          "size": "275/45R20"
+        }
       ]
     },
     {
       "model": "Touareg",
       "trim": "Execline TDI",
-      "tire_sizes": [
-        "275/45R20"
+      "tires": [
+        {
+          "size": "275/45R20"
+        }
       ]
     },
     {
       "model": "Touareg",
       "trim": "Highline",
-      "tire_sizes": [
-        "265/50R19",
-        "275/45R20"
+      "tires": [
+        {
+          "size": "265/50R19"
+        },
+        {
+          "size": "275/45R20"
+        }
       ]
     },
     {
       "model": "Touareg",
       "trim": "Highline TDI",
-      "tire_sizes": [
-        "265/50R19",
-        "275/45R20"
+      "tires": [
+        {
+          "size": "265/50R19"
+        },
+        {
+          "size": "275/45R20"
+        }
       ]
     },
     {
       "model": "Touareg",
       "trim": "Sportline",
-      "tire_sizes": [
-        "255/55R18"
+      "tires": [
+        {
+          "size": "255/55R18"
+        }
       ]
     },
     {
       "model": "Touareg",
       "trim": "Sportline TDI",
-      "tire_sizes": [
-        "255/55R18"
+      "tires": [
+        {
+          "size": "255/55R18"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-21T08:53:57.547588",
     "total_vehicles": 59,
-    "total_tire_sizes": 20
+    "total_tire_sizes": 20,
+    "migration_date": "2025-06-23T14:37:31.526167",
+    "migrated_to_new_format": true
   }
 }

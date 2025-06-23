@@ -5,284 +5,384 @@
     {
       "model": "Beetle",
       "trim": "GL",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "Beetle",
       "trim": "GLS",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "Beetle",
       "trim": "GLS 1.8T",
-      "tire_sizes": [
-        "205/55R16",
-        "225/45R17"
+      "tires": [
+        {
+          "size": "205/55R16"
+        },
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Beetle",
       "trim": "GLS TDI",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "GL 2 Dr.",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "GL 4 Dr.",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "GLS",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "GTI 1.8T",
-      "tire_sizes": [
-        "205/55R16",
-        "225/45R17"
+      "tires": [
+        {
+          "size": "205/55R16"
+        },
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "GTI VR6",
-      "tire_sizes": [
-        "225/45R17"
+      "tires": [
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Golf",
       "trim": "TDI",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "2.5",
-      "tire_sizes": [
-        "205/55R16",
-        "225/45R17"
+      "tires": [
+        {
+          "size": "205/55R16"
+        },
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "GL",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "GL TDI",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "GL Wagon",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "GLI",
-      "tire_sizes": [
-        "225/40R18",
-        "225/45R17"
+      "tires": [
+        {
+          "size": "225/40R18"
+        },
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "GLS",
-      "tire_sizes": [
-        "195/65R15",
-        "225/45R17"
+      "tires": [
+        {
+          "size": "195/65R15"
+        },
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "GLS 1.8T Wagon",
-      "tire_sizes": [
-        "225/45R17"
+      "tires": [
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "GLS TDI",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Jetta",
       "trim": "GLS Wagon",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "GL",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "GL TDI",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "GL TDI Wagon",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "GL Wagon",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "GLS",
-      "tire_sizes": [
-        "205/55R16",
-        "225/45R17"
+      "tires": [
+        {
+          "size": "205/55R16"
+        },
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "GLS 4 Motion",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "GLS 4 Motion Wagon",
-      "tire_sizes": [
-        "195/65R15"
+      "tires": [
+        {
+          "size": "195/65R15"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "GLS TDI",
-      "tire_sizes": [
-        "205/55R16",
-        "225/45R17"
+      "tires": [
+        {
+          "size": "205/55R16"
+        },
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "GLS TDI Wagon",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "GLS Wagon",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "GLX",
-      "tire_sizes": [
-        "225/45R17"
+      "tires": [
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "GLX 4 Motion",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "GLX 4 Motion Wagon",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "Passat",
       "trim": "GLX Wagon",
-      "tire_sizes": [
-        "225/45R17"
+      "tires": [
+        {
+          "size": "225/45R17"
+        }
       ]
     },
     {
       "model": "Phaeton",
       "trim": "V8",
-      "tire_sizes": [
-        "235/55R17",
-        "255/45R18"
+      "tires": [
+        {
+          "size": "235/55R17"
+        },
+        {
+          "size": "255/45R18"
+        }
       ]
     },
     {
       "model": "Phaeton",
       "trim": "W12",
-      "tire_sizes": [
-        "235/55R17",
-        "255/45R18"
+      "tires": [
+        {
+          "size": "235/55R17"
+        },
+        {
+          "size": "255/45R18"
+        }
       ]
     },
     {
       "model": "Touareg",
       "trim": "TDI",
-      "tire_sizes": [
-        "275/45R19",
-        "255/55R18"
+      "tires": [
+        {
+          "size": "275/45R19"
+        },
+        {
+          "size": "255/55R18"
+        }
       ]
     },
     {
       "model": "Touareg",
       "trim": "V6",
-      "tire_sizes": [
-        "255/60R17"
+      "tires": [
+        {
+          "size": "255/60R17"
+        }
       ]
     },
     {
       "model": "Touareg",
       "trim": "V8",
-      "tire_sizes": [
-        "275/45R19",
-        "255/55R18"
+      "tires": [
+        {
+          "size": "275/45R19"
+        },
+        {
+          "size": "255/55R18"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-22T21:15:02.194713",
     "total_vehicles": 38,
-    "total_tire_sizes": 9
+    "total_tire_sizes": 9,
+    "migration_date": "2025-06-23T14:37:31.776584",
+    "migrated_to_new_format": true
   }
 }

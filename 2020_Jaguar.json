@@ -5,213 +5,327 @@
     {
       "model": "E-Pace",
       "trim": "Checkered Flag",
-      "tire_sizes": [
-        "235/50R20",
-        "235/55R19",
-        "245/45R21"
+      "tires": [
+        {
+          "size": "235/50R20"
+        },
+        {
+          "size": "235/55R19"
+        },
+        {
+          "size": "245/45R21"
+        }
       ]
     },
     {
       "model": "E-Pace",
       "trim": "R-Dynamic HSE",
-      "tire_sizes": [
-        "235/50R20",
-        "245/45R21"
+      "tires": [
+        {
+          "size": "235/50R20"
+        },
+        {
+          "size": "245/45R21"
+        }
       ]
     },
     {
       "model": "E-Pace",
       "trim": "R-Dynamic SE",
-      "tire_sizes": [
-        "235/50R20",
-        "235/55R19",
-        "245/45R21"
+      "tires": [
+        {
+          "size": "235/50R20"
+        },
+        {
+          "size": "235/55R19"
+        },
+        {
+          "size": "245/45R21"
+        }
       ]
     },
     {
       "model": "E-Pace",
       "trim": "SE",
-      "tire_sizes": [
-        "235/50R20",
-        "235/55R19",
-        "245/45R21"
+      "tires": [
+        {
+          "size": "235/50R20"
+        },
+        {
+          "size": "235/55R19"
+        },
+        {
+          "size": "245/45R21"
+        }
       ]
     },
     {
       "model": "F-Pace",
       "trim": "300 Sport",
-      "tire_sizes": [
-        "255/50R20",
-        "265/40R22"
+      "tires": [
+        {
+          "size": "255/50R20"
+        },
+        {
+          "size": "265/40R22"
+        }
       ]
     },
     {
       "model": "F-Pace",
       "trim": "Checkered Flag",
-      "tire_sizes": [
-        "255/50R20",
-        "265/40R22"
+      "tires": [
+        {
+          "size": "255/50R20"
+        },
+        {
+          "size": "265/40R22"
+        }
       ]
     },
     {
       "model": "F-Pace",
       "trim": "Portfolio",
-      "tire_sizes": [
-        "255/50R20",
-        "265/40R22"
+      "tires": [
+        {
+          "size": "255/50R20"
+        },
+        {
+          "size": "265/40R22"
+        }
       ]
     },
     {
       "model": "F-Pace",
       "trim": "Premium",
-      "tire_sizes": [
-        "255/55R19",
-        "255/50R20"
+      "tires": [
+        {
+          "size": "255/55R19"
+        },
+        {
+          "size": "255/50R20"
+        }
       ]
     },
     {
       "model": "F-Pace",
       "trim": "Prestige",
-      "tire_sizes": [
-        "255/55R19",
-        "265/40R22",
-        "255/50R20"
+      "tires": [
+        {
+          "size": "255/55R19"
+        },
+        {
+          "size": "265/40R22"
+        },
+        {
+          "size": "255/50R20"
+        }
       ]
     },
     {
       "model": "F-Pace",
       "trim": "R-Sport",
-      "tire_sizes": [
-        "255/50R20",
-        "265/40R22"
+      "tires": [
+        {
+          "size": "255/50R20"
+        },
+        {
+          "size": "265/40R22"
+        }
       ]
     },
     {
       "model": "F-Pace",
       "trim": "S",
-      "tire_sizes": [
-        "255/50R20",
-        "265/40R22"
+      "tires": [
+        {
+          "size": "255/50R20"
+        },
+        {
+          "size": "265/40R22"
+        }
       ]
     },
     {
       "model": "F-Pace",
       "trim": "SVR",
-      "tire_sizes": [
-        "265/40R22",
-        "295/35R22",
-        "295/40R21",
-        "265/45R21"
+      "tires": [
+        {
+          "size": "265/40R22"
+        },
+        {
+          "size": "295/35R22"
+        },
+        {
+          "size": "295/40R21"
+        },
+        {
+          "size": "265/45R21"
+        }
       ]
     },
     {
       "model": "F-Type",
       "trim": "Base",
-      "tire_sizes": [
-        "245/45R18",
-        "275/40R18"
+      "tires": [
+        {
+          "size": "245/45R18"
+        },
+        {
+          "size": "275/40R18"
+        }
       ]
     },
     {
       "model": "F-Type",
       "trim": "Checkered Flag",
-      "tire_sizes": [
-        "295/30R20",
-        "255/35R20"
+      "tires": [
+        {
+          "size": "295/30R20"
+        },
+        {
+          "size": "255/35R20"
+        }
       ]
     },
     {
       "model": "F-Type",
       "trim": "R",
-      "tire_sizes": [
-        "295/30R20",
-        "255/35R20"
+      "tires": [
+        {
+          "size": "295/30R20"
+        },
+        {
+          "size": "255/35R20"
+        }
       ]
     },
     {
       "model": "F-Type",
       "trim": "R-Dynamic",
-      "tire_sizes": [
-        "295/30R20",
-        "255/35R20"
+      "tires": [
+        {
+          "size": "295/30R20"
+        },
+        {
+          "size": "255/35R20"
+        }
       ]
     },
     {
       "model": "F-Type",
       "trim": "SVR",
-      "tire_sizes": [
-        "265/35R20",
-        "305/30R20"
+      "tires": [
+        {
+          "size": "265/35R20"
+        },
+        {
+          "size": "305/30R20"
+        }
       ]
     },
     {
       "model": "I-Pace",
       "trim": "HSE EV400",
-      "tire_sizes": [
-        "255/40R22",
-        "235/65R18",
-        "245/50R20"
+      "tires": [
+        {
+          "size": "255/40R22"
+        },
+        {
+          "size": "235/65R18"
+        },
+        {
+          "size": "245/50R20"
+        }
       ]
     },
     {
       "model": "I-Pace",
       "trim": "S EV400",
-      "tire_sizes": [
-        "255/40R22",
-        "235/65R18",
-        "245/50R20"
+      "tires": [
+        {
+          "size": "255/40R22"
+        },
+        {
+          "size": "235/65R18"
+        },
+        {
+          "size": "245/50R20"
+        }
       ]
     },
     {
       "model": "I-Pace",
       "trim": "SE EV400",
-      "tire_sizes": [
-        "255/40R22",
-        "235/65R18",
-        "245/50R20"
+      "tires": [
+        {
+          "size": "255/40R22"
+        },
+        {
+          "size": "235/65R18"
+        },
+        {
+          "size": "245/50R20"
+        }
       ]
     },
     {
       "model": "XE",
       "trim": "R-Dynamic SE",
-      "tire_sizes": [
-        "225/45R18"
+      "tires": [
+        {
+          "size": "225/45R18"
+        }
       ]
     },
     {
       "model": "XE",
       "trim": "SE",
-      "tire_sizes": [
-        "225/45R18"
+      "tires": [
+        {
+          "size": "225/45R18"
+        }
       ]
     },
     {
       "model": "XF",
       "trim": "Checkered Flag",
-      "tire_sizes": [
-        "245/40R19",
-        "255/35R20"
+      "tires": [
+        {
+          "size": "245/40R19"
+        },
+        {
+          "size": "255/35R20"
+        }
       ]
     },
     {
       "model": "XF",
       "trim": "Prestige",
-      "tire_sizes": [
-        "245/40R19",
-        "255/35R20"
+      "tires": [
+        {
+          "size": "245/40R19"
+        },
+        {
+          "size": "255/35R20"
+        }
       ]
     },
     {
       "model": "XF",
       "trim": "S",
-      "tire_sizes": [
-        "255/35R20"
+      "tires": [
+        {
+          "size": "255/35R20"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-20T16:55:21.376369",
     "total_vehicles": 25,
-    "total_tire_sizes": 20
+    "total_tire_sizes": 20,
+    "migration_date": "2025-06-23T14:37:31.682856",
+    "migrated_to_new_format": true
   }
 }

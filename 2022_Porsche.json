@@ -5,431 +5,681 @@
     {
       "model": "718",
       "trim": "Boxster 25 Years",
-      "tire_sizes": [
-        "265/35R20",
-        "235/35R20"
+      "tires": [
+        {
+          "size": "265/35R20"
+        },
+        {
+          "size": "235/35R20"
+        }
       ]
     },
     {
       "model": "718",
       "trim": "Boxster Base",
-      "tire_sizes": [
-        "235/40R19",
-        "265/35R20",
-        "235/35R20",
-        "265/40R19",
-        "265/45R18",
-        "235/45R18"
+      "tires": [
+        {
+          "size": "235/40R19"
+        },
+        {
+          "size": "265/35R20"
+        },
+        {
+          "size": "235/35R20"
+        },
+        {
+          "size": "265/40R19"
+        },
+        {
+          "size": "265/45R18"
+        },
+        {
+          "size": "235/45R18"
+        }
       ]
     },
     {
       "model": "718",
       "trim": "Boxster GTS 4.0",
-      "tire_sizes": [
-        "265/35R20",
-        "235/35R20"
+      "tires": [
+        {
+          "size": "265/35R20"
+        },
+        {
+          "size": "235/35R20"
+        }
       ]
     },
     {
       "model": "718",
       "trim": "Boxster S",
-      "tire_sizes": [
-        "265/35R20",
-        "235/35R20",
-        "235/40R19",
-        "265/40R19"
+      "tires": [
+        {
+          "size": "265/35R20"
+        },
+        {
+          "size": "235/35R20"
+        },
+        {
+          "size": "235/40R19"
+        },
+        {
+          "size": "265/40R19"
+        }
       ]
     },
     {
       "model": "718",
       "trim": "Boxster T",
-      "tire_sizes": [
-        "265/35R20",
-        "235/35R20"
+      "tires": [
+        {
+          "size": "265/35R20"
+        },
+        {
+          "size": "235/35R20"
+        }
       ]
     },
     {
       "model": "718",
       "trim": "Cayman Base",
-      "tire_sizes": [
-        "235/40R19",
-        "265/35R20",
-        "235/35R20",
-        "265/40R19",
-        "265/45R18",
-        "235/45R18"
+      "tires": [
+        {
+          "size": "235/40R19"
+        },
+        {
+          "size": "265/35R20"
+        },
+        {
+          "size": "235/35R20"
+        },
+        {
+          "size": "265/40R19"
+        },
+        {
+          "size": "265/45R18"
+        },
+        {
+          "size": "235/45R18"
+        }
       ]
     },
     {
       "model": "718",
       "trim": "Cayman GT4",
-      "tire_sizes": [
-        "245/35R20",
-        "295/30R20"
+      "tires": [
+        {
+          "size": "245/35R20"
+        },
+        {
+          "size": "295/30R20"
+        }
       ]
     },
     {
       "model": "718",
       "trim": "Cayman GT4 RS (Center Lock)",
-      "tire_sizes": [
-        "245/35R20",
-        "295/30R20"
+      "tires": [
+        {
+          "size": "245/35R20"
+        },
+        {
+          "size": "295/30R20"
+        }
       ]
     },
     {
       "model": "718",
       "trim": "Cayman GTS 4.0",
-      "tire_sizes": [
-        "265/35R20",
-        "235/35R20"
+      "tires": [
+        {
+          "size": "265/35R20"
+        },
+        {
+          "size": "235/35R20"
+        }
       ]
     },
     {
       "model": "718",
       "trim": "Cayman S",
-      "tire_sizes": [
-        "265/35R20",
-        "235/35R20",
-        "235/40R19",
-        "265/40R19"
+      "tires": [
+        {
+          "size": "265/35R20"
+        },
+        {
+          "size": "235/35R20"
+        },
+        {
+          "size": "235/40R19"
+        },
+        {
+          "size": "265/40R19"
+        }
       ]
     },
     {
       "model": "718",
       "trim": "Cayman T",
-      "tire_sizes": [
-        "265/35R20",
-        "235/35R20"
+      "tires": [
+        {
+          "size": "265/35R20"
+        },
+        {
+          "size": "235/35R20"
+        }
       ]
     },
     {
       "model": "718",
       "trim": "Spyder Base",
-      "tire_sizes": [
-        "245/35R20",
-        "295/30R20"
+      "tires": [
+        {
+          "size": "245/35R20"
+        },
+        {
+          "size": "295/30R20"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "Carrera",
-      "tire_sizes": [
-        "295/35R20",
-        "245/35R20",
-        "305/30R21",
-        "235/40R19"
+      "tires": [
+        {
+          "size": "295/35R20"
+        },
+        {
+          "size": "245/35R20"
+        },
+        {
+          "size": "305/30R21"
+        },
+        {
+          "size": "235/40R19"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "Carrera 4",
-      "tire_sizes": [
-        "295/35R20",
-        "245/35R20",
-        "305/30R21",
-        "235/40R19"
+      "tires": [
+        {
+          "size": "295/35R20"
+        },
+        {
+          "size": "245/35R20"
+        },
+        {
+          "size": "305/30R21"
+        },
+        {
+          "size": "235/40R19"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "Carrera 4 GTS",
-      "tire_sizes": [
-        "245/35R20",
-        "305/30R21"
+      "tires": [
+        {
+          "size": "245/35R20"
+        },
+        {
+          "size": "305/30R21"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "Carrera 4 GTS (Center Lock)",
-      "tire_sizes": [
-        "245/35R20",
-        "305/30R21"
+      "tires": [
+        {
+          "size": "245/35R20"
+        },
+        {
+          "size": "305/30R21"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "Carrera 4S",
-      "tire_sizes": [
-        "245/35R20",
-        "305/30R21"
+      "tires": [
+        {
+          "size": "245/35R20"
+        },
+        {
+          "size": "305/30R21"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "Carrera GTS",
-      "tire_sizes": [
-        "245/35R20",
-        "305/30R21"
+      "tires": [
+        {
+          "size": "245/35R20"
+        },
+        {
+          "size": "305/30R21"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "Carrera GTS (Center Lock)",
-      "tire_sizes": [
-        "245/35R20",
-        "305/30R21"
+      "tires": [
+        {
+          "size": "245/35R20"
+        },
+        {
+          "size": "305/30R21"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "Carrera S",
-      "tire_sizes": [
-        "245/35R20",
-        "305/30R21"
+      "tires": [
+        {
+          "size": "245/35R20"
+        },
+        {
+          "size": "305/30R21"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "GT3 (Center Lock)",
-      "tire_sizes": [
-        "255/35R20",
-        "315/30R21"
+      "tires": [
+        {
+          "size": "255/35R20"
+        },
+        {
+          "size": "315/30R21"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "Targa 4",
-      "tire_sizes": [
-        "295/35R20",
-        "245/35R20",
-        "305/30R21",
-        "235/40R19"
+      "tires": [
+        {
+          "size": "295/35R20"
+        },
+        {
+          "size": "245/35R20"
+        },
+        {
+          "size": "305/30R21"
+        },
+        {
+          "size": "235/40R19"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "Targa 4 GTS",
-      "tire_sizes": [
-        "245/35R20",
-        "305/30R21"
+      "tires": [
+        {
+          "size": "245/35R20"
+        },
+        {
+          "size": "305/30R21"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "Targa 4 GTS (Center Lock)",
-      "tire_sizes": [
-        "245/35R20",
-        "305/30R21"
+      "tires": [
+        {
+          "size": "245/35R20"
+        },
+        {
+          "size": "305/30R21"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "Targa 4S",
-      "tire_sizes": [
-        "245/35R20",
-        "305/30R21"
+      "tires": [
+        {
+          "size": "245/35R20"
+        },
+        {
+          "size": "305/30R21"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "Turbo",
-      "tire_sizes": [
-        "255/35R20",
-        "315/30R21"
+      "tires": [
+        {
+          "size": "255/35R20"
+        },
+        {
+          "size": "315/30R21"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "Turbo (Center Lock)",
-      "tire_sizes": [
-        "255/35R20",
-        "315/30R21"
+      "tires": [
+        {
+          "size": "255/35R20"
+        },
+        {
+          "size": "315/30R21"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "Turbo S",
-      "tire_sizes": [
-        "255/35R20",
-        "315/30R21"
+      "tires": [
+        {
+          "size": "255/35R20"
+        },
+        {
+          "size": "315/30R21"
+        }
       ]
     },
     {
       "model": "911",
       "trim": "Turbo S (Center Lock)",
-      "tire_sizes": [
-        "255/35R20",
-        "315/30R21"
+      "tires": [
+        {
+          "size": "255/35R20"
+        },
+        {
+          "size": "315/30R21"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "(20 Inch Option)",
-      "tire_sizes": [
-        "305/40R20",
-        "275/45R20"
+      "tires": [
+        {
+          "size": "305/40R20"
+        },
+        {
+          "size": "275/45R20"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "(21 Inch Option)",
-      "tire_sizes": [
-        "315/35R21",
-        "285/40R21"
+      "tires": [
+        {
+          "size": "315/35R21"
+        },
+        {
+          "size": "285/40R21"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "(22 Inch Option)",
-      "tire_sizes": [
-        "285/35R22",
-        "315/30R22"
+      "tires": [
+        {
+          "size": "285/35R22"
+        },
+        {
+          "size": "315/30R22"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "Base",
-      "tire_sizes": [
-        "255/55R19",
-        "275/50R19"
+      "tires": [
+        {
+          "size": "255/55R19"
+        },
+        {
+          "size": "275/50R19"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "Coupe",
-      "tire_sizes": [
-        "305/40R20",
-        "315/35R21",
-        "285/40R21",
-        "275/45R20"
+      "tires": [
+        {
+          "size": "305/40R20"
+        },
+        {
+          "size": "315/35R21"
+        },
+        {
+          "size": "285/40R21"
+        },
+        {
+          "size": "275/45R20"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "Coupe Platinum Edition",
-      "tire_sizes": [
-        "315/35R21",
-        "285/40R21"
+      "tires": [
+        {
+          "size": "315/35R21"
+        },
+        {
+          "size": "285/40R21"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "E-Hybrid",
-      "tire_sizes": [
-        "255/55R19",
-        "275/50R19"
+      "tires": [
+        {
+          "size": "255/55R19"
+        },
+        {
+          "size": "275/50R19"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "E-Hybrid (20 Inch Option)",
-      "tire_sizes": [
-        "305/40R20",
-        "275/45R20"
+      "tires": [
+        {
+          "size": "305/40R20"
+        },
+        {
+          "size": "275/45R20"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "E-Hybrid (21 Inch Option)",
-      "tire_sizes": [
-        "315/35R21",
-        "285/40R21"
+      "tires": [
+        {
+          "size": "315/35R21"
+        },
+        {
+          "size": "285/40R21"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "E-Hybrid (22 Inch Option)",
-      "tire_sizes": [
-        "285/35R22",
-        "315/30R22"
+      "tires": [
+        {
+          "size": "285/35R22"
+        },
+        {
+          "size": "315/30R22"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "E-Hybrid Coupe",
-      "tire_sizes": [
-        "305/40R20",
-        "315/35R21",
-        "285/40R21",
-        "275/45R20"
+      "tires": [
+        {
+          "size": "305/40R20"
+        },
+        {
+          "size": "315/35R21"
+        },
+        {
+          "size": "285/40R21"
+        },
+        {
+          "size": "275/45R20"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "GTS",
-      "tire_sizes": [
-        "315/35R21",
-        "285/40R21"
+      "tires": [
+        {
+          "size": "315/35R21"
+        },
+        {
+          "size": "285/40R21"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "GTS Coupe",
-      "tire_sizes": [
-        "315/35R21",
-        "285/40R21"
+      "tires": [
+        {
+          "size": "315/35R21"
+        },
+        {
+          "size": "285/40R21"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "Platinum Edition",
-      "tire_sizes": [
-        "315/35R21",
-        "285/40R21"
+      "tires": [
+        {
+          "size": "315/35R21"
+        },
+        {
+          "size": "285/40R21"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "S",
-      "tire_sizes": [
-        "255/55R19",
-        "275/50R19"
+      "tires": [
+        {
+          "size": "255/55R19"
+        },
+        {
+          "size": "275/50R19"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "S (20 Inch Option)",
-      "tire_sizes": [
-        "305/40R20",
-        "275/45R20"
+      "tires": [
+        {
+          "size": "305/40R20"
+        },
+        {
+          "size": "275/45R20"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "S (21 Inch Option)",
-      "tire_sizes": [
-        "315/35R21",
-        "285/40R21"
+      "tires": [
+        {
+          "size": "315/35R21"
+        },
+        {
+          "size": "285/40R21"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "S (22 Inch Option)",
-      "tire_sizes": [
-        "285/35R22",
-        "315/30R22"
+      "tires": [
+        {
+          "size": "285/35R22"
+        },
+        {
+          "size": "315/30R22"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "S Coupe",
-      "tire_sizes": [
-        "305/40R20",
-        "315/35R21",
-        "285/40R21",
-        "275/45R20"
+      "tires": [
+        {
+          "size": "305/40R20"
+        },
+        {
+          "size": "315/35R21"
+        },
+        {
+          "size": "285/40R21"
+        },
+        {
+          "size": "275/45R20"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "Turbo",
-      "tire_sizes": [
-        "315/35R21",
-        "285/40R21"
+      "tires": [
+        {
+          "size": "315/35R21"
+        },
+        {
+          "size": "285/40R21"
+        }
       ]
     },
     {
       "model": "Cayenne",
       "trim": "Turbo Coupe",
-      "tire_sizes": [
-        "315/35R21",
-        "285/40R21"
+      "tires": [
+        {
+          "size": "315/35R21"
+        },
+        {
+          "size": "285/40R21"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-20T13:36:34.615172",
     "total_vehicles": 50,
-    "total_tire_sizes": 20
+    "total_tire_sizes": 20,
+    "migration_date": "2025-06-23T14:37:31.524579",
+    "migrated_to_new_format": true
   }
 }

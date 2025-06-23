@@ -5,58 +5,78 @@
     {
       "model": "LR3",
       "trim": "Base",
-      "tire_sizes": [
-        "255/60R18"
+      "tires": [
+        {
+          "size": "255/60R18"
+        }
       ]
     },
     {
       "model": "LR3",
       "trim": "HSE",
-      "tire_sizes": [
-        "255/55R19"
+      "tires": [
+        {
+          "size": "255/55R19"
+        }
       ]
     },
     {
       "model": "LR3",
       "trim": "SE",
-      "tire_sizes": [
-        "255/60R18"
+      "tires": [
+        {
+          "size": "255/60R18"
+        }
       ]
     },
     {
       "model": "Range",
       "trim": "Rover HSE",
-      "tire_sizes": [
-        "255/55R19",
-        "255/50R20"
+      "tires": [
+        {
+          "size": "255/55R19"
+        },
+        {
+          "size": "255/50R20"
+        }
       ]
     },
     {
       "model": "Range",
       "trim": "Rover Sport HSE",
-      "tire_sizes": [
-        "275/40R20",
-        "255/50R19"
+      "tires": [
+        {
+          "size": "275/40R20"
+        },
+        {
+          "size": "255/50R19"
+        }
       ]
     },
     {
       "model": "Range",
       "trim": "Rover Sport Supercharged",
-      "tire_sizes": [
-        "275/40R20"
+      "tires": [
+        {
+          "size": "275/40R20"
+        }
       ]
     },
     {
       "model": "Range",
       "trim": "Rover Supercharged",
-      "tire_sizes": [
-        "255/50R20"
+      "tires": [
+        {
+          "size": "255/50R20"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-22T15:43:08.356617",
     "total_vehicles": 7,
-    "total_tire_sizes": 5
+    "total_tire_sizes": 5,
+    "migration_date": "2025-06-23T14:37:31.215221",
+    "migrated_to_new_format": true
   }
 }

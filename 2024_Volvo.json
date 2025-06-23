@@ -5,316 +5,468 @@
     {
       "model": "C40",
       "trim": "Recharge Core",
-      "tire_sizes": [
-        "255/45R19",
-        "235/50R19"
+      "tires": [
+        {
+          "size": "255/45R19"
+        },
+        {
+          "size": "235/50R19"
+        }
       ]
     },
     {
       "model": "C40",
       "trim": "Recharge Plus",
-      "tire_sizes": [
-        "255/45R19",
-        "235/50R19"
+      "tires": [
+        {
+          "size": "255/45R19"
+        },
+        {
+          "size": "235/50R19"
+        }
       ]
     },
     {
       "model": "C40",
       "trim": "Recharge Ultimate",
-      "tire_sizes": [
-        "255/40R20",
-        "235/45R20"
+      "tires": [
+        {
+          "size": "255/40R20"
+        },
+        {
+          "size": "235/45R20"
+        }
       ]
     },
     {
       "model": "S60",
       "trim": "B5 Core",
-      "tire_sizes": [
-        "235/40R19",
-        "235/45R18"
+      "tires": [
+        {
+          "size": "235/40R19"
+        },
+        {
+          "size": "235/45R18"
+        }
       ]
     },
     {
       "model": "S60",
       "trim": "B5 Plus",
-      "tire_sizes": [
-        "235/40R19",
-        "235/45R18"
+      "tires": [
+        {
+          "size": "235/40R19"
+        },
+        {
+          "size": "235/45R18"
+        }
       ]
     },
     {
       "model": "S60",
       "trim": "B5 Ultimate",
-      "tire_sizes": [
-        "235/40R19"
+      "tires": [
+        {
+          "size": "235/40R19"
+        }
       ]
     },
     {
       "model": "S60",
       "trim": "T8 Recharge Core",
-      "tire_sizes": [
-        "235/40R19",
-        "235/45R18"
+      "tires": [
+        {
+          "size": "235/40R19"
+        },
+        {
+          "size": "235/45R18"
+        }
       ]
     },
     {
       "model": "S60",
       "trim": "T8 Recharge Plus",
-      "tire_sizes": [
-        "235/40R19",
-        "235/45R18"
+      "tires": [
+        {
+          "size": "235/40R19"
+        },
+        {
+          "size": "235/45R18"
+        }
       ]
     },
     {
       "model": "S60",
       "trim": "T8 Recharge Polestar",
-      "tire_sizes": [
-        "235/40R19"
+      "tires": [
+        {
+          "size": "235/40R19"
+        }
       ]
     },
     {
       "model": "S60",
       "trim": "T8 Recharge Ultimate",
-      "tire_sizes": [
-        "235/40R19"
+      "tires": [
+        {
+          "size": "235/40R19"
+        }
       ]
     },
     {
       "model": "S90",
       "trim": "B6 Plus",
-      "tire_sizes": [
-        "255/40R19",
-        "255/35R20"
+      "tires": [
+        {
+          "size": "255/40R19"
+        },
+        {
+          "size": "255/35R20"
+        }
       ]
     },
     {
       "model": "S90",
       "trim": "B6 Ultimate",
-      "tire_sizes": [
-        "255/35R20"
+      "tires": [
+        {
+          "size": "255/35R20"
+        }
       ]
     },
     {
       "model": "S90",
       "trim": "T8 Recharge Plus",
-      "tire_sizes": [
-        "245/40R20",
-        "255/40R19"
+      "tires": [
+        {
+          "size": "245/40R20"
+        },
+        {
+          "size": "255/40R19"
+        }
       ]
     },
     {
       "model": "S90",
       "trim": "T8 Recharge Ultimate",
-      "tire_sizes": [
-        "245/40R20",
-        "255/40R19"
+      "tires": [
+        {
+          "size": "245/40R20"
+        },
+        {
+          "size": "255/40R19"
+        }
       ]
     },
     {
       "model": "V60",
       "trim": "Cross Country B5 Core",
-      "tire_sizes": [
-        "215/55R18"
+      "tires": [
+        {
+          "size": "215/55R18"
+        }
       ]
     },
     {
       "model": "V60",
       "trim": "Cross Country B5 Plus",
-      "tire_sizes": [
-        "215/55R18",
-        "235/45R19"
+      "tires": [
+        {
+          "size": "215/55R18"
+        },
+        {
+          "size": "235/45R19"
+        }
       ]
     },
     {
       "model": "V60",
       "trim": "Cross Country B5 Ultimate",
-      "tire_sizes": [
-        "245/40R20",
-        "235/45R19"
+      "tires": [
+        {
+          "size": "245/40R20"
+        },
+        {
+          "size": "235/45R19"
+        }
       ]
     },
     {
       "model": "V60",
       "trim": "T8 Recharge Polestar",
-      "tire_sizes": [
-        "235/40R19"
+      "tires": [
+        {
+          "size": "235/40R19"
+        }
       ]
     },
     {
       "model": "V90",
       "trim": "Cross Country B6 Plus",
-      "tire_sizes": [
-        "245/45R20",
-        "235/50R19"
+      "tires": [
+        {
+          "size": "245/45R20"
+        },
+        {
+          "size": "235/50R19"
+        }
       ]
     },
     {
       "model": "V90",
       "trim": "Cross Country B6 Ultimate",
-      "tire_sizes": [
-        "245/45R20",
-        "245/40R21"
+      "tires": [
+        {
+          "size": "245/45R20"
+        },
+        {
+          "size": "245/40R21"
+        }
       ]
     },
     {
       "model": "XC40",
       "trim": "B5 Core",
-      "tire_sizes": [
-        "235/55R18",
-        "235/50R19"
+      "tires": [
+        {
+          "size": "235/55R18"
+        },
+        {
+          "size": "235/50R19"
+        }
       ]
     },
     {
       "model": "XC40",
       "trim": "B5 Plus",
-      "tire_sizes": [
-        "245/45R20",
-        "235/50R19"
+      "tires": [
+        {
+          "size": "245/45R20"
+        },
+        {
+          "size": "235/50R19"
+        }
       ]
     },
     {
       "model": "XC40",
       "trim": "B5 Ultimate",
-      "tire_sizes": [
-        "245/45R20",
-        "245/40R21"
+      "tires": [
+        {
+          "size": "245/45R20"
+        },
+        {
+          "size": "245/40R21"
+        }
       ]
     },
     {
       "model": "XC40",
       "trim": "Recharge Core",
-      "tire_sizes": [
-        "255/45R19",
-        "235/50R19"
+      "tires": [
+        {
+          "size": "255/45R19"
+        },
+        {
+          "size": "235/50R19"
+        }
       ]
     },
     {
       "model": "XC40",
       "trim": "Recharge Plus",
-      "tire_sizes": [
-        "255/40R20",
-        "255/45R19",
-        "235/50R19",
-        "235/45R20"
+      "tires": [
+        {
+          "size": "255/40R20"
+        },
+        {
+          "size": "255/45R19"
+        },
+        {
+          "size": "235/50R19"
+        },
+        {
+          "size": "235/45R20"
+        }
       ]
     },
     {
       "model": "XC40",
       "trim": "Recharge Ultimate",
-      "tire_sizes": [
-        "255/40R20",
-        "235/45R20"
+      "tires": [
+        {
+          "size": "255/40R20"
+        },
+        {
+          "size": "235/45R20"
+        }
       ]
     },
     {
       "model": "XC60",
       "trim": "B5 Core",
-      "tire_sizes": [
-        "235/55R19",
-        "235/60R18"
+      "tires": [
+        {
+          "size": "235/55R19"
+        },
+        {
+          "size": "235/60R18"
+        }
       ]
     },
     {
       "model": "XC60",
       "trim": "B5 Plus",
-      "tire_sizes": [
-        "255/45R20",
-        "235/55R19"
+      "tires": [
+        {
+          "size": "255/45R20"
+        },
+        {
+          "size": "235/55R19"
+        }
       ]
     },
     {
       "model": "XC60",
       "trim": "B5 Ultimate",
-      "tire_sizes": [
-        "255/45R20",
-        "255/40R21",
-        "265/35R22"
+      "tires": [
+        {
+          "size": "255/45R20"
+        },
+        {
+          "size": "255/40R21"
+        },
+        {
+          "size": "265/35R22"
+        }
       ]
     },
     {
       "model": "XC60",
       "trim": "T8 Recharge Core",
-      "tire_sizes": [
-        "235/55R19",
-        "235/60R18"
+      "tires": [
+        {
+          "size": "235/55R19"
+        },
+        {
+          "size": "235/60R18"
+        }
       ]
     },
     {
       "model": "XC60",
       "trim": "T8 Recharge Plus",
-      "tire_sizes": [
-        "255/45R20",
-        "235/55R19"
+      "tires": [
+        {
+          "size": "255/45R20"
+        },
+        {
+          "size": "235/55R19"
+        }
       ]
     },
     {
       "model": "XC60",
       "trim": "T8 Recharge Polestar",
-      "tire_sizes": [
-        "265/35R22",
-        "255/40R21"
+      "tires": [
+        {
+          "size": "265/35R22"
+        },
+        {
+          "size": "255/40R21"
+        }
       ]
     },
     {
       "model": "XC60",
       "trim": "T8 Recharge Ultimate",
-      "tire_sizes": [
-        "255/45R20",
-        "255/40R21",
-        "265/35R22"
+      "tires": [
+        {
+          "size": "255/45R20"
+        },
+        {
+          "size": "255/40R21"
+        },
+        {
+          "size": "265/35R22"
+        }
       ]
     },
     {
       "model": "XC90",
       "trim": "B6 Core",
-      "tire_sizes": [
-        "235/55R19",
-        "275/45R20"
+      "tires": [
+        {
+          "size": "235/55R19"
+        },
+        {
+          "size": "275/45R20"
+        }
       ]
     },
     {
       "model": "XC90",
       "trim": "B6 Plus",
-      "tire_sizes": [
-        "275/40R21",
-        "275/45R20"
+      "tires": [
+        {
+          "size": "275/40R21"
+        },
+        {
+          "size": "275/45R20"
+        }
       ]
     },
     {
       "model": "XC90",
       "trim": "B6 Ultimate",
-      "tire_sizes": [
-        "275/40R21",
-        "275/35R22"
+      "tires": [
+        {
+          "size": "275/40R21"
+        },
+        {
+          "size": "275/35R22"
+        }
       ]
     },
     {
       "model": "XC90",
       "trim": "T8 Recharge Core",
-      "tire_sizes": [
-        "275/40R21",
-        "275/45R20"
+      "tires": [
+        {
+          "size": "275/40R21"
+        },
+        {
+          "size": "275/45R20"
+        }
       ]
     },
     {
       "model": "XC90",
       "trim": "T8 Recharge Plus",
-      "tire_sizes": [
-        "275/40R21",
-        "275/45R20"
+      "tires": [
+        {
+          "size": "275/40R21"
+        },
+        {
+          "size": "275/45R20"
+        }
       ]
     },
     {
       "model": "XC90",
       "trim": "T8 Recharge Ultimate",
-      "tire_sizes": [
-        "275/40R21"
+      "tires": [
+        {
+          "size": "275/40R21"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-20T15:10:45.224323",
     "total_vehicles": 39,
-    "total_tire_sizes": 22
+    "total_tire_sizes": 22,
+    "migration_date": "2025-06-23T14:37:31.754102",
+    "migrated_to_new_format": true
   }
 }

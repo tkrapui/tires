@@ -5,296 +5,872 @@
     {
       "model": "Astro",
       "trim": "Base",
-      "tire_sizes": [
-        "P215/75R15"
+      "tires": [
+        {
+          "size": "P215/75R15"
+        }
       ]
     },
     {
       "model": "Astro",
       "trim": "LS",
-      "tire_sizes": [
-        "P215/75R15"
+      "tires": [
+        {
+          "size": "P215/75R15"
+        }
       ]
     },
     {
       "model": "Astro",
       "trim": "LT",
-      "tire_sizes": [
-        "P215/75R15"
+      "tires": [
+        {
+          "size": "P215/75R15"
+        }
       ]
     },
     {
       "model": "Blazer",
       "trim": "LS 4x2",
-      "tire_sizes": [
-        "P235/70R15",
-        "P205/75R15"
+      "tires": [
+        {
+          "size": "P235/70R15"
+        },
+        {
+          "size": "P205/75R15"
+        }
       ]
     },
     {
       "model": "Blazer",
       "trim": "LS 4x4",
-      "tire_sizes": [
-        "P235/70R15",
-        "P235/75R15",
-        "P205/75R15"
+      "tires": [
+        {
+          "size": "P235/70R15"
+        },
+        {
+          "size": "P235/75R15"
+        },
+        {
+          "size": "P205/75R15"
+        }
       ]
     },
     {
       "model": "Blazer",
       "trim": "LS w/Off-Road Suspension",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Blazer",
       "trim": "LT",
-      "tire_sizes": [
-        "P235/70R15",
-        "P205/75R15"
+      "tires": [
+        {
+          "size": "P235/70R15"
+        },
+        {
+          "size": "P205/75R15"
+        }
       ]
     },
     {
       "model": "Blazer",
       "trim": "Trailblazer",
-      "tire_sizes": [
-        "P235/75R15"
+      "tires": [
+        {
+          "size": "P235/75R15"
+        }
       ]
     },
     {
       "model": "C2500",
       "trim": "Crew Cab",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "C2500",
       "trim": "Ext. Cab",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "C2500",
       "trim": "LS Crew Cab",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "C2500",
       "trim": "LS Ext. Cab",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "C2500",
       "trim": "LS Reg. Cab",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "C2500",
       "trim": "LS w/H.D. Suspension",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "C2500",
       "trim": "Reg. Cab",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "C2500",
       "trim": "w/H.D. Suspension",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "C3500",
       "trim": "Base",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "C3500",
       "trim": "Crew Cab (DRW)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "C3500",
       "trim": "Ext. Cab (DRW)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "C3500",
       "trim": "LS",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "C3500",
       "trim": "LS Crew Cab (DRW)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "C3500",
       "trim": "LS Ext. Cab (DRW)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "C3500",
       "trim": "LS Reg. Cab (DRW)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "C3500",
       "trim": "Reg. Cab (DRW)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Camaro",
       "trim": "Base",
-      "tire_sizes": [
-        "P215/60R16",
-        "P235/55R16"
+      "tires": [
+        {
+          "size": "P235/55R16"
+        },
+        {
+          "size": "P215/60R16"
+        }
       ]
     },
     {
       "model": "Camaro",
       "trim": "Z28",
-      "tire_sizes": [
-        "P235/55R16"
+      "tires": [
+        {
+          "size": "P235/55R16"
+        }
       ]
     },
     {
       "model": "Cavalier",
       "trim": "Base",
-      "tire_sizes": [
-        "P195/70R14"
+      "tires": [
+        {
+          "size": "P195/70R14"
+        }
       ]
     },
     {
       "model": "Cavalier",
       "trim": "LS",
-      "tire_sizes": [
-        "P195/65R15"
+      "tires": [
+        {
+          "size": "P195/65R15"
+        }
       ]
     },
     {
       "model": "Cavalier",
       "trim": "Z24",
-      "tire_sizes": [
-        "P205/55R16"
+      "tires": [
+        {
+          "size": "P205/55R16"
+        }
       ]
     },
     {
       "model": "Corvette",
       "trim": "(EMT Tire)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Express",
       "trim": "1500 Cargo Van",
-      "tire_sizes": [
-        "P215/75R15"
+      "tires": [
+        {
+          "size": "P215/75R15"
+        }
       ]
     },
     {
       "model": "Express",
       "trim": "1500 LS",
-      "tire_sizes": [
-        "P235/75R15"
+      "tires": [
+        {
+          "size": "P235/75R15"
+        }
       ]
     },
     {
       "model": "Express",
       "trim": "1500 Passenger Van",
-      "tire_sizes": [
-        "P235/75R15"
+      "tires": [
+        {
+          "size": "P235/75R15"
+        }
       ]
     },
     {
       "model": "Express",
       "trim": "2500 Base",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Express",
       "trim": "2500 Cargo Van",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Express",
       "trim": "2500 LS",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Express",
       "trim": "3500 Base",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Express",
       "trim": "3500 LS",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Impala",
       "trim": "Base",
-      "tire_sizes": [
-        "P225/60R16"
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
       ]
     },
     {
       "model": "Impala",
       "trim": "LS",
-      "tire_sizes": [
-        "P225/60R16"
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
       ]
     },
     {
       "model": "K2500",
       "trim": "Crew Cab",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "K2500",
       "trim": "Ext. Cab",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "K2500",
       "trim": "LS Crew Cab",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "K2500",
       "trim": "LS Ext. Cab",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "K2500",
       "trim": "LS Reg. Cab",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "K2500",
       "trim": "LS w/H.D. Suspension",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "K2500",
       "trim": "Reg. Cab",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "K2500",
       "trim": "w/H.D. Suspension",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "K3500",
       "trim": "Base",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "K3500",
       "trim": "Crew Cab (DRW)",
-      "tire_sizes": []
+      "tires": []
+    },
+    {
+      "model": "K3500",
+      "trim": "Ext. Cab (DRW)",
+      "tires": []
+    },
+    {
+      "model": "K3500",
+      "trim": "LS",
+      "tires": []
+    },
+    {
+      "model": "K3500",
+      "trim": "LS Crew Cab (DRW)",
+      "tires": []
+    },
+    {
+      "model": "K3500",
+      "trim": "LS Ext. Cab (DRW)",
+      "tires": []
+    },
+    {
+      "model": "K3500",
+      "trim": "LS Reg. Cab (DRW)",
+      "tires": []
+    },
+    {
+      "model": "K3500",
+      "trim": "Reg. Cab (DRW)",
+      "tires": []
+    },
+    {
+      "model": "Lumina",
+      "trim": "Base",
+      "tires": [
+        {
+          "size": "P205/70R15"
+        },
+        {
+          "size": "P225/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Malibu",
+      "trim": "Base",
+      "tires": [
+        {
+          "size": "P215/60R15"
+        }
+      ]
+    },
+    {
+      "model": "Malibu",
+      "trim": "LS",
+      "tires": [
+        {
+          "size": "P215/60R15"
+        }
+      ]
+    },
+    {
+      "model": "Metro",
+      "trim": "Base",
+      "tires": [
+        {
+          "size": "P155/80R13"
+        }
+      ]
+    },
+    {
+      "model": "Metro",
+      "trim": "LSi",
+      "tires": [
+        {
+          "size": "P155/80R13"
+        }
+      ]
+    },
+    {
+      "model": "Monte",
+      "trim": "Carlo LS",
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Monte",
+      "trim": "Carlo SS",
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
+      ]
+    },
+    {
+      "model": "Prizm",
+      "trim": "Base",
+      "tires": [
+        {
+          "size": "P185/65R14"
+        },
+        {
+          "size": "P175/65R14"
+        }
+      ]
+    },
+    {
+      "model": "Prizm",
+      "trim": "LSi",
+      "tires": [
+        {
+          "size": "P185/65R14"
+        }
+      ]
+    },
+    {
+      "model": "S10",
+      "trim": "4x2",
+      "tires": [
+        {
+          "size": "P235/55R16"
+        },
+        {
+          "size": "P205/75R15"
+        }
+      ]
+    },
+    {
+      "model": "S10",
+      "trim": "4x4",
+      "tires": [
+        {
+          "size": "P235/70R15"
+        },
+        {
+          "size": "P235/75R15"
+        }
+      ]
+    },
+    {
+      "model": "S10",
+      "trim": "LS 4x2",
+      "tires": [
+        {
+          "size": "P235/55R16"
+        },
+        {
+          "size": "P205/75R15"
+        }
+      ]
+    },
+    {
+      "model": "S10",
+      "trim": "LS 4x4",
+      "tires": [
+        {
+          "size": "P235/70R15"
+        },
+        {
+          "size": "P235/75R15"
+        }
+      ]
+    },
+    {
+      "model": "S10",
+      "trim": "Xtreme",
+      "tires": [
+        {
+          "size": "P235/55R16"
+        }
+      ]
+    },
+    {
+      "model": "S10",
+      "trim": "ZR2",
+      "tires": []
+    },
+    {
+      "model": "Silverado",
+      "trim": "1500 4x2",
+      "tires": [
+        {
+          "size": "P235/75R16"
+        },
+        {
+          "size": "P255/70R16"
+        }
+      ]
+    },
+    {
+      "model": "Silverado",
+      "trim": "1500 4x4",
+      "tires": [
+        {
+          "size": "P265/75R16"
+        },
+        {
+          "size": "P245/75R16"
+        }
+      ]
+    },
+    {
+      "model": "Silverado",
+      "trim": "1500 LS 4x2",
+      "tires": [
+        {
+          "size": "P235/75R16"
+        },
+        {
+          "size": "P255/70R16"
+        }
+      ]
+    },
+    {
+      "model": "Silverado",
+      "trim": "1500 LS 4x4",
+      "tires": [
+        {
+          "size": "P265/75R16"
+        },
+        {
+          "size": "P245/75R16"
+        }
+      ]
+    },
+    {
+      "model": "Silverado",
+      "trim": "1500 LT 4x2",
+      "tires": [
+        {
+          "size": "P235/75R16"
+        },
+        {
+          "size": "P255/70R16"
+        }
+      ]
+    },
+    {
+      "model": "Silverado",
+      "trim": "1500 LT 4x4",
+      "tires": [
+        {
+          "size": "P265/75R16"
+        },
+        {
+          "size": "P245/75R16"
+        }
+      ]
+    },
+    {
+      "model": "Silverado",
+      "trim": "2500 Base",
+      "tires": []
+    },
+    {
+      "model": "Silverado",
+      "trim": "2500 H.D.",
+      "tires": []
+    },
+    {
+      "model": "Silverado",
+      "trim": "2500 LS",
+      "tires": []
+    },
+    {
+      "model": "Silverado",
+      "trim": "2500 LS H.D.",
+      "tires": []
+    },
+    {
+      "model": "Silverado",
+      "trim": "2500 LT",
+      "tires": []
+    },
+    {
+      "model": "Silverado",
+      "trim": "2500 LT H.D.",
+      "tires": []
+    },
+    {
+      "model": "Suburban",
+      "trim": "1500 (Diesel)",
+      "tires": []
+    },
+    {
+      "model": "Suburban",
+      "trim": "1500 4x2",
+      "tires": [
+        {
+          "size": "P235/75R15"
+        }
+      ]
+    },
+    {
+      "model": "Suburban",
+      "trim": "1500 4x4",
+      "tires": [
+        {
+          "size": "P245/75R16"
+        }
+      ]
+    },
+    {
+      "model": "Suburban",
+      "trim": "1500 LS (Diesel)",
+      "tires": []
+    },
+    {
+      "model": "Suburban",
+      "trim": "1500 LS 4x2",
+      "tires": [
+        {
+          "size": "P235/75R15"
+        }
+      ]
+    },
+    {
+      "model": "Suburban",
+      "trim": "1500 LS 4x4",
+      "tires": [
+        {
+          "size": "P245/75R16"
+        }
+      ]
+    },
+    {
+      "model": "Suburban",
+      "trim": "1500 LT (Diesel)",
+      "tires": []
+    },
+    {
+      "model": "Suburban",
+      "trim": "1500 LT 4x2",
+      "tires": [
+        {
+          "size": "P235/75R15"
+        }
+      ]
+    },
+    {
+      "model": "Suburban",
+      "trim": "1500 LT 4x4",
+      "tires": [
+        {
+          "size": "P245/75R16"
+        }
+      ]
+    },
+    {
+      "model": "Suburban",
+      "trim": "2500 Base",
+      "tires": []
+    },
+    {
+      "model": "Suburban",
+      "trim": "2500 LS",
+      "tires": []
+    },
+    {
+      "model": "Suburban",
+      "trim": "2500 LT",
+      "tires": []
+    },
+    {
+      "model": "Tahoe",
+      "trim": "4x2",
+      "tires": [
+        {
+          "size": "P265/70R16"
+        },
+        {
+          "size": "P245/75R16"
+        }
+      ]
+    },
+    {
+      "model": "Tahoe",
+      "trim": "4x4",
+      "tires": [
+        {
+          "size": "P265/75R16"
+        }
+      ]
+    },
+    {
+      "model": "Tahoe",
+      "trim": "LS 4x2",
+      "tires": [
+        {
+          "size": "P265/70R16"
+        },
+        {
+          "size": "P245/75R16"
+        }
+      ]
+    },
+    {
+      "model": "Tahoe",
+      "trim": "LS 4x4",
+      "tires": [
+        {
+          "size": "P265/75R16"
+        }
+      ]
+    },
+    {
+      "model": "Tahoe",
+      "trim": "LT 4x2",
+      "tires": [
+        {
+          "size": "P265/70R16"
+        },
+        {
+          "size": "P245/75R16"
+        }
+      ]
+    },
+    {
+      "model": "Tahoe",
+      "trim": "LT 4x4",
+      "tires": [
+        {
+          "size": "P265/75R16"
+        }
+      ]
+    },
+    {
+      "model": "Tahoe",
+      "trim": "Limited",
+      "tires": [
+        {
+          "size": "P265/70R16"
+        },
+        {
+          "size": "P245/75R16"
+        }
+      ]
+    },
+    {
+      "model": "Tahoe",
+      "trim": "Z71",
+      "tires": [
+        {
+          "size": "P265/75R16"
+        }
+      ]
+    },
+    {
+      "model": "Tracker",
+      "trim": "4x2",
+      "tires": [
+        {
+          "size": "P195/75R15"
+        }
+      ]
+    },
+    {
+      "model": "Tracker",
+      "trim": "4x4",
+      "tires": [
+        {
+          "size": "P205/75R15"
+        }
+      ]
+    },
+    {
+      "model": "Tracker",
+      "trim": "LSi",
+      "tires": [
+        {
+          "size": "P205/75R15"
+        }
+      ]
+    },
+    {
+      "model": "Venture",
+      "trim": "Base",
+      "tires": [
+        {
+          "size": "P215/70R15"
+        }
+      ]
+    },
+    {
+      "model": "Venture",
+      "trim": "LS",
+      "tires": [
+        {
+          "size": "P215/70R15"
+        }
+      ]
+    },
+    {
+      "model": "Venture",
+      "trim": "LT",
+      "tires": [
+        {
+          "size": "P215/70R15"
+        }
+      ]
+    },
+    {
+      "model": "Venture",
+      "trim": "Plus",
+      "tires": [
+        {
+          "size": "P215/70R15"
+        }
+      ]
+    },
+    {
+      "model": "Venture",
+      "trim": "Value",
+      "tires": [
+        {
+          "size": "P215/70R15"
+        }
+      ]
+    },
+    {
+      "model": "Venture",
+      "trim": "Warner Bros.",
+      "tires": [
+        {
+          "size": "P215/70R15"
+        }
+      ]
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-23T09:51:40.749683",
-    "total_vehicles": 50,
-    "total_tire_sizes": 10
+    "scraping_date": "2025-06-23T10:34:54.707631",
+    "total_vehicles": 112,
+    "total_tire_sizes": 22,
+    "migration_date": "2025-06-23T14:37:31.790831",
+    "migrated_to_new_format": true
   }
 }

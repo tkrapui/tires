@@ -5,12 +5,14 @@
     {
       "model": "Lotus",
       "trim": "Esprit V8",
-      "tire_sizes": []
+      "tires": []
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-23T10:16:06.555492",
+    "scraping_date": "2025-06-23T10:46:24.871100",
     "total_vehicles": 1,
-    "total_tire_sizes": 0
+    "total_tire_sizes": 0,
+    "migration_date": "2025-06-23T14:37:31.531860",
+    "migrated_to_new_format": true
   }
 }

@@ -1,0 +1,23 @@
+{
+  "brand": "SRT",
+  "year": 2024,
+  "vehicles": [
+    {
+      "model": "Durango",
+      "trim": "SRT 392",
+      "tires": []
+    },
+    {
+      "model": "Durango",
+      "trim": "SRT Hellcat",
+      "tires": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T14:14:00.750737",
+    "total_vehicles": 2,
+    "total_tire_sizes": 0,
+    "migration_date": "2025-06-23T14:37:31.717446",
+    "migrated_to_new_format": true
+  }
+}

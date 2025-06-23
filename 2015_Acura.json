@@ -5,73 +5,99 @@
     {
       "model": "ILX",
       "trim": "Base",
-      "tire_sizes": [
-        "P215/45R17"
+      "tires": [
+        {
+          "size": "P215/45R17"
+        }
       ]
     },
     {
       "model": "ILX",
       "trim": "Dynamic",
-      "tire_sizes": [
-        "P215/45R17"
+      "tires": [
+        {
+          "size": "P215/45R17"
+        }
       ]
     },
     {
       "model": "ILX",
       "trim": "Hybrid",
-      "tire_sizes": [
-        "P205/55R16"
+      "tires": [
+        {
+          "size": "P205/55R16"
+        }
       ]
     },
     {
       "model": "MDX",
       "trim": "Base",
-      "tire_sizes": [
-        "245/55R19",
-        "245/60R18"
+      "tires": [
+        {
+          "size": "245/55R19"
+        },
+        {
+          "size": "245/60R18"
+        }
       ]
     },
     {
       "model": "MDX",
       "trim": "SH-AWD",
-      "tire_sizes": [
-        "245/55R19",
-        "245/60R18"
+      "tires": [
+        {
+          "size": "245/55R19"
+        },
+        {
+          "size": "245/60R18"
+        }
       ]
     },
     {
       "model": "RDX",
       "trim": "Base",
-      "tire_sizes": [
-        "P235/60R18"
+      "tires": [
+        {
+          "size": "P235/60R18"
+        }
       ]
     },
     {
       "model": "RLX",
       "trim": "Base",
-      "tire_sizes": [
-        "P245/45R18",
-        "245/40R19"
+      "tires": [
+        {
+          "size": "P245/45R18"
+        },
+        {
+          "size": "245/40R19"
+        }
       ]
     },
     {
       "model": "RLX",
       "trim": "Sport Hybrid SH-AWD",
-      "tire_sizes": [
-        "245/40R19"
+      "tires": [
+        {
+          "size": "245/40R19"
+        }
       ]
     },
     {
       "model": "TLX",
       "trim": "V6",
-      "tire_sizes": [
-        "225/50R18"
+      "tires": [
+        {
+          "size": "225/50R18"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-21T08:17:41.634576",
     "total_vehicles": 9,
-    "total_tire_sizes": 8
+    "total_tire_sizes": 8,
+    "migration_date": "2025-06-23T14:37:30.996290",
+    "migrated_to_new_format": true
   }
 }

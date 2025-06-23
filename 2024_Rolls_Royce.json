@@ -5,74 +5,114 @@
     {
       "model": "Cullinan",
       "trim": "Base",
-      "tire_sizes": [
-        "255/50R21"
+      "tires": [
+        {
+          "size": "255/50R21"
+        }
       ]
     },
     {
       "model": "Cullinan",
       "trim": "Black Badge",
-      "tire_sizes": [
-        "285/40R22",
-        "255/45R22"
+      "tires": [
+        {
+          "size": "285/40R22"
+        },
+        {
+          "size": "255/45R22"
+        }
       ]
     },
     {
       "model": "Ghost",
       "trim": "Base",
-      "tire_sizes": [
-        "255/50R19"
+      "tires": [
+        {
+          "size": "255/50R19"
+        }
       ]
     },
     {
       "model": "Ghost",
       "trim": "Black Badge",
-      "tire_sizes": [
-        "255/40R21",
-        "285/35R21"
+      "tires": [
+        {
+          "size": "255/40R21"
+        },
+        {
+          "size": "285/35R21"
+        }
       ]
     },
     {
       "model": "Ghost",
       "trim": "EWB",
-      "tire_sizes": [
-        "255/50R19"
+      "tires": [
+        {
+          "size": "255/50R19"
+        }
       ]
     },
     {
       "model": "Phantom",
       "trim": "Base",
-      "tire_sizes": [
-        "255/50R21",
-        "285/45R21",
-        "285/40R22",
-        "255/45R22"
+      "tires": [
+        {
+          "size": "255/50R21"
+        },
+        {
+          "size": "285/45R21"
+        },
+        {
+          "size": "285/40R22"
+        },
+        {
+          "size": "255/45R22"
+        }
       ]
     },
     {
       "model": "Phantom",
       "trim": "EWB",
-      "tire_sizes": [
-        "255/50R21",
-        "285/45R21",
-        "285/40R22",
-        "255/45R22"
+      "tires": [
+        {
+          "size": "255/50R21"
+        },
+        {
+          "size": "285/45R21"
+        },
+        {
+          "size": "285/40R22"
+        },
+        {
+          "size": "255/45R22"
+        }
       ]
     },
     {
       "model": "Spectre",
       "trim": "Base",
-      "tire_sizes": [
-        "285/40R22",
-        "255/40R23",
-        "295/35R23",
-        "255/45R22"
+      "tires": [
+        {
+          "size": "285/40R22"
+        },
+        {
+          "size": "255/40R23"
+        },
+        {
+          "size": "295/35R23"
+        },
+        {
+          "size": "255/45R22"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-20T15:19:12.556430",
     "total_vehicles": 8,
-    "total_tire_sizes": 9
+    "total_tire_sizes": 9,
+    "migration_date": "2025-06-23T14:37:31.516568",
+    "migrated_to_new_format": true
   }
 }

@@ -5,93 +5,135 @@
     {
       "model": "Continental",
       "trim": "GT",
-      "tire_sizes": [
-        "275/40R20",
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/40R20"
+        },
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "Continental",
       "trim": "GT Speed",
-      "tire_sizes": [
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "Continental",
       "trim": "GT V8",
-      "tire_sizes": [
-        "275/40R20",
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/40R20"
+        },
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "Continental",
       "trim": "GT V8 S",
-      "tire_sizes": [
-        "275/40R20",
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/40R20"
+        },
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "Continental",
       "trim": "GTC",
-      "tire_sizes": [
-        "275/40R20",
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/40R20"
+        },
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "Continental",
       "trim": "GTC Speed",
-      "tire_sizes": [
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "Continental",
       "trim": "GTC V8",
-      "tire_sizes": [
-        "275/40R20",
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/40R20"
+        },
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "Continental",
       "trim": "GTC V8 S",
-      "tire_sizes": [
-        "275/40R20",
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/40R20"
+        },
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "Flying",
       "trim": "Spur Base",
-      "tire_sizes": [
-        "275/45R19",
-        "275/40R20",
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/45R19"
+        },
+        {
+          "size": "275/40R20"
+        },
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "Flying",
       "trim": "Spur W12 Mulliner",
-      "tire_sizes": [
-        "275/35R21"
+      "tires": [
+        {
+          "size": "275/35R21"
+        }
       ]
     },
     {
       "model": "Mulsanne",
       "trim": "Base",
-      "tire_sizes": [
-        "265/45R20",
-        "265/40R21"
+      "tires": [
+        {
+          "size": "265/45R20"
+        },
+        {
+          "size": "265/40R21"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-21T09:42:05.869605",
     "total_vehicles": 11,
-    "total_tire_sizes": 5
+    "total_tire_sizes": 5,
+    "migration_date": "2025-06-23T14:37:31.875870",
+    "migrated_to_new_format": true
   }
 }

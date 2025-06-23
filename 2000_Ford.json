@@ -5,630 +5,800 @@
     {
       "model": "Contour",
       "trim": "LX",
-      "tire_sizes": [
-        "P185/70R14",
-        "P195/65R14"
+      "tires": [
+        {
+          "size": "P185/70R14"
+        },
+        {
+          "size": "P195/65R14"
+        }
       ]
     },
     {
       "model": "Contour",
       "trim": "SE",
-      "tire_sizes": [
-        "P205/60R15"
+      "tires": [
+        {
+          "size": "P205/60R15"
+        }
       ]
     },
     {
       "model": "Contour",
       "trim": "SVT",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Crown",
       "trim": "Victoria Base",
-      "tire_sizes": [
-        "P225/60R16"
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
       ]
     },
     {
       "model": "Crown",
       "trim": "Victoria LX",
-      "tire_sizes": [
-        "P225/60R16"
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
       ]
     },
     {
       "model": "Crown",
       "trim": "Victoria Police Interceptor",
-      "tire_sizes": [
-        "P225/60R16"
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
       ]
     },
     {
       "model": "Crown",
       "trim": "Victoria S",
-      "tire_sizes": [
-        "P225/60R16"
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
       ]
     },
     {
       "model": "E-150",
       "trim": "Econoline Base",
-      "tire_sizes": [
-        "P235/75R15"
+      "tires": [
+        {
+          "size": "P235/75R15"
+        }
       ]
     },
     {
       "model": "E-150",
       "trim": "Econoline Club Wagon Chateau",
-      "tire_sizes": [
-        "P235/75R15"
+      "tires": [
+        {
+          "size": "P235/75R15"
+        }
       ]
     },
     {
       "model": "E-150",
       "trim": "Econoline Club Wagon Custom",
-      "tire_sizes": [
-        "P235/75R15"
+      "tires": [
+        {
+          "size": "P235/75R15"
+        }
       ]
     },
     {
       "model": "E-150",
       "trim": "Econoline Club Wagon XLT",
-      "tire_sizes": [
-        "P235/75R15"
+      "tires": [
+        {
+          "size": "P235/75R15"
+        }
       ]
     },
     {
       "model": "E-150",
       "trim": "Econoline XL",
-      "tire_sizes": [
-        "P235/75R15"
+      "tires": [
+        {
+          "size": "P235/75R15"
+        }
       ]
     },
     {
       "model": "E-250",
       "trim": "Econoline Cargo Van (GVWR 7900)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "E-250",
       "trim": "Econoline Cargo Van (GVWR 8600)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "E-250",
       "trim": "Econoline Ext. Van (GVWR 7500)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "E-250",
       "trim": "Econoline Ext. Van (GVWR 8600)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "E-250",
       "trim": "Econoline XL Cargo Van (GVWR 7900)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "E-250",
       "trim": "Econoline XL Cargo Van (GVWR 8600)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "E-250",
       "trim": "Econoline XL Ext. Van (GVWR 7500)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "E-250",
       "trim": "Econoline XL Ext. Van (GVWR 8600)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "E-350",
       "trim": "Econoline Base",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "E-350",
       "trim": "Econoline Club Wagon Chateau",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "E-350",
       "trim": "Econoline Club Wagon Custom",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "E-350",
       "trim": "Econoline Club Wagon XLT",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "E-350",
       "trim": "Econoline XL",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Escort",
       "trim": "LX",
-      "tire_sizes": [
-        "P185/65R14"
+      "tires": [
+        {
+          "size": "P185/65R14"
+        }
       ]
     },
     {
       "model": "Escort",
       "trim": "ZX2",
-      "tire_sizes": [
-        "P185/60R15",
-        "P185/65R14"
+      "tires": [
+        {
+          "size": "P185/60R15"
+        },
+        {
+          "size": "P185/65R14"
+        }
       ]
     },
     {
       "model": "Excursion",
       "trim": "Limited",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Excursion",
       "trim": "XLT",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Expedition",
       "trim": "Eddie Bauer 4x2 (19mm hex lug nut)",
-      "tire_sizes": [
-        "P275/60R17"
+      "tires": [
+        {
+          "size": "P275/60R17"
+        }
       ]
     },
     {
       "model": "Expedition",
       "trim": "Eddie Bauer 4x2 (21mm hex lug nut)",
-      "tire_sizes": [
-        "P275/60R17"
+      "tires": [
+        {
+          "size": "P275/60R17"
+        }
       ]
     },
     {
       "model": "Expedition",
       "trim": "Eddie Bauer 4x4 (19mm hex lug nut)",
-      "tire_sizes": [
-        "P265/70R17"
+      "tires": [
+        {
+          "size": "P265/70R17"
+        }
       ]
     },
     {
       "model": "Expedition",
       "trim": "Eddie Bauer 4x4 (21mm hex lug nut)",
-      "tire_sizes": [
-        "P265/70R17"
+      "tires": [
+        {
+          "size": "P265/70R17"
+        }
       ]
     },
     {
       "model": "Expedition",
       "trim": "XLT 4x2 (19mm hex lug nut)",
-      "tire_sizes": [
-        "P255/70R16"
+      "tires": [
+        {
+          "size": "P255/70R16"
+        }
       ]
     },
     {
       "model": "Expedition",
       "trim": "XLT 4x2 (21mm hex lug nut)",
-      "tire_sizes": [
-        "P255/70R16"
+      "tires": [
+        {
+          "size": "P255/70R16"
+        }
       ]
     },
     {
       "model": "Expedition",
       "trim": "XLT 4x2 w/Premium Sport Appearance (19mm hex lug nut)",
-      "tire_sizes": [
-        "P275/60R17"
+      "tires": [
+        {
+          "size": "P275/60R17"
+        }
       ]
     },
     {
       "model": "Expedition",
       "trim": "XLT 4x2 w/Premium Sport Appearance (21mm hex lug nut)",
-      "tire_sizes": [
-        "P275/60R17"
+      "tires": [
+        {
+          "size": "P275/60R17"
+        }
       ]
     },
     {
       "model": "Expedition",
       "trim": "XLT 4x4 (19mm hex lug nut)",
-      "tire_sizes": [
-        "P255/70R16"
+      "tires": [
+        {
+          "size": "P255/70R16"
+        }
       ]
     },
     {
       "model": "Expedition",
       "trim": "XLT 4x4 (21mm hex lug nut)",
-      "tire_sizes": [
-        "P255/70R16"
+      "tires": [
+        {
+          "size": "P255/70R16"
+        }
       ]
     },
     {
       "model": "Expedition",
       "trim": "XLT 4x4 w/Premium Sport Appearance (19mm hex lug nut)",
-      "tire_sizes": [
-        "P265/70R17"
+      "tires": [
+        {
+          "size": "P265/70R17"
+        }
       ]
     },
     {
       "model": "Expedition",
       "trim": "XLT 4x4 w/Premium Sport Appearance (21mm hex lug nut)",
-      "tire_sizes": [
-        "P265/70R17"
+      "tires": [
+        {
+          "size": "P265/70R17"
+        }
       ]
     },
     {
       "model": "Explorer",
       "trim": "Eddie Bauer",
-      "tire_sizes": [
-        "P255/70R16"
+      "tires": [
+        {
+          "size": "P255/70R16"
+        }
       ]
     },
     {
       "model": "Explorer",
       "trim": "Limited",
-      "tire_sizes": [
-        "P235/75R15",
-        "P225/70R15",
-        "P255/70R16"
+      "tires": [
+        {
+          "size": "P235/75R15"
+        },
+        {
+          "size": "P225/70R15"
+        },
+        {
+          "size": "P255/70R16"
+        }
       ]
     },
     {
       "model": "Explorer",
       "trim": "Sport",
-      "tire_sizes": [
-        "P235/75R15",
-        "P255/70R16"
+      "tires": [
+        {
+          "size": "P235/75R15"
+        },
+        {
+          "size": "P255/70R16"
+        }
       ]
     },
     {
       "model": "Explorer",
       "trim": "XL Fleet",
-      "tire_sizes": [
-        "P235/75R15",
-        "P225/70R15"
+      "tires": [
+        {
+          "size": "P235/75R15"
+        },
+        {
+          "size": "P225/70R15"
+        }
       ]
     },
     {
       "model": "Explorer",
       "trim": "XLS",
-      "tire_sizes": [
-        "P235/75R15",
-        "P225/70R15",
-        "P255/70R16"
+      "tires": [
+        {
+          "size": "P235/75R15"
+        },
+        {
+          "size": "P225/70R15"
+        },
+        {
+          "size": "P255/70R16"
+        }
       ]
     },
     {
       "model": "Explorer",
       "trim": "XLT",
-      "tire_sizes": [
-        "P235/75R15",
-        "P225/70R15",
-        "P255/70R16"
+      "tires": [
+        {
+          "size": "P235/75R15"
+        },
+        {
+          "size": "P225/70R15"
+        },
+        {
+          "size": "P255/70R16"
+        }
       ]
     },
     {
       "model": "F-150",
       "trim": "(19mm hex lug nut)",
-      "tire_sizes": [
-        "P255/70R16",
-        "P235/70R16"
+      "tires": [
+        {
+          "size": "P255/70R16"
+        },
+        {
+          "size": "P235/70R16"
+        }
       ]
     },
     {
       "model": "F-150",
       "trim": "(21mm hex lug nut)",
-      "tire_sizes": [
-        "P255/70R16",
-        "P235/70R16"
+      "tires": [
+        {
+          "size": "P255/70R16"
+        },
+        {
+          "size": "P235/70R16"
+        }
       ]
     },
     {
       "model": "F-150",
       "trim": "Harley-Davidson Edition",
-      "tire_sizes": [
-        "P275/45R20"
+      "tires": [
+        {
+          "size": "P275/45R20"
+        }
       ]
     },
     {
       "model": "F-150",
       "trim": "Lariat 4x2 (19mm hex lug nut)",
-      "tire_sizes": [
-        "P275/60R17"
+      "tires": [
+        {
+          "size": "P275/60R17"
+        }
       ]
     },
     {
       "model": "F-150",
       "trim": "Lariat 4x2 (21mm hex lug nut)",
-      "tire_sizes": [
-        "P275/60R17"
+      "tires": [
+        {
+          "size": "P275/60R17"
+        }
       ]
     },
     {
       "model": "F-150",
       "trim": "Lariat 4x4 (19mm hex lug nut)",
-      "tire_sizes": [
-        "P265/70R17"
+      "tires": [
+        {
+          "size": "P265/70R17"
+        }
       ]
     },
     {
       "model": "F-150",
       "trim": "Lariat 4x4 (21mm hex lug nut)",
-      "tire_sizes": [
-        "P265/70R17"
+      "tires": [
+        {
+          "size": "P265/70R17"
+        }
       ]
     },
     {
       "model": "F-150",
       "trim": "Lightning (19mm hex lug nut)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "F-150",
       "trim": "Lightning (21mm hex lug nut)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "F-150",
       "trim": "XL (19mm hex lug nut)",
-      "tire_sizes": [
-        "P255/70R16",
-        "P235/70R16"
+      "tires": [
+        {
+          "size": "P255/70R16"
+        },
+        {
+          "size": "P235/70R16"
+        }
       ]
     },
     {
       "model": "F-150",
       "trim": "XL (21mm hex lug nut)",
-      "tire_sizes": [
-        "P255/70R16",
-        "P235/70R16"
+      "tires": [
+        {
+          "size": "P255/70R16"
+        },
+        {
+          "size": "P235/70R16"
+        }
       ]
     },
     {
       "model": "F-150",
       "trim": "XLT (19mm hex lug nut)",
-      "tire_sizes": [
-        "P255/70R16",
-        "P235/70R16"
+      "tires": [
+        {
+          "size": "P255/70R16"
+        },
+        {
+          "size": "P235/70R16"
+        }
       ]
     },
     {
       "model": "F-150",
       "trim": "XLT (21mm hex lug nut)",
-      "tire_sizes": [
-        "P255/70R16",
-        "P235/70R16"
+      "tires": [
+        {
+          "size": "P255/70R16"
+        },
+        {
+          "size": "P235/70R16"
+        }
       ]
     },
     {
       "model": "F-250",
       "trim": "Super Duty Lariat",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "F-250",
       "trim": "Super Duty XL",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "F-250",
       "trim": "Super Duty XLT",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "F-350",
       "trim": "Super Duty Lariat",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "F-350",
       "trim": "Super Duty Lariat 4x2 (DRW)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "F-350",
       "trim": "Super Duty Lariat 4x4 (DRW)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "F-350",
       "trim": "Super Duty XL",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "F-350",
       "trim": "Super Duty XL 4x2 (DRW)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "F-350",
       "trim": "Super Duty XL 4x4 (DRW)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "F-350",
       "trim": "Super Duty XLT",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "F-350",
       "trim": "Super Duty XLT 4x2 (DRW)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "F-350",
       "trim": "Super Duty XLT 4x4 (DRW)",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Focus",
       "trim": "LX",
-      "tire_sizes": [
-        "P195/60R15",
-        "P185/65R14"
+      "tires": [
+        {
+          "size": "P195/60R15"
+        },
+        {
+          "size": "P185/65R14"
+        }
       ]
     },
     {
       "model": "Focus",
       "trim": "SE",
-      "tire_sizes": [
-        "P195/60R15"
+      "tires": [
+        {
+          "size": "P195/60R15"
+        }
       ]
     },
     {
       "model": "Focus",
       "trim": "ZTS",
-      "tire_sizes": [
-        "P195/60R15"
+      "tires": [
+        {
+          "size": "P195/60R15"
+        }
       ]
     },
     {
       "model": "Focus",
       "trim": "ZX3",
-      "tire_sizes": [
-        "P195/60R15"
+      "tires": [
+        {
+          "size": "P195/60R15"
+        }
       ]
     },
     {
       "model": "Mustang",
       "trim": "Base",
-      "tire_sizes": [
-        "P205/65R15",
-        "P225/55R16"
+      "tires": [
+        {
+          "size": "P205/65R15"
+        },
+        {
+          "size": "P225/55R16"
+        }
       ]
     },
     {
       "model": "Mustang",
       "trim": "GT",
-      "tire_sizes": [
-        "225/55R16"
+      "tires": [
+        {
+          "size": "225/55R16"
+        }
       ]
     },
     {
       "model": "Mustang",
       "trim": "SVT Cobra R",
-      "tire_sizes": []
+      "tires": []
     },
     {
       "model": "Ranger",
       "trim": "EV 4x2",
-      "tire_sizes": [
-        "P225/70R15"
+      "tires": [
+        {
+          "size": "P225/70R15"
+        }
       ]
     },
     {
       "model": "Ranger",
       "trim": "EV 4x4",
-      "tire_sizes": [
-        "P215/75R15"
+      "tires": [
+        {
+          "size": "P215/75R15"
+        }
       ]
     },
     {
       "model": "Ranger",
       "trim": "XL 4x2",
-      "tire_sizes": [
-        "P225/70R15"
+      "tires": [
+        {
+          "size": "P225/70R15"
+        }
       ]
     },
     {
       "model": "Ranger",
       "trim": "XL 4x4",
-      "tire_sizes": [
-        "P215/75R15"
+      "tires": [
+        {
+          "size": "P215/75R15"
+        }
       ]
     },
     {
       "model": "Ranger",
       "trim": "XLT (Off-Road)",
-      "tire_sizes": [
-        "P245/75R16"
+      "tires": [
+        {
+          "size": "P245/75R16"
+        }
       ]
     },
     {
       "model": "Ranger",
       "trim": "XLT 4x2",
-      "tire_sizes": [
-        "P225/70R15"
+      "tires": [
+        {
+          "size": "P225/70R15"
+        }
       ]
     },
     {
       "model": "Ranger",
       "trim": "XLT 4x4",
-      "tire_sizes": [
-        "P235/75R15"
+      "tires": [
+        {
+          "size": "P235/75R15"
+        }
       ]
     },
     {
       "model": "Taurus",
       "trim": "LX",
-      "tire_sizes": [
-        "P215/60R16"
+      "tires": [
+        {
+          "size": "P215/60R16"
+        }
       ]
     },
     {
       "model": "Taurus",
       "trim": "SE",
-      "tire_sizes": [
-        "P215/60R16"
+      "tires": [
+        {
+          "size": "P215/60R16"
+        }
       ]
     },
     {
       "model": "Taurus",
       "trim": "SEL",
-      "tire_sizes": [
-        "P215/60R16"
+      "tires": [
+        {
+          "size": "P215/60R16"
+        }
       ]
     },
     {
       "model": "Taurus",
       "trim": "SES",
-      "tire_sizes": [
-        "P215/60R16"
+      "tires": [
+        {
+          "size": "P215/60R16"
+        }
       ]
     },
     {
       "model": "Windstar",
       "trim": "Cargo Van",
-      "tire_sizes": [
-        "P215/70R15"
+      "tires": [
+        {
+          "size": "P215/70R15"
+        }
       ]
     },
     {
       "model": "Windstar",
       "trim": "LX",
-      "tire_sizes": [
-        "P205/70R15",
-        "P215/70R15"
+      "tires": [
+        {
+          "size": "P205/70R15"
+        },
+        {
+          "size": "P215/70R15"
+        }
       ]
     },
     {
       "model": "Windstar",
       "trim": "SE",
-      "tire_sizes": [
-        "P215/70R15"
+      "tires": [
+        {
+          "size": "P215/70R15"
+        }
       ]
     },
     {
       "model": "Windstar",
       "trim": "SEL",
-      "tire_sizes": [
-        "P225/60R16"
+      "tires": [
+        {
+          "size": "P225/60R16"
+        }
       ]
     },
     {
       "model": "Windstar",
       "trim": "Wagon",
-      "tire_sizes": [
-        "P205/70R15",
-        "P215/70R15"
+      "tires": [
+        {
+          "size": "P205/70R15"
+        },
+        {
+          "size": "P215/70R15"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-23T10:00:48.916769",
     "total_vehicles": 95,
-    "total_tire_sizes": 22
+    "total_tire_sizes": 22,
+    "migration_date": "2025-06-23T14:37:31.326594",
+    "migrated_to_new_format": true
   }
 }

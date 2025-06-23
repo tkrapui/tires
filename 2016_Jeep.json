@@ -5,327 +5,453 @@
     {
       "model": "Cherokee",
       "trim": "75th Anniversary 4x2",
-      "tire_sizes": [
-        "225/55R18"
+      "tires": [
+        {
+          "size": "225/55R18"
+        }
       ]
     },
     {
       "model": "Cherokee",
       "trim": "75th Anniversary 4x4",
-      "tire_sizes": [
-        "225/60R18"
+      "tires": [
+        {
+          "size": "225/60R18"
+        }
       ]
     },
     {
       "model": "Cherokee",
       "trim": "Limited 4x2",
-      "tire_sizes": [
-        "225/55R18"
+      "tires": [
+        {
+          "size": "225/55R18"
+        }
       ]
     },
     {
       "model": "Cherokee",
       "trim": "Limited 4x4",
-      "tire_sizes": [
-        "225/60R18"
+      "tires": [
+        {
+          "size": "225/60R18"
+        }
       ]
     },
     {
       "model": "Cherokee",
       "trim": "North 4x2",
-      "tire_sizes": [
-        "225/60R17"
+      "tires": [
+        {
+          "size": "225/60R17"
+        }
       ]
     },
     {
       "model": "Cherokee",
       "trim": "North 4x4",
-      "tire_sizes": [
-        "225/65R17"
+      "tires": [
+        {
+          "size": "225/65R17"
+        }
       ]
     },
     {
       "model": "Cherokee",
       "trim": "Sport 4x2",
-      "tire_sizes": [
-        "225/60R17"
+      "tires": [
+        {
+          "size": "225/60R17"
+        }
       ]
     },
     {
       "model": "Cherokee",
       "trim": "Sport 4x4",
-      "tire_sizes": [
-        "225/65R17"
+      "tires": [
+        {
+          "size": "225/65R17"
+        }
       ]
     },
     {
       "model": "Cherokee",
       "trim": "Trailhawk",
-      "tire_sizes": [
-        "P245/65R17"
+      "tires": [
+        {
+          "size": "P245/65R17"
+        }
       ]
     },
     {
       "model": "Compass",
       "trim": "75th Anniversary",
-      "tire_sizes": [
-        "P215/55R18"
+      "tires": [
+        {
+          "size": "P215/55R18"
+        }
       ]
     },
     {
       "model": "Compass",
       "trim": "North",
-      "tire_sizes": [
-        "225/60R17",
-        "P215/65R17",
-        "P215/55R18",
-        "P215/60R17"
+      "tires": [
+        {
+          "size": "225/60R17"
+        },
+        {
+          "size": "P215/65R17"
+        },
+        {
+          "size": "P215/55R18"
+        },
+        {
+          "size": "P215/60R17"
+        }
       ]
     },
     {
       "model": "Compass",
       "trim": "Sport",
-      "tire_sizes": [
-        "P205/70R16",
-        "P215/65R17"
+      "tires": [
+        {
+          "size": "P205/70R16"
+        },
+        {
+          "size": "P215/65R17"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee 75th Anniversary",
-      "tire_sizes": [
-        "265/60R18",
-        "265/50R20"
+      "tires": [
+        {
+          "size": "265/60R18"
+        },
+        {
+          "size": "265/50R20"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee High Altitude",
-      "tire_sizes": [
-        "265/50R20"
+      "tires": [
+        {
+          "size": "265/50R20"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee High Altitude V8 4x4",
-      "tire_sizes": [
-        "265/50R20"
+      "tires": [
+        {
+          "size": "265/50R20"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee Laredo",
-      "tire_sizes": [
-        "P265/60R18",
-        "P245/70R17"
+      "tires": [
+        {
+          "size": "P265/60R18"
+        },
+        {
+          "size": "P245/70R17"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee Limited",
-      "tire_sizes": [
-        "P265/60R18",
-        "265/50R20"
+      "tires": [
+        {
+          "size": "P265/60R18"
+        },
+        {
+          "size": "265/50R20"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee Limited 75th Anniversary Edition",
-      "tire_sizes": [
-        "265/60R18",
-        "265/50R20"
+      "tires": [
+        {
+          "size": "265/60R18"
+        },
+        {
+          "size": "265/50R20"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee Limited V8 4x4",
-      "tire_sizes": [
-        "265/60R18",
-        "265/50R20"
+      "tires": [
+        {
+          "size": "265/60R18"
+        },
+        {
+          "size": "265/50R20"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee Overland",
-      "tire_sizes": [
-        "P265/60R18",
-        "265/50R20"
+      "tires": [
+        {
+          "size": "P265/60R18"
+        },
+        {
+          "size": "265/50R20"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee Overland V8 4x4",
-      "tire_sizes": [
-        "265/60R18",
-        "265/50R20"
+      "tires": [
+        {
+          "size": "265/60R18"
+        },
+        {
+          "size": "265/50R20"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee SRT",
-      "tire_sizes": [
-        "295/45R20"
+      "tires": [
+        {
+          "size": "295/45R20"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee Summit",
-      "tire_sizes": [
-        "265/50R20"
+      "tires": [
+        {
+          "size": "265/50R20"
+        }
       ]
     },
     {
       "model": "Grand",
       "trim": "Cherokee Summit V8 4x4",
-      "tire_sizes": [
-        "265/50R20"
+      "tires": [
+        {
+          "size": "265/50R20"
+        }
       ]
     },
     {
       "model": "Patriot",
       "trim": "75th Anniversary",
-      "tire_sizes": [
-        "P215/65R17",
-        "P215/60R17"
+      "tires": [
+        {
+          "size": "P215/65R17"
+        },
+        {
+          "size": "P215/60R17"
+        }
       ]
     },
     {
       "model": "Patriot",
       "trim": "Limited",
-      "tire_sizes": [
-        "P215/65R17",
-        "P215/60R17"
+      "tires": [
+        {
+          "size": "P215/65R17"
+        },
+        {
+          "size": "P215/60R17"
+        }
       ]
     },
     {
       "model": "Patriot",
       "trim": "North",
-      "tire_sizes": [
-        "P205/70R16",
-        "P215/65R17"
+      "tires": [
+        {
+          "size": "P205/70R16"
+        },
+        {
+          "size": "P215/65R17"
+        }
       ]
     },
     {
       "model": "Patriot",
       "trim": "Sport",
-      "tire_sizes": [
-        "P205/70R16",
-        "P215/65R17"
+      "tires": [
+        {
+          "size": "P205/70R16"
+        },
+        {
+          "size": "P215/65R17"
+        }
       ]
     },
     {
       "model": "Renegade",
       "trim": "75th Anniversary",
-      "tire_sizes": [
-        "225/55R18"
+      "tires": [
+        {
+          "size": "225/55R18"
+        }
       ]
     },
     {
       "model": "Renegade",
       "trim": "Limited",
-      "tire_sizes": [
-        "225/55R18"
+      "tires": [
+        {
+          "size": "225/55R18"
+        }
       ]
     },
     {
       "model": "Renegade",
       "trim": "North",
-      "tire_sizes": [
-        "215/65R16",
-        "225/55R18",
-        "215/60R17"
+      "tires": [
+        {
+          "size": "215/65R16"
+        },
+        {
+          "size": "225/55R18"
+        },
+        {
+          "size": "215/60R17"
+        }
       ]
     },
     {
       "model": "Renegade",
       "trim": "Sport",
-      "tire_sizes": [
-        "215/65R16"
+      "tires": [
+        {
+          "size": "215/65R16"
+        }
       ]
     },
     {
       "model": "Renegade",
       "trim": "Trailhawk",
-      "tire_sizes": [
-        "P215/65R17"
+      "tires": [
+        {
+          "size": "P215/65R17"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "75th Anniversary",
-      "tire_sizes": [
-        "P245/75R17"
+      "tires": [
+        {
+          "size": "P245/75R17"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "Rubicon",
-      "tire_sizes": [
-        "255/75R17"
+      "tires": [
+        {
+          "size": "255/75R17"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "Sahara",
-      "tire_sizes": [
-        "P255/70R18"
+      "tires": [
+        {
+          "size": "P255/70R18"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "Sport",
-      "tire_sizes": [
-        "P225/75R16",
-        "P245/75R16"
+      "tires": [
+        {
+          "size": "P225/75R16"
+        },
+        {
+          "size": "P245/75R16"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "Sport S",
-      "tire_sizes": [
-        "P255/75R17"
+      "tires": [
+        {
+          "size": "P255/75R17"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "Unlimited 75th Anniversary",
-      "tire_sizes": [
-        "P245/75R17"
+      "tires": [
+        {
+          "size": "P245/75R17"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "Unlimited Rubicon",
-      "tire_sizes": [
-        "255/75R17"
+      "tires": [
+        {
+          "size": "255/75R17"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "Unlimited Sahara",
-      "tire_sizes": [
-        "P255/70R18"
+      "tires": [
+        {
+          "size": "P255/70R18"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "Unlimited Sport",
-      "tire_sizes": [
-        "P225/75R16",
-        "P245/75R16"
+      "tires": [
+        {
+          "size": "P225/75R16"
+        },
+        {
+          "size": "P245/75R16"
+        }
       ]
     },
     {
       "model": "Wrangler",
       "trim": "Unlimited Sport S",
-      "tire_sizes": [
-        "P255/75R17"
+      "tires": [
+        {
+          "size": "P255/75R17"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-21T07:31:18.033571",
     "total_vehicles": 43,
-    "total_tire_sizes": 22
+    "total_tire_sizes": 22,
+    "migration_date": "2025-06-23T14:37:31.573254",
+    "migrated_to_new_format": true
   }
 }

@@ -5,204 +5,276 @@
     {
       "model": "C70",
       "trim": "T5",
-      "tire_sizes": [
-        "235/45R17"
+      "tires": [
+        {
+          "size": "235/45R17"
+        }
       ]
     },
     {
       "model": "C70",
       "trim": "T5 (Summer Tires)",
-      "tire_sizes": [
-        "235/40R18"
+      "tires": [
+        {
+          "size": "235/40R18"
+        }
       ]
     },
     {
       "model": "S40",
       "trim": "2.4i",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "S40",
       "trim": "2.4i w/Sport Pkg.",
-      "tire_sizes": [
-        "205/50R17"
+      "tires": [
+        {
+          "size": "205/50R17"
+        }
       ]
     },
     {
       "model": "S40",
       "trim": "T5",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "S40",
       "trim": "T5 (AWD)",
-      "tire_sizes": [
-        "205/55R16",
-        "205/50R17"
+      "tires": [
+        {
+          "size": "205/55R16"
+        },
+        {
+          "size": "205/50R17"
+        }
       ]
     },
     {
       "model": "S40",
       "trim": "T5 w/Sport Pkg.",
-      "tire_sizes": [
-        "205/50R17"
+      "tires": [
+        {
+          "size": "205/50R17"
+        }
       ]
     },
     {
       "model": "S60",
       "trim": "2.5T",
-      "tire_sizes": [
-        "215/55R16"
+      "tires": [
+        {
+          "size": "215/55R16"
+        }
       ]
     },
     {
       "model": "S60",
       "trim": "2.5T (AWD)",
-      "tire_sizes": [
-        "205/55R16"
+      "tires": [
+        {
+          "size": "205/55R16"
+        }
       ]
     },
     {
       "model": "S60",
       "trim": "2.5T (AWD) w/Sport Pkg.",
-      "tire_sizes": [
-        "P235/45R17"
+      "tires": [
+        {
+          "size": "P235/45R17"
+        }
       ]
     },
     {
       "model": "S60",
       "trim": "2.5T w/Sport Pkg.",
-      "tire_sizes": [
-        "P235/45R17"
+      "tires": [
+        {
+          "size": "P235/45R17"
+        }
       ]
     },
     {
       "model": "S60",
       "trim": "R",
-      "tire_sizes": [
-        "235/45R17",
-        "235/40R18"
+      "tires": [
+        {
+          "size": "235/45R17"
+        },
+        {
+          "size": "235/40R18"
+        }
       ]
     },
     {
       "model": "S60",
       "trim": "T5",
-      "tire_sizes": [
-        "P235/45R17"
+      "tires": [
+        {
+          "size": "P235/45R17"
+        }
       ]
     },
     {
       "model": "S80",
       "trim": "2.5T",
-      "tire_sizes": [
-        "225/50R17"
+      "tires": [
+        {
+          "size": "225/50R17"
+        }
       ]
     },
     {
       "model": "S80",
       "trim": "2.5T (Run-Flat Tire Option)",
-      "tire_sizes": [
-        "P235/45R17"
+      "tires": [
+        {
+          "size": "P235/45R17"
+        }
       ]
     },
     {
       "model": "S80",
       "trim": "2.5T AWD",
-      "tire_sizes": [
-        "225/50R17"
+      "tires": [
+        {
+          "size": "225/50R17"
+        }
       ]
     },
     {
       "model": "S80",
       "trim": "2.5T AWD (Run-Flat Tire Option)",
-      "tire_sizes": [
-        "P235/45R17"
+      "tires": [
+        {
+          "size": "P235/45R17"
+        }
       ]
     },
     {
       "model": "V50",
       "trim": "2.4i",
-      "tire_sizes": [
-        "205/55R16",
-        "205/50R17"
+      "tires": [
+        {
+          "size": "205/55R16"
+        },
+        {
+          "size": "205/50R17"
+        }
       ]
     },
     {
       "model": "V50",
       "trim": "T5",
-      "tire_sizes": [
-        "205/55R16",
-        "205/50R17"
+      "tires": [
+        {
+          "size": "205/55R16"
+        },
+        {
+          "size": "205/50R17"
+        }
       ]
     },
     {
       "model": "V70",
       "trim": "2.4",
-      "tire_sizes": [
-        "205/55R16",
-        "P235/45R17"
+      "tires": [
+        {
+          "size": "205/55R16"
+        },
+        {
+          "size": "P235/45R17"
+        }
       ]
     },
     {
       "model": "V70",
       "trim": "2.5T",
-      "tire_sizes": [
-        "P235/45R17",
-        "215/55R16"
+      "tires": [
+        {
+          "size": "P235/45R17"
+        },
+        {
+          "size": "215/55R16"
+        }
       ]
     },
     {
       "model": "V70",
       "trim": "R",
-      "tire_sizes": [
-        "235/45R17"
+      "tires": [
+        {
+          "size": "235/45R17"
+        }
       ]
     },
     {
       "model": "XC70",
       "trim": "Base",
-      "tire_sizes": [
-        "215/65R16"
+      "tires": [
+        {
+          "size": "215/65R16"
+        }
       ]
     },
     {
       "model": "XC70",
       "trim": "Ocean Race",
-      "tire_sizes": [
-        "215/60R17"
+      "tires": [
+        {
+          "size": "215/60R17"
+        }
       ]
     },
     {
       "model": "XC90",
       "trim": "2.5T",
-      "tire_sizes": [
-        "P235/60R18",
-        "235/65R17"
+      "tires": [
+        {
+          "size": "P235/60R18"
+        },
+        {
+          "size": "235/65R17"
+        }
       ]
     },
     {
       "model": "XC90",
       "trim": "2.5T Ocean Race Edition",
-      "tire_sizes": [
-        "P235/60R18"
+      "tires": [
+        {
+          "size": "P235/60R18"
+        }
       ]
     },
     {
       "model": "XC90",
       "trim": "V8",
-      "tire_sizes": [
-        "P235/60R18",
-        "235/65R17"
+      "tires": [
+        {
+          "size": "P235/60R18"
+        },
+        {
+          "size": "235/65R17"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-22T15:41:51.348150",
     "total_vehicles": 27,
-    "total_tire_sizes": 11
+    "total_tire_sizes": 11,
+    "migration_date": "2025-06-23T14:37:31.269410",
+    "migrated_to_new_format": true
   }
 }

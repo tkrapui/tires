@@ -5,426 +5,558 @@
     {
       "model": "Dodge",
       "trim": "Ram 1500 Laie 4x2 Mega Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "Ram 1500 Laie 4x2 Quad Cab",
-      "tire_sizes": [
-        "P275/60R20"
+      "tires": [
+        {
+          "size": "P275/60R20"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "Ram 1500 Laie 4x4 Mega Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "Ram 1500 Laie 4x4 Quad Cab",
-      "tire_sizes": [
-        "P275/60R20"
+      "tires": [
+        {
+          "size": "P275/60R20"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "1500 SLT 4x2 Mega Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "1500 SLT 4x2 Quad Cab Long Bed",
-      "tire_sizes": [
-        "P265/70R17"
+      "tires": [
+        {
+          "size": "P265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "1500 SLT 4x2 Quad Cab Short Bed",
-      "tire_sizes": [
-        "P275/60R20"
+      "tires": [
+        {
+          "size": "P275/60R20"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "1500 SLT 4x2 Reg. Cab",
-      "tire_sizes": [
-        "P265/70R17",
-        "P275/60R20"
+      "tires": [
+        {
+          "size": "P265/70R17"
+        },
+        {
+          "size": "P275/60R20"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "1500 SLT 4x4 Mega Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "1500 SLT 4x4 Quad Cab Long Bed",
-      "tire_sizes": [
-        "P265/70R17"
+      "tires": [
+        {
+          "size": "P265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "1500 SLT 4x4 Quad Cab Short Bed",
-      "tire_sizes": [
-        "P275/60R20"
+      "tires": [
+        {
+          "size": "P275/60R20"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "1500 SLT 4x4 Reg. Cab",
-      "tire_sizes": [
-        "P265/70R17",
-        "P275/60R20"
+      "tires": [
+        {
+          "size": "P265/70R17"
+        },
+        {
+          "size": "P275/60R20"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "1500 ST 4x2 Quad Cab",
-      "tire_sizes": [
-        "P265/70R17",
-        "P245/70R17"
+      "tires": [
+        {
+          "size": "P265/70R17"
+        },
+        {
+          "size": "P245/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "1500 ST 4x2 Reg. Cab",
-      "tire_sizes": [
-        "P265/70R17",
-        "P245/70R17"
+      "tires": [
+        {
+          "size": "P265/70R17"
+        },
+        {
+          "size": "P245/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "1500 ST 4x4 Quad Cab",
-      "tire_sizes": [
-        "P265/70R17",
-        "P245/70R17"
+      "tires": [
+        {
+          "size": "P265/70R17"
+        },
+        {
+          "size": "P245/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "1500 ST 4x4 Reg. Cab",
-      "tire_sizes": [
-        "P265/70R17",
-        "P245/70R17"
+      "tires": [
+        {
+          "size": "P265/70R17"
+        },
+        {
+          "size": "P245/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "Ram 2500 Laie 4x2 Mega Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "Ram 2500 Laie 4x2 Quad Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "Ram 2500 Laie 4x4 Mega Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "Ram 2500 Laie 4x4 Quad Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "2500 Power Wagon SLT 4x4 Quad Cab",
-      "tire_sizes": [
-        "285/70R17"
+      "tires": [
+        {
+          "size": "285/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "2500 Power Wagon SLT 4x4 Reg. Cab",
-      "tire_sizes": [
-        "285/70R17"
+      "tires": [
+        {
+          "size": "285/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "2500 SLT 4x2 Mega Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "2500 SLT 4x2 Quad Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "2500 SLT 4x2 Reg. Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "2500 SLT 4x4 Mega Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "2500 SLT 4x4 Quad Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "2500 SLT 4x4 Reg. Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "2500 ST 4x2 Quad Cab",
-      "tire_sizes": [
-        "245/70R17"
+      "tires": [
+        {
+          "size": "245/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "2500 ST 4x2 Reg. Cab",
-      "tire_sizes": [
-        "245/70R17"
+      "tires": [
+        {
+          "size": "245/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "2500 ST 4x4 Quad Cab",
-      "tire_sizes": [
-        "245/70R17"
+      "tires": [
+        {
+          "size": "245/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "2500 ST 4x4 Reg. Cab",
-      "tire_sizes": [
-        "245/70R17"
+      "tires": [
+        {
+          "size": "245/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "2500 SXT Base",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "Ram 3500 Laie 4x2 Mega Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "Ram 3500 Laie 4x2 Quad Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "Ram 3500 Laie 4x2 Quad Cab (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "Ram 3500 Laie 4x4 Mega Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "Ram 3500 Laie 4x4 Quad Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "Ram 3500 Laie 4x4 Quad Cab (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 SLT 4x2 Mega Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 SLT 4x2 Quad Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 SLT 4x2 Quad Cab (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 SLT 4x2 Reg. Cab (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 SLT 4x4 Mega Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 SLT 4x4 Quad Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 SLT 4x4 Quad Cab (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 SLT 4x4 Reg. Cab (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 ST 4x2 Quad Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 ST 4x2 Quad Cab (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 ST 4x2 Reg. Cab (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 ST 4x4 Quad Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 ST 4x4 Quad Cab (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 ST 4x4 Reg. Cab (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 SXT 4x2 Quad Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 SXT 4x2 Quad Cab (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 SXT 4x2 Reg. Cab (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 SXT 4x4 Quad Cab",
-      "tire_sizes": [
-        "265/70R17"
+      "tires": [
+        {
+          "size": "265/70R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 SXT 4x4 Quad Cab (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     },
     {
       "model": "Dodge",
       "trim": "3500 SXT 4x4 Reg. Cab (DRW)",
-      "tire_sizes": [
-        "235/80R17"
+      "tires": [
+        {
+          "size": "235/80R17"
+        }
       ]
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-21T23:21:52.631170",
     "total_vehicles": 59,
-    "total_tire_sizes": 7
+    "total_tire_sizes": 7,
+    "migration_date": "2025-06-23T14:37:31.379021",
+    "migrated_to_new_format": true
   }
 }

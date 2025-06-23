@@ -5,12 +5,14 @@
     {
       "model": "Roadster",
       "trim": "Base SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 175/55R16 80W 6J 23.58 * * Calculated based on size. 30 psi Search Tires Rear: 225/45R17 91W 7.5J 24.97 * * Calculated based on size. 40 psi Search Tires Fitment Details Search Both",
-      "tire_sizes": []
+      "tires": []
     }
   ],
   "metadata": {
     "scraping_date": "2025-06-21T17:46:09.502206",
     "total_vehicles": 1,
-    "total_tire_sizes": 0
+    "total_tire_sizes": 0,
+    "migration_date": "2025-06-23T14:37:31.522493",
+    "migrated_to_new_format": true
   }
 }
