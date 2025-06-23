@@ -1,0 +1,39 @@
+{
+  "brand": "Aston Martin",
+  "year": 2003,
+  "vehicles": [
+    {
+      "model": "DB7",
+      "trim": "GT",
+      "tire_sizes": [
+        "245/35R19",
+        "265/35R18",
+        "245/40R18",
+        "265/30R19"
+      ]
+    },
+    {
+      "model": "DB7",
+      "trim": "Vantage",
+      "tire_sizes": [
+        "245/35R19",
+        "265/35R18",
+        "245/40R18",
+        "265/30R19"
+      ]
+    },
+    {
+      "model": "Vanquish",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/40R19",
+        "285/40R19"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T00:11:41.974599",
+    "total_vehicles": 3,
+    "total_tire_sizes": 6
+  }
+}

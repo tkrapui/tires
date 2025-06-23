@@ -1,0 +1,31 @@
+{
+  "brand": "Ferrari",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "360",
+      "trim": "Modena (Summer Tires)",
+      "tire_sizes": []
+    },
+    {
+      "model": "360",
+      "trim": "Modena (Winter Tires)",
+      "tire_sizes": []
+    },
+    {
+      "model": "456",
+      "trim": "M Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "550",
+      "trim": "Maranello Base",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T09:56:48.081583",
+    "total_vehicles": 4,
+    "total_tire_sizes": 0
+  }
+}

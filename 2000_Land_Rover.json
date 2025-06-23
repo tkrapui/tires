@@ -1,0 +1,40 @@
+{
+  "brand": "Land Rover",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "Discovery",
+      "trim": "Series II",
+      "tire_sizes": [
+        "255/55R18",
+        "255/65R16"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover County",
+      "tire_sizes": [
+        "255/65R16"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover HSE",
+      "tire_sizes": [
+        "255/55R18"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover SE",
+      "tire_sizes": [
+        "255/65R16"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T10:13:33.950832",
+    "total_vehicles": 4,
+    "total_tire_sizes": 2
+  }
+}

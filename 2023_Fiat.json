@@ -1,0 +1,27 @@
+{
+  "brand": "Fiat",
+  "year": 2023,
+  "vehicles": [
+    {
+      "model": "500X",
+      "trim": "Pop",
+      "tire_sizes": [
+        "215/60R17",
+        "P215/55R18"
+      ]
+    },
+    {
+      "model": "500X",
+      "trim": "Sport",
+      "tire_sizes": [
+        "225/45R19",
+        "P215/55R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T01:27:20.648697",
+    "total_vehicles": 2,
+    "total_tire_sizes": 3
+  }
+}

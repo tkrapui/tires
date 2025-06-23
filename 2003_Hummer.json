@@ -1,0 +1,23 @@
+{
+  "brand": "Hummer",
+  "year": 2003,
+  "vehicles": [
+    {
+      "model": "H1",
+      "trim": "Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "H2",
+      "trim": "Base",
+      "tire_sizes": [
+        "315/70R17"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T00:18:17.927007",
+    "total_vehicles": 2,
+    "total_tire_sizes": 1
+  }
+}

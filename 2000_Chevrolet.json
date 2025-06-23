@@ -1,0 +1,300 @@
+{
+  "brand": "Chevrolet",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "Astro",
+      "trim": "Base",
+      "tire_sizes": [
+        "P215/75R15"
+      ]
+    },
+    {
+      "model": "Astro",
+      "trim": "LS",
+      "tire_sizes": [
+        "P215/75R15"
+      ]
+    },
+    {
+      "model": "Astro",
+      "trim": "LT",
+      "tire_sizes": [
+        "P215/75R15"
+      ]
+    },
+    {
+      "model": "Blazer",
+      "trim": "LS 4x2",
+      "tire_sizes": [
+        "P235/70R15",
+        "P205/75R15"
+      ]
+    },
+    {
+      "model": "Blazer",
+      "trim": "LS 4x4",
+      "tire_sizes": [
+        "P235/70R15",
+        "P235/75R15",
+        "P205/75R15"
+      ]
+    },
+    {
+      "model": "Blazer",
+      "trim": "LS w/Off-Road Suspension",
+      "tire_sizes": []
+    },
+    {
+      "model": "Blazer",
+      "trim": "LT",
+      "tire_sizes": [
+        "P235/70R15",
+        "P205/75R15"
+      ]
+    },
+    {
+      "model": "Blazer",
+      "trim": "Trailblazer",
+      "tire_sizes": [
+        "P235/75R15"
+      ]
+    },
+    {
+      "model": "C2500",
+      "trim": "Crew Cab",
+      "tire_sizes": []
+    },
+    {
+      "model": "C2500",
+      "trim": "Ext. Cab",
+      "tire_sizes": []
+    },
+    {
+      "model": "C2500",
+      "trim": "LS Crew Cab",
+      "tire_sizes": []
+    },
+    {
+      "model": "C2500",
+      "trim": "LS Ext. Cab",
+      "tire_sizes": []
+    },
+    {
+      "model": "C2500",
+      "trim": "LS Reg. Cab",
+      "tire_sizes": []
+    },
+    {
+      "model": "C2500",
+      "trim": "LS w/H.D. Suspension",
+      "tire_sizes": []
+    },
+    {
+      "model": "C2500",
+      "trim": "Reg. Cab",
+      "tire_sizes": []
+    },
+    {
+      "model": "C2500",
+      "trim": "w/H.D. Suspension",
+      "tire_sizes": []
+    },
+    {
+      "model": "C3500",
+      "trim": "Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "C3500",
+      "trim": "Crew Cab (DRW)",
+      "tire_sizes": []
+    },
+    {
+      "model": "C3500",
+      "trim": "Ext. Cab (DRW)",
+      "tire_sizes": []
+    },
+    {
+      "model": "C3500",
+      "trim": "LS",
+      "tire_sizes": []
+    },
+    {
+      "model": "C3500",
+      "trim": "LS Crew Cab (DRW)",
+      "tire_sizes": []
+    },
+    {
+      "model": "C3500",
+      "trim": "LS Ext. Cab (DRW)",
+      "tire_sizes": []
+    },
+    {
+      "model": "C3500",
+      "trim": "LS Reg. Cab (DRW)",
+      "tire_sizes": []
+    },
+    {
+      "model": "C3500",
+      "trim": "Reg. Cab (DRW)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Camaro",
+      "trim": "Base",
+      "tire_sizes": [
+        "P215/60R16",
+        "P235/55R16"
+      ]
+    },
+    {
+      "model": "Camaro",
+      "trim": "Z28",
+      "tire_sizes": [
+        "P235/55R16"
+      ]
+    },
+    {
+      "model": "Cavalier",
+      "trim": "Base",
+      "tire_sizes": [
+        "P195/70R14"
+      ]
+    },
+    {
+      "model": "Cavalier",
+      "trim": "LS",
+      "tire_sizes": [
+        "P195/65R15"
+      ]
+    },
+    {
+      "model": "Cavalier",
+      "trim": "Z24",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "Corvette",
+      "trim": "(EMT Tire)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Express",
+      "trim": "1500 Cargo Van",
+      "tire_sizes": [
+        "P215/75R15"
+      ]
+    },
+    {
+      "model": "Express",
+      "trim": "1500 LS",
+      "tire_sizes": [
+        "P235/75R15"
+      ]
+    },
+    {
+      "model": "Express",
+      "trim": "1500 Passenger Van",
+      "tire_sizes": [
+        "P235/75R15"
+      ]
+    },
+    {
+      "model": "Express",
+      "trim": "2500 Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "Express",
+      "trim": "2500 Cargo Van",
+      "tire_sizes": []
+    },
+    {
+      "model": "Express",
+      "trim": "2500 LS",
+      "tire_sizes": []
+    },
+    {
+      "model": "Express",
+      "trim": "3500 Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "Express",
+      "trim": "3500 LS",
+      "tire_sizes": []
+    },
+    {
+      "model": "Impala",
+      "trim": "Base",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "Impala",
+      "trim": "LS",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "K2500",
+      "trim": "Crew Cab",
+      "tire_sizes": []
+    },
+    {
+      "model": "K2500",
+      "trim": "Ext. Cab",
+      "tire_sizes": []
+    },
+    {
+      "model": "K2500",
+      "trim": "LS Crew Cab",
+      "tire_sizes": []
+    },
+    {
+      "model": "K2500",
+      "trim": "LS Ext. Cab",
+      "tire_sizes": []
+    },
+    {
+      "model": "K2500",
+      "trim": "LS Reg. Cab",
+      "tire_sizes": []
+    },
+    {
+      "model": "K2500",
+      "trim": "LS w/H.D. Suspension",
+      "tire_sizes": []
+    },
+    {
+      "model": "K2500",
+      "trim": "Reg. Cab",
+      "tire_sizes": []
+    },
+    {
+      "model": "K2500",
+      "trim": "w/H.D. Suspension",
+      "tire_sizes": []
+    },
+    {
+      "model": "K3500",
+      "trim": "Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "K3500",
+      "trim": "Crew Cab (DRW)",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T09:51:40.749683",
+    "total_vehicles": 50,
+    "total_tire_sizes": 10
+  }
+}

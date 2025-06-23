@@ -1,0 +1,116 @@
+{
+  "brand": "Lamborghini",
+  "year": 2023,
+  "vehicles": [
+    {
+      "model": "Huracan",
+      "trim": "EVO (Center Lock)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO (RWD)(Steel Bolts)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO (RWD)(Titanium Bolts)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO (Steel Bolts)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO (Titanium Bolts)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO Spyder (Center Lock)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO Spyder (RWD)(Steel Bolts)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO Spyder (RWD)(Titanium Bolts)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO Spyder (Steel Bolts)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO Spyder (Titanium Bolts)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Huracan",
+      "trim": "STO (Center Lock)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Huracan",
+      "trim": "Sterrato (Steel Bolts)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Huracan",
+      "trim": "Sterrato (Titanium Bolts)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Huracan",
+      "trim": "Tecnica (Center Lock)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Huracan",
+      "trim": "Tecnica (RWD)(Steel Bolts)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Huracan",
+      "trim": "Tecnica (RWD)(Titanium Bolts)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Urus",
+      "trim": "Performante",
+      "tire_sizes": []
+    },
+    {
+      "model": "Urus",
+      "trim": "Performante (23 Inch Option)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Urus",
+      "trim": "S",
+      "tire_sizes": []
+    },
+    {
+      "model": "Urus",
+      "trim": "S (22 Inch Option)",
+      "tire_sizes": []
+    },
+    {
+      "model": "Urus",
+      "trim": "S (23 Inch Option)",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T01:32:21.703802",
+    "total_vehicles": 21,
+    "total_tire_sizes": 0
+  }
+}

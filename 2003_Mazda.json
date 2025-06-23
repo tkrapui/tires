@@ -1,0 +1,131 @@
+{
+  "brand": "Mazda",
+  "year": 2003,
+  "vehicles": [
+    {
+      "model": "6",
+      "trim": "S SIZE LOAD SPEED RIM WIDTH OD INFLATION P205/60R16 91H 7JJ 25.69 * * Calculated based on size. 32 psi 32 psi Fitment Details Search Tires P215/50R17 93V 7JJ 25.46 * * Calculated based on size. 32 psi 32 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "6",
+      "trim": "i SIZE LOAD SPEED RIM WIDTH OD INFLATION P205/60R16 91H 7JJ 25.69 * * Calculated based on size. 32 psi 32 psi Fitment Details Search Tires P215/50R17 93V 7JJ 25.46 * * Calculated based on size. 32 psi 32 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "B2300",
+      "trim": "Base SIZE LOAD SPEED RIM WIDTH OD INFLATION P225/70R15 100S 6.5JJ 27.40 * * Calculated based on size. 35 psi 35 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "B2300",
+      "trim": "SE SIZE LOAD SPEED RIM WIDTH OD INFLATION P225/70R15 100S 6.5JJ 27.40 * * Calculated based on size. 35 psi 35 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "B3000",
+      "trim": "DS 4x2 SIZE LOAD SPEED RIM WIDTH OD INFLATION P235/75R15 105S 7JJ 28.88 * * Calculated based on size. Front: 30 psi Rear: 35 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "B3000",
+      "trim": "SE 4x2 SIZE LOAD SPEED RIM WIDTH OD INFLATION P225/70R15 100S 7JJ 27.40 * * Calculated based on size. 35 psi 35 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "B4000",
+      "trim": "4x4 SIZE LOAD SPEED RIM WIDTH OD INFLATION P235/75R15 105S 7JJ 28.88 * * Calculated based on size. Front: 30 psi Rear: 35 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "B4000",
+      "trim": "DS 4x2 SIZE LOAD SPEED RIM WIDTH OD INFLATION P235/75R15 105S 7JJ 28.88 * * Calculated based on size. Front: 30 psi Rear: 35 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "B4000",
+      "trim": "SE 4x4 SIZE LOAD SPEED RIM WIDTH OD INFLATION P245/75R16 109S 7JJ 30.47 * * Calculated based on size. Front: 30 psi Rear: 35 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "MPV",
+      "trim": "ES SIZE LOAD SPEED RIM WIDTH OD INFLATION P215/60R17 95H 7JJ 27.16 * * Calculated based on size. 35 psi 35 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "MPV",
+      "trim": "LX SIZE LOAD SPEED RIM WIDTH OD INFLATION 215/60R16 95H 6.5JJ 26.16 * * Calculated based on size. 35 psi 35 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "MPV",
+      "trim": "LX SV SIZE LOAD SPEED RIM WIDTH OD INFLATION 205/65R15 94H 6JJ 25.49 * * Calculated based on size. 35 psi 35 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Miata",
+      "trim": "Base SIZE LOAD SPEED RIM WIDTH OD INFLATION 205/45R16 83W 6.5JJ 23.26 * * Calculated based on size. 26 psi 26 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Miata",
+      "trim": "LS SIZE LOAD SPEED RIM WIDTH OD INFLATION 205/45R16 83W 6.5JJ 23.26 * * Calculated based on size. 26 psi 26 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Miata",
+      "trim": "SE SIZE LOAD SPEED RIM WIDTH OD INFLATION 205/45R16 83W 6.5JJ 23.26 * * Calculated based on size. 26 psi 26 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Protege",
+      "trim": "DX SIZE LOAD SPEED RIM WIDTH OD INFLATION P195/55R15 84V 6JJ 23.44 * * Calculated based on size. 32 psi 32 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Protege",
+      "trim": "ES SIZE LOAD SPEED RIM WIDTH OD INFLATION P195/50R16 83V 6JJ 23.68 * * Calculated based on size. 32 psi 32 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Protege",
+      "trim": "LX SIZE LOAD SPEED RIM WIDTH OD INFLATION P195/55R15 84V 6JJ 23.44 * * Calculated based on size. 32 psi 32 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Protege",
+      "trim": "speed SIZE LOAD SPEED RIM WIDTH OD INFLATION 215/45ZR17 7JJ 24.62 * * Calculated based on size. 32 psi 32 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Protege",
+      "trim": "SE SIZE LOAD SPEED RIM WIDTH OD INFLATION P185/65R14 85S 5.5JJ 23.47 * * Calculated based on size. 32 psi 32 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Protege5",
+      "trim": "Base SIZE LOAD SPEED RIM WIDTH OD INFLATION P195/50R16 83V 6JJ 23.68 * * Calculated based on size. 32 psi 32 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Tribute",
+      "trim": "DX SIZE LOAD SPEED RIM WIDTH OD INFLATION P215/70R16 99H 6.5JJ 27.85 * * Calculated based on size. 30 psi 30 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Tribute",
+      "trim": "ES SIZE LOAD SPEED RIM WIDTH OD INFLATION P235/70R16 104T 7JJ 28.95 * * Calculated based on size. 30 psi 30 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Tribute",
+      "trim": "LX SIZE LOAD SPEED RIM WIDTH OD INFLATION P235/70R16 104T 7JJ 28.95 * * Calculated based on size. 30 psi 30 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T00:35:36.248710",
+    "total_vehicles": 24,
+    "total_tire_sizes": 0
+  }
+}

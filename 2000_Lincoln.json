@@ -1,0 +1,112 @@
+{
+  "brand": "Lincoln",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "Lincoln",
+      "trim": "Continental Base",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "Lincoln",
+      "trim": "Continental w/Luxury Appearance Pkg.",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "Lincoln",
+      "trim": "LS 6 Cyl.",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "Lincoln",
+      "trim": "LS 8 Cyl.",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "Lincoln",
+      "trim": "LS w/Sport Pkg.",
+      "tire_sizes": [
+        "P235/50R17"
+      ]
+    },
+    {
+      "model": "Lincoln",
+      "trim": "Navigator 4x2 (19mm hex lug nut)",
+      "tire_sizes": [
+        "P275/60R17"
+      ]
+    },
+    {
+      "model": "Lincoln",
+      "trim": "Navigator 4x2 (21mm hex lug nut)",
+      "tire_sizes": [
+        "P275/60R17"
+      ]
+    },
+    {
+      "model": "Lincoln",
+      "trim": "Navigator 4x4 (19mm hex lug nut)",
+      "tire_sizes": [
+        "P255/75R17"
+      ]
+    },
+    {
+      "model": "Lincoln",
+      "trim": "Navigator 4x4 (21mm hex lug nut)",
+      "tire_sizes": [
+        "P255/75R17"
+      ]
+    },
+    {
+      "model": "Lincoln",
+      "trim": "Town Car Cartier",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "Lincoln",
+      "trim": "Town Car Cartier L",
+      "tire_sizes": [
+        "P225/70R16"
+      ]
+    },
+    {
+      "model": "Lincoln",
+      "trim": "Town Car Executive",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "Lincoln",
+      "trim": "Town Car Executive L",
+      "tire_sizes": []
+    },
+    {
+      "model": "Lincoln",
+      "trim": "Town Car Signature",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "Lincoln",
+      "trim": "Town Car Signature w/Touring Pkg.",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T10:15:04.984820",
+    "total_vehicles": 15,
+    "total_tire_sizes": 6
+  }
+}

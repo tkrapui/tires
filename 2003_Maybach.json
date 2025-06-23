@@ -1,0 +1,21 @@
+{
+  "brand": "Maybach",
+  "year": 2003,
+  "vehicles": [
+    {
+      "model": "57",
+      "trim": "Base SIZE LOAD SPEED RIM WIDTH OD INFLATION 275/50R19 112W 8J 29.83 * * Calculated based on size. Front: 36 psi Rear: 42 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "62",
+      "trim": "Base SIZE LOAD SPEED RIM WIDTH OD INFLATION 275/50R19 112W 8J 29.83 * * Calculated based on size. Front: 36 psi Rear: 42 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T00:30:45.058224",
+    "total_vehicles": 2,
+    "total_tire_sizes": 0
+  }
+}

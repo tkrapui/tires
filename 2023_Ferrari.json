@@ -1,0 +1,56 @@
+{
+  "brand": "Ferrari",
+  "year": 2023,
+  "vehicles": [
+    {
+      "model": "296",
+      "trim": "GTB Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "296",
+      "trim": "GTS Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "812",
+      "trim": "GTS Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "F8",
+      "trim": "Spider Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "F8",
+      "trim": "Tributo Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "Portofino",
+      "trim": "M Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "Roma",
+      "trim": "Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "SF90",
+      "trim": "Spider Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "SF90",
+      "trim": "Stradale Base",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T01:26:48.682312",
+    "total_vehicles": 9,
+    "total_tire_sizes": 0
+  }
+}

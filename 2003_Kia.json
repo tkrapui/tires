@@ -1,0 +1,95 @@
+{
+  "brand": "Kia",
+  "year": 2003,
+  "vehicles": [
+    {
+      "model": "Magentis",
+      "trim": "Base",
+      "tire_sizes": [
+        "P205/60R15"
+      ]
+    },
+    {
+      "model": "Rio",
+      "trim": "Base",
+      "tire_sizes": [
+        "P175/65R14"
+      ]
+    },
+    {
+      "model": "Rio",
+      "trim": "Cinco",
+      "tire_sizes": [
+        "P175/65R14"
+      ]
+    },
+    {
+      "model": "Rio",
+      "trim": "RX-V",
+      "tire_sizes": [
+        "P175/65R14"
+      ]
+    },
+    {
+      "model": "Sedona",
+      "trim": "EX",
+      "tire_sizes": [
+        "215/70R15"
+      ]
+    },
+    {
+      "model": "Sedona",
+      "trim": "LX",
+      "tire_sizes": [
+        "215/70R15"
+      ]
+    },
+    {
+      "model": "Sorento",
+      "trim": "EX",
+      "tire_sizes": [
+        "P245/70R16"
+      ]
+    },
+    {
+      "model": "Sorento",
+      "trim": "LX",
+      "tire_sizes": [
+        "P245/70R16"
+      ]
+    },
+    {
+      "model": "Spectra",
+      "trim": "Base",
+      "tire_sizes": [
+        "P185/65R14"
+      ]
+    },
+    {
+      "model": "Spectra",
+      "trim": "GS",
+      "tire_sizes": [
+        "P185/65R14"
+      ]
+    },
+    {
+      "model": "Spectra",
+      "trim": "GSX",
+      "tire_sizes": [
+        "P185/65R14"
+      ]
+    },
+    {
+      "model": "Spectra",
+      "trim": "LS",
+      "tire_sizes": [
+        "P185/65R14"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T00:22:08.504786",
+    "total_vehicles": 12,
+    "total_tire_sizes": 5
+  }
+}

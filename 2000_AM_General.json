@@ -1,0 +1,21 @@
+{
+  "brand": "AM General",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "AM",
+      "trim": "General Hummer (1 Piece Steel Wheel)",
+      "tire_sizes": []
+    },
+    {
+      "model": "AM",
+      "trim": "General Hummer Base",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T09:46:03.815976",
+    "total_vehicles": 2,
+    "total_tire_sizes": 0
+  }
+}

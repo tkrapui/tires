@@ -1,0 +1,102 @@
+{
+  "brand": "Isuzu",
+  "year": 2003,
+  "vehicles": [
+    {
+      "model": "Ascender",
+      "trim": "Base",
+      "tire_sizes": [
+        "P245/65R17"
+      ]
+    },
+    {
+      "model": "Ascender",
+      "trim": "LS",
+      "tire_sizes": [
+        "P245/65R17"
+      ]
+    },
+    {
+      "model": "Ascender",
+      "trim": "Limited",
+      "tire_sizes": [
+        "P245/65R17"
+      ]
+    },
+    {
+      "model": "Axiom",
+      "trim": "Base",
+      "tire_sizes": [
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Axiom",
+      "trim": "XS",
+      "tire_sizes": [
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Rodeo",
+      "trim": "S",
+      "tire_sizes": [
+        "P225/75R16"
+      ]
+    },
+    {
+      "model": "Rodeo",
+      "trim": "S V6",
+      "tire_sizes": [
+        "P245/70R16"
+      ]
+    },
+    {
+      "model": "Rodeo",
+      "trim": "S V6 w/aluminum wheels",
+      "tire_sizes": [
+        "P245/70R16"
+      ]
+    },
+    {
+      "model": "Rodeo",
+      "trim": "S w/aluminum wheels",
+      "tire_sizes": [
+        "P225/75R16"
+      ]
+    },
+    {
+      "model": "Rodeo",
+      "trim": "Sport S",
+      "tire_sizes": [
+        "P245/70R16"
+      ]
+    },
+    {
+      "model": "Rodeo",
+      "trim": "Sport S V6",
+      "tire_sizes": [
+        "P245/70R16"
+      ]
+    },
+    {
+      "model": "Rodeo",
+      "trim": "Sport S V6 w/aluminum wheels",
+      "tire_sizes": [
+        "P245/70R16"
+      ]
+    },
+    {
+      "model": "Rodeo",
+      "trim": "Sport S w/aluminum wheels",
+      "tire_sizes": [
+        "P245/70R16"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T00:20:18.639844",
+    "total_vehicles": 13,
+    "total_tire_sizes": 4
+  }
+}

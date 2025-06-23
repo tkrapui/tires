@@ -1,0 +1,194 @@
+{
+  "brand": "Honda",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "Accord",
+      "trim": "DX",
+      "tire_sizes": [
+        "P195/70R14"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "EX",
+      "tire_sizes": [
+        "P195/65R15"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "EX Coupe V6",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "EX Sedan V6",
+      "tire_sizes": [
+        "P205/65R15"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "LX",
+      "tire_sizes": [
+        "P195/65R15"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "LX V6",
+      "tire_sizes": [
+        "P205/65R15"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "SE",
+      "tire_sizes": [
+        "P195/65R15"
+      ]
+    },
+    {
+      "model": "CR-V",
+      "trim": "EX",
+      "tire_sizes": [
+        "P205/70R15"
+      ]
+    },
+    {
+      "model": "CR-V",
+      "trim": "LX",
+      "tire_sizes": [
+        "P205/70R15"
+      ]
+    },
+    {
+      "model": "CR-V",
+      "trim": "SE",
+      "tire_sizes": [
+        "P205/70R15"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "CX",
+      "tire_sizes": [
+        "P185/65R14"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "DX",
+      "tire_sizes": [
+        "P185/65R14"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "EX",
+      "tire_sizes": [
+        "P185/65R14"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "GX",
+      "tire_sizes": [
+        "185/70R14"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "HX",
+      "tire_sizes": [
+        "P185/65R14"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "LX",
+      "tire_sizes": [
+        "P185/65R14"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "Si",
+      "tire_sizes": [
+        "P195/55R15"
+      ]
+    },
+    {
+      "model": "Insight",
+      "trim": "Base",
+      "tire_sizes": [
+        "P165/65R14"
+      ]
+    },
+    {
+      "model": "Odyssey",
+      "trim": "EX",
+      "tire_sizes": [
+        "P215/65R16"
+      ]
+    },
+    {
+      "model": "Odyssey",
+      "trim": "LX",
+      "tire_sizes": [
+        "P215/65R16"
+      ]
+    },
+    {
+      "model": "Passport",
+      "trim": "EX",
+      "tire_sizes": [
+        "P245/70R16"
+      ]
+    },
+    {
+      "model": "Passport",
+      "trim": "LX 4x2",
+      "tire_sizes": [
+        "P225/75R16"
+      ]
+    },
+    {
+      "model": "Passport",
+      "trim": "LX 4x4",
+      "tire_sizes": [
+        "P245/70R16"
+      ]
+    },
+    {
+      "model": "Prelude",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/50R16"
+      ]
+    },
+    {
+      "model": "Prelude",
+      "trim": "Type SH",
+      "tire_sizes": [
+        "205/50R16"
+      ]
+    },
+    {
+      "model": "S2000",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/55R16",
+        "225/50R16"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T10:06:33.348973",
+    "total_vehicles": 26,
+    "total_tire_sizes": 15
+  }
+}

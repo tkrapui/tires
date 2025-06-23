@@ -1,0 +1,60 @@
+{
+  "brand": "Jaguar",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "S-Type",
+      "trim": "3.0 V6",
+      "tire_sizes": [
+        "225/55R16"
+      ]
+    },
+    {
+      "model": "S-Type",
+      "trim": "4.0 V8",
+      "tire_sizes": [
+        "225/55R16"
+      ]
+    },
+    {
+      "model": "S-Type",
+      "trim": "w/Sport Pkg.",
+      "tire_sizes": []
+    },
+    {
+      "model": "Vanden",
+      "trim": "Plas Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "XJ8",
+      "trim": "Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "XJ8",
+      "trim": "L",
+      "tire_sizes": []
+    },
+    {
+      "model": "XJR",
+      "trim": "Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "XK8",
+      "trim": "Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "XKR",
+      "trim": "Base",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T10:10:35.678309",
+    "total_vehicles": 9,
+    "total_tire_sizes": 1
+  }
+}

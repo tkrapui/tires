@@ -1,0 +1,49 @@
+{
+  "brand": "Bentley",
+  "year": 2003,
+  "vehicles": [
+    {
+      "model": "Arnage",
+      "trim": "R",
+      "tire_sizes": [
+        "255/50R18",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Arnage",
+      "trim": "RL",
+      "tire_sizes": [
+        "255/50R18",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Arnage",
+      "trim": "T",
+      "tire_sizes": [
+        "255/50R18",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Azure",
+      "trim": "Base",
+      "tire_sizes": [
+        "285/45R18"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "R Mulliner",
+      "tire_sizes": [
+        "285/45R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T23:36:16.981442",
+    "total_vehicles": 5,
+    "total_tire_sizes": 3
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "brand": "Honda",
+  "year": 2003,
+  "vehicles": [
+    {
+      "model": "Accord",
+      "trim": "DX",
+      "tire_sizes": [
+        "P195/65R15"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "EX",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "EX Coupe V6 (6-Speed)",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "EX V6",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "LX",
+      "tire_sizes": [
+        "P205/65R15"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "LX V6",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "CR-V",
+      "trim": "EX",
+      "tire_sizes": [
+        "P205/70R15"
+      ]
+    },
+    {
+      "model": "CR-V",
+      "trim": "LX",
+      "tire_sizes": [
+        "P205/70R15"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "DX",
+      "tire_sizes": [
+        "P185/70R14"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "EX",
+      "tire_sizes": [
+        "P185/65R15"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "HX",
+      "tire_sizes": [
+        "P185/70R14"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "Hybrid",
+      "tire_sizes": [
+        "P185/70R14"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "LX",
+      "tire_sizes": [
+        "P185/70R14"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "Si",
+      "tire_sizes": [
+        "195/60R15"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "SiR",
+      "tire_sizes": [
+        "195/60R15"
+      ]
+    },
+    {
+      "model": "Element",
+      "trim": "DX",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T23:51:35.362709",
+    "total_vehicles": 16,
+    "total_tire_sizes": 8
+  }
+}

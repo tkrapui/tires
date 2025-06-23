@@ -1,0 +1,102 @@
+{
+  "brand": "Buick",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "Century",
+      "trim": "Custom",
+      "tire_sizes": [
+        "P205/70R15"
+      ]
+    },
+    {
+      "model": "Century",
+      "trim": "Limited",
+      "tire_sizes": [
+        "P205/70R15"
+      ]
+    },
+    {
+      "model": "LeSabre",
+      "trim": "Custom",
+      "tire_sizes": [
+        "P215/70R15"
+      ]
+    },
+    {
+      "model": "LeSabre",
+      "trim": "Custom w/Gran Touring Pkg.",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "LeSabre",
+      "trim": "Custom w/Performance Pkg.",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "LeSabre",
+      "trim": "Limited",
+      "tire_sizes": [
+        "P215/70R15"
+      ]
+    },
+    {
+      "model": "LeSabre",
+      "trim": "Limited w/Gran Touring Pkg.",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "LeSabre",
+      "trim": "Limited w/Performance Pkg.",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "Park",
+      "trim": "Avenue Base",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "Park",
+      "trim": "Avenue Ultra",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "GS",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "LS",
+      "tire_sizes": [
+        "P215/70R15"
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "LS w/Performance Pkg.",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T09:41:28.267174",
+    "total_vehicles": 13,
+    "total_tire_sizes": 3
+  }
+}

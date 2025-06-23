@@ -1,0 +1,173 @@
+{
+  "brand": "Mazda",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "626",
+      "trim": "ES",
+      "tire_sizes": [
+        "P205/60R15"
+      ]
+    },
+    {
+      "model": "626",
+      "trim": "ES V6",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "626",
+      "trim": "LX",
+      "tire_sizes": [
+        "P205/60R15"
+      ]
+    },
+    {
+      "model": "626",
+      "trim": "LX V6",
+      "tire_sizes": [
+        "P205/60R15",
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "B2500",
+      "trim": "SE",
+      "tire_sizes": [
+        "P225/70R15"
+      ]
+    },
+    {
+      "model": "B2500",
+      "trim": "SX",
+      "tire_sizes": [
+        "P225/70R15"
+      ]
+    },
+    {
+      "model": "B3000",
+      "trim": "SE 4x2",
+      "tire_sizes": [
+        "P225/70R15"
+      ]
+    },
+    {
+      "model": "B3000",
+      "trim": "SE 4x4",
+      "tire_sizes": [
+        "P235/75R15"
+      ]
+    },
+    {
+      "model": "B3000",
+      "trim": "SX 4x2",
+      "tire_sizes": [
+        "P225/70R15"
+      ]
+    },
+    {
+      "model": "B3000",
+      "trim": "Troy Lee 4x2",
+      "tire_sizes": [
+        "P245/75R16"
+      ]
+    },
+    {
+      "model": "B4000",
+      "trim": "SE 4x2",
+      "tire_sizes": [
+        "P225/70R15"
+      ]
+    },
+    {
+      "model": "B4000",
+      "trim": "SE 4x4",
+      "tire_sizes": [
+        "P265/75R15"
+      ]
+    },
+    {
+      "model": "B4000",
+      "trim": "Troy Lee 4x4",
+      "tire_sizes": [
+        "P245/75R16"
+      ]
+    },
+    {
+      "model": "MPV",
+      "trim": "DX",
+      "tire_sizes": [
+        "P205/65R15"
+      ]
+    },
+    {
+      "model": "MPV",
+      "trim": "ES",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "MPV",
+      "trim": "LX",
+      "tire_sizes": [
+        "P205/65R15",
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "Miata",
+      "trim": "Base",
+      "tire_sizes": [
+        "P185/60R14",
+        "P195/50R15"
+      ]
+    },
+    {
+      "model": "Miata",
+      "trim": "LS",
+      "tire_sizes": [
+        "P195/50R15"
+      ]
+    },
+    {
+      "model": "Millenia",
+      "trim": "Base",
+      "tire_sizes": [
+        "P215/55R16"
+      ]
+    },
+    {
+      "model": "Millenia",
+      "trim": "Millennium Edition",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "Millenia",
+      "trim": "S",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "Protege",
+      "trim": "DX",
+      "tire_sizes": [
+        "P185/65R14"
+      ]
+    },
+    {
+      "model": "Protege",
+      "trim": "ES",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T10:18:45.003715",
+    "total_vehicles": 23,
+    "total_tire_sizes": 13
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "brand": "Lotus",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "Lotus",
+      "trim": "Esprit V8",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T10:16:06.555492",
+    "total_vehicles": 1,
+    "total_tire_sizes": 0
+  }
+}

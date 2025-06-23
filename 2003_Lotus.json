@@ -1,0 +1,16 @@
+{
+  "brand": "Lotus",
+  "year": 2003,
+  "vehicles": [
+    {
+      "model": "Esprit",
+      "trim": "V8 SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 235/40ZR17 8.5J 24.40 * * Calculated based on size. 29 psi Search Tires Rear: 285/35ZR18 10J 25.85 * * Calculated based on size. 29 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T00:29:05.639911",
+    "total_vehicles": 1,
+    "total_tire_sizes": 0
+  }
+}

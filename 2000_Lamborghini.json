@@ -1,0 +1,16 @@
+{
+  "brand": "Lamborghini",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "Diablo",
+      "trim": "VT 6.0",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T10:12:58.680384",
+    "total_vehicles": 1,
+    "total_tire_sizes": 0
+  }
+}

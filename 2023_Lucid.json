@@ -1,0 +1,32 @@
+{
+  "brand": "Lucid",
+  "year": 2023,
+  "vehicles": [
+    {
+      "model": "Air",
+      "trim": "Grand Touring",
+      "tire_sizes": [
+        "245/45R19"
+      ]
+    },
+    {
+      "model": "Air",
+      "trim": "Pure",
+      "tire_sizes": [
+        "245/45R19"
+      ]
+    },
+    {
+      "model": "Air",
+      "trim": "Touring",
+      "tire_sizes": [
+        "245/45R19"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T09:19:11.219718",
+    "total_vehicles": 3,
+    "total_tire_sizes": 1
+  }
+}

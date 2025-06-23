@@ -1,0 +1,196 @@
+{
+  "brand": "BMW",
+  "year": 2003,
+  "vehicles": [
+    {
+      "model": "320i",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "325Ci",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "325i",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "325xi",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "325xi",
+      "trim": "w/Sport Pkg.",
+      "tire_sizes": [
+        "205/50R17"
+      ]
+    },
+    {
+      "model": "330Ci",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/50R17"
+      ]
+    },
+    {
+      "model": "330i",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/50R17"
+      ]
+    },
+    {
+      "model": "330xi",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/50R17"
+      ]
+    },
+    {
+      "model": "525i",
+      "trim": "Base",
+      "tire_sizes": [
+        "225/55R16"
+      ]
+    },
+    {
+      "model": "530i",
+      "trim": "Base",
+      "tire_sizes": [
+        "225/55R16"
+      ]
+    },
+    {
+      "model": "540i",
+      "trim": "Base",
+      "tire_sizes": [
+        "225/55R16"
+      ]
+    },
+    {
+      "model": "745Li",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/50R18"
+      ]
+    },
+    {
+      "model": "745i",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/50R18"
+      ]
+    },
+    {
+      "model": "760Li",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/50R18"
+      ]
+    },
+    {
+      "model": "M3",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/35R19",
+        "255/40R18",
+        "225/40R19",
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "M5",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/40R18",
+        "275/35R18"
+      ]
+    },
+    {
+      "model": "X5",
+      "trim": "3.0i",
+      "tire_sizes": [
+        "235/65R17"
+      ]
+    },
+    {
+      "model": "X5",
+      "trim": "3.0i w/Sport Pkg.",
+      "tire_sizes": [
+        "255/55R18"
+      ]
+    },
+    {
+      "model": "X5",
+      "trim": "4.4i",
+      "tire_sizes": [
+        "255/55R18"
+      ]
+    },
+    {
+      "model": "X5",
+      "trim": "4.4i w/Sport Pkg.",
+      "tire_sizes": [
+        "285/45R19",
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "X5",
+      "trim": "4.6is",
+      "tire_sizes": [
+        "275/40R20",
+        "315/35R20"
+      ]
+    },
+    {
+      "model": "Z4",
+      "trim": "2.5i",
+      "tire_sizes": [
+        "225/50R16"
+      ]
+    },
+    {
+      "model": "Z4",
+      "trim": "3.0i",
+      "tire_sizes": [
+        "225/40R18",
+        "255/35R18",
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "Z8",
+      "trim": "Alpina",
+      "tire_sizes": [
+        "255/35R20",
+        "285/30R20"
+      ]
+    },
+    {
+      "model": "Z8",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/45R18",
+        "275/40R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T23:35:55.798987",
+    "total_vehicles": 25,
+    "total_tire_sizes": 24
+  }
+}

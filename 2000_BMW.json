@@ -1,0 +1,130 @@
+{
+  "brand": "BMW",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "323Ci",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "323i",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/55R16",
+        "195/65R15"
+      ]
+    },
+    {
+      "model": "328Ci",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "328i",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "528i",
+      "trim": "Base",
+      "tire_sizes": [
+        "225/60R15"
+      ]
+    },
+    {
+      "model": "540i",
+      "trim": "Base",
+      "tire_sizes": [
+        "225/55R16"
+      ]
+    },
+    {
+      "model": "740i",
+      "trim": "Base",
+      "tire_sizes": [
+        "235/60R16"
+      ]
+    },
+    {
+      "model": "740iL",
+      "trim": "Base",
+      "tire_sizes": [
+        "235/60R16"
+      ]
+    },
+    {
+      "model": "750iL",
+      "trim": "Base",
+      "tire_sizes": [
+        "235/60R16"
+      ]
+    },
+    {
+      "model": "M5",
+      "trim": "Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "X5",
+      "trim": "4.4i",
+      "tire_sizes": [
+        "255/55R18"
+      ]
+    },
+    {
+      "model": "X5",
+      "trim": "4.4i w/Sport Pkg.",
+      "tire_sizes": [
+        "285/45R19",
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "Z3",
+      "trim": "2.3i",
+      "tire_sizes": []
+    },
+    {
+      "model": "Z3",
+      "trim": "2.8i",
+      "tire_sizes": []
+    },
+    {
+      "model": "Z3",
+      "trim": "M Coupe",
+      "tire_sizes": []
+    },
+    {
+      "model": "Z3",
+      "trim": "M Roadster",
+      "tire_sizes": []
+    },
+    {
+      "model": "Z3",
+      "trim": "Roadster 2.5i",
+      "tire_sizes": []
+    },
+    {
+      "model": "Z3",
+      "trim": "Roadster 2.8i",
+      "tire_sizes": []
+    },
+    {
+      "model": "Z8",
+      "trim": "Base",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T09:39:32.336665",
+    "total_vehicles": 19,
+    "total_tire_sizes": 8
+  }
+}

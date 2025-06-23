@@ -1,0 +1,43 @@
+{
+  "brand": "Fisker",
+  "year": 2023,
+  "vehicles": [
+    {
+      "model": "Fisker",
+      "trim": "Ocean Extreme",
+      "tire_sizes": [
+        "255/50R20",
+        "255/45R22"
+      ]
+    },
+    {
+      "model": "Fisker",
+      "trim": "Ocean One",
+      "tire_sizes": [
+        "255/50R20",
+        "255/45R22"
+      ]
+    },
+    {
+      "model": "Fisker",
+      "trim": "Ocean Sport",
+      "tire_sizes": [
+        "255/50R20",
+        "255/45R22"
+      ]
+    },
+    {
+      "model": "Fisker",
+      "trim": "Ocean Ultra",
+      "tire_sizes": [
+        "255/50R20",
+        "255/45R22"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T01:27:55.785909",
+    "total_vehicles": 4,
+    "total_tire_sizes": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "brand": "Hummer",
+  "year": 2023,
+  "vehicles": [
+    {
+      "model": "Hummer",
+      "trim": "EV Edition 1",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T01:29:36.166736",
+    "total_vehicles": 1,
+    "total_tire_sizes": 0
+  }
+}

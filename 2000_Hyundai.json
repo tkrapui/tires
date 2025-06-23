@@ -1,0 +1,75 @@
+{
+  "brand": "Hyundai",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "Accent",
+      "trim": "GL",
+      "tire_sizes": [
+        "P175/70R13"
+      ]
+    },
+    {
+      "model": "Accent",
+      "trim": "GS",
+      "tire_sizes": [
+        "P175/70R13"
+      ]
+    },
+    {
+      "model": "Accent",
+      "trim": "GS w/Performance Pkg.",
+      "tire_sizes": [
+        "P185/60R14"
+      ]
+    },
+    {
+      "model": "Accent",
+      "trim": "L",
+      "tire_sizes": [
+        "P155/80R13",
+        "P175/70R13"
+      ]
+    },
+    {
+      "model": "Elantra",
+      "trim": "GLS",
+      "tire_sizes": [
+        "P195/60R14"
+      ]
+    },
+    {
+      "model": "Sonata",
+      "trim": "Base",
+      "tire_sizes": [
+        "P195/70R14"
+      ]
+    },
+    {
+      "model": "Sonata",
+      "trim": "GLS",
+      "tire_sizes": [
+        "P205/60R15"
+      ]
+    },
+    {
+      "model": "Tiburon",
+      "trim": "Base",
+      "tire_sizes": [
+        "P195/60R14"
+      ]
+    },
+    {
+      "model": "Tiburon",
+      "trim": "FX",
+      "tire_sizes": [
+        "P195/55R16"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T10:07:47.976283",
+    "total_vehicles": 9,
+    "total_tire_sizes": 7
+  }
+}

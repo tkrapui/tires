@@ -1,0 +1,51 @@
+{
+  "brand": "Land Rover",
+  "year": 2003,
+  "vehicles": [
+    {
+      "model": "Discovery",
+      "trim": "HSE SIZE LOAD SPEED RIM WIDTH OD INFLATION 255/55R18 109H 8J 29.04 * * Calculated based on size. Front: 30 psi Rear: 38 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Discovery",
+      "trim": "S SIZE LOAD SPEED RIM WIDTH OD INFLATION 255/65R16 109H 8J 29.05 * * Calculated based on size. Front: 30 psi Rear: 38 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Discovery",
+      "trim": "SE SIZE LOAD SPEED RIM WIDTH OD INFLATION 255/55R18 109H 8J 29.04 * * Calculated based on size. Front: 30 psi Rear: 38 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Freelander",
+      "trim": "HSE SIZE LOAD SPEED RIM WIDTH OD INFLATION 225/55R17 97H 7J 26.74 * * Calculated based on size. 30 psi 30 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Freelander",
+      "trim": "S SIZE LOAD SPEED RIM WIDTH OD INFLATION 215/65R16 98H 6J 27.00 * * Calculated based on size. 30 psi 30 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Freelander",
+      "trim": "SE SIZE LOAD SPEED RIM WIDTH OD INFLATION 225/55R17 97H 7J 26.74 * * Calculated based on size. 30 psi 30 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Freelander",
+      "trim": "SE3 SIZE LOAD SPEED RIM WIDTH OD INFLATION 225/55R17 97H 7J 26.74 * * Calculated based on size. 30 psi 30 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    },
+    {
+      "model": "Range",
+      "trim": "Rover HSE SIZE LOAD SPEED RIM WIDTH OD INFLATION 255/55R19 111H 8J 30.04 * * Calculated based on size. Front: 34 psi Rear: 36 psi Fitment Details Search Tires 255/50R20 109H 8.5J 30.04 * * Calculated based on size. Front: 34 psi Rear: 36 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T00:24:19.227791",
+    "total_vehicles": 8,
+    "total_tire_sizes": 0
+  }
+}

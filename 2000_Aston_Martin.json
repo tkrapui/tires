@@ -1,0 +1,21 @@
+{
+  "brand": "Aston Martin",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "DB7",
+      "trim": "Vantage",
+      "tire_sizes": []
+    },
+    {
+      "model": "DB7",
+      "trim": "Vantage Volante",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T09:47:40.215774",
+    "total_vehicles": 2,
+    "total_tire_sizes": 0
+  }
+}

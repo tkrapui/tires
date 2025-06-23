@@ -1,0 +1,60 @@
+{
+  "brand": "Infiniti",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "G20",
+      "trim": "Base",
+      "tire_sizes": [
+        "P195/65R15"
+      ]
+    },
+    {
+      "model": "G20",
+      "trim": "T",
+      "tire_sizes": [
+        "P195/60R15"
+      ]
+    },
+    {
+      "model": "I30",
+      "trim": "Base",
+      "tire_sizes": [
+        "P215/55R16"
+      ]
+    },
+    {
+      "model": "I30",
+      "trim": "T",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "Q45",
+      "trim": "Base",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "Q45",
+      "trim": "T",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "QX4",
+      "trim": "Base",
+      "tire_sizes": [
+        "P255/65R16"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T10:08:58.651630",
+    "total_vehicles": 7,
+    "total_tire_sizes": 6
+  }
+}

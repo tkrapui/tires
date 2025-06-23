@@ -1,0 +1,101 @@
+{
+  "brand": "Audi",
+  "year": 2000,
+  "vehicles": [
+    {
+      "model": "A4",
+      "trim": "1.8T",
+      "tire_sizes": [
+        "205/60R15",
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "A4",
+      "trim": "2.8",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "A4",
+      "trim": "Quattro 1.8T",
+      "tire_sizes": [
+        "205/60R15",
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "A4",
+      "trim": "Quattro 2.8",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "A6",
+      "trim": "2.8",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "A6",
+      "trim": "Quattro 2.7T",
+      "tire_sizes": [
+        "215/55R16"
+      ]
+    },
+    {
+      "model": "A6",
+      "trim": "Quattro 2.8",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "A6",
+      "trim": "Quattro 4.2",
+      "tire_sizes": []
+    },
+    {
+      "model": "A6",
+      "trim": "Quattro Avant 2.8",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "A8",
+      "trim": "Quattro Base",
+      "tire_sizes": [
+        "225/55R17",
+        "225/60R16"
+      ]
+    },
+    {
+      "model": "S4",
+      "trim": "Base",
+      "tire_sizes": []
+    },
+    {
+      "model": "TT",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "TT",
+      "trim": "Quattro Base",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T09:38:02.944772",
+    "total_vehicles": 13,
+    "total_tire_sizes": 5
+  }
+}
