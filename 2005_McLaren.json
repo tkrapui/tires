@@ -1,0 +1,16 @@
+{
+  "brand": "McLaren",
+  "year": 2005,
+  "vehicles": [
+    {
+      "model": "Mercedes-Benz",
+      "trim": "SLR Base SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 255/35ZR19 96(Y) 9J 26.03 * * Calculated based on size. 30 psi Search Tires Rear: 295/30ZR19 100(Y) 11.5J 25.97 * * Calculated based on size. 32 psi Search Tires Fitment Details Search Both Front: 245/40ZR18 9J 25.72 * * Calculated based on size. 32 psi Search Tires Rear: 295/35ZR18 11.5J 26.13 * * Calculated based on size. 34 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T21:19:46.811850",
+    "total_vehicles": 1,
+    "total_tire_sizes": 0
+  }
+}

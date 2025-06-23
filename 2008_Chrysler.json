@@ -1,0 +1,223 @@
+{
+  "brand": "Chrysler",
+  "year": 2008,
+  "vehicles": [
+    {
+      "model": "300",
+      "trim": "C (AWD)",
+      "tire_sizes": [
+        "P225/60R18"
+      ]
+    },
+    {
+      "model": "300",
+      "trim": "C (RWD)",
+      "tire_sizes": [
+        "P225/60R18"
+      ]
+    },
+    {
+      "model": "300",
+      "trim": "C Executive Series (RWD)",
+      "tire_sizes": [
+        "P225/60R18"
+      ]
+    },
+    {
+      "model": "300",
+      "trim": "C SRT8",
+      "tire_sizes": [
+        "255/45R20",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "300",
+      "trim": "LX",
+      "tire_sizes": [
+        "P215/65R17"
+      ]
+    },
+    {
+      "model": "300",
+      "trim": "Limited (AWD)",
+      "tire_sizes": [
+        "P225/60R18"
+      ]
+    },
+    {
+      "model": "300",
+      "trim": "Limited (RWD)",
+      "tire_sizes": [
+        "P225/60R18"
+      ]
+    },
+    {
+      "model": "300",
+      "trim": "Touring (AWD)",
+      "tire_sizes": [
+        "P225/60R18"
+      ]
+    },
+    {
+      "model": "300",
+      "trim": "Touring (RWD)",
+      "tire_sizes": [
+        "P215/65R17"
+      ]
+    },
+    {
+      "model": "Aspen",
+      "trim": "Limited 4x2 (Pkg. E)",
+      "tire_sizes": [
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "Aspen",
+      "trim": "Limited 4x2 (Pkg. J)",
+      "tire_sizes": [
+        "P265/50R20"
+      ]
+    },
+    {
+      "model": "Aspen",
+      "trim": "Limited 4x4 (Pkg. E)",
+      "tire_sizes": [
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "Aspen",
+      "trim": "Limited 4x4 (Pkg. J)",
+      "tire_sizes": [
+        "P265/50R20"
+      ]
+    },
+    {
+      "model": "Crossfire",
+      "trim": "Limited Coupe",
+      "tire_sizes": [
+        "255/35R19",
+        "225/40R18"
+      ]
+    },
+    {
+      "model": "Crossfire",
+      "trim": "Limited Roadster",
+      "tire_sizes": [
+        "255/35R19",
+        "225/40R18"
+      ]
+    },
+    {
+      "model": "PT",
+      "trim": "Cruiser LX",
+      "tire_sizes": [
+        "P195/65R15"
+      ]
+    },
+    {
+      "model": "PT",
+      "trim": "Cruiser Touring",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "Pacifica",
+      "trim": "LX (AWD)",
+      "tire_sizes": [
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Pacifica",
+      "trim": "LX (FWD)",
+      "tire_sizes": [
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Pacifica",
+      "trim": "Limited",
+      "tire_sizes": [
+        "P235/55R19"
+      ]
+    },
+    {
+      "model": "Pacifica",
+      "trim": "Touring",
+      "tire_sizes": [
+        "P235/55R19",
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Sebring",
+      "trim": "LX Convertible",
+      "tire_sizes": [
+        "P215/60R17",
+        "P215/65R16"
+      ]
+    },
+    {
+      "model": "Sebring",
+      "trim": "LX Sedan",
+      "tire_sizes": [
+        "P215/65R16"
+      ]
+    },
+    {
+      "model": "Sebring",
+      "trim": "Limited Convertible",
+      "tire_sizes": [
+        "P215/55R18"
+      ]
+    },
+    {
+      "model": "Sebring",
+      "trim": "Limited Sedan",
+      "tire_sizes": [
+        "P215/55R18",
+        "P215/60R17"
+      ]
+    },
+    {
+      "model": "Sebring",
+      "trim": "Touring Convertible",
+      "tire_sizes": [
+        "P215/55R18",
+        "P215/60R17"
+      ]
+    },
+    {
+      "model": "Sebring",
+      "trim": "Touring Sedan",
+      "tire_sizes": [
+        "P215/55R18",
+        "P215/60R17"
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "& Country Limited",
+      "tire_sizes": [
+        "P225/65R17"
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "& Country Touring",
+      "tire_sizes": [
+        "P225/65R17",
+        "225/65R16"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T23:00:33.668145",
+    "total_vehicles": 29,
+    "total_tire_sizes": 17
+  }
+}

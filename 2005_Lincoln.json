@@ -1,0 +1,82 @@
+{
+  "brand": "Lincoln",
+  "year": 2005,
+  "vehicles": [
+    {
+      "model": "Aviator",
+      "trim": "Base",
+      "tire_sizes": [
+        "P245/65R17"
+      ]
+    },
+    {
+      "model": "LS",
+      "trim": "Luxury",
+      "tire_sizes": [
+        "P225/55R16"
+      ]
+    },
+    {
+      "model": "LS",
+      "trim": "Sport",
+      "tire_sizes": [
+        "P235/50R17"
+      ]
+    },
+    {
+      "model": "LS",
+      "trim": "Ultimate",
+      "tire_sizes": [
+        "P235/50R17"
+      ]
+    },
+    {
+      "model": "Navigator",
+      "trim": "Base",
+      "tire_sizes": [
+        "P255/70R18",
+        "P275/65R18"
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "Car Executive",
+      "tire_sizes": [
+        "P225/60R17"
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "Car Executive L",
+      "tire_sizes": [
+        "P225/60R17"
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "Car Signature",
+      "tire_sizes": [
+        "P225/60R17"
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "Car Signature L",
+      "tire_sizes": [
+        "P225/60R17"
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "Car Signature Limited",
+      "tire_sizes": [
+        "P225/60R17"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T21:04:26.049105",
+    "total_vehicles": 10,
+    "total_tire_sizes": 6
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "brand": "Mitsubishi",
+  "year": 2005,
+  "vehicles": [
+    {
+      "model": "Eclipse",
+      "trim": "GS",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "Eclipse",
+      "trim": "GT",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "Eclipse",
+      "trim": "GTS",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "Eclipse",
+      "trim": "Spyder GS",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "Eclipse",
+      "trim": "Spyder GT",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "Eclipse",
+      "trim": "Spyder GTS",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "Endeavor",
+      "trim": "LS (AWD)",
+      "tire_sizes": [
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Endeavor",
+      "trim": "LS 4x2",
+      "tire_sizes": [
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Endeavor",
+      "trim": "Limited (AWD)",
+      "tire_sizes": [
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Endeavor",
+      "trim": "Limited 4x2",
+      "tire_sizes": [
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Endeavor",
+      "trim": "XLS (AWD)",
+      "tire_sizes": [
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Endeavor",
+      "trim": "XLS 4x2",
+      "tire_sizes": [
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Galant",
+      "trim": "DE",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "Galant",
+      "trim": "ES",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "Galant",
+      "trim": "GTS",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "Galant",
+      "trim": "LS",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "Galant",
+      "trim": "SE",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "ES",
+      "tire_sizes": [
+        "P185/65R14"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "OZ Rally",
+      "tire_sizes": [
+        "P195/60R15"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "Ralliart",
+      "tire_sizes": [
+        "P205/50R16"
+      ]
+    },
+    {
+      "model": "Montero",
+      "trim": "Limited",
+      "tire_sizes": [
+        "265/65R17"
+      ]
+    },
+    {
+      "model": "Montero",
+      "trim": "Limited (Max. Load)",
+      "tire_sizes": [
+        "265/65R17"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "LS",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "Limited",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "XLS",
+      "tire_sizes": [
+        "P215/55R17"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T21:08:06.166001",
+    "total_vehicles": 25,
+    "total_tire_sizes": 10
+  }
+}

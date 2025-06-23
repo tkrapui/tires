@@ -1,0 +1,113 @@
+{
+  "brand": "Maserati",
+  "year": 2007,
+  "vehicles": [
+    {
+      "model": "Coupe",
+      "trim": "Cambiocorsa",
+      "tire_sizes": [
+        "235/40R18",
+        "265/35R18"
+      ]
+    },
+    {
+      "model": "Coupe",
+      "trim": "GT",
+      "tire_sizes": [
+        "235/40R18",
+        "265/30R19",
+        "235/35R19",
+        "265/35R18"
+      ]
+    },
+    {
+      "model": "Coupe",
+      "trim": "GT (Michelin Snow Tire Option)",
+      "tire_sizes": [
+        "225/40R18",
+        "265/35R18"
+      ]
+    },
+    {
+      "model": "Coupe",
+      "trim": "GT (Pirelli Snow Tire Option)",
+      "tire_sizes": [
+        "225/40R18",
+        "265/35R18"
+      ]
+    },
+    {
+      "model": "GranSport",
+      "trim": "(Winter Tires)",
+      "tire_sizes": [
+        "225/40R18",
+        "265/35R18"
+      ]
+    },
+    {
+      "model": "GranSport",
+      "trim": "Base",
+      "tire_sizes": [
+        "265/30R19",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "GranSport",
+      "trim": "Spyder",
+      "tire_sizes": [
+        "265/30R19",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "(Run-Flat Tire Option)",
+      "tire_sizes": [
+        "245/40R19",
+        "285/40R18",
+        "285/35R19",
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "(Winter Tires)",
+      "tire_sizes": [
+        "285/40R18",
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/40R19",
+        "285/40R18",
+        "285/35R19",
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "Executive GT",
+      "tire_sizes": [
+        "285/35R19",
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "Sport GT",
+      "tire_sizes": [
+        "245/35R20",
+        "285/30R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T17:18:53.382167",
+    "total_vehicles": 12,
+    "total_tire_sizes": 11
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "brand": "Mazda",
+  "year": 2007,
+  "vehicles": [
+    {
+      "model": "3",
+      "trim": "speed",
+      "tire_sizes": [
+        "215/45R18"
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "S Hatchback",
+      "tire_sizes": [
+        "P205/50R17"
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "S Sedan",
+      "tire_sizes": [
+        "P205/55R16",
+        "P205/50R17"
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "i",
+      "tire_sizes": [
+        "P195/65R15",
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "5",
+      "trim": "GS",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "5",
+      "trim": "GT",
+      "tire_sizes": [
+        "205/50R17"
+      ]
+    },
+    {
+      "model": "5",
+      "trim": "Grand Touring",
+      "tire_sizes": [
+        "205/50R17"
+      ]
+    },
+    {
+      "model": "5",
+      "trim": "Sport",
+      "tire_sizes": [
+        "205/50R17"
+      ]
+    },
+    {
+      "model": "5",
+      "trim": "Touring",
+      "tire_sizes": [
+        "205/50R17"
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "speed",
+      "tire_sizes": [
+        "215/45R18"
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "S Grand Sport Wagon",
+      "tire_sizes": [
+        "215/45R18"
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "S Grand Touring",
+      "tire_sizes": [
+        "215/45R18"
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "S Grand Touring Wagon",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "S Sport VE",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "S Sport Wagon",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "S Touring",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "i Grand Touring",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "i Sport",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "i Sport VE",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "i Touring",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "B2300",
+      "trim": "Base",
+      "tire_sizes": [
+        "P225/70R15"
+      ]
+    },
+    {
+      "model": "B3000",
+      "trim": "Base",
+      "tire_sizes": [
+        "P225/70R15"
+      ]
+    },
+    {
+      "model": "B3000",
+      "trim": "DS",
+      "tire_sizes": [
+        "P235/75R15"
+      ]
+    },
+    {
+      "model": "B4000",
+      "trim": "Base",
+      "tire_sizes": [
+        "P235/75R15"
+      ]
+    },
+    {
+      "model": "B4000",
+      "trim": "SE",
+      "tire_sizes": [
+        "P255/70R16"
+      ]
+    },
+    {
+      "model": "CX-7",
+      "trim": "Grand Touring",
+      "tire_sizes": [
+        "P235/60R18"
+      ]
+    },
+    {
+      "model": "CX-7",
+      "trim": "Sport",
+      "tire_sizes": [
+        "P235/60R18"
+      ]
+    },
+    {
+      "model": "CX-7",
+      "trim": "Touring",
+      "tire_sizes": [
+        "P235/60R18"
+      ]
+    },
+    {
+      "model": "CX-9",
+      "trim": "Grand Touring",
+      "tire_sizes": [
+        "P245/50R20"
+      ]
+    },
+    {
+      "model": "CX-9",
+      "trim": "Sport",
+      "tire_sizes": [
+        "P245/60R18"
+      ]
+    },
+    {
+      "model": "CX-9",
+      "trim": "Touring",
+      "tire_sizes": [
+        "P245/60R18"
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata Grand Touring",
+      "tire_sizes": [
+        "205/45R17"
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata SV",
+      "tire_sizes": [
+        "205/50R16"
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata Sport",
+      "tire_sizes": [
+        "205/50R16"
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata Touring",
+      "tire_sizes": [
+        "205/45R17"
+      ]
+    },
+    {
+      "model": "RX-8",
+      "trim": "Grand Touring",
+      "tire_sizes": [
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "RX-8",
+      "trim": "Sport A/T",
+      "tire_sizes": [
+        "225/55R16",
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "RX-8",
+      "trim": "Sport M/T",
+      "tire_sizes": [
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "RX-8",
+      "trim": "Touring",
+      "tire_sizes": [
+        "225/45R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T17:04:50.440541",
+    "total_vehicles": 39,
+    "total_tire_sizes": 17
+  }
+}

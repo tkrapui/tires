@@ -1,0 +1,61 @@
+{
+  "brand": "Maserati",
+  "year": 2005,
+  "vehicles": [
+    {
+      "model": "Coupe",
+      "trim": "Cambiocorsa",
+      "tire_sizes": [
+        "235/40R18",
+        "265/35R18"
+      ]
+    },
+    {
+      "model": "Coupe",
+      "trim": "GT (Summer Tires)",
+      "tire_sizes": [
+        "235/40R18",
+        "265/35R18"
+      ]
+    },
+    {
+      "model": "Coupe",
+      "trim": "GT (Winter Tires)",
+      "tire_sizes": [
+        "225/40R18",
+        "265/35R18"
+      ]
+    },
+    {
+      "model": "GranSport",
+      "trim": "Base",
+      "tire_sizes": [
+        "265/30R19",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/40R19",
+        "285/35R19",
+        "285/40R18",
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "Spyder",
+      "trim": "Cambiocorsa",
+      "tire_sizes": [
+        "235/40R18",
+        "265/35R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T21:19:22.051226",
+    "total_vehicles": 6,
+    "total_tire_sizes": 9
+  }
+}

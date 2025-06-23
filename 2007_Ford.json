@@ -1,0 +1,1081 @@
+{
+  "brand": "Ford",
+  "year": 2007,
+  "vehicles": [
+    {
+      "model": "Crown",
+      "trim": "Victoria LX",
+      "tire_sizes": [
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "Crown",
+      "trim": "Victoria LX Sport",
+      "tire_sizes": [
+        "P235/55R17"
+      ]
+    },
+    {
+      "model": "Crown",
+      "trim": "Victoria Police Interceptor",
+      "tire_sizes": [
+        "P235/55R17"
+      ]
+    },
+    {
+      "model": "E-150",
+      "trim": "Base",
+      "tire_sizes": [
+        "225/75R16"
+      ]
+    },
+    {
+      "model": "E-150",
+      "trim": "Chateau",
+      "tire_sizes": [
+        "225/75R16"
+      ]
+    },
+    {
+      "model": "E-150",
+      "trim": "XL",
+      "tire_sizes": [
+        "225/75R16"
+      ]
+    },
+    {
+      "model": "E-150",
+      "trim": "XLT",
+      "tire_sizes": [
+        "225/75R16"
+      ]
+    },
+    {
+      "model": "E-250",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "E-250",
+      "trim": "Ext.",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "E-350",
+      "trim": "Super Duty Base",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "E-350",
+      "trim": "Super Duty Ext.",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "E-350",
+      "trim": "Super Duty XL",
+      "tire_sizes": [
+        "225/75R16"
+      ]
+    },
+    {
+      "model": "E-350",
+      "trim": "Super Duty XL Ext.",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "E-350",
+      "trim": "Super Duty XLT",
+      "tire_sizes": [
+        "225/75R16"
+      ]
+    },
+    {
+      "model": "E-350",
+      "trim": "Super Duty XLT Ext.",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "Edge",
+      "trim": "SE",
+      "tire_sizes": [
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Edge",
+      "trim": "SEL",
+      "tire_sizes": [
+        "P245/60R18",
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Escape",
+      "trim": "Hybrid",
+      "tire_sizes": [
+        "P235/70R16"
+      ]
+    },
+    {
+      "model": "Escape",
+      "trim": "Limited",
+      "tire_sizes": [
+        "P235/70R16"
+      ]
+    },
+    {
+      "model": "Escape",
+      "trim": "XLS",
+      "tire_sizes": [
+        "P225/75R15"
+      ]
+    },
+    {
+      "model": "Escape",
+      "trim": "XLS (Manual)",
+      "tire_sizes": [
+        "P225/75R15"
+      ]
+    },
+    {
+      "model": "Escape",
+      "trim": "XLT 4x2",
+      "tire_sizes": [
+        "P235/70R16"
+      ]
+    },
+    {
+      "model": "Escape",
+      "trim": "XLT 4x4",
+      "tire_sizes": [
+        "P235/70R16"
+      ]
+    },
+    {
+      "model": "Expedition",
+      "trim": "EL XLT",
+      "tire_sizes": [
+        "P265/70R17",
+        "P255/70R18"
+      ]
+    },
+    {
+      "model": "Expedition",
+      "trim": "Eddie Bauer",
+      "tire_sizes": [
+        "P275/55R20",
+        "P265/70R17",
+        "P255/70R18"
+      ]
+    },
+    {
+      "model": "Expedition",
+      "trim": "Limited",
+      "tire_sizes": [
+        "P275/55R20",
+        "P255/70R18"
+      ]
+    },
+    {
+      "model": "Expedition",
+      "trim": "Max Eddie Bauer",
+      "tire_sizes": [
+        "P275/55R20",
+        "P255/70R18"
+      ]
+    },
+    {
+      "model": "Expedition",
+      "trim": "Max Limited",
+      "tire_sizes": [
+        "P275/55R20",
+        "P255/70R18"
+      ]
+    },
+    {
+      "model": "Expedition",
+      "trim": "XLT",
+      "tire_sizes": [
+        "P265/70R17",
+        "P255/70R18"
+      ]
+    },
+    {
+      "model": "Explorer",
+      "trim": "Eddie Bauer",
+      "tire_sizes": [
+        "P235/65R18",
+        "P245/65R17"
+      ]
+    },
+    {
+      "model": "Explorer",
+      "trim": "Limited",
+      "tire_sizes": [
+        "P235/65R18"
+      ]
+    },
+    {
+      "model": "Explorer",
+      "trim": "Sport Trac Limited",
+      "tire_sizes": [
+        "P235/65R18"
+      ]
+    },
+    {
+      "model": "Explorer",
+      "trim": "Sport Trac XLT",
+      "tire_sizes": [
+        "P245/65R17",
+        "P235/70R16"
+      ]
+    },
+    {
+      "model": "Explorer",
+      "trim": "XLT",
+      "tire_sizes": [
+        "P235/70R16"
+      ]
+    },
+    {
+      "model": "Explorer",
+      "trim": "XLT w/Appearance Pkg.",
+      "tire_sizes": [
+        "P245/65R17"
+      ]
+    },
+    {
+      "model": "Explorer",
+      "trim": "XLT w/Ironman Pkg.",
+      "tire_sizes": [
+        "P235/65R18"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "FX2 Base",
+      "tire_sizes": [
+        "P275/55R20",
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "FX4 Base",
+      "tire_sizes": [
+        "P275/65R18",
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "Harley-Davidson Edition Base",
+      "tire_sizes": [
+        "P275/45R22"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "King Ranch 4x2",
+      "tire_sizes": [
+        "P275/55R20",
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "King Ranch 4x4",
+      "tire_sizes": [
+        "P275/65R18",
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "Lariat (20 Inch Option)",
+      "tire_sizes": [
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "Lariat 4x2",
+      "tire_sizes": [
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "Lariat 4x4",
+      "tire_sizes": [
+        "P275/65R18"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "STX 4x2",
+      "tire_sizes": [
+        "P255/65R17"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "STX 4x4",
+      "tire_sizes": [
+        "P255/70R17"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "XL 4x2",
+      "tire_sizes": [
+        "P235/70R17",
+        "P255/65R17"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "XL 4x4",
+      "tire_sizes": [
+        "P255/70R17",
+        "P235/75R17"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "XL w/H.D. Payload Pkg.",
+      "tire_sizes": [
+        "245/70R17"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "XLT 4x2 (18 Inch Option)",
+      "tire_sizes": [
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "XLT 4x2 Reg./Super Cab",
+      "tire_sizes": [
+        "P235/70R17",
+        "P255/65R17"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "XLT 4x2 Super Crew Cab",
+      "tire_sizes": [
+        "P265/60R18",
+        "P255/65R17"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "XLT 4x4 (18 Inch Option)",
+      "tire_sizes": [
+        "P275/65R18"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "XLT 4x4 Reg./Super Cab",
+      "tire_sizes": [
+        "P255/70R17",
+        "P235/75R17"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "XLT 4x4 Super Crew Cab",
+      "tire_sizes": [
+        "P275/65R18",
+        "P255/70R17"
+      ]
+    },
+    {
+      "model": "F-150",
+      "trim": "XLT w/H.D. Payload Pkg.",
+      "tire_sizes": [
+        "245/70R17"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty Harley-Davidson Edition Base",
+      "tire_sizes": [
+        "275/65R20"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty King Ranch 4x2",
+      "tire_sizes": [
+        "275/65R18"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty King Ranch 4x4",
+      "tire_sizes": [
+        "275/65R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty Lariat 4x2 (18 Inch Option)",
+      "tire_sizes": [
+        "275/65R18"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty Lariat 4x2 Crew Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty Lariat 4x2 Super Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty Lariat 4x4",
+      "tire_sizes": [
+        "275/65R20",
+        "275/70R18",
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty XL 4x2 Crew Cab",
+      "tire_sizes": [
+        "265/70R17",
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty XL 4x2 Crew Cab (All-Terrain Tires)",
+      "tire_sizes": [
+        "265/70R17",
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty XL 4x2 Reg. Cab",
+      "tire_sizes": [
+        "265/70R17",
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty XL 4x2 Reg. Cab (All-Terrain Tires)",
+      "tire_sizes": [
+        "265/70R17",
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty XL 4x2 Super Cab",
+      "tire_sizes": [
+        "265/70R17",
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty XL 4x2 Super Cab (All-Terrain Tires)",
+      "tire_sizes": [
+        "265/70R17",
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty XL 4x4",
+      "tire_sizes": [
+        "265/70R17",
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty XL 4x4 (All-Terrain Tires)",
+      "tire_sizes": [
+        "265/70R17",
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty XLT 4x2 Crew/Super Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty XLT 4x2 Reg. Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "F-250",
+      "trim": "Super Duty XLT 4x4",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty Harley-Davidson Edition Base",
+      "tire_sizes": [
+        "275/65R20"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty King Ranch 4x2",
+      "tire_sizes": [
+        "275/65R18"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty King Ranch 4x2 (DRW)",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty King Ranch 4x4",
+      "tire_sizes": [
+        "275/65R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty King Ranch 4x4 (DRW)",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty Lariat 4x2 Crew Cab",
+      "tire_sizes": [
+        "275/65R18"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty Lariat 4x2 Crew Cab (DRW)",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty Lariat 4x2 Super Cab",
+      "tire_sizes": [
+        "275/65R18"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty Lariat 4x2 Super Cab (DRW)",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty Lariat 4x4 Crew Cab",
+      "tire_sizes": [
+        "275/65R20",
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty Lariat 4x4 Crew Cab (DRW)",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty Lariat 4x4 Super Cab",
+      "tire_sizes": [
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty Lariat 4x4 Super Cab (DRW)",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XL 4x2 (DRW)",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XL 4x2 Crew Cab",
+      "tire_sizes": [
+        "265/70R17",
+        "275/65R18"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XL 4x2 Reg. Cab",
+      "tire_sizes": [
+        "265/70R17",
+        "275/65R18"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XL 4x2 Super Cab",
+      "tire_sizes": [
+        "265/70R17",
+        "275/65R18"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XL 4x4 Crew Cab",
+      "tire_sizes": [
+        "275/70R18",
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XL 4x4 Crew/Super Cab (DRW)",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XL 4x4 Reg. Cab",
+      "tire_sizes": [
+        "275/70R18",
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XL 4x4 Reg. Cab (DRW)",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XL 4x4 Super Cab",
+      "tire_sizes": [
+        "275/70R18",
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XLT 4x2 Crew Cab",
+      "tire_sizes": [
+        "275/65R18"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XLT 4x2 Crew Cab (DRW)",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XLT 4x2 Reg. Cab",
+      "tire_sizes": [
+        "275/65R18"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XLT 4x2 Reg. Cab (DRW)",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XLT 4x2 Super Cab",
+      "tire_sizes": [
+        "275/65R18"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XLT 4x2 Super Cab (DRW)",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XLT 4x4 Crew Cab",
+      "tire_sizes": [
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XLT 4x4 Crew Cab (DRW)",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XLT 4x4 Reg. Cab",
+      "tire_sizes": [
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XLT 4x4 Reg. Cab (DRW)",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XLT 4x4 Super Cab",
+      "tire_sizes": [
+        "275/70R18"
+      ]
+    },
+    {
+      "model": "F-350",
+      "trim": "Super Duty XLT 4x4 Super Cab (DRW)",
+      "tire_sizes": [
+        "245/75R17"
+      ]
+    },
+    {
+      "model": "Five",
+      "trim": "Hundred Limited",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    },
+    {
+      "model": "Five",
+      "trim": "Hundred SEL",
+      "tire_sizes": [
+        "P215/60R17"
+      ]
+    },
+    {
+      "model": "Focus",
+      "trim": "S",
+      "tire_sizes": [
+        "P195/60R15"
+      ]
+    },
+    {
+      "model": "Focus",
+      "trim": "SE",
+      "tire_sizes": [
+        "P195/60R15"
+      ]
+    },
+    {
+      "model": "Focus",
+      "trim": "SES",
+      "tire_sizes": [
+        "P205/50R16"
+      ]
+    },
+    {
+      "model": "Focus",
+      "trim": "SES Wagon",
+      "tire_sizes": [
+        "P195/60R15"
+      ]
+    },
+    {
+      "model": "Focus",
+      "trim": "ST",
+      "tire_sizes": [
+        "P205/50R16"
+      ]
+    },
+    {
+      "model": "Freestar",
+      "trim": "Base",
+      "tire_sizes": [
+        "P235/60R16"
+      ]
+    },
+    {
+      "model": "Freestar",
+      "trim": "Limited",
+      "tire_sizes": [
+        "P235/60R16",
+        "P235/55R17"
+      ]
+    },
+    {
+      "model": "Freestar",
+      "trim": "SE",
+      "tire_sizes": [
+        "P235/60R16",
+        "P225/60R16"
+      ]
+    },
+    {
+      "model": "Freestar",
+      "trim": "SE w/Appearance Pkg.",
+      "tire_sizes": [
+        "P235/55R17"
+      ]
+    },
+    {
+      "model": "Freestar",
+      "trim": "SEL",
+      "tire_sizes": [
+        "P235/60R16",
+        "P235/55R17"
+      ]
+    },
+    {
+      "model": "Freestyle",
+      "trim": "Limited",
+      "tire_sizes": [
+        "P225/60R18"
+      ]
+    },
+    {
+      "model": "Freestyle",
+      "trim": "SEL",
+      "tire_sizes": [
+        "P215/65R17"
+      ]
+    },
+    {
+      "model": "Fusion",
+      "trim": "S",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Fusion",
+      "trim": "SE I4",
+      "tire_sizes": [
+        "P205/60R16",
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "Fusion",
+      "trim": "SE V6",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Fusion",
+      "trim": "SEL",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "Mustang",
+      "trim": "Deluxe",
+      "tire_sizes": [
+        "P215/65R16"
+      ]
+    },
+    {
+      "model": "Mustang",
+      "trim": "GT Deluxe",
+      "tire_sizes": [
+        "235/55R17",
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "Mustang",
+      "trim": "GT Premium",
+      "tire_sizes": [
+        "235/55R17",
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "Mustang",
+      "trim": "GT Premium w/CA Special Pkg.",
+      "tire_sizes": [
+        "P235/50R18"
+      ]
+    },
+    {
+      "model": "Mustang",
+      "trim": "Premium",
+      "tire_sizes": [
+        "P215/65R16"
+      ]
+    },
+    {
+      "model": "Mustang",
+      "trim": "Premium w/Pony Pkg.",
+      "tire_sizes": [
+        "235/55R17"
+      ]
+    },
+    {
+      "model": "Mustang",
+      "trim": "Shelby GT500 Convertible",
+      "tire_sizes": [
+        "255/45R18",
+        "285/40R18"
+      ]
+    },
+    {
+      "model": "Mustang",
+      "trim": "Shelby GT500 Coupe",
+      "tire_sizes": [
+        "255/45R18",
+        "285/40R18"
+      ]
+    },
+    {
+      "model": "Ranger",
+      "trim": "FX4",
+      "tire_sizes": [
+        "P255/70R16"
+      ]
+    },
+    {
+      "model": "Ranger",
+      "trim": "STX",
+      "tire_sizes": [
+        "P225/70R15"
+      ]
+    },
+    {
+      "model": "Ranger",
+      "trim": "Sport 4x2 Super Cab",
+      "tire_sizes": [
+        "P235/75R15",
+        "P235/70R16"
+      ]
+    },
+    {
+      "model": "Ranger",
+      "trim": "Sport 4x4 Super Cab",
+      "tire_sizes": [
+        "P255/70R16"
+      ]
+    },
+    {
+      "model": "Ranger",
+      "trim": "Sport Reg. Cab",
+      "tire_sizes": [
+        "P235/75R15"
+      ]
+    },
+    {
+      "model": "Ranger",
+      "trim": "XL 4x2",
+      "tire_sizes": [
+        "P225/70R15"
+      ]
+    },
+    {
+      "model": "Ranger",
+      "trim": "XL 4x4",
+      "tire_sizes": [
+        "P235/75R15"
+      ]
+    },
+    {
+      "model": "Ranger",
+      "trim": "XLT 4x2",
+      "tire_sizes": [
+        "P225/70R15"
+      ]
+    },
+    {
+      "model": "Ranger",
+      "trim": "XLT 4x4 Reg. Cab",
+      "tire_sizes": [
+        "P235/75R15"
+      ]
+    },
+    {
+      "model": "Ranger",
+      "trim": "XLT 4x4 Super Cab",
+      "tire_sizes": [
+        "P255/70R16"
+      ]
+    },
+    {
+      "model": "Taurus",
+      "trim": "SE",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "Taurus",
+      "trim": "SEL",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T00:55:52.536421",
+    "total_vehicles": 146,
+    "total_tire_sizes": 45
+  }
+}

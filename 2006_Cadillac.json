@@ -1,0 +1,184 @@
+{
+  "brand": "Cadillac",
+  "year": 2006,
+  "vehicles": [
+    {
+      "model": "CTS",
+      "trim": "3.6L",
+      "tire_sizes": [
+        "P225/50R18",
+        "P225/55R16"
+      ]
+    },
+    {
+      "model": "CTS",
+      "trim": "Base",
+      "tire_sizes": [
+        "P225/55R16"
+      ]
+    },
+    {
+      "model": "CTS",
+      "trim": "V",
+      "tire_sizes": [
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "CTS",
+      "trim": "w/Luxury Pkg.",
+      "tire_sizes": [
+        "P225/55R16"
+      ]
+    },
+    {
+      "model": "CTS",
+      "trim": "w/Sport Pkg.",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "DTS",
+      "trim": "Base",
+      "tire_sizes": [
+        "P235/55R17"
+      ]
+    },
+    {
+      "model": "DTS",
+      "trim": "w/Performance Pkg.",
+      "tire_sizes": [
+        "P245/50R18"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "Base",
+      "tire_sizes": [
+        "P275/55R20",
+        "P265/70R17"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "ESV Base",
+      "tire_sizes": [
+        "P275/55R20",
+        "P265/70R17"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "ESV Platinum Edition",
+      "tire_sizes": [
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "Escalade",
+      "trim": "EXT Base",
+      "tire_sizes": [
+        "P275/55R20",
+        "P265/70R17"
+      ]
+    },
+    {
+      "model": "SRX",
+      "trim": "V6",
+      "tire_sizes": [
+        "P255/60R17",
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "SRX",
+      "trim": "V6 w/Luxury Performance Pkg.",
+      "tire_sizes": [
+        "P255/55R18",
+        "P235/60R18"
+      ]
+    },
+    {
+      "model": "SRX",
+      "trim": "V8",
+      "tire_sizes": [
+        "P255/55R18",
+        "P235/60R18"
+      ]
+    },
+    {
+      "model": "STS",
+      "trim": "V",
+      "tire_sizes": [
+        "P275/40R19",
+        "P255/45R18"
+      ]
+    },
+    {
+      "model": "STS",
+      "trim": "V6",
+      "tire_sizes": [
+        "P235/50R17"
+      ]
+    },
+    {
+      "model": "STS",
+      "trim": "V6 w/Luxury & Performance Pkg.",
+      "tire_sizes": [
+        "P235/50R17",
+        "P255/45R17"
+      ]
+    },
+    {
+      "model": "STS",
+      "trim": "V8",
+      "tire_sizes": [
+        "P235/50R17"
+      ]
+    },
+    {
+      "model": "STS",
+      "trim": "V8 w/Handling Pkg. (Summer Only)",
+      "tire_sizes": [
+        "255/45R18"
+      ]
+    },
+    {
+      "model": "STS",
+      "trim": "V8 w/Luxury & Performance Pkg.",
+      "tire_sizes": [
+        "P235/50R17",
+        "P255/45R17"
+      ]
+    },
+    {
+      "model": "STS",
+      "trim": "V8 w/Premium Performance Pkg.",
+      "tire_sizes": [
+        "255/45R18",
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "XLR",
+      "trim": "Base",
+      "tire_sizes": [
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "XLR",
+      "trim": "V",
+      "tire_sizes": [
+        "P235/45R19",
+        "P255/40R19"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T15:10:12.594008",
+    "total_vehicles": 23,
+    "total_tire_sizes": 20
+  }
+}

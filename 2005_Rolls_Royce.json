@@ -1,0 +1,16 @@
+{
+  "brand": "Rolls-Royce",
+  "year": 2005,
+  "vehicles": [
+    {
+      "model": "Phantom",
+      "trim": "Base SIZE LOAD SPEED RIM WIDTH OD INFLATION 265-790R540A 111W 265 704.84 * * Calculated based on size. Front: 29 psi Rear: 32 psi Fitment Details Search Tires",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T21:20:11.544095",
+    "total_vehicles": 1,
+    "total_tire_sizes": 0
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "brand": "Maserati",
+  "year": 2008,
+  "vehicles": [
+    {
+      "model": "GranTurismo",
+      "trim": "Base",
+      "tire_sizes": [
+        "285/40R19",
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "(Run-Flat Tire Option)",
+      "tire_sizes": [
+        "285/40R18",
+        "245/45R18",
+        "285/35R19",
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "(Winter Tires)",
+      "tire_sizes": [
+        "285/40R18",
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "Base",
+      "tire_sizes": [
+        "285/40R18",
+        "245/45R18",
+        "285/35R19",
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "Executive GT",
+      "tire_sizes": [
+        "285/35R19",
+        "245/40R19"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "Sport GT",
+      "tire_sizes": [
+        "245/35R20",
+        "295/30R20"
+      ]
+    },
+    {
+      "model": "Quattroporte",
+      "trim": "Sport GT S",
+      "tire_sizes": [
+        "245/35R20",
+        "295/30R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T23:29:47.757939",
+    "total_vehicles": 7,
+    "total_tire_sizes": 7
+  }
+}

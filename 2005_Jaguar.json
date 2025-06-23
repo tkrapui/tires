@@ -1,0 +1,112 @@
+{
+  "brand": "Jaguar",
+  "year": 2005,
+  "vehicles": [
+    {
+      "model": "S-Type",
+      "trim": "Base",
+      "tire_sizes": [
+        "225/55R16"
+      ]
+    },
+    {
+      "model": "S-Type",
+      "trim": "R",
+      "tire_sizes": [
+        "245/40R18",
+        "275/35R18"
+      ]
+    },
+    {
+      "model": "S-Type",
+      "trim": "Sport",
+      "tire_sizes": [
+        "235/50R17",
+        "245/40R18"
+      ]
+    },
+    {
+      "model": "S-Type",
+      "trim": "w/Sport Pkg.",
+      "tire_sizes": [
+        "235/50R17",
+        "245/40R18"
+      ]
+    },
+    {
+      "model": "Super",
+      "trim": "V8 Base",
+      "tire_sizes": [
+        "255/40R19"
+      ]
+    },
+    {
+      "model": "Vanden",
+      "trim": "Plas Base",
+      "tire_sizes": [
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "X-Type",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "X-Type",
+      "trim": "w/Sport Suspension",
+      "tire_sizes": [
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "XJ8",
+      "trim": "Base",
+      "tire_sizes": [
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "XJ8",
+      "trim": "L",
+      "tire_sizes": [
+        "235/50R18"
+      ]
+    },
+    {
+      "model": "XJR",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/40R19",
+        "255/35R20"
+      ]
+    },
+    {
+      "model": "XK8",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/40R19",
+        "255/40R19",
+        "255/45R18",
+        "245/45R18"
+      ]
+    },
+    {
+      "model": "XKR",
+      "trim": "Base",
+      "tire_sizes": [
+        "285/30R20",
+        "255/45R18",
+        "255/35R20",
+        "245/45R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T21:16:41.102695",
+    "total_vehicles": 13,
+    "total_tire_sizes": 13
+  }
+}

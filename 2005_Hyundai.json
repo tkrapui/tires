@@ -1,0 +1,139 @@
+{
+  "brand": "Hyundai",
+  "year": 2005,
+  "vehicles": [
+    {
+      "model": "Accent",
+      "trim": "GLS",
+      "tire_sizes": [
+        "P175/70R13"
+      ]
+    },
+    {
+      "model": "Accent",
+      "trim": "GLS w/Performance Pkg.",
+      "tire_sizes": [
+        "P185/60R14"
+      ]
+    },
+    {
+      "model": "Accent",
+      "trim": "GT",
+      "tire_sizes": [
+        "P185/60R14"
+      ]
+    },
+    {
+      "model": "Elantra",
+      "trim": "GLS",
+      "tire_sizes": [
+        "195/60R15"
+      ]
+    },
+    {
+      "model": "Elantra",
+      "trim": "GT",
+      "tire_sizes": [
+        "195/60R15"
+      ]
+    },
+    {
+      "model": "Santa",
+      "trim": "Fe Base",
+      "tire_sizes": [
+        "P225/70R16"
+      ]
+    },
+    {
+      "model": "Santa",
+      "trim": "Fe GL",
+      "tire_sizes": [
+        "P225/70R16"
+      ]
+    },
+    {
+      "model": "Santa",
+      "trim": "Fe GLS",
+      "tire_sizes": [
+        "P225/70R16",
+        "225/70R16"
+      ]
+    },
+    {
+      "model": "Santa",
+      "trim": "Fe LX",
+      "tire_sizes": [
+        "P225/70R16",
+        "225/70R16"
+      ]
+    },
+    {
+      "model": "Sonata",
+      "trim": "GL",
+      "tire_sizes": [
+        "P205/65R15"
+      ]
+    },
+    {
+      "model": "Sonata",
+      "trim": "GLS",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Sonata",
+      "trim": "LX",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Tiburon",
+      "trim": "GT",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "Tiburon",
+      "trim": "GT w/Ultra Sport Pkg.",
+      "tire_sizes": [
+        "215/45R17"
+      ]
+    },
+    {
+      "model": "Tiburon",
+      "trim": "SE",
+      "tire_sizes": [
+        "215/45R17"
+      ]
+    },
+    {
+      "model": "Tucson",
+      "trim": "GL",
+      "tire_sizes": [
+        "P215/65R16"
+      ]
+    },
+    {
+      "model": "Tucson",
+      "trim": "GLS",
+      "tire_sizes": [
+        "P235/60R16"
+      ]
+    },
+    {
+      "model": "XG350",
+      "trim": "Base",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T21:01:42.907343",
+    "total_vehicles": 18,
+    "total_tire_sizes": 11
+  }
+}

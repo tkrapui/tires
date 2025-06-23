@@ -1,0 +1,37 @@
+{
+  "brand": "Aston Martin",
+  "year": 2007,
+  "vehicles": [
+    {
+      "model": "DB9",
+      "trim": "Base",
+      "tire_sizes": [
+        "275/35R19",
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "DB9",
+      "trim": "Volante",
+      "tire_sizes": [
+        "275/35R19",
+        "235/40R19"
+      ]
+    },
+    {
+      "model": "V8",
+      "trim": "Vantage Base",
+      "tire_sizes": [
+        "235/45R18",
+        "275/40R18",
+        "235/40R19",
+        "275/35R19"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T17:19:44.449963",
+    "total_vehicles": 3,
+    "total_tire_sizes": 4
+  }
+}

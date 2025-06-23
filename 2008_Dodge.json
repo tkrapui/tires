@@ -1,0 +1,797 @@
+{
+  "brand": "Dodge",
+  "year": 2008,
+  "vehicles": [
+    {
+      "model": "Avenger",
+      "trim": "R/T (AWD)",
+      "tire_sizes": [
+        "P215/55R18"
+      ]
+    },
+    {
+      "model": "Avenger",
+      "trim": "R/T (FWD)",
+      "tire_sizes": [
+        "P215/55R18"
+      ]
+    },
+    {
+      "model": "Avenger",
+      "trim": "SE",
+      "tire_sizes": [
+        "P215/65R16"
+      ]
+    },
+    {
+      "model": "Avenger",
+      "trim": "SXT",
+      "tire_sizes": [
+        "P215/60R17"
+      ]
+    },
+    {
+      "model": "Avenger",
+      "trim": "SXT V6 w/Sport Appearance Pkg.",
+      "tire_sizes": [
+        "P215/55R18"
+      ]
+    },
+    {
+      "model": "Caliber",
+      "trim": "R/T",
+      "tire_sizes": [
+        "P215/55R18"
+      ]
+    },
+    {
+      "model": "Caliber",
+      "trim": "SE",
+      "tire_sizes": [
+        "P205/70R15"
+      ]
+    },
+    {
+      "model": "Caliber",
+      "trim": "SRT-4",
+      "tire_sizes": [
+        "225/45R19"
+      ]
+    },
+    {
+      "model": "Caliber",
+      "trim": "SXT",
+      "tire_sizes": [
+        "P215/60R17"
+      ]
+    },
+    {
+      "model": "Caliber",
+      "trim": "SXT Sport",
+      "tire_sizes": [
+        "P215/60R17"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "SRT8",
+      "tire_sizes": [
+        "255/45R20",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Challenger",
+      "trim": "SRT8 (All-Season Tire)",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "R/T (AWD)",
+      "tire_sizes": [
+        "P225/60R18"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "R/T (RWD)",
+      "tire_sizes": [
+        "P225/60R18"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "R/T (RWD) w/Performance Pkg.",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "R/T Daytona",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SE",
+      "tire_sizes": [
+        "P215/65R17"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SE Plus",
+      "tire_sizes": [
+        "P215/65R17"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SRT8",
+      "tire_sizes": [
+        "255/45R20",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SXT",
+      "tire_sizes": [
+        "P225/60R18",
+        "P215/65R17"
+      ]
+    },
+    {
+      "model": "Charger",
+      "trim": "SXT (AWD)",
+      "tire_sizes": [
+        "P225/60R18"
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "SLT 4x2",
+      "tire_sizes": [
+        "P245/70R16",
+        "P265/70R16",
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "SLT 4x4",
+      "tire_sizes": [
+        "P245/70R16",
+        "P265/70R16",
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "ST 4x2",
+      "tire_sizes": [
+        "P245/70R16"
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "ST 4x4",
+      "tire_sizes": [
+        "P245/70R16"
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "SXT 4x2",
+      "tire_sizes": [
+        "P245/70R16"
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "SXT 4x4",
+      "tire_sizes": [
+        "P245/70R16"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "SLT 4x2",
+      "tire_sizes": [
+        "P265/50R20",
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "SLT 4x4",
+      "tire_sizes": [
+        "P265/50R20",
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "Durango",
+      "trim": "SLT Plus",
+      "tire_sizes": [
+        "P265/50R20",
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Caravan C/V Cargo",
+      "tire_sizes": [
+        "P225/65R17",
+        "225/65R16"
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Caravan SE",
+      "tire_sizes": [
+        "225/65R16"
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Caravan SXT",
+      "tire_sizes": [
+        "P225/65R17",
+        "225/65R16"
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Caravan Value Package",
+      "tire_sizes": [
+        "225/65R16"
+      ]
+    },
+    {
+      "model": "Magnum",
+      "trim": "R/T (AWD)",
+      "tire_sizes": [
+        "P225/60R18"
+      ]
+    },
+    {
+      "model": "Magnum",
+      "trim": "R/T (RWD)",
+      "tire_sizes": [
+        "P225/60R18"
+      ]
+    },
+    {
+      "model": "Magnum",
+      "trim": "R/T (RWD) w/Performance Pkg.",
+      "tire_sizes": [
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Magnum",
+      "trim": "SE",
+      "tire_sizes": [
+        "P215/65R17"
+      ]
+    },
+    {
+      "model": "Magnum",
+      "trim": "SRT8",
+      "tire_sizes": [
+        "255/45R20",
+        "245/45R20"
+      ]
+    },
+    {
+      "model": "Magnum",
+      "trim": "SXT (AWD)",
+      "tire_sizes": [
+        "P225/60R18"
+      ]
+    },
+    {
+      "model": "Magnum",
+      "trim": "SXT (RWD)",
+      "tire_sizes": [
+        "P225/60R18",
+        "P215/65R17"
+      ]
+    },
+    {
+      "model": "Nitro",
+      "trim": "R/T",
+      "tire_sizes": [
+        "P245/50R20"
+      ]
+    },
+    {
+      "model": "Nitro",
+      "trim": "SE",
+      "tire_sizes": [
+        "P225/75R16"
+      ]
+    },
+    {
+      "model": "Nitro",
+      "trim": "SLT",
+      "tire_sizes": [
+        "P235/65R17",
+        "P245/50R20"
+      ]
+    },
+    {
+      "model": "Nitro",
+      "trim": "SXT (B Pkg.)",
+      "tire_sizes": [
+        "P225/75R16"
+      ]
+    },
+    {
+      "model": "Nitro",
+      "trim": "SXT (C Pkg.)",
+      "tire_sizes": [
+        "P235/65R17",
+        "P225/75R16"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "1500 Laramie 4x2 Mega Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "1500 Laramie 4x2 Quad Cab",
+      "tire_sizes": [
+        "P275/60R20"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "1500 Laramie 4x4 Mega Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "1500 Laramie 4x4 Quad Cab",
+      "tire_sizes": [
+        "P275/60R20"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "1500 SLT 4x2 Mega Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "1500 SLT 4x2 Quad Cab Long Bed",
+      "tire_sizes": [
+        "P265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "1500 SLT 4x2 Quad Cab Short Bed",
+      "tire_sizes": [
+        "P275/60R20"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "1500 SLT 4x2 Reg. Cab",
+      "tire_sizes": [
+        "P265/70R17",
+        "P275/60R20"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "1500 SLT 4x4 Mega Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "1500 SLT 4x4 Quad Cab Long Bed",
+      "tire_sizes": [
+        "P265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "1500 SLT 4x4 Quad Cab Short Bed",
+      "tire_sizes": [
+        "P275/60R20"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "1500 SLT 4x4 Reg. Cab",
+      "tire_sizes": [
+        "P265/70R17",
+        "P275/60R20"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "1500 ST 4x2 Quad Cab",
+      "tire_sizes": [
+        "P265/70R17",
+        "P245/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "1500 ST 4x2 Reg. Cab",
+      "tire_sizes": [
+        "P265/70R17",
+        "P245/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "1500 ST 4x4 Quad Cab",
+      "tire_sizes": [
+        "P265/70R17",
+        "P245/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "1500 ST 4x4 Reg. Cab",
+      "tire_sizes": [
+        "P265/70R17",
+        "P245/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 Laramie 4x2 Mega Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 Laramie 4x2 Quad Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 Laramie 4x4 Mega Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 Laramie 4x4 Quad Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 Power Wagon SLT 4x4 Quad Cab",
+      "tire_sizes": [
+        "285/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 Power Wagon SLT 4x4 Reg. Cab",
+      "tire_sizes": [
+        "285/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 SLT 4x2 Mega Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 SLT 4x2 Quad Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 SLT 4x2 Reg. Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 SLT 4x4 Mega Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 SLT 4x4 Quad Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 SLT 4x4 Reg. Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 ST 4x2 Quad Cab",
+      "tire_sizes": [
+        "245/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 ST 4x2 Reg. Cab",
+      "tire_sizes": [
+        "245/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 ST 4x4 Quad Cab",
+      "tire_sizes": [
+        "245/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 ST 4x4 Reg. Cab",
+      "tire_sizes": [
+        "245/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "2500 SXT Base",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 Laramie 4x2 Mega Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 Laramie 4x2 Quad Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 Laramie 4x2 Quad Cab (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 Laramie 4x4 Mega Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 Laramie 4x4 Quad Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 Laramie 4x4 Quad Cab (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 SLT 4x2 Mega Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 SLT 4x2 Quad Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 SLT 4x2 Quad Cab (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 SLT 4x2 Reg. Cab (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 SLT 4x4 Mega Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 SLT 4x4 Quad Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 SLT 4x4 Quad Cab (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 SLT 4x4 Reg. Cab (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 ST 4x2 Quad Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 ST 4x2 Quad Cab (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 ST 4x2 Reg. Cab (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 ST 4x4 Quad Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 ST 4x4 Quad Cab (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 ST 4x4 Reg. Cab (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 SXT 4x2 Quad Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 SXT 4x2 Quad Cab (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 SXT 4x2 Reg. Cab (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 SXT 4x4 Quad Cab",
+      "tire_sizes": [
+        "265/70R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 SXT 4x4 Quad Cab (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Ram",
+      "trim": "3500 SXT 4x4 Reg. Cab (DRW)",
+      "tire_sizes": [
+        "235/80R17"
+      ]
+    },
+    {
+      "model": "Sprinter",
+      "trim": "2500 (Alloy Wheels)",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "Sprinter",
+      "trim": "2500 (Steel Wheels)",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "Sprinter",
+      "trim": "3500 (DRW)",
+      "tire_sizes": [
+        "215/85R16"
+      ]
+    },
+    {
+      "model": "Viper",
+      "trim": "SRT-10",
+      "tire_sizes": [
+        "345/30R19",
+        "275/35R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T23:03:40.289696",
+    "total_vehicles": 109,
+    "total_tire_sizes": 29
+  }
+}

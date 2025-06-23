@@ -1,0 +1,65 @@
+{
+  "brand": "Bentley",
+  "year": 2006,
+  "vehicles": [
+    {
+      "model": "Arnage",
+      "trim": "R",
+      "tire_sizes": [
+        "255/50R18",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Arnage",
+      "trim": "R Blue Train",
+      "tire_sizes": [
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Arnage",
+      "trim": "RL",
+      "tire_sizes": [
+        "255/50R18",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Arnage",
+      "trim": "T",
+      "tire_sizes": [
+        "255/50R18",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Azure",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "Flying Spur",
+      "tire_sizes": [
+        "275/35R20",
+        "275/40R19"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GT",
+      "tire_sizes": [
+        "275/35R20",
+        "275/40R19"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T15:44:52.916314",
+    "total_vehicles": 7,
+    "total_tire_sizes": 4
+  }
+}

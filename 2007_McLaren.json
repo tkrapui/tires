@@ -1,0 +1,29 @@
+{
+  "brand": "McLaren",
+  "year": 2007,
+  "vehicles": [
+    {
+      "model": "Mercedes-Benz",
+      "trim": "SLR 722",
+      "tire_sizes": [
+        "255/35R19",
+        "295/30R19"
+      ]
+    },
+    {
+      "model": "Mercedes-Benz",
+      "trim": "SLR Base",
+      "tire_sizes": [
+        "255/35R19",
+        "245/40R18",
+        "295/30R19",
+        "295/35R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T17:19:09.873558",
+    "total_vehicles": 2,
+    "total_tire_sizes": 4
+  }
+}

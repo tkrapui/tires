@@ -1,0 +1,91 @@
+{
+  "brand": "Lincoln",
+  "year": 2008,
+  "vehicles": [
+    {
+      "model": "MKX",
+      "trim": "Base",
+      "tire_sizes": [
+        "P245/60R18",
+        "P245/50R20"
+      ]
+    },
+    {
+      "model": "MKZ",
+      "trim": "Base",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "Mark",
+      "trim": "LT (20 Inch Option)",
+      "tire_sizes": [
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "Mark",
+      "trim": "LT 4x2",
+      "tire_sizes": [
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "Mark",
+      "trim": "LT 4x4",
+      "tire_sizes": [
+        "P275/65R18"
+      ]
+    },
+    {
+      "model": "Navigator",
+      "trim": "Base",
+      "tire_sizes": [
+        "P275/55R20",
+        "P255/70R18"
+      ]
+    },
+    {
+      "model": "Navigator",
+      "trim": "L",
+      "tire_sizes": [
+        "P275/55R20",
+        "P255/70R18"
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "Car Executive",
+      "tire_sizes": [
+        "P225/60R17"
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "Car Executive L",
+      "tire_sizes": [
+        "P225/60R17"
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "Car Signature L",
+      "tire_sizes": [
+        "P225/60R17"
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "Car Signature Limited",
+      "tire_sizes": [
+        "P225/60R17"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T23:15:39.428414",
+    "total_vehicles": 11,
+    "total_tire_sizes": 8
+  }
+}

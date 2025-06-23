@@ -1,0 +1,71 @@
+{
+  "brand": "Land Rover",
+  "year": 2008,
+  "vehicles": [
+    {
+      "model": "LR2",
+      "trim": "HSE",
+      "tire_sizes": [
+        "235/60R18",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "LR2",
+      "trim": "SE",
+      "tire_sizes": [
+        "235/60R18",
+        "235/55R19"
+      ]
+    },
+    {
+      "model": "LR3",
+      "trim": "HSE",
+      "tire_sizes": [
+        "255/55R19"
+      ]
+    },
+    {
+      "model": "LR3",
+      "trim": "SE",
+      "tire_sizes": [
+        "255/60R18"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover HSE",
+      "tire_sizes": [
+        "255/50R20",
+        "255/55R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport HSE",
+      "tire_sizes": [
+        "275/40R20",
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Sport Supercharged",
+      "tire_sizes": [
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Range",
+      "trim": "Rover Supercharged",
+      "tire_sizes": [
+        "255/50R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T23:27:12.895205",
+    "total_vehicles": 8,
+    "total_tire_sizes": 7
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "brand": "Bentley",
+  "year": 2005,
+  "vehicles": [
+    {
+      "model": "Arnage",
+      "trim": "R",
+      "tire_sizes": [
+        "255/50R18",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Arnage",
+      "trim": "RL",
+      "tire_sizes": [
+        "255/50R18",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Arnage",
+      "trim": "T",
+      "tire_sizes": [
+        "255/50R18",
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Arnage",
+      "trim": "T T-24 Mulliner",
+      "tire_sizes": [
+        "255/45R19"
+      ]
+    },
+    {
+      "model": "Continental",
+      "trim": "GT",
+      "tire_sizes": [
+        "275/40R19",
+        "275/35R20"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T21:18:59.276420",
+    "total_vehicles": 5,
+    "total_tire_sizes": 4
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "brand": "Aston Martin",
+  "year": 2005,
+  "vehicles": [
+    {
+      "model": "DB9",
+      "trim": "Base SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 235/40ZR19 92(Y) 8.5J 26.40 * * Calculated based on size. 36 psi Search Tires Rear: 275/35ZR19 96(Y) 9.5J 26.58 * * Calculated based on size. 38 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    },
+    {
+      "model": "DB9",
+      "trim": "Volante SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 235/40ZR19 92(Y) 8.5J 26.40 * * Calculated based on size. 36 psi Search Tires Rear: 275/35ZR19 96(Y) 9.5J 26.58 * * Calculated based on size. 38 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    },
+    {
+      "model": "Vanquish",
+      "trim": "Base SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 255/40ZR19 9J 27.03 * * Calculated based on size. 38 psi Search Tires Rear: 285/40ZR19 10J 27.98 * * Calculated based on size. 38 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    },
+    {
+      "model": "Vanquish",
+      "trim": "S SIZE LOAD SPEED RIM WIDTH OD INFLATION Front: 255/40ZR19 9J 27.03 * * Calculated based on size. 38 psi Search Tires Rear: 285/40ZR19 10J 27.98 * * Calculated based on size. 38 psi Search Tires Fitment Details Search Both",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T21:21:10.989385",
+    "total_vehicles": 4,
+    "total_tire_sizes": 0
+  }
+}

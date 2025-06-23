@@ -1,0 +1,127 @@
+{
+  "brand": "Jeep",
+  "year": 2006,
+  "vehicles": [
+    {
+      "model": "Commander",
+      "trim": "Base",
+      "tire_sizes": [
+        "P245/65R17"
+      ]
+    },
+    {
+      "model": "Commander",
+      "trim": "Limited",
+      "tire_sizes": [
+        "P245/65R17"
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee Laredo",
+      "tire_sizes": [
+        "P245/65R17",
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee Limited",
+      "tire_sizes": [
+        "P245/65R17",
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee Overland",
+      "tire_sizes": [
+        "P245/65R17",
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee SRT8",
+      "tire_sizes": [
+        "255/45R20",
+        "285/40R20"
+      ]
+    },
+    {
+      "model": "Liberty",
+      "trim": "Limited",
+      "tire_sizes": [
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Liberty",
+      "trim": "Limited CRD",
+      "tire_sizes": [
+        "P225/75R16"
+      ]
+    },
+    {
+      "model": "Liberty",
+      "trim": "Renegade",
+      "tire_sizes": [
+        "P235/70R16",
+        "P225/75R16"
+      ]
+    },
+    {
+      "model": "Liberty",
+      "trim": "Sport",
+      "tire_sizes": [
+        "P235/70R16",
+        "P225/75R16"
+      ]
+    },
+    {
+      "model": "Liberty",
+      "trim": "Sport CRD",
+      "tire_sizes": [
+        "P225/75R16"
+      ]
+    },
+    {
+      "model": "TJ",
+      "trim": "Rubicon",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "TJ",
+      "trim": "SE",
+      "tire_sizes": [
+        "P215/75R15"
+      ]
+    },
+    {
+      "model": "TJ",
+      "trim": "Sport",
+      "tire_sizes": [
+        "P225/75R15"
+      ]
+    },
+    {
+      "model": "TJ",
+      "trim": "Unlimited Rubicon",
+      "tire_sizes": [
+        "245/75R16"
+      ]
+    },
+    {
+      "model": "TJ",
+      "trim": "Unlimted",
+      "tire_sizes": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T15:28:02.773955",
+    "total_vehicles": 16,
+    "total_tire_sizes": 9
+  }
+}

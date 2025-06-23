@@ -1,0 +1,236 @@
+{
+  "brand": "Honda",
+  "year": 2008,
+  "vehicles": [
+    {
+      "model": "Accord",
+      "trim": "EX",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "EX-L",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "EX-L Coupe V6",
+      "tire_sizes": [
+        "P235/45R18"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "LX Coupe",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "LX Sedan",
+      "tire_sizes": [
+        "P215/60R16"
+      ]
+    },
+    {
+      "model": "CR-V",
+      "trim": "EX",
+      "tire_sizes": [
+        "225/65R17"
+      ]
+    },
+    {
+      "model": "CR-V",
+      "trim": "EX-L",
+      "tire_sizes": [
+        "225/65R17"
+      ]
+    },
+    {
+      "model": "CR-V",
+      "trim": "LX",
+      "tire_sizes": [
+        "225/65R17"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "DX",
+      "tire_sizes": [
+        "P195/65R15"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "DX-G",
+      "tire_sizes": [
+        "P195/65R15"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "EX",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "Hybrid",
+      "tire_sizes": [
+        "P195/65R15"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "LX",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "Si",
+      "tire_sizes": [
+        "P215/45R17"
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "Si (Summer Tires)",
+      "tire_sizes": [
+        "215/45R17"
+      ]
+    },
+    {
+      "model": "Element",
+      "trim": "EX",
+      "tire_sizes": [
+        "P215/70R16"
+      ]
+    },
+    {
+      "model": "Element",
+      "trim": "LX",
+      "tire_sizes": [
+        "P215/70R16"
+      ]
+    },
+    {
+      "model": "Element",
+      "trim": "SC",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    },
+    {
+      "model": "Fit",
+      "trim": "DX",
+      "tire_sizes": [
+        "P175/65R14"
+      ]
+    },
+    {
+      "model": "Fit",
+      "trim": "LX",
+      "tire_sizes": [
+        "P175/65R14"
+      ]
+    },
+    {
+      "model": "Fit",
+      "trim": "Sport",
+      "tire_sizes": [
+        "P195/55R15"
+      ]
+    },
+    {
+      "model": "Odyssey",
+      "trim": "DX",
+      "tire_sizes": [
+        "235/65R16"
+      ]
+    },
+    {
+      "model": "Odyssey",
+      "trim": "EX",
+      "tire_sizes": [
+        "235/65R16"
+      ]
+    },
+    {
+      "model": "Odyssey",
+      "trim": "EX-L",
+      "tire_sizes": [
+        "235/65R16"
+      ]
+    },
+    {
+      "model": "Odyssey",
+      "trim": "LX",
+      "tire_sizes": [
+        "235/65R16"
+      ]
+    },
+    {
+      "model": "Odyssey",
+      "trim": "Touring",
+      "tire_sizes": [
+        "235/60R17"
+      ]
+    },
+    {
+      "model": "Pilot",
+      "trim": "EX-L",
+      "tire_sizes": [
+        "P235/70R16"
+      ]
+    },
+    {
+      "model": "Pilot",
+      "trim": "LX",
+      "tire_sizes": [
+        "P235/70R16"
+      ]
+    },
+    {
+      "model": "Pilot",
+      "trim": "SE-L",
+      "tire_sizes": [
+        "P235/70R16"
+      ]
+    },
+    {
+      "model": "Ridgeline",
+      "trim": "EX-L",
+      "tire_sizes": [
+        "P245/65R17"
+      ]
+    },
+    {
+      "model": "Ridgeline",
+      "trim": "LX",
+      "tire_sizes": [
+        "P245/65R17"
+      ]
+    },
+    {
+      "model": "S2000",
+      "trim": "Base",
+      "tire_sizes": [
+        "245/40R17",
+        "215/45R17"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T23:10:46.263872",
+    "total_vehicles": 32,
+    "total_tire_sizes": 17
+  }
+}

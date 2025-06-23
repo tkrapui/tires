@@ -1,0 +1,196 @@
+{
+  "brand": "Volvo",
+  "year": 2005,
+  "vehicles": [
+    {
+      "model": "S40",
+      "trim": "T5",
+      "tire_sizes": [
+        "205/50R17",
+        "215/45R18",
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "S40",
+      "trim": "T5 (AWD)",
+      "tire_sizes": [
+        "205/50R17",
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "S40",
+      "trim": "i",
+      "tire_sizes": [
+        "205/50R17",
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "2.4",
+      "tire_sizes": [
+        "195/65R15",
+        "215/55R16"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "2.5T",
+      "tire_sizes": [
+        "P235/45R17",
+        "215/55R16"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "2.5T AWD",
+      "tire_sizes": [
+        "P235/45R17",
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "R",
+      "tire_sizes": [
+        "235/40R18",
+        "235/45R17"
+      ]
+    },
+    {
+      "model": "S60",
+      "trim": "T5",
+      "tire_sizes": [
+        "P235/45R17",
+        "235/45R17"
+      ]
+    },
+    {
+      "model": "S80",
+      "trim": "2.5T",
+      "tire_sizes": [
+        "215/55R16",
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "S80",
+      "trim": "2.5T AWD",
+      "tire_sizes": [
+        "215/55R16",
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "S80",
+      "trim": "T6",
+      "tire_sizes": [
+        "225/50R17",
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "S80",
+      "trim": "T6 Premier",
+      "tire_sizes": [
+        "225/50R17",
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "V50",
+      "trim": "T5",
+      "tire_sizes": [
+        "205/50R17",
+        "215/45R18",
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "V50",
+      "trim": "T5 (AWD)",
+      "tire_sizes": [
+        "205/50R17",
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "V50",
+      "trim": "i",
+      "tire_sizes": [
+        "205/50R17",
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "V70",
+      "trim": "2.4",
+      "tire_sizes": [
+        "195/65R15",
+        "P235/45R17",
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "V70",
+      "trim": "2.5T",
+      "tire_sizes": [
+        "P235/45R17",
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "V70",
+      "trim": "R",
+      "tire_sizes": [
+        "235/45R17"
+      ]
+    },
+    {
+      "model": "V70",
+      "trim": "T5",
+      "tire_sizes": [
+        "P235/45R17",
+        "235/45R17"
+      ]
+    },
+    {
+      "model": "XC70",
+      "trim": "Base",
+      "tire_sizes": [
+        "215/65R16"
+      ]
+    },
+    {
+      "model": "XC90",
+      "trim": "2.5T",
+      "tire_sizes": [
+        "235/65R17",
+        "P235/60R18"
+      ]
+    },
+    {
+      "model": "XC90",
+      "trim": "T6",
+      "tire_sizes": [
+        "235/65R17",
+        "P235/60R18"
+      ]
+    },
+    {
+      "model": "XC90",
+      "trim": "V8",
+      "tire_sizes": [
+        "235/65R17",
+        "P235/60R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T21:15:51.998221",
+    "total_vehicles": 23,
+    "total_tire_sizes": 13
+  }
+}

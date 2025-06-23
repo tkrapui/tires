@@ -1,0 +1,176 @@
+{
+  "brand": "Mazda",
+  "year": 2008,
+  "vehicles": [
+    {
+      "model": "3",
+      "trim": "GS",
+      "tire_sizes": [
+        "P205/55R16",
+        "P195/65R15"
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "GT",
+      "tire_sizes": [
+        "P205/50R17"
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "GX",
+      "tire_sizes": [
+        "P205/55R16",
+        "P195/65R15"
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "speed",
+      "tire_sizes": [
+        "215/45R18"
+      ]
+    },
+    {
+      "model": "5",
+      "trim": "GS",
+      "tire_sizes": [
+        "P205/55R16"
+      ]
+    },
+    {
+      "model": "5",
+      "trim": "GT",
+      "tire_sizes": [
+        "205/50R17"
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "GS",
+      "tire_sizes": [
+        "P215/50R17"
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "GT",
+      "tire_sizes": [
+        "P215/50R17",
+        "215/45R18"
+      ]
+    },
+    {
+      "model": "B2300",
+      "trim": "Base",
+      "tire_sizes": [
+        "P225/70R15"
+      ]
+    },
+    {
+      "model": "B3000",
+      "trim": "Base",
+      "tire_sizes": [
+        "P235/75R15"
+      ]
+    },
+    {
+      "model": "B4000",
+      "trim": "DS",
+      "tire_sizes": [
+        "P235/75R15"
+      ]
+    },
+    {
+      "model": "B4000",
+      "trim": "SE",
+      "tire_sizes": [
+        "P255/70R16"
+      ]
+    },
+    {
+      "model": "CX-7",
+      "trim": "GS",
+      "tire_sizes": [
+        "P235/60R18"
+      ]
+    },
+    {
+      "model": "CX-7",
+      "trim": "GT",
+      "tire_sizes": [
+        "P235/60R18"
+      ]
+    },
+    {
+      "model": "CX-9",
+      "trim": "GS",
+      "tire_sizes": [
+        "P245/60R18"
+      ]
+    },
+    {
+      "model": "CX-9",
+      "trim": "GT",
+      "tire_sizes": [
+        "P245/50R20"
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata GS",
+      "tire_sizes": [
+        "205/45R17"
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata GT",
+      "tire_sizes": [
+        "205/45R17"
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata GX",
+      "tire_sizes": [
+        "205/50R16",
+        "205/45R17"
+      ]
+    },
+    {
+      "model": "RX-8",
+      "trim": "40th Anniversary Edition",
+      "tire_sizes": [
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "RX-8",
+      "trim": "GS",
+      "tire_sizes": [
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "RX-8",
+      "trim": "GT",
+      "tire_sizes": [
+        "225/45R18"
+      ]
+    },
+    {
+      "model": "Tribute",
+      "trim": "GX",
+      "tire_sizes": [
+        "P235/70R16"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T23:16:28.767263",
+    "total_vehicles": 23,
+    "total_tire_sizes": 16
+  }
+}

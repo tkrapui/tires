@@ -1,0 +1,175 @@
+{
+  "brand": "Volkswagen",
+  "year": 2007,
+  "vehicles": [
+    {
+      "model": "Beetle",
+      "trim": "2.5",
+      "tire_sizes": [
+        "205/55R16",
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "Beetle",
+      "trim": "2.5 Convertible",
+      "tire_sizes": [
+        "205/55R16",
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "Eos",
+      "trim": "2.0T",
+      "tire_sizes": [
+        "235/45R17",
+        "215/55R16",
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "Eos",
+      "trim": "3.2",
+      "tire_sizes": [
+        "235/45R17",
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "Eos",
+      "trim": "Base",
+      "tire_sizes": [
+        "215/55R16"
+      ]
+    },
+    {
+      "model": "GTI",
+      "trim": "Base",
+      "tire_sizes": [
+        "225/40R18",
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "GTI",
+      "trim": "Fahrenheit",
+      "tire_sizes": [
+        "225/40R18"
+      ]
+    },
+    {
+      "model": "Golf",
+      "trim": "City Base",
+      "tire_sizes": [
+        "195/65R15",
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "Jetta",
+      "trim": "2.0T",
+      "tire_sizes": [
+        "205/55R16",
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "Jetta",
+      "trim": "2.5",
+      "tire_sizes": [
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "Jetta",
+      "trim": "Base",
+      "tire_sizes": [
+        "195/65R15"
+      ]
+    },
+    {
+      "model": "Jetta",
+      "trim": "City Base",
+      "tire_sizes": [
+        "195/65R15",
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "Jetta",
+      "trim": "GLI",
+      "tire_sizes": [
+        "225/45R17"
+      ]
+    },
+    {
+      "model": "Jetta",
+      "trim": "GLI (Summer Tires)",
+      "tire_sizes": [
+        "225/40R18"
+      ]
+    },
+    {
+      "model": "Passat",
+      "trim": "2.0T",
+      "tire_sizes": [
+        "235/45R17",
+        "215/55R16",
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "Passat",
+      "trim": "3.6",
+      "tire_sizes": [
+        "235/45R17",
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "Passat",
+      "trim": "3.6 4Motion",
+      "tire_sizes": [
+        "235/45R17",
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "Rabbit",
+      "trim": "2.5",
+      "tire_sizes": [
+        "195/65R15",
+        "205/55R16"
+      ]
+    },
+    {
+      "model": "Touareg",
+      "trim": "TDI",
+      "tire_sizes": [
+        "255/55R18",
+        "275/45R19"
+      ]
+    },
+    {
+      "model": "Touareg",
+      "trim": "V6",
+      "tire_sizes": [
+        "275/45R19",
+        "255/60R17"
+      ]
+    },
+    {
+      "model": "Touareg",
+      "trim": "V8",
+      "tire_sizes": [
+        "255/55R18",
+        "275/45R19"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T17:14:26.086836",
+    "total_vehicles": 21,
+    "total_tire_sizes": 10
+  }
+}

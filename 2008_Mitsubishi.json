@@ -1,0 +1,116 @@
+{
+  "brand": "Mitsubishi",
+  "year": 2008,
+  "vehicles": [
+    {
+      "model": "Eclipse",
+      "trim": "GS",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "Eclipse",
+      "trim": "GT-P",
+      "tire_sizes": [
+        "P235/45R18"
+      ]
+    },
+    {
+      "model": "Eclipse",
+      "trim": "SE",
+      "tire_sizes": [
+        "P235/45R18"
+      ]
+    },
+    {
+      "model": "Eclipse",
+      "trim": "SE V6",
+      "tire_sizes": [
+        "P235/45R18"
+      ]
+    },
+    {
+      "model": "Eclipse",
+      "trim": "Spyder GS",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    },
+    {
+      "model": "Eclipse",
+      "trim": "Spyder GT-P",
+      "tire_sizes": [
+        "P235/45R18"
+      ]
+    },
+    {
+      "model": "Endeavor",
+      "trim": "SE",
+      "tire_sizes": [
+        "P235/65R17"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "DE",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "ES",
+      "tire_sizes": [
+        "P205/60R16"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "Evolution GSR",
+      "tire_sizes": [
+        "245/40R18"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "Evolution MR",
+      "tire_sizes": [
+        "245/40R18"
+      ]
+    },
+    {
+      "model": "Lancer",
+      "trim": "GTS",
+      "tire_sizes": [
+        "P215/45R18"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "ES",
+      "tire_sizes": [
+        "P215/70R16"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "LS",
+      "tire_sizes": [
+        "P215/70R16"
+      ]
+    },
+    {
+      "model": "Outlander",
+      "trim": "XLS",
+      "tire_sizes": [
+        "P225/55R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-21T23:18:54.206891",
+    "total_vehicles": 15,
+    "total_tire_sizes": 8
+  }
+}

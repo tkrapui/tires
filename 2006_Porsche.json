@@ -1,0 +1,199 @@
+{
+  "brand": "Porsche",
+  "year": 2006,
+  "vehicles": [
+    {
+      "model": "911",
+      "trim": "Carrera",
+      "tire_sizes": [
+        "295/30R19",
+        "305/30R19",
+        "235/40R18",
+        "265/40R18",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera (Winter Tires)",
+      "tire_sizes": [
+        "265/40R18",
+        "235/35R19",
+        "295/30R19",
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera 4",
+      "tire_sizes": [
+        "295/35R18",
+        "305/30R19",
+        "235/35R19",
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera 4S",
+      "tire_sizes": [
+        "305/30R19",
+        "235/35R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera S",
+      "tire_sizes": [
+        "305/30R19",
+        "235/35R19",
+        "295/30R19"
+      ]
+    },
+    {
+      "model": "911",
+      "trim": "Carrera S (Winter Tires)",
+      "tire_sizes": [
+        "235/35R19",
+        "295/30R19"
+      ]
+    },
+    {
+      "model": "Boxster",
+      "trim": "(Winter Tires)",
+      "tire_sizes": [
+        "205/55R17",
+        "235/50R17",
+        "255/40R18",
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "Boxster",
+      "trim": "Base",
+      "tire_sizes": [
+        "205/55R17",
+        "235/50R17"
+      ]
+    },
+    {
+      "model": "Boxster",
+      "trim": "S",
+      "tire_sizes": [
+        "265/35R19",
+        "265/40R18",
+        "235/35R19",
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "Boxster",
+      "trim": "S (Winter Tires)",
+      "tire_sizes": [
+        "255/40R18",
+        "235/40R18"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "(All-Season Tire)",
+      "tire_sizes": [
+        "255/55R18",
+        "235/65R17"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "(All-Terrain Tire)",
+      "tire_sizes": [
+        "235/60R18",
+        "235/65R17"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "(Winter Tires)",
+      "tire_sizes": [
+        "255/55R18",
+        "235/60R18",
+        "235/65R17",
+        "255/50R19"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "Base",
+      "tire_sizes": [
+        "255/55R18",
+        "275/45R19",
+        "235/65R17"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "S",
+      "tire_sizes": [
+        "255/55R18",
+        "275/45R19"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "S (All-Season Tire)",
+      "tire_sizes": [
+        "255/55R18"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "S (All-Terrain Tire)",
+      "tire_sizes": [
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "Turbo",
+      "tire_sizes": [
+        "255/55R18",
+        "275/45R19"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "Turbo (All-Season Tire)",
+      "tire_sizes": [
+        "255/55R18"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "Turbo (All-Terrain Tire)",
+      "tire_sizes": [
+        "235/60R18"
+      ]
+    },
+    {
+      "model": "Cayenne",
+      "trim": "Turbo S",
+      "tire_sizes": [
+        "275/40R20"
+      ]
+    },
+    {
+      "model": "Cayman",
+      "trim": "S",
+      "tire_sizes": [
+        "265/35R19",
+        "265/40R18",
+        "235/35R19",
+        "235/40R18"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T15:43:57.993434",
+    "total_vehicles": 22,
+    "total_tire_sizes": 16
+  }
+}

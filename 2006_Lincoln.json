@@ -1,0 +1,76 @@
+{
+  "brand": "Lincoln",
+  "year": 2006,
+  "vehicles": [
+    {
+      "model": "LS",
+      "trim": "Sport",
+      "tire_sizes": [
+        "P235/50R17"
+      ]
+    },
+    {
+      "model": "Mark",
+      "trim": "LT (20 Inch Option)",
+      "tire_sizes": [
+        "P275/55R20"
+      ]
+    },
+    {
+      "model": "Mark",
+      "trim": "LT 4x2",
+      "tire_sizes": [
+        "P265/60R18"
+      ]
+    },
+    {
+      "model": "Mark",
+      "trim": "LT 4x4",
+      "tire_sizes": [
+        "P275/65R18"
+      ]
+    },
+    {
+      "model": "Navigator",
+      "trim": "Luxury",
+      "tire_sizes": [
+        "P255/70R18",
+        "P275/65R18"
+      ]
+    },
+    {
+      "model": "Navigator",
+      "trim": "Ultimate",
+      "tire_sizes": [
+        "P255/70R18",
+        "P275/65R18"
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "Car Designer Series",
+      "tire_sizes": [
+        "P225/60R17"
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "Car Signature",
+      "tire_sizes": [
+        "P225/60R17"
+      ]
+    },
+    {
+      "model": "Zephyr",
+      "trim": "Base",
+      "tire_sizes": [
+        "P225/50R17"
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-22T15:29:41.100274",
+    "total_vehicles": 9,
+    "total_tire_sizes": 7
+  }
+}
