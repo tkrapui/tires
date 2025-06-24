@@ -12,6 +12,32 @@
         {
           "size": "275/35R21"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "20x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "20x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        }
       ]
     },
     {
@@ -20,6 +46,20 @@
       "tires": [
         {
           "size": "275/35R21"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "20"
+        },
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "20"
         }
       ]
     },
@@ -33,6 +73,32 @@
         {
           "size": "275/35R21"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "20x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "20x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        }
       ]
     },
     {
@@ -44,6 +110,32 @@
         },
         {
           "size": "275/35R21"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "20x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "20x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
         }
       ]
     },
@@ -57,6 +149,32 @@
         {
           "size": "275/35R21"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "20x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "20x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        }
       ]
     },
     {
@@ -65,6 +183,20 @@
       "tires": [
         {
           "size": "275/35R21"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "20"
+        },
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "20"
         }
       ]
     },
@@ -78,6 +210,32 @@
         {
           "size": "275/35R21"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "20x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "20x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        }
       ]
     },
     {
@@ -90,6 +248,32 @@
         {
           "size": "275/35R21"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "20x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "20x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        }
       ]
     },
     {
@@ -101,6 +285,32 @@
         },
         {
           "size": "275/35R21"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "20x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "20x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
         }
       ]
     },
@@ -117,6 +327,44 @@
         {
           "size": "275/35R21"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "20x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "19x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "20x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "19x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        }
       ]
     },
     {
@@ -128,6 +376,32 @@
         },
         {
           "size": "275/35R21"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "20x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "20x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "16"
         }
       ]
     },
@@ -141,6 +415,20 @@
         {
           "size": "265/40R21"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "20x9J",
+          "bolt_circle": "5-130mm",
+          "offset": "-13",
+          "center_hub": "16"
+        },
+        {
+          "rim_size": "21x9J",
+          "bolt_circle": "5-130mm",
+          "offset": "-13",
+          "center_hub": "16"
+        }
       ]
     },
     {
@@ -150,6 +438,14 @@
         {
           "size": "265/40R21"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9J",
+          "bolt_circle": "5-130mm",
+          "offset": "-13",
+          "center_hub": "20"
+        }
       ]
     }
   ],
@@ -158,6 +454,8 @@
     "total_vehicles": 13,
     "total_tire_sizes": 5,
     "migration_date": "2025-06-23T14:37:31.049127",
-    "migrated_to_new_format": true
+    "migrated_to_new_format": true,
+    "wheel_update_date": "2025-06-24T12:12:17.146215",
+    "total_wheel_sizes": 8
   }
 }

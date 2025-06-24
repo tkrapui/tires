@@ -1,0 +1,182 @@
+{
+  "brand": "Ferrari",
+  "year": 2022,
+  "vehicles": [
+    {
+      "model": "296",
+      "trim": "GTB Base",
+      "wheels": []
+    },
+    {
+      "model": "812",
+      "trim": "GTS Base",
+      "wheels": [
+        {
+          "rim_size": "20x10J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x11.5J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x10J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x11.5J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x11",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "F8",
+      "trim": "Spider Base",
+      "wheels": [
+        {
+          "rim_size": "20x9J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x11J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "F8",
+      "trim": "Tributo Base",
+      "wheels": [
+        {
+          "rim_size": "20x9J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x11J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Portofino",
+      "trim": "M Base",
+      "wheels": [
+        {
+          "rim_size": "20x8J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x10J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Roma",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "20x8J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x10J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "SF90",
+      "trim": "Spider Base",
+      "wheels": [
+        {
+          "rim_size": "20x9.5J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x11.5J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x11",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x9",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "SF90",
+      "trim": "Stradale Base",
+      "wheels": [
+        {
+          "rim_size": "20x9.5J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x11.5J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x11",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x9",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-24T10:11:53.937028",
+    "total_vehicles": 8,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 8,
+    "vehicles_with_wheels": 7,
+    "wheel_coverage": 0.875
+  }
+}

@@ -9,6 +9,14 @@
         {
           "size": "215/45R17"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
       ]
     },
     {
@@ -17,6 +25,14 @@
       "tires": [
         {
           "size": "215/45R17"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
         }
       ]
     },
@@ -27,6 +43,14 @@
         {
           "size": "P225/55R17"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
       ]
     },
     {
@@ -35,6 +59,14 @@
       "tires": [
         {
           "size": "P225/55R17"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
         }
       ]
     },
@@ -45,6 +77,14 @@
         {
           "size": "P225/55R17"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
       ]
     },
     {
@@ -53,6 +93,14 @@
       "tires": [
         {
           "size": "P225/55R17"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
         }
       ]
     },
@@ -63,6 +111,14 @@
         {
           "size": "P225/55R17"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
       ]
     },
     {
@@ -71,6 +127,14 @@
       "tires": [
         {
           "size": "P225/55R17"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
         }
       ]
     },
@@ -81,6 +145,14 @@
         {
           "size": "P225/55R17"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
       ]
     },
     {
@@ -89,6 +161,14 @@
       "tires": [
         {
           "size": "P225/55R17"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
         }
       ]
     },
@@ -99,6 +179,14 @@
         {
           "size": "P225/55R18"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
       ]
     },
     {
@@ -108,6 +196,14 @@
         {
           "size": "P225/55R18"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
       ]
     },
     {
@@ -116,6 +212,14 @@
       "tires": [
         {
           "size": "P225/60R17"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
         }
       ]
     },
@@ -126,6 +230,14 @@
         {
           "size": "P225/60R17"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
       ]
     },
     {
@@ -134,6 +246,14 @@
       "tires": [
         {
           "size": "P225/55R18"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
         }
       ]
     },
@@ -144,6 +264,14 @@
         {
           "size": "P225/60R17"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
       ]
     },
     {
@@ -152,6 +280,20 @@
       "tires": [
         {
           "size": "P205/55R16"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        },
+        {
+          "rim_size": "16x6.5J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
         }
       ]
     },
@@ -162,6 +304,14 @@
         {
           "size": "205/50R17"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
       ]
     },
     {
@@ -170,6 +320,20 @@
       "tires": [
         {
           "size": "P225/40R18"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        },
+        {
+          "rim_size": "18x7.5J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
         }
       ]
     },
@@ -180,6 +344,20 @@
         {
           "size": "P205/55R16"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        },
+        {
+          "rim_size": "16x6.5J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
       ]
     },
     {
@@ -189,6 +367,13 @@
         {
           "size": "225/55R17"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
       ]
     },
     {
@@ -197,6 +382,18 @@
       "tires": [
         {
           "size": "225/50R18"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "18x7.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
         }
       ]
     },
@@ -207,6 +404,18 @@
         {
           "size": "225/50R18"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "18x7.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
       ]
     },
     {
@@ -215,6 +424,13 @@
       "tires": [
         {
           "size": "225/55R17"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
         }
       ]
     },
@@ -225,6 +441,18 @@
         {
           "size": "225/50R18"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "18x7.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
       ]
     },
     {
@@ -233,6 +461,18 @@
       "tires": [
         {
           "size": "225/55R17"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
         }
       ]
     },
@@ -243,6 +483,13 @@
         {
           "size": "225/65R17"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
       ]
     },
     {
@@ -251,6 +498,13 @@
       "tires": [
         {
           "size": "225/60R18"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
         }
       ]
     },
@@ -261,6 +515,13 @@
         {
           "size": "225/60R18"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
       ]
     },
     {
@@ -269,6 +530,13 @@
       "tires": [
         {
           "size": "225/65R17"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
         }
       ]
     },
@@ -279,6 +547,13 @@
         {
           "size": "225/60R18"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
       ]
     },
     {
@@ -287,6 +562,13 @@
       "tires": [
         {
           "size": "225/60R18"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
         }
       ]
     },
@@ -297,6 +579,13 @@
         {
           "size": "225/65R17"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
       ]
     },
     {
@@ -305,6 +594,13 @@
       "tires": [
         {
           "size": "235/45R17"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x8J",
+          "offset": "-11",
+          "center_hub": "14.3"
         }
       ]
     },
@@ -315,6 +611,18 @@
         {
           "size": "245/40R18"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x8.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "18x8",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
       ]
     },
     {
@@ -323,6 +631,18 @@
       "tires": [
         {
           "size": "245/40R18"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x8.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "18x8",
+          "offset": "-11",
+          "center_hub": "14.3"
         }
       ]
     },
@@ -333,6 +653,18 @@
         {
           "size": "245/40R18"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x8.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "18x8",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
       ]
     },
     {
@@ -341,6 +673,13 @@
       "tires": [
         {
           "size": "235/45R17"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "17x8J",
+          "offset": "-11",
+          "center_hub": "14.3"
         }
       ]
     },
@@ -351,6 +690,18 @@
         {
           "size": "245/40R18"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x8.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "18x8",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
       ]
     }
   ],
@@ -359,6 +710,8 @@
     "total_vehicles": 39,
     "total_tire_sizes": 13,
     "migration_date": "2025-06-23T14:37:31.645360",
-    "migrated_to_new_format": true
+    "migrated_to_new_format": true,
+    "wheel_update_date": "2025-06-24T15:45:31.466550",
+    "total_wheel_sizes": 11
   }
 }

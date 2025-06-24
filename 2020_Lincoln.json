@@ -131,6 +131,8 @@
     "total_vehicles": 11,
     "total_tire_sizes": 14,
     "migration_date": "2025-06-23T14:37:31.114623",
-    "migrated_to_new_format": true
+    "migrated_to_new_format": true,
+    "wheel_update_date": "2025-06-23T20:28:01.515370",
+    "total_wheel_sizes": 0
   }
 }

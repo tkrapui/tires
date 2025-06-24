@@ -1,0 +1,461 @@
+{
+  "brand": "Lamborghini",
+  "year": 2022,
+  "vehicles": [
+    {
+      "model": "Aventador",
+      "trim": "LP780-4 Ultimae (Center Lock)",
+      "wheels": [
+        {
+          "rim_size": "20x9J",
+          "position": "front",
+          "offset": "-4",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "21x13J",
+          "position": "rear",
+          "offset": "-4",
+          "center_hub": "22"
+        }
+      ]
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO (Center Lock)",
+      "wheels": [
+        {
+          "rim_size": "20x8.5J",
+          "position": "front",
+          "offset": "+42",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x11J",
+          "position": "rear",
+          "offset": "+42",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x8",
+          "offset": "+42",
+          "center_hub": "22"
+        }
+      ]
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO (RWD)(Steel Bolts)",
+      "wheels": [
+        {
+          "rim_size": "19x8.5J",
+          "position": "front",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "19x11J",
+          "position": "rear",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "position": "front",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x11J",
+          "position": "rear",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "position": "front",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "19x11J",
+          "position": "rear",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "19x8",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        }
+      ]
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO (RWD)(Titanium Bolts)",
+      "wheels": [
+        {
+          "rim_size": "20x8.5J",
+          "position": "front",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x11J",
+          "position": "rear",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        }
+      ]
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO (Steel Bolts)",
+      "wheels": [
+        {
+          "rim_size": "20x8.5J",
+          "position": "front",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x11J",
+          "position": "rear",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        }
+      ]
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO (Titanium Bolts)",
+      "wheels": [
+        {
+          "rim_size": "20x8.5J",
+          "position": "front",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x11J",
+          "position": "rear",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        }
+      ]
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO Spyder (Center Lock)",
+      "wheels": [
+        {
+          "rim_size": "20x8.5J",
+          "position": "front",
+          "offset": "+42",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x11J",
+          "position": "rear",
+          "offset": "+42",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x8",
+          "offset": "+42",
+          "center_hub": "22"
+        }
+      ]
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO Spyder (RWD)(Steel Bolts)",
+      "wheels": [
+        {
+          "rim_size": "19x8.5J",
+          "position": "front",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "19x11J",
+          "position": "rear",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "position": "front",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x11J",
+          "position": "rear",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "position": "front",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "19x11J",
+          "position": "rear",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "19x8",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        }
+      ]
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO Spyder (RWD)(Titanium Bolts)",
+      "wheels": [
+        {
+          "rim_size": "20x8.5J",
+          "position": "front",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x11J",
+          "position": "rear",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        }
+      ]
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO Spyder (Steel Bolts)",
+      "wheels": [
+        {
+          "rim_size": "20x8.5J",
+          "position": "front",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x11J",
+          "position": "rear",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        }
+      ]
+    },
+    {
+      "model": "Huracan",
+      "trim": "EVO Spyder (Titanium Bolts)",
+      "wheels": [
+        {
+          "rim_size": "20x8.5J",
+          "position": "front",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x11J",
+          "position": "rear",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "22"
+        }
+      ]
+    },
+    {
+      "model": "Huracan",
+      "trim": "STO (Center Lock)",
+      "wheels": [
+        {
+          "rim_size": "20x8.5J",
+          "position": "front",
+          "offset": "+42",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x11J",
+          "position": "rear",
+          "offset": "+42",
+          "center_hub": "22"
+        },
+        {
+          "rim_size": "20x8",
+          "offset": "+42",
+          "center_hub": "22"
+        }
+      ]
+    },
+    {
+      "model": "Urus",
+      "trim": "(22 Inch Option)",
+      "wheels": [
+        {
+          "rim_size": "22x10J",
+          "position": "front",
+          "bolt_circle": "5-130mm",
+          "offset": "-13",
+          "center_hub": "71.5"
+        },
+        {
+          "rim_size": "22x11.5J",
+          "position": "rear",
+          "bolt_circle": "5-130mm",
+          "offset": "-13",
+          "center_hub": "71.5"
+        },
+        {
+          "rim_size": "22x11",
+          "bolt_circle": "5-130mm",
+          "offset": "-13",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Urus",
+      "trim": "(23 Inch Option)",
+      "wheels": [
+        {
+          "rim_size": "23x10J",
+          "position": "front",
+          "bolt_circle": "5-130mm",
+          "offset": "-13",
+          "center_hub": "71.5"
+        },
+        {
+          "rim_size": "23x11.5J",
+          "position": "rear",
+          "bolt_circle": "5-130mm",
+          "offset": "-13",
+          "center_hub": "71.5"
+        },
+        {
+          "rim_size": "23x11",
+          "bolt_circle": "5-130mm",
+          "offset": "-13",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Urus",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "21x9.5J",
+          "position": "front",
+          "bolt_circle": "5-130mm",
+          "offset": "-13",
+          "center_hub": "71.5"
+        },
+        {
+          "rim_size": "21x10.5J",
+          "position": "rear",
+          "bolt_circle": "5-130mm",
+          "offset": "-13",
+          "center_hub": "71.5"
+        },
+        {
+          "rim_size": "21x10",
+          "bolt_circle": "5-130mm",
+          "offset": "-13",
+          "center_hub": "71.5"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-130mm",
+          "offset": "-13",
+          "center_hub": "71.5"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-24T10:35:27.368236",
+    "total_vehicles": 15,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 21,
+    "vehicles_with_wheels": 15,
+    "wheel_coverage": 1.0
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "brand": "Karma",
+  "year": 2022,
+  "vehicles": [
+    {
+      "model": "Karma",
+      "trim": "GS-6 Base",
+      "wheels": [
+        {
+          "rim_size": "21x8.5J",
+          "position": "front",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "21x9J",
+          "position": "rear",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "21x8.5J",
+          "position": "front",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "21x9J",
+          "position": "rear",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "22x8.5J",
+          "position": "front",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "position": "rear",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "22x8",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "21x8",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        }
+      ]
+    },
+    {
+      "model": "Karma",
+      "trim": "GS-6 Luxury",
+      "wheels": [
+        {
+          "rim_size": "21x8.5J",
+          "position": "front",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "21x9J",
+          "position": "rear",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "21x8.5J",
+          "position": "front",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "21x9J",
+          "position": "rear",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "22x8.5J",
+          "position": "front",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "position": "rear",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "22x8",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "21x8",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        }
+      ]
+    },
+    {
+      "model": "Karma",
+      "trim": "GS-6 Sport",
+      "wheels": [
+        {
+          "rim_size": "22x8.5J",
+          "position": "front",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "position": "rear",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "21x8.5J",
+          "position": "front",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "21x9J",
+          "position": "rear",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "21x8.5J",
+          "position": "front",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "21x9J",
+          "position": "rear",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "22x8",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        },
+        {
+          "rim_size": "21x8",
+          "bolt_circle": "5-130mm",
+          "offset": "-6",
+          "center_hub": "67.1"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-24T10:31:54.909179",
+    "total_vehicles": 3,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 7,
+    "vehicles_with_wheels": 3,
+    "wheel_coverage": 1.0
+  }
+}

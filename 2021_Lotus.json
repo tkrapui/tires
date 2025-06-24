@@ -1,0 +1,19 @@
+{
+  "brand": "Lotus",
+  "year": 2021,
+  "vehicles": [
+    {
+      "model": "Lotus",
+      "trim": "Evora GT Base",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T23:23:11.754221",
+    "total_vehicles": 1,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 0,
+    "vehicles_with_wheels": 0,
+    "wheel_coverage": 0.0
+  }
+}

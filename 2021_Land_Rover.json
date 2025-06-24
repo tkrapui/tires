@@ -18,6 +18,38 @@
         {
           "size": "255/70R18"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "22x9J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "18x8J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
       ]
     },
     {
@@ -32,6 +64,32 @@
         },
         {
           "size": "255/60R20"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
         }
       ]
     },
@@ -48,6 +106,32 @@
         {
           "size": "255/60R20"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
       ]
     },
     {
@@ -62,6 +146,26 @@
         },
         {
           "size": "255/60R20"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "22x9J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
         }
       ]
     },
@@ -78,6 +182,32 @@
         {
           "size": "255/60R20"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
       ]
     },
     {
@@ -92,6 +222,32 @@
         },
         {
           "size": "255/60R20"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
         }
       ]
     },
@@ -111,6 +267,38 @@
         {
           "size": "275/45R22"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "22x9J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "18x8J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
       ]
     },
     {
@@ -125,6 +313,26 @@
         },
         {
           "size": "255/60R20"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "22x9J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
         }
       ]
     },
@@ -141,6 +349,26 @@
         {
           "size": "255/60R20"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "22x9J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
       ]
     },
     {
@@ -155,6 +383,44 @@
         },
         {
           "size": "255/55R20"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
         }
       ]
     },
@@ -171,6 +437,44 @@
         {
           "size": "285/40R22"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
       ]
     },
     {
@@ -185,6 +489,44 @@
         },
         {
           "size": "285/40R22"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
         }
       ]
     },
@@ -204,6 +546,32 @@
         {
           "size": "235/60R18"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "21x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        }
       ]
     },
     {
@@ -221,6 +589,32 @@
         },
         {
           "size": "235/60R18"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "21x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
         }
       ]
     },
@@ -240,6 +634,32 @@
         {
           "size": "235/60R18"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "21x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        }
       ]
     },
     {
@@ -258,6 +678,32 @@
         {
           "size": "235/60R18"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "21x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        }
       ]
     },
     {
@@ -269,6 +715,32 @@
         },
         {
           "size": "275/40R22"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
         }
       ]
     },
@@ -282,6 +754,32 @@
         {
           "size": "275/40R22"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
       ]
     },
     {
@@ -290,6 +788,20 @@
       "tires": [
         {
           "size": "275/40R22"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
         }
       ]
     },
@@ -302,6 +814,32 @@
         },
         {
           "size": "275/45R21"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
         }
       ]
     },
@@ -318,6 +856,26 @@
         {
           "size": "235/60R18"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "21x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        }
       ]
     },
     {
@@ -332,6 +890,26 @@
         },
         {
           "size": "235/60R18"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "21x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
         }
       ]
     },
@@ -348,6 +926,26 @@
         {
           "size": "235/60R18"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "21x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        }
       ]
     },
     {
@@ -363,6 +961,26 @@
         {
           "size": "235/60R18"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "21x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        }
       ]
     },
     {
@@ -377,6 +995,26 @@
         },
         {
           "size": "235/60R18"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
+        },
+        {
+          "rim_size": "21x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.3"
         }
       ]
     },
@@ -396,6 +1034,56 @@
         {
           "size": "275/40R22"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "19x7.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "19x7",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
       ]
     },
     {
@@ -407,6 +1095,32 @@
         },
         {
           "size": "275/45R21"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
         }
       ]
     },
@@ -420,6 +1134,32 @@
         {
           "size": "275/40R22"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
       ]
     },
     {
@@ -432,6 +1172,32 @@
         {
           "size": "275/40R22"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
       ]
     },
     {
@@ -440,6 +1206,20 @@
       "tires": [
         {
           "size": "275/40R22"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
         }
       ]
     },
@@ -453,6 +1233,32 @@
         {
           "size": "275/40R22"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
       ]
     },
     {
@@ -461,6 +1267,20 @@
       "tires": [
         {
           "size": "275/45R21"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
         }
       ]
     },
@@ -474,6 +1294,32 @@
         {
           "size": "275/40R22"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
       ]
     },
     {
@@ -486,6 +1332,32 @@
         {
           "size": "275/40R22"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
       ]
     },
     {
@@ -494,6 +1366,20 @@
       "tires": [
         {
           "size": "275/45R21"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
         }
       ]
     },
@@ -506,6 +1392,32 @@
         },
         {
           "size": "275/40R22"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
         }
       ]
     },
@@ -522,6 +1434,44 @@
         {
           "size": "235/65R19"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "19x7.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "19x7",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
       ]
     },
     {
@@ -537,6 +1487,26 @@
         {
           "size": "295/40R22"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x10J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
       ]
     },
     {
@@ -548,6 +1518,14 @@
         },
         {
           "size": "295/40R22"
+        }
+      ],
+      "wheels": [
+        {
+          "rim_size": "22x10J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
         }
       ]
     },
@@ -567,6 +1545,50 @@
         {
           "size": "265/40R22"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "19x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "22x9J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "21x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "21x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
       ]
     },
     {
@@ -585,6 +1607,50 @@
         {
           "size": "265/40R22"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "22x9J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "21x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "21x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
       ]
     },
     {
@@ -600,6 +1666,44 @@
         {
           "size": "255/55R19"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "19x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "21x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "21x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
       ]
     },
     {
@@ -612,6 +1716,32 @@
         {
           "size": "275/40R22"
         }
+      ],
+      "wheels": [
+        {
+          "rim_size": "21x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "21x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "22x9.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
       ]
     }
   ],
@@ -620,6 +1750,8 @@
     "total_vehicles": 43,
     "total_tire_sizes": 18,
     "migration_date": "2025-06-23T14:37:31.833963",
-    "migrated_to_new_format": true
+    "migrated_to_new_format": true,
+    "wheel_update_date": "2025-06-23T23:19:58.742191",
+    "total_wheel_sizes": 18
   }
 }

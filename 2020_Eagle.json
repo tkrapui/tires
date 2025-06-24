@@ -1,0 +1,19 @@
+{
+  "brand": "Eagle",
+  "year": 2020,
+  "vehicles": [
+    {
+      "model": "Wraith",
+      "trim": "Eagle VIII",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T20:19:37.087526",
+    "total_vehicles": 1,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 0,
+    "vehicles_with_wheels": 0,
+    "wheel_coverage": 0.0
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "brand": "Mini",
+  "year": 2021,
+  "vehicles": [
+    {
+      "model": "Cooper",
+      "trim": "Clubman ALL4",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        }
+      ]
+    },
+    {
+      "model": "Cooper",
+      "trim": "Clubman John Cooper Works ALL4",
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        }
+      ]
+    },
+    {
+      "model": "Cooper",
+      "trim": "Clubman S ALL4",
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        },
+        {
+          "rim_size": "17x7",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        }
+      ]
+    },
+    {
+      "model": "Cooper",
+      "trim": "Convertible",
+      "wheels": [
+        {
+          "rim_size": "15x5",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        },
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        },
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        },
+        {
+          "rim_size": "18x7.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        },
+        {
+          "rim_size": "15x5.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        },
+        {
+          "rim_size": "16x6",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        },
+        {
+          "rim_size": "16x6.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        }
+      ]
+    },
+    {
+      "model": "Cooper",
+      "trim": "Countryman ALL4",
+      "wheels": [
+        {
+          "rim_size": "18x7.5J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        },
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        },
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-112mm",
+          "offset": "-11",
+          "center_hub": "66.6"
+        }
+      ]
+    },
+    {
+      "model": "Cooper",
+      "trim": "Countryman John Cooper Works ALL4",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-23T23:31:03.020472",
+    "total_vehicles": 6,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 11,
+    "vehicles_with_wheels": 5,
+    "wheel_coverage": 0.8333333333333334
+  }
+}
