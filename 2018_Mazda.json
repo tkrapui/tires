@@ -1,0 +1,344 @@
+{
+  "brand": "Mazda",
+  "year": 2018,
+  "vehicles": [
+    {
+      "model": "3",
+      "trim": "GS",
+      "wheels": [
+        {
+          "rim_size": "16x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "GT",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "GX",
+      "wheels": [
+        {
+          "rim_size": "16x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "Sport GS",
+      "wheels": [
+        {
+          "rim_size": "16x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "Sport GT",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "3",
+      "trim": "Sport GX",
+      "wheels": [
+        {
+          "rim_size": "16x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "GS",
+      "wheels": [
+        {
+          "rim_size": "17x7.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "GS-L",
+      "wheels": [
+        {
+          "rim_size": "17x7.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "GT",
+      "wheels": [
+        {
+          "rim_size": "19x7.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "19x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "6",
+      "trim": "Signature",
+      "wheels": [
+        {
+          "rim_size": "19x7.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "19x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "CX-3",
+      "trim": "GS",
+      "wheels": [
+        {
+          "rim_size": "16x6.5J",
+          "offset": "-3",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6",
+          "offset": "-3",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "CX-3",
+      "trim": "GT",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-3",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "CX-3",
+      "trim": "GX",
+      "wheels": [
+        {
+          "rim_size": "16x6.5J",
+          "offset": "-3",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6",
+          "offset": "-3",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "CX-5",
+      "trim": "GS",
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "offset": "-5",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "CX-5",
+      "trim": "GT",
+      "wheels": [
+        {
+          "rim_size": "19x7J",
+          "offset": "-5",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "CX-5",
+      "trim": "GX",
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "offset": "-5",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "CX-9",
+      "trim": "GS",
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "offset": "-9",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "CX-9",
+      "trim": "GS-L",
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "offset": "-9",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "CX-9",
+      "trim": "GT",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "offset": "-9",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "offset": "-9",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata GS",
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "4-100mm",
+          "offset": "-5",
+          "center_hub": "54.1"
+        }
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata GT",
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "4-100mm",
+          "offset": "-5",
+          "center_hub": "54.1"
+        }
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata GX",
+      "wheels": [
+        {
+          "rim_size": "16x6.5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-5",
+          "center_hub": "54.1"
+        },
+        {
+          "rim_size": "16x6",
+          "bolt_circle": "4-100mm",
+          "offset": "-5",
+          "center_hub": "54.1"
+        }
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata RF GS",
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "4-100mm",
+          "offset": "-5",
+          "center_hub": "54.1"
+        }
+      ]
+    },
+    {
+      "model": "MX-5",
+      "trim": "Miata RF GT",
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "4-100mm",
+          "offset": "-5",
+          "center_hub": "54.1"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-24T21:37:22.921398",
+    "total_vehicles": 24,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 18,
+    "vehicles_with_wheels": 24,
+    "wheel_coverage": 1.0
+  }
+}

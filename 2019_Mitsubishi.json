@@ -1,0 +1,279 @@
+{
+  "brand": "Mitsubishi",
+  "year": 2019,
+  "vehicles": [
+    {
+      "model": "Mitsubishi",
+      "trim": "Eclipse Cross ES",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "Eclipse Cross GT",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "Eclipse Cross SE",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "Mirage ES",
+      "wheels": [
+        {
+          "rim_size": "14x4",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        },
+        {
+          "rim_size": "14x4.5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "Mirage ES Limited",
+      "wheels": [
+        {
+          "rim_size": "15x5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "Mirage ES Plus",
+      "wheels": [
+        {
+          "rim_size": "14x4",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        },
+        {
+          "rim_size": "14x4.5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "Mirage G4 ES",
+      "wheels": [
+        {
+          "rim_size": "14x5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        },
+        {
+          "rim_size": "15x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        },
+        {
+          "rim_size": "15x5.5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "Mirage G4 GT",
+      "wheels": [
+        {
+          "rim_size": "15x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        },
+        {
+          "rim_size": "15x5.5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "Mirage GT",
+      "wheels": [
+        {
+          "rim_size": "15x5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "Outlander ES",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "Outlander GT",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "Outlander PHEV GT",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "Outlander PHEV SE",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "Outlander SE",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "RVR ES",
+      "wheels": [
+        {
+          "rim_size": "16x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "RVR GT",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "RVR SE",
+      "wheels": [
+        {
+          "rim_size": "16x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "RVR SE Black Edition",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Mitsubishi",
+      "trim": "RVR SE Limited Edition",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-24T23:28:58.334159",
+    "total_vehicles": 19,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 9,
+    "vehicles_with_wheels": 19,
+    "wheel_coverage": 1.0
+  }
+}

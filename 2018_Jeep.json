@@ -1,0 +1,800 @@
+{
+  "brand": "Jeep",
+  "year": 2018,
+  "vehicles": [
+    {
+      "model": "Cherokee",
+      "trim": "Altitude 4x2",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Cherokee",
+      "trim": "Altitude 4x4",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Cherokee",
+      "trim": "High Altitude 4x2",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Cherokee",
+      "trim": "High Altitude 4x4",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Cherokee",
+      "trim": "Limited 4x2",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Cherokee",
+      "trim": "Limited 4x4",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Cherokee",
+      "trim": "North 4x2",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Cherokee",
+      "trim": "North 4x4",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Cherokee",
+      "trim": "Overland 4x2",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Cherokee",
+      "trim": "Overland 4x4",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Cherokee",
+      "trim": "Sport 4x2",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Cherokee",
+      "trim": "Sport 4x4",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Cherokee",
+      "trim": "Trailhawk",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Compass",
+      "trim": "Limited",
+      "wheels": [
+        {
+          "rim_size": "19x7.5J",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "18x7J",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "19x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Compass",
+      "trim": "North",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Compass",
+      "trim": "Sport",
+      "wheels": [
+        {
+          "rim_size": "16x6.5J",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "16x6",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Compass",
+      "trim": "Trailhawk",
+      "wheels": [
+        {
+          "rim_size": "17x6",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "17x6.5J",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee High Altitude",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        }
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee High Altitude V8 4x4",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        }
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee Laredo",
+      "wheels": [
+        {
+          "rim_size": "17x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        }
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee Laredo E",
+      "wheels": [
+        {
+          "rim_size": "18x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        },
+        {
+          "rim_size": "17x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        }
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee Limited",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        },
+        {
+          "rim_size": "18x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        }
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee Limited Sterling Edition",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        }
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee Limited Sterling Edition V8 4x4",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        },
+        {
+          "rim_size": "18x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        }
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee Limited V8 4x4",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        },
+        {
+          "rim_size": "18x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        }
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee Overland",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        },
+        {
+          "rim_size": "18x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        }
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee Overland V8 4x4",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        },
+        {
+          "rim_size": "18x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        }
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee SRT",
+      "wheels": [
+        {
+          "rim_size": "20x10J",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "50.1"
+        }
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee Summit",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        }
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee Summit V8 4x4",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        }
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee Trackhawk",
+      "wheels": [
+        {
+          "rim_size": "20x10J",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "50.1"
+        }
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Cherokee Trailhawk",
+      "wheels": [
+        {
+          "rim_size": "18x8",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "56.4"
+        }
+      ]
+    },
+    {
+      "model": "Renegade",
+      "trim": "Altitude",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Renegade",
+      "trim": "Limited",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Renegade",
+      "trim": "North",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "17x7",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "16x6.5",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Renegade",
+      "trim": "Sport",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Renegade",
+      "trim": "Trailhawk",
+      "wheels": [
+        {
+          "rim_size": "17x6.5",
+          "bolt_circle": "5-110mm",
+          "offset": "-11",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "JK Rubicon",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "JK Sahara",
+      "wheels": [
+        {
+          "rim_size": "18x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "JK Sport",
+      "wheels": [
+        {
+          "rim_size": "16x7",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "JK Sport S",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "JK Unlimited Altitude",
+      "wheels": [
+        {
+          "rim_size": "18x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "JK Unlimited Rubicon",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "JK Unlimited Rubicon Recon",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "JK Unlimited Sahara",
+      "wheels": [
+        {
+          "rim_size": "18x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "JK Unlimited Sport",
+      "wheels": [
+        {
+          "rim_size": "16x7",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "JK Unlimited Sport S",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "JK Unlimited Willys Wheeler",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "JK Unlimited Willys Wheeler W",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "JK Willys Wheeler",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "JK Willys Wheeler W",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "Rubicon",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "Sport",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "Sport S",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "Unlimited Moab",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "Unlimited Rubicon",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "Unlimited Sahara",
+      "wheels": [
+        {
+          "rim_size": "18x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "Unlimited Sport",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    },
+    {
+      "model": "Wrangler",
+      "trim": "Unlimited Sport S",
+      "wheels": [
+        {
+          "rim_size": "17x7.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "71.5"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-24T21:22:54.146354",
+    "total_vehicles": 59,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 20,
+    "vehicles_with_wheels": 59,
+    "wheel_coverage": 1.0
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-06-24T13:04:16.875385",
-  "total_files": 829,
+  "generated_at": "2025-06-24T23:40:22.649900",
+  "total_files": 881,
   "years": {
     "2000": {
       "total_brands": 46,
@@ -514,7 +514,7 @@
       "total_wheel_sizes": 0
     },
     "2015": {
-      "total_brands": 37,
+      "total_brands": 41,
       "brands": [
         "Acura",
         "Alfa Romeo",
@@ -527,6 +527,8 @@
         "Chevrolet",
         "Chrysler",
         "Dodge",
+        "Ferrari",
+        "Fiat",
         "Ford",
         "GMC",
         "Genesis",
@@ -536,6 +538,7 @@
         "Jaguar",
         "Jeep",
         "Kia",
+        "Lamborghini",
         "Land Rover",
         "Lexus",
         "Lincoln",
@@ -543,6 +546,7 @@
         "Mazda",
         "McLaren",
         "Mercedes-Benz",
+        "Mini",
         "Mitsubishi",
         "Nissan",
         "Porsche",
@@ -554,9 +558,9 @@
         "Volkswagen",
         "Volvo"
       ],
-      "total_vehicles": 1308,
+      "total_vehicles": 1356,
       "total_tire_sizes": 659,
-      "total_wheel_sizes": 0
+      "total_wheel_sizes": 541
     },
     "2016": {
       "total_brands": 39,
@@ -606,7 +610,7 @@
       "total_wheel_sizes": 288
     },
     "2017": {
-      "total_brands": 37,
+      "total_brands": 46,
       "brands": [
         "Acura",
         "Alfa Romeo",
@@ -619,6 +623,8 @@
         "Chevrolet",
         "Chrysler",
         "Dodge",
+        "Ferrari",
+        "Fiat",
         "Ford",
         "GMC",
         "Genesis",
@@ -628,75 +634,121 @@
         "Jaguar",
         "Jeep",
         "Kia",
+        "Lamborghini",
         "Land Rover",
         "Lexus",
         "Lincoln",
+        "Lotus",
         "Maserati",
+        "Maybach",
         "Mazda",
         "McLaren",
         "Mercedes-Benz",
+        "Mini",
         "Mitsubishi",
         "Nissan",
+        "Polestar",
         "Porsche",
         "Ram",
         "Rolls-Royce",
+        "SRT",
+        "Smart",
         "Subaru",
         "Tesla",
         "Toyota",
         "Volkswagen",
         "Volvo"
       ],
-      "total_vehicles": 1400,
+      "total_vehicles": 1474,
       "total_tire_sizes": 720,
-      "total_wheel_sizes": 0
+      "total_wheel_sizes": 722
     },
     "2018": {
-      "total_brands": 12,
+      "total_brands": 32,
       "brands": [
         "Acura",
+        "Alfa Romeo",
+        "Aston Martin",
         "Audi",
         "BMW",
+        "Bentley",
         "Buick",
         "Cadillac",
         "Chevrolet",
         "Chrysler",
         "Dodge",
+        "Ferrari",
+        "Fiat",
         "Ford",
         "GMC",
-        "Honda",
-        "Hyundai"
-      ],
-      "total_vehicles": 603,
-      "total_tire_sizes": 284,
-      "total_wheel_sizes": 0
-    },
-    "2019": {
-      "total_brands": 20,
-      "brands": [
-        "Acura",
-        "Audi",
-        "BMW",
-        "Buick",
-        "Cadillac",
-        "Chevrolet",
-        "Chrysler",
-        "Dodge",
-        "Ford",
-        "GMC",
+        "Genesis",
         "Honda",
         "Hyundai",
         "Infiniti",
+        "Jaguar",
         "Jeep",
+        "Karma",
         "Kia",
+        "Lamborghini",
+        "Land Rover",
         "Lexus",
         "Lincoln",
+        "Lotus",
+        "Maserati",
+        "Maybach",
         "Mazda",
+        "McLaren"
+      ],
+      "total_vehicles": 979,
+      "total_tire_sizes": 284,
+      "total_wheel_sizes": 499
+    },
+    "2019": {
+      "total_brands": 39,
+      "brands": [
+        "Acura",
+        "Alfa Romeo",
+        "Aston Martin",
+        "Audi",
+        "BMW",
+        "Bentley",
+        "Buick",
+        "Cadillac",
+        "Chevrolet",
+        "Chrysler",
+        "Dodge",
+        "Ferrari",
+        "Fiat",
+        "Ford",
+        "GMC",
+        "Genesis",
+        "Honda",
+        "Hyundai",
+        "Infiniti",
+        "Jaguar",
+        "Jeep",
+        "Karma",
+        "Kia",
+        "Lamborghini",
+        "Land Rover",
+        "Lexus",
+        "Lincoln",
+        "Maserati",
+        "Maybach",
+        "Mazda",
+        "McLaren",
         "Mercedes-Benz",
+        "Mini",
+        "Mitsubishi",
+        "Nissan",
+        "Porsche",
+        "Rolls-Royce",
+        "SRT",
         "Volvo"
       ],
-      "total_vehicles": 823,
+      "total_vehicles": 1186,
       "total_tire_sizes": 445,
-      "total_wheel_sizes": 0
+      "total_wheel_sizes": 685
     },
     "2020": {
       "total_brands": 47,
@@ -1072,14 +1124,16 @@
       ],
       "total_vehicles": 310,
       "total_tire_sizes": 225,
-      "total_wheel_sizes": 42
+      "total_wheel_sizes": 84
     },
     "Alfa Romeo": {
-      "total_years": 9,
+      "total_years": 11,
       "years": [
         2015,
         2016,
         2017,
+        2018,
+        2019,
         2020,
         2021,
         2022,
@@ -1087,12 +1141,12 @@
         2024,
         2025
       ],
-      "total_vehicles": 73,
+      "total_vehicles": 96,
       "total_tire_sizes": 87,
-      "total_wheel_sizes": 49
+      "total_wheel_sizes": 92
     },
     "Aston Martin": {
-      "total_years": 20,
+      "total_years": 22,
       "years": [
         2000,
         2003,
@@ -1108,6 +1162,8 @@
         2015,
         2016,
         2017,
+        2018,
+        2019,
         2020,
         2021,
         2022,
@@ -1115,9 +1171,9 @@
         2024,
         2025
       ],
-      "total_vehicles": 133,
+      "total_vehicles": 143,
       "total_tire_sizes": 107,
-      "total_wheel_sizes": 49
+      "total_wheel_sizes": 89
     },
     "Audi": {
       "total_years": 24,
@@ -1149,7 +1205,7 @@
       ],
       "total_vehicles": 1355,
       "total_tire_sizes": 592,
-      "total_wheel_sizes": 122
+      "total_wheel_sizes": 220
     },
     "BMW": {
       "total_years": 25,
@@ -1182,10 +1238,10 @@
       ],
       "total_vehicles": 1530,
       "total_tire_sizes": 827,
-      "total_wheel_sizes": 296
+      "total_wheel_sizes": 487
     },
     "Bentley": {
-      "total_years": 20,
+      "total_years": 22,
       "years": [
         2000,
         2003,
@@ -1201,6 +1257,8 @@
         2015,
         2016,
         2017,
+        2018,
+        2019,
         2020,
         2021,
         2022,
@@ -1208,9 +1266,9 @@
         2024,
         2025
       ],
-      "total_vehicles": 238,
+      "total_vehicles": 257,
       "total_tire_sizes": 97,
-      "total_wheel_sizes": 60
+      "total_wheel_sizes": 94
     },
     "Buick": {
       "total_years": 24,
@@ -1242,7 +1300,7 @@
       ],
       "total_vehicles": 344,
       "total_tire_sizes": 189,
-      "total_wheel_sizes": 39
+      "total_wheel_sizes": 89
     },
     "Cadillac": {
       "total_years": 24,
@@ -1274,7 +1332,7 @@
       ],
       "total_vehicles": 721,
       "total_tire_sizes": 371,
-      "total_wheel_sizes": 64
+      "total_wheel_sizes": 137
     },
     "Chevrolet": {
       "total_years": 25,
@@ -1307,7 +1365,7 @@
       ],
       "total_vehicles": 2407,
       "total_tire_sizes": 1013,
-      "total_wheel_sizes": 144
+      "total_wheel_sizes": 304
     },
     "Chrysler": {
       "total_years": 24,
@@ -1339,7 +1397,7 @@
       ],
       "total_vehicles": 513,
       "total_tire_sizes": 237,
-      "total_wheel_sizes": 39
+      "total_wheel_sizes": 81
     },
     "Daewoo": {
       "total_years": 1,
@@ -1380,7 +1438,7 @@
       ],
       "total_vehicles": 1332,
       "total_tire_sizes": 457,
-      "total_wheel_sizes": 61
+      "total_wheel_sizes": 130
     },
     "Eagle": {
       "total_years": 1,
@@ -1392,34 +1450,42 @@
       "total_wheel_sizes": 0
     },
     "Ferrari": {
-      "total_years": 8,
+      "total_years": 12,
       "years": [
         2000,
         2003,
+        2015,
         2016,
+        2017,
+        2018,
+        2019,
         2020,
         2021,
         2022,
         2023,
         2024
       ],
-      "total_vehicles": 63,
+      "total_vehicles": 99,
       "total_tire_sizes": 12,
-      "total_wheel_sizes": 40
+      "total_wheel_sizes": 89
     },
     "Fiat": {
-      "total_years": 6,
+      "total_years": 10,
       "years": [
+        2015,
         2016,
+        2017,
+        2018,
+        2019,
         2020,
         2021,
         2022,
         2023,
         2024
       ],
-      "total_vehicles": 51,
+      "total_vehicles": 128,
       "total_tire_sizes": 4,
-      "total_wheel_sizes": 25
+      "total_wheel_sizes": 51
     },
     "Fisker": {
       "total_years": 1,
@@ -1460,7 +1526,7 @@
       ],
       "total_vehicles": 3132,
       "total_tire_sizes": 1069,
-      "total_wheel_sizes": 147
+      "total_wheel_sizes": 279
     },
     "GMC": {
       "total_years": 23,
@@ -1491,10 +1557,10 @@
       ],
       "total_vehicles": 1362,
       "total_tire_sizes": 427,
-      "total_wheel_sizes": 90
+      "total_wheel_sizes": 186
     },
     "Genesis": {
-      "total_years": 15,
+      "total_years": 17,
       "years": [
         2010,
         2011,
@@ -1504,6 +1570,8 @@
         2015,
         2016,
         2017,
+        2018,
+        2019,
         2020,
         2021,
         2022,
@@ -1512,9 +1580,9 @@
         2025,
         2026
       ],
-      "total_vehicles": 150,
+      "total_vehicles": 168,
       "total_tire_sizes": 120,
-      "total_wheel_sizes": 32
+      "total_wheel_sizes": 45
     },
     "Honda": {
       "total_years": 23,
@@ -1545,7 +1613,7 @@
       ],
       "total_vehicles": 726,
       "total_tire_sizes": 320,
-      "total_wheel_sizes": 41
+      "total_wheel_sizes": 97
     },
     "Hummer": {
       "total_years": 5,
@@ -1588,7 +1656,7 @@
       ],
       "total_vehicles": 825,
       "total_tire_sizes": 393,
-      "total_wheel_sizes": 45
+      "total_wheel_sizes": 101
     },
     "INEOS": {
       "total_years": 1,
@@ -1600,7 +1668,7 @@
       "total_wheel_sizes": 0
     },
     "Infiniti": {
-      "total_years": 21,
+      "total_years": 22,
       "years": [
         2000,
         2003,
@@ -1616,6 +1684,7 @@
         2015,
         2016,
         2017,
+        2018,
         2019,
         2020,
         2021,
@@ -1624,9 +1693,9 @@
         2024,
         2025
       ],
-      "total_vehicles": 387,
+      "total_vehicles": 407,
       "total_tire_sizes": 263,
-      "total_wheel_sizes": 45
+      "total_wheel_sizes": 110
     },
     "Isuzu": {
       "total_years": 2,
@@ -1639,7 +1708,7 @@
       "total_wheel_sizes": 0
     },
     "Jaguar": {
-      "total_years": 21,
+      "total_years": 23,
       "years": [
         2000,
         2003,
@@ -1655,6 +1724,8 @@
         2015,
         2016,
         2017,
+        2018,
+        2019,
         2020,
         2021,
         2022,
@@ -1663,12 +1734,12 @@
         2025,
         2026
       ],
-      "total_vehicles": 285,
+      "total_vehicles": 372,
       "total_tire_sizes": 247,
-      "total_wheel_sizes": 70
+      "total_wheel_sizes": 170
     },
     "Jeep": {
-      "total_years": 21,
+      "total_years": 22,
       "years": [
         2000,
         2003,
@@ -1684,6 +1755,7 @@
         2015,
         2016,
         2017,
+        2018,
         2019,
         2020,
         2021,
@@ -1692,23 +1764,25 @@
         2024,
         2025
       ],
-      "total_vehicles": 791,
+      "total_vehicles": 850,
       "total_tire_sizes": 331,
-      "total_wheel_sizes": 63
+      "total_wheel_sizes": 135
     },
     "Karma": {
-      "total_years": 3,
+      "total_years": 5,
       "years": [
+        2018,
+        2019,
         2020,
         2021,
         2022
       ],
-      "total_vehicles": 6,
+      "total_vehicles": 10,
       "total_tire_sizes": 0,
-      "total_wheel_sizes": 14
+      "total_wheel_sizes": 28
     },
     "Kia": {
-      "total_years": 21,
+      "total_years": 22,
       "years": [
         2000,
         2003,
@@ -1724,6 +1798,7 @@
         2015,
         2016,
         2017,
+        2018,
         2019,
         2020,
         2021,
@@ -1732,27 +1807,31 @@
         2024,
         2025
       ],
-      "total_vehicles": 874,
+      "total_vehicles": 918,
       "total_tire_sizes": 385,
-      "total_wheel_sizes": 59
+      "total_wheel_sizes": 127
     },
     "Lamborghini": {
-      "total_years": 7,
+      "total_years": 11,
       "years": [
         2000,
         2003,
+        2015,
+        2017,
+        2018,
+        2019,
         2020,
         2021,
         2022,
         2023,
         2024
       ],
-      "total_vehicles": 87,
+      "total_vehicles": 123,
       "total_tire_sizes": 0,
-      "total_wheel_sizes": 54
+      "total_wheel_sizes": 97
     },
     "Land Rover": {
-      "total_years": 21,
+      "total_years": 23,
       "years": [
         2000,
         2003,
@@ -1768,6 +1847,8 @@
         2015,
         2016,
         2017,
+        2018,
+        2019,
         2020,
         2021,
         2022,
@@ -1776,12 +1857,12 @@
         2025,
         2026
       ],
-      "total_vehicles": 440,
+      "total_vehicles": 502,
       "total_tire_sizes": 215,
-      "total_wheel_sizes": 57
+      "total_wheel_sizes": 119
     },
     "Lexus": {
-      "total_years": 21,
+      "total_years": 22,
       "years": [
         2000,
         2003,
@@ -1797,6 +1878,7 @@
         2015,
         2016,
         2017,
+        2018,
         2019,
         2020,
         2021,
@@ -1805,12 +1887,12 @@
         2024,
         2025
       ],
-      "total_vehicles": 665,
+      "total_vehicles": 700,
       "total_tire_sizes": 407,
-      "total_wheel_sizes": 85
+      "total_wheel_sizes": 170
     },
     "Lincoln": {
-      "total_years": 21,
+      "total_years": 22,
       "years": [
         2000,
         2003,
@@ -1826,6 +1908,7 @@
         2015,
         2016,
         2017,
+        2018,
         2019,
         2020,
         2021,
@@ -1834,22 +1917,24 @@
         2024,
         2025
       ],
-      "total_vehicles": 248,
+      "total_vehicles": 265,
       "total_tire_sizes": 208,
-      "total_wheel_sizes": 0
+      "total_wheel_sizes": 11
     },
     "Lotus": {
-      "total_years": 5,
+      "total_years": 7,
       "years": [
         2000,
         2003,
+        2017,
+        2018,
         2020,
         2021,
         2024
       ],
-      "total_vehicles": 6,
+      "total_vehicles": 9,
       "total_tire_sizes": 0,
-      "total_wheel_sizes": 0
+      "total_wheel_sizes": 4
     },
     "Lucid": {
       "total_years": 3,
@@ -1863,7 +1948,7 @@
       "total_wheel_sizes": 9
     },
     "Maserati": {
-      "total_years": 19,
+      "total_years": 21,
       "years": [
         2003,
         2005,
@@ -1878,6 +1963,8 @@
         2015,
         2016,
         2017,
+        2018,
+        2019,
         2020,
         2021,
         2022,
@@ -1885,25 +1972,28 @@
         2024,
         2025
       ],
-      "total_vehicles": 182,
+      "total_vehicles": 213,
       "total_tire_sizes": 164,
-      "total_wheel_sizes": 57
+      "total_wheel_sizes": 120
     },
     "Maybach": {
-      "total_years": 5,
+      "total_years": 8,
       "years": [
         2003,
+        2017,
+        2018,
+        2019,
         2020,
         2021,
         2022,
         2024
       ],
-      "total_vehicles": 13,
+      "total_vehicles": 18,
       "total_tire_sizes": 9,
-      "total_wheel_sizes": 32
+      "total_wheel_sizes": 48
     },
     "Mazda": {
-      "total_years": 21,
+      "total_years": 22,
       "years": [
         2000,
         2003,
@@ -1919,6 +2009,7 @@
         2015,
         2016,
         2017,
+        2018,
         2019,
         2020,
         2021,
@@ -1927,12 +2018,12 @@
         2024,
         2025
       ],
-      "total_vehicles": 585,
+      "total_vehicles": 609,
       "total_tire_sizes": 277,
-      "total_wheel_sizes": 32
+      "total_wheel_sizes": 85
     },
     "McLaren": {
-      "total_years": 16,
+      "total_years": 18,
       "years": [
         2005,
         2006,
@@ -1944,6 +2035,8 @@
         2015,
         2016,
         2017,
+        2018,
+        2019,
         2020,
         2021,
         2022,
@@ -1951,9 +2044,9 @@
         2024,
         2025
       ],
-      "total_vehicles": 62,
+      "total_vehicles": 73,
       "total_tire_sizes": 52,
-      "total_wheel_sizes": 17
+      "total_wheel_sizes": 38
     },
     "Mercedes-Benz": {
       "total_years": 21,
@@ -1982,7 +2075,7 @@
       ],
       "total_vehicles": 1277,
       "total_tire_sizes": 850,
-      "total_wheel_sizes": 166
+      "total_wheel_sizes": 296
     },
     "Mercury": {
       "total_years": 1,
@@ -1994,19 +2087,22 @@
       "total_wheel_sizes": 0
     },
     "Mini": {
-      "total_years": 4,
+      "total_years": 7,
       "years": [
+        2015,
+        2017,
+        2019,
         2020,
         2021,
         2022,
         2024
       ],
-      "total_vehicles": 49,
+      "total_vehicles": 103,
       "total_tire_sizes": 7,
-      "total_wheel_sizes": 33
+      "total_wheel_sizes": 67
     },
     "Mitsubishi": {
-      "total_years": 19,
+      "total_years": 20,
       "years": [
         2000,
         2005,
@@ -2021,6 +2117,7 @@
         2015,
         2016,
         2017,
+        2019,
         2020,
         2021,
         2022,
@@ -2028,12 +2125,12 @@
         2024,
         2025
       ],
-      "total_vehicles": 384,
+      "total_vehicles": 403,
       "total_tire_sizes": 141,
-      "total_wheel_sizes": 0
+      "total_wheel_sizes": 9
     },
     "Nissan": {
-      "total_years": 19,
+      "total_years": 20,
       "years": [
         2000,
         2005,
@@ -2048,6 +2145,7 @@
         2015,
         2016,
         2017,
+        2019,
         2020,
         2021,
         2022,
@@ -2055,9 +2153,9 @@
         2024,
         2025
       ],
-      "total_vehicles": 1075,
+      "total_vehicles": 1154,
       "total_tire_sizes": 565,
-      "total_wheel_sizes": 56
+      "total_wheel_sizes": 156
     },
     "Oldsmobile": {
       "total_years": 1,
@@ -2078,13 +2176,14 @@
       "total_wheel_sizes": 0
     },
     "Polestar": {
-      "total_years": 3,
+      "total_years": 4,
       "years": [
+        2017,
         2020,
         2022,
         2024
       ],
-      "total_vehicles": 13,
+      "total_vehicles": 14,
       "total_tire_sizes": 5,
       "total_wheel_sizes": 13
     },
@@ -2098,7 +2197,7 @@
       "total_wheel_sizes": 0
     },
     "Porsche": {
-      "total_years": 19,
+      "total_years": 20,
       "years": [
         2000,
         2005,
@@ -2113,6 +2212,7 @@
         2015,
         2016,
         2017,
+        2019,
         2020,
         2021,
         2022,
@@ -2120,9 +2220,9 @@
         2024,
         2025
       ],
-      "total_vehicles": 860,
+      "total_vehicles": 921,
       "total_tire_sizes": 468,
-      "total_wheel_sizes": 64
+      "total_wheel_sizes": 162
     },
     "RAM": {
       "total_years": 1,
@@ -2170,7 +2270,7 @@
       "total_wheel_sizes": 6
     },
     "Rolls-Royce": {
-      "total_years": 19,
+      "total_years": 20,
       "years": [
         2000,
         2005,
@@ -2185,6 +2285,7 @@
         2015,
         2016,
         2017,
+        2019,
         2020,
         2021,
         2022,
@@ -2192,20 +2293,22 @@
         2024,
         2025
       ],
-      "total_vehicles": 113,
+      "total_vehicles": 120,
       "total_tire_sizes": 83,
-      "total_wheel_sizes": 28
+      "total_wheel_sizes": 62
     },
     "SRT": {
-      "total_years": 3,
+      "total_years": 5,
       "years": [
+        2017,
+        2019,
         2020,
         2022,
         2024
       ],
-      "total_vehicles": 19,
+      "total_vehicles": 30,
       "total_tire_sizes": 0,
-      "total_wheel_sizes": 9
+      "total_wheel_sizes": 18
     },
     "Saab": {
       "total_years": 1,
@@ -2224,6 +2327,15 @@
       "total_vehicles": 12,
       "total_tire_sizes": 5,
       "total_wheel_sizes": 0
+    },
+    "Smart": {
+      "total_years": 1,
+      "years": [
+        2017
+      ],
+      "total_vehicles": 8,
+      "total_tire_sizes": 0,
+      "total_wheel_sizes": 8
     },
     "Subaru": {
       "total_years": 19,
@@ -2250,7 +2362,7 @@
       ],
       "total_vehicles": 571,
       "total_tire_sizes": 236,
-      "total_wheel_sizes": 28
+      "total_wheel_sizes": 39
     },
     "Suzuki": {
       "total_years": 1,
@@ -2280,7 +2392,7 @@
       ],
       "total_vehicles": 111,
       "total_tire_sizes": 110,
-      "total_wheel_sizes": 37
+      "total_wheel_sizes": 50
     },
     "Toyota": {
       "total_years": 20,
@@ -2308,7 +2420,7 @@
       ],
       "total_vehicles": 1310,
       "total_tire_sizes": 567,
-      "total_wheel_sizes": 57
+      "total_wheel_sizes": 83
     },
     "VinFast": {
       "total_years": 1,
@@ -2344,7 +2456,7 @@
       ],
       "total_vehicles": 603,
       "total_tire_sizes": 296,
-      "total_wheel_sizes": 34
+      "total_wheel_sizes": 46
     },
     "Volvo": {
       "total_years": 20,
@@ -2372,7 +2484,7 @@
       ],
       "total_vehicles": 456,
       "total_tire_sizes": 281,
-      "total_wheel_sizes": 25
+      "total_wheel_sizes": 41
     }
   },
   "files": {
@@ -2390,8 +2502,8 @@
       "total_wheel_sizes": 0,
       "has_wheel_data": false,
       "scraping_date": "2025-06-20T22:08:38.250223",
-      "file_date": "2025-06-23T14:37:30.921027",
-      "file_size": 3447,
+      "file_date": "2025-06-24T15:25:59.103433",
+      "file_size": 3530,
       "mode": "singleshot"
     },
     "2008_BMW": {
@@ -2439,13 +2551,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 17,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 41,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 19,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:26:11.559545",
-      "file_date": "2025-06-23T14:37:30.927757",
-      "file_size": 6769,
+      "file_date": "2025-06-24T23:09:36.682678",
+      "file_size": 16084,
       "mode": "singleshot"
     },
     "2018_Buick": {
@@ -2457,13 +2569,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 10,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 19,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 10,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T18:48:36.567941",
-      "file_date": "2025-06-23T14:37:30.929281",
-      "file_size": 3206,
+      "file_date": "2025-06-24T20:01:28.694197",
+      "file_size": 8170,
       "mode": "singleshot"
     },
     "2019_Dodge": {
@@ -2475,13 +2587,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 14,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 33,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 18,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:17:21.235673",
-      "file_date": "2025-06-23T14:37:30.930665",
-      "file_size": 5901,
+      "file_date": "2025-06-24T22:49:16.566225",
+      "file_size": 15772,
       "mode": "singleshot"
     },
     "2020_Bentley": {
@@ -2871,13 +2983,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 29,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 44,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 18,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:40:32.370991",
-      "file_date": "2025-06-23T14:37:30.971012",
-      "file_size": 6734,
+      "file_date": "2025-06-24T17:09:36.752615",
+      "file_size": 17697,
       "mode": "singleshot"
     },
     "2000_AM_General": {
@@ -2943,13 +3055,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 16,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 45,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 14,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:01:46.850096",
-      "file_date": "2025-06-23T14:37:30.977034",
-      "file_size": 6372,
+      "file_date": "2025-06-24T14:37:56.105300",
+      "file_size": 14775,
       "mode": "singleshot"
     },
     "2013_Mercedes_Benz": {
@@ -3042,6 +3154,24 @@
       "file_size": 3277,
       "mode": "singleshot"
     },
+    "2018_Mazda": {
+      "filename": "2018_Mazda.json",
+      "year": 2018,
+      "brand": "Mazda",
+      "total_vehicles": 24,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 24,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 12,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T21:37:22.921398",
+      "file_date": "2025-06-24T21:37:22.924059",
+      "file_size": 6419,
+      "mode": "carinfo"
+    },
     "2015_Audi": {
       "filename": "2015_Audi.json",
       "year": 2015,
@@ -3051,13 +3181,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 30,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 84,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 24,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:20:13.432995",
-      "file_date": "2025-06-23T14:37:30.987540",
-      "file_size": 14627,
+      "file_date": "2025-06-24T16:39:34.109763",
+      "file_size": 52106,
       "mode": "singleshot"
     },
     "2005_Lincoln": {
@@ -3096,6 +3226,24 @@
       "file_size": 1769,
       "mode": "singleshot"
     },
+    "2018_Fiat": {
+      "filename": "2018_Fiat.json",
+      "year": 2018,
+      "brand": "Fiat",
+      "total_vehicles": 24,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 24,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 7,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T21:04:06.697804",
+      "file_date": "2025-06-24T21:04:06.700809",
+      "file_size": 8039,
+      "mode": "carinfo"
+    },
     "2013_Jaguar": {
       "filename": "2013_Jaguar.json",
       "year": 2013,
@@ -3113,6 +3261,42 @@
       "file_date": "2025-06-23T14:37:30.990731",
       "file_size": 3445,
       "mode": "singleshot"
+    },
+    "2019_Mini": {
+      "filename": "2019_Mini.json",
+      "year": 2019,
+      "brand": "Mini",
+      "total_vehicles": 15,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 15,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 12,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T23:27:32.409866",
+      "file_date": "2025-06-24T23:27:32.412345",
+      "file_size": 10234,
+      "mode": "carinfo"
+    },
+    "2018_Lotus": {
+      "filename": "2018_Lotus.json",
+      "year": 2018,
+      "brand": "Lotus",
+      "total_vehicles": 2,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 1,
+      "wheel_coverage": 0.5,
+      "total_wheel_sizes": 4,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T21:33:05.196654",
+      "file_date": "2025-06-24T21:33:05.199110",
+      "file_size": 948,
+      "mode": "carinfo"
     },
     "2015_Volvo": {
       "filename": "2015_Volvo.json",
@@ -3186,6 +3370,24 @@
       "file_size": 5616,
       "mode": "singleshot"
     },
+    "2018_Infiniti": {
+      "filename": "2018_Infiniti.json",
+      "year": 2018,
+      "brand": "Infiniti",
+      "total_vehicles": 20,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 20,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 15,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T21:17:41.941314",
+      "file_date": "2025-06-24T21:17:41.943293",
+      "file_size": 6431,
+      "mode": "carinfo"
+    },
     "2015_Acura": {
       "filename": "2015_Acura.json",
       "year": 2015,
@@ -3195,13 +3397,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 8,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 9,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 7,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:17:41.634576",
-      "file_date": "2025-06-23T14:37:30.996649",
-      "file_size": 1635,
+      "file_date": "2025-06-24T16:35:40.695315",
+      "file_size": 3713,
       "mode": "singleshot"
     },
     "2022_Acura": {
@@ -3221,6 +3423,24 @@
       "file_date": "2025-06-24T09:56:45.137076",
       "file_size": 6982,
       "mode": "singleshot"
+    },
+    "2019_Genesis": {
+      "filename": "2019_Genesis.json",
+      "year": 2019,
+      "brand": "Genesis",
+      "total_vehicles": 13,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 13,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 5,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T23:00:10.589739",
+      "file_date": "2025-06-24T23:00:10.592308",
+      "file_size": 5791,
+      "mode": "carinfo"
     },
     "2013_Toyota": {
       "filename": "2013_Toyota.json",
@@ -3339,13 +3559,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 23,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 35,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 19,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:07:56.586416",
-      "file_date": "2025-06-23T14:37:31.005659",
-      "file_size": 6168,
+      "file_date": "2025-06-24T14:50:25.934424",
+      "file_size": 16341,
       "mode": "singleshot"
     },
     "2003_Bentley": {
@@ -3488,8 +3708,8 @@
       "total_wheel_sizes": 0,
       "has_wheel_data": false,
       "scraping_date": "2025-06-21T08:45:23.567477",
-      "file_date": "2025-06-23T14:37:31.013340",
-      "file_size": 2960,
+      "file_date": "2025-06-24T17:21:53.897153",
+      "file_size": 3043,
       "mode": "singleshot"
     },
     "2004_Acura": {
@@ -3681,13 +3901,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 12,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 18,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 16,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:24:03.178237",
-      "file_date": "2025-06-23T14:37:31.025089",
-      "file_size": 3278,
+      "file_date": "2025-06-24T16:44:26.346732",
+      "file_size": 9829,
       "mode": "singleshot"
     },
     "2014_Dodge": {
@@ -3879,13 +4099,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 28,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 75,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 25,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T18:46:01.187490",
-      "file_date": "2025-06-23T14:37:31.035873",
-      "file_size": 13722,
+      "file_date": "2025-06-24T19:57:12.222771",
+      "file_size": 49963,
       "mode": "singleshot"
     },
     "2014_Aston_Martin": {
@@ -3941,6 +4161,24 @@
       "file_date": "2025-06-23T23:17:00.374959",
       "file_size": 22226,
       "mode": "singleshot"
+    },
+    "2019_Land_Rover": {
+      "filename": "2019_Land_Rover.json",
+      "year": 2019,
+      "brand": "Land Rover",
+      "total_vehicles": 31,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 31,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 18,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T23:15:15.800247",
+      "file_date": "2025-06-24T23:15:15.802733",
+      "file_size": 18642,
+      "mode": "carinfo"
     },
     "2011_Nissan": {
       "filename": "2011_Nissan.json",
@@ -4050,6 +4288,24 @@
       "file_size": 29588,
       "mode": "singleshot"
     },
+    "2015_Fiat": {
+      "filename": "2015_Fiat.json",
+      "year": 2015,
+      "brand": "Fiat",
+      "total_vehicles": 15,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 15,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 7,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T16:55:00.858712",
+      "file_date": "2025-06-24T16:55:00.861528",
+      "file_size": 4477,
+      "mode": "carinfo"
+    },
     "2021_Lincoln": {
       "filename": "2021_Lincoln.json",
       "year": 2021,
@@ -4077,13 +4333,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 10,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 13,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 11,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T18:43:46.134890",
-      "file_date": "2025-06-23T14:37:31.047561",
-      "file_size": 2256,
+      "file_date": "2025-06-24T19:52:32.963325",
+      "file_size": 5705,
       "mode": "singleshot"
     },
     "2017_Cadillac": {
@@ -4095,13 +4351,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 19,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 40,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 19,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T21:50:08.263549",
-      "file_date": "2025-06-23T14:37:31.048827",
-      "file_size": 6739,
+      "file_date": "2025-06-24T14:18:53.386601",
+      "file_size": 20196,
       "mode": "singleshot"
     },
     "2016_Bentley": {
@@ -4257,13 +4513,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 12,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 19,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 15,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:42:52.920662",
-      "file_date": "2025-06-23T14:37:31.059313",
-      "file_size": 2776,
+      "file_date": "2025-06-24T17:16:45.433353",
+      "file_size": 6765,
       "mode": "singleshot"
     },
     "2007_Cadillac": {
@@ -4554,6 +4810,24 @@
       "file_size": 6295,
       "mode": "singleshot"
     },
+    "2018_Genesis": {
+      "filename": "2018_Genesis.json",
+      "year": 2018,
+      "brand": "Genesis",
+      "total_vehicles": 5,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 5,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 4,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T21:11:45.710155",
+      "file_date": "2025-06-24T21:11:45.712160",
+      "file_size": 2368,
+      "mode": "carinfo"
+    },
     "2025_Lexus": {
       "filename": "2025_Lexus.json",
       "year": 2025,
@@ -4734,6 +5008,24 @@
       "file_size": 5901,
       "mode": "singleshot"
     },
+    "2017_Maybach": {
+      "filename": "2017_Maybach.json",
+      "year": 2017,
+      "brand": "Maybach",
+      "total_vehicles": 2,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 2,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 8,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T15:28:28.362795",
+      "file_date": "2025-06-24T15:28:28.365467",
+      "file_size": 3041,
+      "mode": "carinfo"
+    },
     "2007_Land_Rover": {
       "filename": "2007_Land_Rover.json",
       "year": 2007,
@@ -4797,13 +5089,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 46,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 50,
+      "wheel_coverage": 0.424,
+      "total_wheel_sizes": 17,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:33:19.865364",
-      "file_date": "2025-06-23T14:37:31.095996",
-      "file_size": 21033,
+      "file_date": "2025-06-24T16:57:14.618060",
+      "file_size": 40391,
       "mode": "singleshot"
     },
     "2021_Subaru": {
@@ -4851,13 +5143,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 4,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 3,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 5,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:58:37.855838",
-      "file_date": "2025-06-23T14:37:31.098557",
-      "file_size": 1036,
+      "file_date": "2025-06-24T16:36:12.309416",
+      "file_size": 2935,
       "mode": "singleshot"
     },
     "2021_Bentley": {
@@ -5085,13 +5377,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 8,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 16,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 10,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:27:19.715802",
-      "file_date": "2025-06-23T14:37:31.113343",
-      "file_size": 3188,
+      "file_date": "2025-06-24T14:16:25.078413",
+      "file_size": 11501,
       "mode": "singleshot"
     },
     "2021_Aston_Martin": {
@@ -5175,13 +5467,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 36,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 103,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 42,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:23:21.136257",
-      "file_date": "2025-06-23T14:37:31.116704",
-      "file_size": 17725,
+      "file_date": "2025-06-24T16:42:45.651939",
+      "file_size": 91555,
       "mode": "singleshot"
     },
     "2014_BMW": {
@@ -5328,6 +5620,42 @@
       "file_size": 3688,
       "mode": "singleshot"
     },
+    "2019_Maserati": {
+      "filename": "2019_Maserati.json",
+      "year": 2019,
+      "brand": "Maserati",
+      "total_vehicles": 18,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 18,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 20,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T23:19:58.507795",
+      "file_date": "2025-06-24T23:19:58.508982",
+      "file_size": 22624,
+      "mode": "carinfo"
+    },
+    "2019_Karma": {
+      "filename": "2019_Karma.json",
+      "year": 2019,
+      "brand": "Karma",
+      "total_vehicles": 2,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 2,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 7,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T23:10:35.987659",
+      "file_date": "2025-06-24T23:10:35.991190",
+      "file_size": 1967,
+      "mode": "carinfo"
+    },
     "2024_Jaguar": {
       "filename": "2024_Jaguar.json",
       "year": 2024,
@@ -5427,13 +5755,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 10,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 9,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 11,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T09:00:45.625554",
-      "file_date": "2025-06-23T14:37:31.129314",
-      "file_size": 1961,
+      "file_date": "2025-06-24T16:36:53.998682",
+      "file_size": 6031,
       "mode": "singleshot"
     },
     "2016_Toyota": {
@@ -5463,13 +5791,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 55,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 132,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 38,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T18:58:25.330189",
-      "file_date": "2025-06-23T14:37:31.133094",
-      "file_size": 24343,
+      "file_date": "2025-06-24T21:08:33.416361",
+      "file_size": 70555,
       "mode": "singleshot"
     },
     "2010_Acura": {
@@ -5499,13 +5827,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 7,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 17,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 8,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:16:15.809767",
-      "file_date": "2025-06-23T14:37:31.134871",
-      "file_size": 3367,
+      "file_date": "2025-06-24T22:46:56.299038",
+      "file_size": 10331,
       "mode": "singleshot"
     },
     "2005_Bentley": {
@@ -5841,13 +6169,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 7,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 8,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 9,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:28:42.348105",
-      "file_date": "2025-06-23T14:37:31.152173",
-      "file_size": 1874,
+      "file_date": "2025-06-24T15:40:15.728073",
+      "file_size": 9251,
       "mode": "singleshot"
     },
     "2006_Subaru": {
@@ -5949,13 +6277,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 10,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 20,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 18,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:55:44.239145",
-      "file_date": "2025-06-23T14:37:31.159902",
-      "file_size": 4198,
+      "file_date": "2025-06-24T17:06:21.569448",
+      "file_size": 22777,
       "mode": "singleshot"
     },
     "2006_Buick": {
@@ -6138,6 +6466,24 @@
       "file_size": 3254,
       "mode": "singleshot"
     },
+    "2018_Jeep": {
+      "filename": "2018_Jeep.json",
+      "year": 2018,
+      "brand": "Jeep",
+      "total_vehicles": 59,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 59,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 19,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T21:22:54.146354",
+      "file_date": "2025-06-24T21:22:54.148984",
+      "file_size": 16502,
+      "mode": "carinfo"
+    },
     "2020_Volvo": {
       "filename": "2020_Volvo.json",
       "year": 2020,
@@ -6183,13 +6529,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 46,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 59,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 48,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T18:47:53.382529",
-      "file_date": "2025-06-23T14:37:31.180542",
-      "file_size": 11644,
+      "file_date": "2025-06-24T19:59:12.442281",
+      "file_size": 69095,
       "mode": "singleshot"
     },
     "2017_Volvo": {
@@ -6201,13 +6547,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 17,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 28,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 16,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:21:39.045363",
-      "file_date": "2025-06-23T14:37:31.182719",
-      "file_size": 5475,
+      "file_date": "2025-06-24T15:51:59.965807",
+      "file_size": 15494,
       "mode": "singleshot"
     },
     "2019_BMW": {
@@ -6219,13 +6565,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 46,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 60,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 56,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:10:46.695063",
-      "file_date": "2025-06-23T14:37:31.183899",
-      "file_size": 11999,
+      "file_date": "2025-06-24T22:39:38.268666",
+      "file_size": 67750,
       "mode": "singleshot"
     },
     "2017_GMC": {
@@ -6237,13 +6583,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 21,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 46,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 24,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:00:22.912037",
-      "file_date": "2025-06-23T14:37:31.186743",
-      "file_size": 8265,
+      "file_date": "2025-06-24T14:35:14.867143",
+      "file_size": 23206,
       "mode": "singleshot"
     },
     "2020_Acura": {
@@ -6309,13 +6655,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 11,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 14,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 15,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:27:56.446096",
-      "file_date": "2025-06-23T14:37:31.191512",
-      "file_size": 3312,
+      "file_date": "2025-06-24T14:53:40.891720",
+      "file_size": 18014,
       "mode": "singleshot"
     },
     "2017_Acura": {
@@ -6327,13 +6673,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 10,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 12,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 11,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T21:43:57.056709",
-      "file_date": "2025-06-23T14:37:31.192895",
-      "file_size": 2053,
+      "file_date": "2025-06-24T14:09:53.464501",
+      "file_size": 5181,
       "mode": "singleshot"
     },
     "2015_Ram": {
@@ -6489,13 +6835,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 10,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 24,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 12,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T21:53:47.194670",
-      "file_date": "2025-06-23T14:37:31.205150",
-      "file_size": 4544,
+      "file_date": "2025-06-24T14:22:55.680687",
+      "file_size": 12714,
       "mode": "singleshot"
     },
     "2006_Mazda": {
@@ -6516,6 +6862,24 @@
       "file_size": 3595,
       "mode": "singleshot"
     },
+    "2017_Ferrari": {
+      "filename": "2017_Ferrari.json",
+      "year": 2017,
+      "brand": "Ferrari",
+      "total_vehicles": 9,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 9,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 14,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T15:18:59.674907",
+      "file_date": "2025-06-24T15:18:59.677711",
+      "file_size": 6018,
+      "mode": "carinfo"
+    },
     "2017_Hyundai": {
       "filename": "2017_Hyundai.json",
       "year": 2017,
@@ -6525,13 +6889,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 17,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 48,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 13,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:03:15.661198",
-      "file_date": "2025-06-23T14:37:31.208252",
-      "file_size": 7473,
+      "file_date": "2025-06-24T14:40:08.648277",
+      "file_size": 17257,
       "mode": "singleshot"
     },
     "2013_Mitsubishi": {
@@ -6714,6 +7078,24 @@
       "file_size": 1435,
       "mode": "singleshot"
     },
+    "2018_Lexus": {
+      "filename": "2018_Lexus.json",
+      "year": 2018,
+      "brand": "Lexus",
+      "total_vehicles": 35,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 35,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 24,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T21:30:43.419395",
+      "file_date": "2025-06-24T21:30:43.422066",
+      "file_size": 16029,
+      "mode": "carinfo"
+    },
     "2015_Infiniti": {
       "filename": "2015_Infiniti.json",
       "year": 2015,
@@ -6723,13 +7105,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 14,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 19,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 14,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:38:09.946648",
-      "file_date": "2025-06-23T14:37:31.223946",
-      "file_size": 3689,
+      "file_date": "2025-06-24T17:04:54.272040",
+      "file_size": 10483,
       "mode": "singleshot"
     },
     "2015_Honda": {
@@ -6741,14 +7123,32 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 17,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 37,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 15,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:35:57.236763",
-      "file_date": "2025-06-23T14:37:31.226017",
-      "file_size": 5323,
+      "file_date": "2025-06-24T17:01:47.747288",
+      "file_size": 13120,
       "mode": "singleshot"
+    },
+    "2019_Fiat": {
+      "filename": "2019_Fiat.json",
+      "year": 2019,
+      "brand": "Fiat",
+      "total_vehicles": 18,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 18,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 4,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T22:52:23.285113",
+      "file_date": "2025-06-24T22:52:23.286292",
+      "file_size": 5666,
+      "mode": "carinfo"
     },
     "2025_Chevrolet": {
       "filename": "2025_Chevrolet.json",
@@ -6975,13 +7375,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 43,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 83,
+      "wheel_coverage": 0.965,
+      "total_wheel_sizes": 37,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:14:41.402816",
-      "file_date": "2025-06-23T14:37:31.240885",
-      "file_size": 12539,
+      "file_date": "2025-06-24T15:34:04.894034",
+      "file_size": 31732,
       "mode": "singleshot"
     },
     "2013_BMW": {
@@ -7101,14 +7501,32 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 20,
       "has_tire_data": true,
+      "vehicles_with_wheels": 29,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 16,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-21T08:39:09.319301",
+      "file_date": "2025-06-24T17:07:32.654614",
+      "file_size": 12578,
+      "mode": "singleshot"
+    },
+    "2017_Lotus": {
+      "filename": "2017_Lotus.json",
+      "year": 2017,
+      "brand": "Lotus",
+      "total_vehicles": 1,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
       "vehicles_with_wheels": 0,
       "wheel_coverage": 0.0,
       "total_wheel_sizes": 0,
       "has_wheel_data": false,
-      "scraping_date": "2025-06-21T08:39:09.319301",
-      "file_date": "2025-06-23T14:37:31.246985",
-      "file_size": 5303,
-      "mode": "singleshot"
+      "scraping_date": "2025-06-24T15:26:56.781744",
+      "file_date": "2025-06-24T15:26:56.784210",
+      "file_size": 350,
+      "mode": "carinfo"
     },
     "2021_Fiat": {
       "filename": "2021_Fiat.json",
@@ -7155,13 +7573,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 14,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 26,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 14,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:09:32.128217",
-      "file_date": "2025-06-23T14:37:31.247635",
-      "file_size": 3738,
+      "file_date": "2025-06-24T14:55:47.937872",
+      "file_size": 9034,
       "mode": "singleshot"
     },
     "2020_Mazda": {
@@ -7227,13 +7645,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 25,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 35,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 17,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:41:42.025117",
-      "file_date": "2025-06-23T14:37:31.252711",
-      "file_size": 6386,
+      "file_date": "2025-06-24T17:13:02.490784",
+      "file_size": 18649,
       "mode": "singleshot"
     },
     "2020_Ram": {
@@ -7281,13 +7699,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 17,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 35,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 12,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:20:41.222574",
-      "file_date": "2025-06-23T14:37:31.259538",
-      "file_size": 5455,
+      "file_date": "2025-06-24T15:50:48.801154",
+      "file_size": 14201,
       "mode": "singleshot"
     },
     "2017_Porsche": {
@@ -7299,13 +7717,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 24,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 38,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 33,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:25:23.723575",
-      "file_date": "2025-06-23T14:37:31.262884",
-      "file_size": 10193,
+      "file_date": "2025-06-24T15:38:34.467664",
+      "file_size": 57963,
       "mode": "singleshot"
     },
     "2018_Honda": {
@@ -7317,13 +7735,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 15,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 44,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 16,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T19:01:14.140323",
-      "file_date": "2025-06-23T14:37:31.263959",
-      "file_size": 6365,
+      "file_date": "2025-06-24T21:13:52.051847",
+      "file_size": 15405,
       "mode": "singleshot"
     },
     "2016_Aston_Martin": {
@@ -7497,13 +7915,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 29,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 57,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 25,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:08:52.170862",
-      "file_date": "2025-06-23T14:37:31.280989",
-      "file_size": 10374,
+      "file_date": "2025-06-24T22:37:36.452206",
+      "file_size": 38053,
       "mode": "singleshot"
     },
     "2015_Genesis": {
@@ -7520,8 +7938,8 @@
       "total_wheel_sizes": 0,
       "has_wheel_data": false,
       "scraping_date": "2025-06-21T08:54:57.718864",
-      "file_date": "2025-06-23T14:37:31.281734",
-      "file_size": 1184,
+      "file_date": "2025-06-24T16:59:54.399363",
+      "file_size": 1267,
       "mode": "singleshot"
     },
     "2023_Cadillac": {
@@ -7587,13 +8005,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 11,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 21,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 14,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T21:48:51.680156",
-      "file_date": "2025-06-23T14:37:31.286080",
-      "file_size": 3458,
+      "file_date": "2025-06-24T14:17:24.360373",
+      "file_size": 9647,
       "mode": "singleshot"
     },
     "2020_Jeep": {
@@ -7631,6 +8049,24 @@
       "file_date": "2025-06-23T14:37:31.287890",
       "file_size": 3147,
       "mode": "singleshot"
+    },
+    "2015_Mini": {
+      "filename": "2015_Mini.json",
+      "year": 2015,
+      "brand": "Mini",
+      "total_vehicles": 21,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 21,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 10,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T17:20:58.567106",
+      "file_date": "2025-06-24T17:20:58.570453",
+      "file_size": 11965,
+      "mode": "carinfo"
     },
     "2012_Genesis": {
       "filename": "2012_Genesis.json",
@@ -7703,6 +8139,24 @@
       "file_date": "2025-06-23T14:37:31.290830",
       "file_size": 3759,
       "mode": "singleshot"
+    },
+    "2019_Rolls_Royce": {
+      "filename": "2019_Rolls_Royce.json",
+      "year": 2019,
+      "brand": "Rolls-Royce",
+      "total_vehicles": 7,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 7,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 16,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T23:39:16.427966",
+      "file_date": "2025-06-24T23:39:16.431560",
+      "file_size": 9335,
+      "mode": "carinfo"
     },
     "2016_Dodge": {
       "filename": "2016_Dodge.json",
@@ -7983,14 +8437,32 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 4,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 4,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 5,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:28:16.194932",
-      "file_date": "2025-06-23T14:37:31.309795",
-      "file_size": 1010,
+      "file_date": "2025-06-24T14:56:21.175965",
+      "file_size": 2907,
       "mode": "singleshot"
+    },
+    "2019_Jaguar": {
+      "filename": "2019_Jaguar.json",
+      "year": 2019,
+      "brand": "Jaguar",
+      "total_vehicles": 38,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 38,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 31,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T23:08:05.904480",
+      "file_date": "2025-06-24T23:08:05.906408",
+      "file_size": 30453,
+      "mode": "carinfo"
     },
     "2021_Ford": {
       "filename": "2021_Ford.json",
@@ -8055,13 +8527,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 13,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 29,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 13,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:24:05.631701",
-      "file_date": "2025-06-23T14:37:31.317803",
-      "file_size": 7187,
+      "file_date": "2025-06-24T14:49:04.604574",
+      "file_size": 23975,
       "mode": "singleshot"
     },
     "2012_Audi": {
@@ -8343,13 +8815,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 17,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 30,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 17,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:12:31.359707",
-      "file_date": "2025-06-23T14:37:31.333099",
-      "file_size": 4992,
+      "file_date": "2025-06-24T22:42:51.287968",
+      "file_size": 15497,
       "mode": "singleshot"
     },
     "2005_McLaren": {
@@ -8730,6 +9202,24 @@
       "file_size": 6485,
       "mode": "singleshot"
     },
+    "2019_SRT": {
+      "filename": "2019_SRT.json",
+      "year": 2019,
+      "brand": "SRT",
+      "total_vehicles": 5,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 5,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 3,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T23:40:20.593805",
+      "file_date": "2025-06-24T23:40:20.597221",
+      "file_size": 1907,
+      "mode": "carinfo"
+    },
     "2010_Toyota": {
       "filename": "2010_Toyota.json",
       "year": 2010,
@@ -8747,6 +9237,24 @@
       "file_date": "2025-06-23T14:37:31.355060",
       "file_size": 8857,
       "mode": "singleshot"
+    },
+    "2015_Lamborghini": {
+      "filename": "2015_Lamborghini.json",
+      "year": 2015,
+      "brand": "Lamborghini",
+      "total_vehicles": 3,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 3,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 7,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T17:10:36.883234",
+      "file_date": "2025-06-24T17:10:36.885947",
+      "file_size": 2437,
+      "mode": "carinfo"
     },
     "2016_Porsche": {
       "filename": "2016_Porsche.json",
@@ -8775,13 +9283,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 39,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 50,
+      "wheel_coverage": 0.877,
+      "total_wheel_sizes": 32,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:44:40.249760",
-      "file_date": "2025-06-23T14:37:31.359555",
-      "file_size": 10559,
+      "file_date": "2025-06-24T17:18:59.999074",
+      "file_size": 42790,
       "mode": "singleshot"
     },
     "2007_Chrysler": {
@@ -8811,14 +9319,32 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 20,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 43,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 17,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:27:32.648220",
-      "file_date": "2025-06-23T14:37:31.362322",
-      "file_size": 6424,
+      "file_date": "2025-06-24T23:12:09.648756",
+      "file_size": 17088,
       "mode": "singleshot"
+    },
+    "2018_Kia": {
+      "filename": "2018_Kia.json",
+      "year": 2018,
+      "brand": "Kia",
+      "total_vehicles": 44,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 44,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 17,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T21:25:58.504178",
+      "file_date": "2025-06-24T21:25:58.508161",
+      "file_size": 14610,
+      "mode": "carinfo"
     },
     "2006_Volkswagen": {
       "filename": "2006_Volkswagen.json",
@@ -9207,13 +9733,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 9,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 6,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 11,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:29:05.120871",
-      "file_date": "2025-06-23T14:37:31.390025",
-      "file_size": 1399,
+      "file_date": "2025-06-24T14:11:05.669694",
+      "file_size": 4173,
       "mode": "singleshot"
     },
     "2010_Honda": {
@@ -9297,13 +9823,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 50,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 124,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 39,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:20:56.421079",
-      "file_date": "2025-06-23T14:37:31.414159",
-      "file_size": 22650,
+      "file_date": "2025-06-24T22:56:36.315363",
+      "file_size": 65363,
       "mode": "singleshot"
     },
     "2025_Land_Rover": {
@@ -9394,6 +9920,24 @@
       "scraping_date": "2025-06-23T00:35:36.248710",
       "file_date": "2025-06-23T14:37:31.433594",
       "file_size": 5654,
+      "mode": "carinfo"
+    },
+    "2018_Land_Rover": {
+      "filename": "2018_Land_Rover.json",
+      "year": 2018,
+      "brand": "Land Rover",
+      "total_vehicles": 31,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 31,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 18,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T21:28:52.424028",
+      "file_date": "2025-06-24T21:28:52.427243",
+      "file_size": 20952,
       "mode": "carinfo"
     },
     "2010_Maserati": {
@@ -9549,13 +10093,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 29,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 63,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 24,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T21:45:51.780611",
-      "file_date": "2025-06-23T14:37:31.470365",
-      "file_size": 11397,
+      "file_date": "2025-06-24T14:13:12.852752",
+      "file_size": 39248,
       "mode": "singleshot"
     },
     "2017_BMW": {
@@ -9567,13 +10111,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 38,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 71,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 45,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T21:48:05.299848",
-      "file_date": "2025-06-23T14:37:31.471613",
-      "file_size": 13324,
+      "file_date": "2025-06-24T14:15:33.266407",
+      "file_size": 80131,
       "mode": "singleshot"
     },
     "2019_GMC": {
@@ -9585,13 +10129,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 26,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 51,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 24,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:22:31.673941",
-      "file_date": "2025-06-23T14:37:31.472828",
-      "file_size": 9781,
+      "file_date": "2025-06-24T22:58:54.063691",
+      "file_size": 27488,
       "mode": "singleshot"
     },
     "2024_Lexus": {
@@ -9621,13 +10165,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 22,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 45,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 24,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T18:59:51.348921",
-      "file_date": "2025-06-23T14:37:31.475073",
-      "file_size": 8340,
+      "file_date": "2025-06-24T21:10:41.589624",
+      "file_size": 23840,
       "mode": "singleshot"
     },
     "2024_Ford": {
@@ -9693,13 +10237,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 4,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 3,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 6,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:59:53.356461",
-      "file_date": "2025-06-23T14:37:31.480653",
-      "file_size": 823,
+      "file_date": "2025-06-24T17:17:16.088747",
+      "file_size": 2488,
       "mode": "singleshot"
     },
     "2000_Volvo": {
@@ -9729,13 +10273,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 31,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 71,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 26,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:19:32.733223",
-      "file_date": "2025-06-23T14:37:31.484239",
-      "file_size": 10655,
+      "file_date": "2025-06-24T15:49:27.106025",
+      "file_size": 25751,
       "mode": "singleshot"
     },
     "2000_Acura": {
@@ -9828,6 +10372,24 @@
       "file_size": 3578,
       "mode": "singleshot"
     },
+    "2019_Bentley": {
+      "filename": "2019_Bentley.json",
+      "year": 2019,
+      "brand": "Bentley",
+      "total_vehicles": 4,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 4,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 6,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T22:40:41.215796",
+      "file_date": "2025-06-24T22:40:41.217923",
+      "file_size": 2226,
+      "mode": "carinfo"
+    },
     "2018_Cadillac": {
       "filename": "2018_Cadillac.json",
       "year": 2018,
@@ -9837,13 +10399,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 18,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 34,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 19,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T18:49:43.810478",
-      "file_date": "2025-06-23T14:37:31.492273",
-      "file_size": 5844,
+      "file_date": "2025-06-24T20:02:48.322654",
+      "file_size": 17545,
       "mode": "singleshot"
     },
     "2024_Mercedes_Benz": {
@@ -9881,6 +10443,24 @@
       "file_date": "2025-06-23T14:37:31.494812",
       "file_size": 6849,
       "mode": "singleshot"
+    },
+    "2017_Smart": {
+      "filename": "2017_Smart.json",
+      "year": 2017,
+      "brand": "Smart",
+      "total_vehicles": 8,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 8,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 8,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T15:44:03.872860",
+      "file_date": "2025-06-24T15:44:03.878641",
+      "file_size": 5163,
+      "mode": "carinfo"
     },
     "2005_Chevrolet": {
       "filename": "2005_Chevrolet.json",
@@ -9999,13 +10579,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 23,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 33,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 25,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:23:05.167720",
-      "file_date": "2025-06-23T14:37:31.502350",
-      "file_size": 6477,
+      "file_date": "2025-06-24T14:43:04.591852",
+      "file_size": 30167,
       "mode": "singleshot"
     },
     "2016_Alfa_Romeo": {
@@ -10053,13 +10633,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 49,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 101,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 40,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T18:52:39.835832",
-      "file_date": "2025-06-23T14:37:31.504910",
-      "file_size": 17913,
+      "file_date": "2025-06-24T20:05:53.551220",
+      "file_size": 50522,
       "mode": "singleshot"
     },
     "2025_Toyota": {
@@ -10386,6 +10966,24 @@
       "file_size": 3578,
       "mode": "singleshot"
     },
+    "2019_Lamborghini": {
+      "filename": "2019_Lamborghini.json",
+      "year": 2019,
+      "brand": "Lamborghini",
+      "total_vehicles": 16,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 16,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 18,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T23:13:31.054894",
+      "file_date": "2025-06-24T23:13:31.057261",
+      "file_size": 9728,
+      "mode": "carinfo"
+    },
     "2000_Hummer": {
       "filename": "2000_Hummer.json",
       "year": 2000,
@@ -10566,6 +11164,24 @@
       "file_size": 1194,
       "mode": "singleshot"
     },
+    "2018_Karma": {
+      "filename": "2018_Karma.json",
+      "year": 2018,
+      "brand": "Karma",
+      "total_vehicles": 2,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 2,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 7,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T21:23:53.859854",
+      "file_date": "2025-06-24T21:23:53.860466",
+      "file_size": 1612,
+      "mode": "carinfo"
+    },
     "2000_Mazda": {
       "filename": "2000_Mazda.json",
       "year": 2000,
@@ -10611,13 +11227,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 16,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 25,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 19,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:04:08.565164",
-      "file_date": "2025-06-23T14:37:31.531006",
-      "file_size": 4320,
+      "file_date": "2025-06-24T14:41:14.454500",
+      "file_size": 10980,
       "mode": "singleshot"
     },
     "2011_Genesis": {
@@ -10692,6 +11308,24 @@
       "file_size": 13474,
       "mode": "singleshot"
     },
+    "2017_Fiat": {
+      "filename": "2017_Fiat.json",
+      "year": 2017,
+      "brand": "Fiat",
+      "total_vehicles": 20,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 20,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 8,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T15:20:26.743035",
+      "file_date": "2025-06-24T15:20:26.744655",
+      "file_size": 7343,
+      "mode": "carinfo"
+    },
     "2014_Porsche": {
       "filename": "2014_Porsche.json",
       "year": 2014,
@@ -10737,13 +11371,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 49,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 96,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 37,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T21:52:55.504313",
-      "file_date": "2025-06-23T14:37:31.537646",
-      "file_size": 16877,
+      "file_date": "2025-06-24T14:21:51.117972",
+      "file_size": 47241,
       "mode": "singleshot"
     },
     "2010_Ram": {
@@ -10773,13 +11407,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 35,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 44,
+      "wheel_coverage": 0.603,
+      "total_wheel_sizes": 28,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:47:33.288636",
-      "file_date": "2025-06-23T14:37:31.540304",
-      "file_size": 10810,
+      "file_date": "2025-06-24T17:23:37.562472",
+      "file_size": 21780,
       "mode": "singleshot"
     },
     "2015_Chrysler": {
@@ -10791,13 +11425,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 9,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 19,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 14,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:28:44.537388",
-      "file_date": "2025-06-23T14:37:31.560986",
-      "file_size": 3465,
+      "file_date": "2025-06-24T16:49:41.262920",
+      "file_size": 9750,
       "mode": "singleshot"
     },
     "2007_Mitsubishi": {
@@ -10907,6 +11541,24 @@
       "file_date": "2025-06-23T14:37:31.572876",
       "file_size": 7736,
       "mode": "singleshot"
+    },
+    "2017_Polestar": {
+      "filename": "2017_Polestar.json",
+      "year": 2017,
+      "brand": "Polestar",
+      "total_vehicles": 1,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 0,
+      "wheel_coverage": 0.0,
+      "total_wheel_sizes": 0,
+      "has_wheel_data": false,
+      "scraping_date": "2025-06-24T15:36:35.632319",
+      "file_date": "2025-06-24T15:36:35.632832",
+      "file_size": 350,
+      "mode": "carinfo"
     },
     "2016_Jeep": {
       "filename": "2016_Jeep.json",
@@ -11025,13 +11677,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 9,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 7,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 13,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:59:35.335092",
-      "file_date": "2025-06-23T14:37:31.577302",
-      "file_size": 2568,
+      "file_date": "2025-06-24T17:15:19.924932",
+      "file_size": 9465,
       "mode": "singleshot"
     },
     "2023_McLaren": {
@@ -11061,13 +11713,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 48,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 43,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 46,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:31:46.889495",
-      "file_date": "2025-06-23T14:37:31.578892",
-      "file_size": 10075,
+      "file_date": "2025-06-24T23:25:41.123299",
+      "file_size": 47158,
       "mode": "singleshot"
     },
     "2013_Infiniti": {
@@ -11141,6 +11793,24 @@
       "file_date": "2025-06-23T14:37:31.581641",
       "file_size": 10757,
       "mode": "singleshot"
+    },
+    "2019_Alfa_Romeo": {
+      "filename": "2019_Alfa_Romeo.json",
+      "year": 2019,
+      "brand": "Alfa Romeo",
+      "total_vehicles": 12,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 12,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 14,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T22:34:34.631231",
+      "file_date": "2025-06-24T22:34:34.633111",
+      "file_size": 8749,
+      "mode": "carinfo"
     },
     "2022_Hyundai": {
       "filename": "2022_Hyundai.json",
@@ -11268,6 +11938,24 @@
       "file_size": 5243,
       "mode": "singleshot"
     },
+    "2019_Maybach": {
+      "filename": "2019_Maybach.json",
+      "year": 2019,
+      "brand": "Maybach",
+      "total_vehicles": 2,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 2,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 8,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T23:20:58.000771",
+      "file_date": "2025-06-24T23:20:58.002298",
+      "file_size": 3755,
+      "mode": "carinfo"
+    },
     "2022_BMW": {
       "filename": "2022_BMW.json",
       "year": 2022,
@@ -11340,6 +12028,24 @@
       "file_size": 5635,
       "mode": "singleshot"
     },
+    "2018_Lincoln": {
+      "filename": "2018_Lincoln.json",
+      "year": 2018,
+      "brand": "Lincoln",
+      "total_vehicles": 17,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 17,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 11,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T21:32:06.294366",
+      "file_date": "2025-06-24T21:32:06.296962",
+      "file_size": 6520,
+      "mode": "carinfo"
+    },
     "2022_Ferrari": {
       "filename": "2022_Ferrari.json",
       "year": 2022,
@@ -11367,13 +12073,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 53,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 136,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 38,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T21:58:55.537380",
-      "file_date": "2025-06-23T14:37:31.595424",
-      "file_size": 25106,
+      "file_date": "2025-06-24T14:33:04.933117",
+      "file_size": 72533,
       "mode": "singleshot"
     },
     "2006_McLaren": {
@@ -11457,13 +12163,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 52,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 63,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 52,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:11:29.775988",
-      "file_date": "2025-06-23T14:37:31.598356",
-      "file_size": 12600,
+      "file_date": "2025-06-24T14:58:27.839608",
+      "file_size": 64232,
       "mode": "singleshot"
     },
     "2008_Volvo": {
@@ -11601,13 +12307,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 7,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 7,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 9,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T09:00:17.946983",
-      "file_date": "2025-06-23T14:37:31.604326",
-      "file_size": 1588,
+      "file_date": "2025-06-24T17:29:16.000141",
+      "file_size": 7806,
       "mode": "singleshot"
     },
     "2026_Genesis": {
@@ -11709,13 +12415,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 10,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 19,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 10,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:11:30.247291",
-      "file_date": "2025-06-23T14:37:31.608455",
-      "file_size": 3229,
+      "file_date": "2025-06-24T22:41:37.766671",
+      "file_size": 8487,
       "mode": "singleshot"
     },
     "2023_Porsche": {
@@ -11781,13 +12487,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 16,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 38,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 15,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T18:54:36.843797",
-      "file_date": "2025-06-23T14:37:31.612868",
-      "file_size": 6321,
+      "file_date": "2025-06-24T20:09:16.894969",
+      "file_size": 17049,
       "mode": "singleshot"
     },
     "2000_Ferrari": {
@@ -11897,6 +12603,24 @@
       "file_date": "2025-06-23T14:37:31.617358",
       "file_size": 18988,
       "mode": "singleshot"
+    },
+    "2019_Mitsubishi": {
+      "filename": "2019_Mitsubishi.json",
+      "year": 2019,
+      "brand": "Mitsubishi",
+      "total_vehicles": 19,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 19,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 9,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T23:28:58.334159",
+      "file_date": "2025-06-24T23:28:58.336718",
+      "file_size": 5620,
+      "mode": "carinfo"
     },
     "2003_Ford": {
       "filename": "2003_Ford.json",
@@ -12303,13 +13027,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 23,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 43,
+      "wheel_coverage": 0.896,
+      "total_wheel_sizes": 17,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:37:26.471061",
-      "file_date": "2025-06-23T14:37:31.638310",
-      "file_size": 7567,
+      "file_date": "2025-06-24T17:03:58.781417",
+      "file_size": 18269,
       "mode": "singleshot"
     },
     "2005_Buick": {
@@ -12357,13 +13081,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 12,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 28,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 12,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:30:21.380376",
-      "file_date": "2025-06-23T14:37:31.639930",
-      "file_size": 4050,
+      "file_date": "2025-06-24T23:22:08.373724",
+      "file_size": 9760,
       "mode": "singleshot"
     },
     "2005_Audi": {
@@ -12420,6 +13144,24 @@
       "file_size": 355,
       "mode": "carinfo"
     },
+    "2018_Bentley": {
+      "filename": "2018_Bentley.json",
+      "year": 2018,
+      "brand": "Bentley",
+      "total_vehicles": 15,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 15,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 10,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T20:59:40.147475",
+      "file_date": "2025-06-24T20:59:40.150770",
+      "file_size": 8957,
+      "mode": "carinfo"
+    },
     "2003_Chevrolet": {
       "filename": "2003_Chevrolet.json",
       "year": 2003,
@@ -12456,6 +13198,24 @@
       "file_size": 47190,
       "mode": "singleshot"
     },
+    "2015_Ferrari": {
+      "filename": "2015_Ferrari.json",
+      "year": 2015,
+      "brand": "Ferrari",
+      "total_vehicles": 9,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 9,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 13,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T16:53:42.185954",
+      "file_date": "2025-06-24T16:53:42.188483",
+      "file_size": 7489,
+      "mode": "carinfo"
+    },
     "2017_Subaru": {
       "filename": "2017_Subaru.json",
       "year": 2017,
@@ -12465,13 +13225,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 13,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 39,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 11,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:17:27.448558",
-      "file_date": "2025-06-23T14:37:31.646091",
-      "file_size": 5822,
+      "file_date": "2025-06-24T15:45:31.469873",
+      "file_size": 13259,
       "mode": "singleshot"
     },
     "2012_Hyundai": {
@@ -12501,13 +13261,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 11,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 25,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 13,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:56:38.957648",
-      "file_date": "2025-06-23T14:37:31.647928",
-      "file_size": 5769,
+      "file_date": "2025-06-24T17:11:41.860447",
+      "file_size": 18061,
       "mode": "singleshot"
     },
     "2012_Volkswagen": {
@@ -12580,6 +13340,24 @@
       "scraping_date": "2025-06-22T15:47:22.791344",
       "file_date": "2025-06-23T14:37:31.652040",
       "file_size": 1715,
+      "mode": "carinfo"
+    },
+    "2019_Nissan": {
+      "filename": "2019_Nissan.json",
+      "year": 2019,
+      "brand": "Nissan",
+      "total_vehicles": 79,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 78,
+      "wheel_coverage": 0.987,
+      "total_wheel_sizes": 35,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T23:31:58.146782",
+      "file_date": "2025-06-24T23:31:58.151183",
+      "file_size": 23761,
       "mode": "carinfo"
     },
     "2025_McLaren": {
@@ -12699,13 +13477,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 53,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 105,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 42,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:15:35.444920",
-      "file_date": "2025-06-23T14:37:31.658561",
-      "file_size": 19134,
+      "file_date": "2025-06-24T22:46:02.791179",
+      "file_size": 55247,
       "mode": "singleshot"
     },
     "2010_Jeep": {
@@ -12753,13 +13531,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 15,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 35,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 19,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:29:53.377917",
-      "file_date": "2025-06-23T14:37:31.660456",
-      "file_size": 5607,
+      "file_date": "2025-06-24T16:52:01.727961",
+      "file_size": 15243,
       "mode": "singleshot"
     },
     "2022_McLaren": {
@@ -12974,9 +13752,27 @@
       "total_wheel_sizes": 0,
       "has_wheel_data": false,
       "scraping_date": "2025-06-20T17:29:24.126981",
-      "file_date": "2025-06-23T14:37:31.670131",
-      "file_size": 2974,
+      "file_date": "2025-06-24T23:17:32.503604",
+      "file_size": 3057,
       "mode": "singleshot"
+    },
+    "2017_SRT": {
+      "filename": "2017_SRT.json",
+      "year": 2017,
+      "brand": "SRT",
+      "total_vehicles": 6,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 6,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 6,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T15:41:21.382203",
+      "file_date": "2025-06-24T15:41:21.384965",
+      "file_size": 2524,
+      "mode": "carinfo"
     },
     "2024_Hyundai": {
       "filename": "2024_Hyundai.json",
@@ -13032,6 +13828,24 @@
       "file_size": 917,
       "mode": "carinfo"
     },
+    "2018_Maybach": {
+      "filename": "2018_Maybach.json",
+      "year": 2018,
+      "brand": "Maybach",
+      "total_vehicles": 1,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 0,
+      "wheel_coverage": 0.0,
+      "total_wheel_sizes": 0,
+      "has_wheel_data": false,
+      "scraping_date": "2025-06-24T21:35:49.539268",
+      "file_date": "2025-06-24T21:35:49.541547",
+      "file_size": 354,
+      "mode": "carinfo"
+    },
     "2005_Acura": {
       "filename": "2005_Acura.json",
       "year": 2005,
@@ -13059,13 +13873,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 27,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 45,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 16,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:06:47.548346",
-      "file_date": "2025-06-23T14:37:31.673726",
-      "file_size": 6597,
+      "file_date": "2025-06-24T14:46:41.791647",
+      "file_size": 17146,
       "mode": "singleshot"
     },
     "2016_Kia": {
@@ -13347,13 +14161,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 5,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 4,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 4,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:21:58.619099",
-      "file_date": "2025-06-23T14:37:31.686217",
-      "file_size": 957,
+      "file_date": "2025-06-24T14:35:48.005520",
+      "file_size": 2430,
       "mode": "singleshot"
     },
     "2008_Audi": {
@@ -13509,13 +14323,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 26,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 41,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 27,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:58:02.969400",
-      "file_date": "2025-06-23T14:37:31.696866",
-      "file_size": 10995,
+      "file_date": "2025-06-24T17:27:38.895233",
+      "file_size": 57612,
       "mode": "singleshot"
     },
     "2008_Cadillac": {
@@ -13563,14 +14377,32 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 12,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 17,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 13,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:07:05.372425",
-      "file_date": "2025-06-23T14:37:31.699115",
-      "file_size": 2887,
+      "file_date": "2025-06-24T22:33:19.678576",
+      "file_size": 7023,
       "mode": "singleshot"
+    },
+    "2018_Lamborghini": {
+      "filename": "2018_Lamborghini.json",
+      "year": 2018,
+      "brand": "Lamborghini",
+      "total_vehicles": 8,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 8,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 8,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T21:27:07.770419",
+      "file_date": "2025-06-24T21:27:07.771056",
+      "file_size": 5502,
+      "mode": "carinfo"
     },
     "2000_Honda": {
       "filename": "2000_Honda.json",
@@ -13905,13 +14737,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 17,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 36,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 18,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:25:13.640655",
-      "file_date": "2025-06-23T14:37:31.714665",
-      "file_size": 5994,
+      "file_date": "2025-06-24T16:45:49.245777",
+      "file_size": 17516,
       "mode": "singleshot"
     },
     "2022_Alfa_Romeo": {
@@ -14436,6 +15268,24 @@
       "file_size": 2097,
       "mode": "singleshot"
     },
+    "2019_McLaren": {
+      "filename": "2019_McLaren.json",
+      "year": 2019,
+      "brand": "McLaren",
+      "total_vehicles": 7,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 7,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 6,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T23:23:15.702498",
+      "file_date": "2025-06-24T23:23:15.704380",
+      "file_size": 4014,
+      "mode": "carinfo"
+    },
     "2000_Saturn": {
       "filename": "2000_Saturn.json",
       "year": 2000,
@@ -14697,13 +15547,13 @@
       "tire_coverage": 0.958,
       "total_tire_sizes": 8,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 24,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 12,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T19:02:05.247707",
-      "file_date": "2025-06-23T14:37:31.749274",
-      "file_size": 3541,
+      "file_date": "2025-06-24T21:16:13.865792",
+      "file_size": 8953,
       "mode": "singleshot"
     },
     "2024_Acura": {
@@ -14877,13 +15727,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 7,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 19,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 8,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T18:53:23.298698",
-      "file_date": "2025-06-23T14:37:31.756629",
-      "file_size": 3500,
+      "file_date": "2025-06-24T20:06:49.915212",
+      "file_size": 10076,
       "mode": "singleshot"
     },
     "2022_Lincoln": {
@@ -14958,6 +15808,42 @@
       "file_size": 28593,
       "mode": "singleshot"
     },
+    "2018_Ferrari": {
+      "filename": "2018_Ferrari.json",
+      "year": 2018,
+      "brand": "Ferrari",
+      "total_vehicles": 8,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 8,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 12,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T21:02:32.603886",
+      "file_date": "2025-06-24T21:02:32.606708",
+      "file_size": 4833,
+      "mode": "carinfo"
+    },
+    "2017_Mini": {
+      "filename": "2017_Mini.json",
+      "year": 2017,
+      "brand": "Mini",
+      "total_vehicles": 18,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 18,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 12,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T15:30:29.696993",
+      "file_date": "2025-06-24T15:30:29.699717",
+      "file_size": 13578,
+      "mode": "carinfo"
+    },
     "2016_Fiat": {
       "filename": "2016_Fiat.json",
       "year": 2016,
@@ -14985,13 +15871,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 5,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 12,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 8,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:59:10.450651",
-      "file_date": "2025-06-23T14:37:31.763437",
-      "file_size": 2525,
+      "file_date": "2025-06-24T16:43:31.282516",
+      "file_size": 9277,
       "mode": "singleshot"
     },
     "2024_Maybach": {
@@ -15044,8 +15930,8 @@
       "total_wheel_sizes": 0,
       "has_wheel_data": false,
       "scraping_date": "2025-06-20T22:12:11.458335",
-      "file_date": "2025-06-23T14:37:31.767054",
-      "file_size": 2878,
+      "file_date": "2025-06-24T15:31:24.214993",
+      "file_size": 2961,
       "mode": "singleshot"
     },
     "2025_Chrysler": {
@@ -15083,6 +15969,24 @@
       "file_date": "2025-06-23T14:37:31.769090",
       "file_size": 14255,
       "mode": "singleshot"
+    },
+    "2018_Maserati": {
+      "filename": "2018_Maserati.json",
+      "year": 2018,
+      "brand": "Maserati",
+      "total_vehicles": 13,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 13,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 15,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T21:34:51.801624",
+      "file_date": "2025-06-24T21:34:51.804139",
+      "file_size": 15199,
+      "mode": "carinfo"
     },
     "2003_Jeep": {
       "filename": "2003_Jeep.json",
@@ -15129,13 +16033,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 22,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 39,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 18,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:05:23.651242",
-      "file_date": "2025-06-23T14:37:31.770977",
-      "file_size": 7020,
+      "file_date": "2025-06-24T14:44:33.571091",
+      "file_size": 16785,
       "mode": "singleshot"
     },
     "2023_Fiat": {
@@ -15228,6 +16132,24 @@
       "file_size": 491,
       "mode": "carinfo"
     },
+    "2018_Jaguar": {
+      "filename": "2018_Jaguar.json",
+      "year": 2018,
+      "brand": "Jaguar",
+      "total_vehicles": 49,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 49,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 26,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T21:20:25.813322",
+      "file_date": "2025-06-24T21:20:25.816928",
+      "file_size": 41819,
+      "mode": "carinfo"
+    },
     "2011_Honda": {
       "filename": "2011_Honda.json",
       "year": 2011,
@@ -15299,6 +16221,24 @@
       "file_date": "2025-06-23T23:24:33.384076",
       "file_size": 19893,
       "mode": "singleshot"
+    },
+    "2019_Aston_Martin": {
+      "filename": "2019_Aston_Martin.json",
+      "year": 2019,
+      "brand": "Aston Martin",
+      "total_vehicles": 6,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 6,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 12,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T22:35:40.323584",
+      "file_date": "2025-06-24T22:35:40.324159",
+      "file_size": 3500,
+      "mode": "carinfo"
     },
     "2021_Volvo": {
       "filename": "2021_Volvo.json",
@@ -15453,13 +16393,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 50,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 95,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 41,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:28:00.590754",
-      "file_date": "2025-06-23T14:37:31.790348",
-      "file_size": 16208,
+      "file_date": "2025-06-24T16:48:45.365663",
+      "file_size": 46496,
       "mode": "singleshot"
     },
     "2000_Chevrolet": {
@@ -15507,13 +16447,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 13,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 19,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 17,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:24:53.272400",
-      "file_date": "2025-06-23T14:37:31.793910",
-      "file_size": 3094,
+      "file_date": "2025-06-24T23:05:39.491387",
+      "file_size": 7595,
       "mode": "singleshot"
     },
     "2011_BMW": {
@@ -15597,13 +16537,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 10,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 6,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 10,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:26:40.821208",
-      "file_date": "2025-06-23T14:37:31.802075",
-      "file_size": 1606,
+      "file_date": "2025-06-24T14:10:29.676816",
+      "file_size": 5130,
       "mode": "singleshot"
     },
     "2020_Polestar": {
@@ -15836,8 +16776,8 @@
       "total_wheel_sizes": 0,
       "has_wheel_data": false,
       "scraping_date": "2025-06-21T08:42:09.823256",
-      "file_date": "2025-06-23T14:37:31.813320",
-      "file_size": 2044,
+      "file_date": "2025-06-24T17:13:42.669089",
+      "file_size": 2127,
       "mode": "singleshot"
     },
     "2016_Nissan": {
@@ -15957,13 +16897,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 25,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 37,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 25,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:28:45.444573",
-      "file_date": "2025-06-23T14:37:31.818990",
-      "file_size": 6734,
+      "file_date": "2025-06-24T23:16:40.574643",
+      "file_size": 20763,
       "mode": "singleshot"
     },
     "2021_GMC": {
@@ -16073,6 +17013,24 @@
       "file_date": "2025-06-23T14:37:31.824059",
       "file_size": 2487,
       "mode": "singleshot"
+    },
+    "2019_Porsche": {
+      "filename": "2019_Porsche.json",
+      "year": 2019,
+      "brand": "Porsche",
+      "total_vehicles": 61,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 61,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 38,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T23:37:07.018340",
+      "file_date": "2025-06-24T23:37:07.021403",
+      "file_size": 92326,
+      "mode": "carinfo"
     },
     "2024_Infiniti": {
       "filename": "2024_Infiniti.json",
@@ -16236,6 +17194,24 @@
       "file_size": 24805,
       "mode": "singleshot"
     },
+    "2017_Lamborghini": {
+      "filename": "2017_Lamborghini.json",
+      "year": 2017,
+      "brand": "Lamborghini",
+      "total_vehicles": 9,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 9,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 10,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T15:25:00.381501",
+      "file_date": "2025-06-24T15:25:00.384107",
+      "file_size": 5597,
+      "mode": "carinfo"
+    },
     "2023_Subaru": {
       "filename": "2023_Subaru.json",
       "year": 2023,
@@ -16299,13 +17275,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 10,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 25,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 13,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T22:26:17.823759",
-      "file_date": "2025-06-23T14:37:31.842148",
-      "file_size": 5897,
+      "file_date": "2025-06-24T15:47:08.766153",
+      "file_size": 21129,
       "mode": "singleshot"
     },
     "2021_Lotus": {
@@ -16569,13 +17545,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 19,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 45,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 24,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-21T08:34:45.814689",
-      "file_date": "2025-06-23T14:37:31.855682",
-      "file_size": 7830,
+      "file_date": "2025-06-24T16:59:20.646991",
+      "file_size": 21457,
       "mode": "singleshot"
     },
     "2014_Volkswagen": {
@@ -16812,6 +17788,24 @@
       "file_size": 7847,
       "mode": "singleshot"
     },
+    "2018_Alfa_Romeo": {
+      "filename": "2018_Alfa_Romeo.json",
+      "year": 2018,
+      "brand": "Alfa Romeo",
+      "total_vehicles": 11,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 11,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 14,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T20:57:13.496851",
+      "file_date": "2025-06-24T20:57:13.500498",
+      "file_size": 5899,
+      "mode": "carinfo"
+    },
     "2009_Audi": {
       "filename": "2009_Audi.json",
       "year": 2009,
@@ -16965,14 +17959,32 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 15,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 38,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 17,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T21:55:00.667850",
-      "file_date": "2025-06-23T14:37:31.870865",
-      "file_size": 6336,
+      "file_date": "2025-06-24T14:25:23.348945",
+      "file_size": 17349,
       "mode": "singleshot"
+    },
+    "2018_McLaren": {
+      "filename": "2018_McLaren.json",
+      "year": 2018,
+      "brand": "McLaren",
+      "total_vehicles": 4,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 4,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 4,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T21:38:25.540466",
+      "file_date": "2025-06-24T21:38:25.542166",
+      "file_size": 2021,
+      "mode": "carinfo"
     },
     "2025_BMW": {
       "filename": "2025_BMW.json",
@@ -17009,6 +18021,24 @@
       "file_date": "2025-06-23T14:37:31.873002",
       "file_size": 8486,
       "mode": "singleshot"
+    },
+    "2019_Ferrari": {
+      "filename": "2019_Ferrari.json",
+      "year": 2019,
+      "brand": "Ferrari",
+      "total_vehicles": 10,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 10,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 10,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T22:50:58.895916",
+      "file_date": "2025-06-24T22:50:58.898494",
+      "file_size": 5015,
+      "mode": "carinfo"
     },
     "2024_BMW": {
       "filename": "2024_BMW.json",
@@ -17091,13 +18121,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 8,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 20,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 11,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-19T13:55:23.385311",
-      "file_date": "2025-06-23T14:37:31.881268",
-      "file_size": 3149,
+      "file_date": "2025-06-24T23:02:23.031012",
+      "file_size": 7356,
       "mode": "singleshot"
     },
     "2022_Mitsubishi": {
@@ -17244,6 +18274,24 @@
       "file_size": 8754,
       "mode": "singleshot"
     },
+    "2018_Aston_Martin": {
+      "filename": "2018_Aston_Martin.json",
+      "year": 2018,
+      "brand": "Aston Martin",
+      "total_vehicles": 4,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 4,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 6,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-24T20:58:16.278317",
+      "file_date": "2025-06-24T20:58:16.279597",
+      "file_size": 2474,
+      "mode": "carinfo"
+    },
     "2007_Volvo": {
       "filename": "2007_Volvo.json",
       "year": 2007,
@@ -17271,13 +18319,13 @@
       "tire_coverage": 1.0,
       "total_tire_sizes": 19,
       "has_tire_data": true,
-      "vehicles_with_wheels": 0,
-      "wheel_coverage": 0.0,
-      "total_wheel_sizes": 0,
-      "has_wheel_data": false,
+      "vehicles_with_wheels": 53,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 14,
+      "has_wheel_data": true,
       "scraping_date": "2025-06-20T17:24:10.063135",
-      "file_date": "2025-06-23T14:37:31.888906",
-      "file_size": 7845,
+      "file_date": "2025-06-24T23:04:43.000820",
+      "file_size": 18572,
       "mode": "singleshot"
     },
     "2024_Lincoln": {

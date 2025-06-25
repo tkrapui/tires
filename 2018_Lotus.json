@@ -1,0 +1,47 @@
+{
+  "brand": "Lotus",
+  "year": 2018,
+  "vehicles": [
+    {
+      "model": "Lotus",
+      "trim": "Evora 400",
+      "wheels": [
+        {
+          "rim_size": "19x8.5J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x9.5J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x9",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "19x8",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Lotus",
+      "trim": "Evora Sport 410",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-24T21:33:05.196654",
+    "total_vehicles": 2,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 4,
+    "vehicles_with_wheels": 1,
+    "wheel_coverage": 0.5
+  }
+}

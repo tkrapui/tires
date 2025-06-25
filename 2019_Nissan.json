@@ -1,0 +1,1222 @@
+{
+  "brand": "Nissan",
+  "year": 2019,
+  "vehicles": [
+    {
+      "model": "370Z",
+      "trim": "Coupe",
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "18x9J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Heritage Edition",
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "18x9J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Nismo",
+      "wheels": [
+        {
+          "rim_size": "19x9.5J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "19x10.5J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "19x9",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "19x10",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Sport",
+      "wheels": [
+        {
+          "rim_size": "19x9J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "19x10J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Sport Touring",
+      "wheels": [
+        {
+          "rim_size": "19x9J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "19x10J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "370Z",
+      "trim": "Touring Roadster",
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "18x9J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "Edition ONE",
+      "wheels": [
+        {
+          "rim_size": "19x8J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "Platinum",
+      "wheels": [
+        {
+          "rim_size": "19x8J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Altima",
+      "trim": "SV",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Armada",
+      "trim": "Platinum",
+      "wheels": [
+        {
+          "rim_size": "20x8J",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Armada",
+      "trim": "Platinum Reserve",
+      "wheels": [
+        {
+          "rim_size": "20x8J",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Armada",
+      "trim": "SL",
+      "wheels": [
+        {
+          "rim_size": "20x8J",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Frontier",
+      "trim": "PRO-4X",
+      "wheels": []
+    },
+    {
+      "model": "Frontier",
+      "trim": "S King Cab",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Frontier",
+      "trim": "SL",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Frontier",
+      "trim": "SV",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "GT-R",
+      "trim": "Premium",
+      "wheels": [
+        {
+          "rim_size": "20x9.5J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x10.5J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x9.5J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x10.5J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x10",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x9",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "GT-R",
+      "trim": "Track Edition",
+      "wheels": [
+        {
+          "rim_size": "20x10J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x10.5J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x10",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Kicks",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "16x6J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        }
+      ]
+    },
+    {
+      "model": "Kicks",
+      "trim": "SR",
+      "wheels": [
+        {
+          "rim_size": "17x6.5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        },
+        {
+          "rim_size": "17x6",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        }
+      ]
+    },
+    {
+      "model": "Kicks",
+      "trim": "SV",
+      "wheels": [
+        {
+          "rim_size": "17x6.5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        },
+        {
+          "rim_size": "17x6",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        }
+      ]
+    },
+    {
+      "model": "LEAF",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "16x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "LEAF",
+      "trim": "S Plus",
+      "wheels": [
+        {
+          "rim_size": "16x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "LEAF",
+      "trim": "SL",
+      "wheels": [
+        {
+          "rim_size": "17x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "LEAF",
+      "trim": "SL Plus",
+      "wheels": [
+        {
+          "rim_size": "17x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "LEAF",
+      "trim": "SV",
+      "wheels": [
+        {
+          "rim_size": "17x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "LEAF",
+      "trim": "SV Plus",
+      "wheels": [
+        {
+          "rim_size": "17x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Maxima",
+      "trim": "Platinum",
+      "wheels": [
+        {
+          "rim_size": "19x8J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Maxima",
+      "trim": "SL",
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Maxima",
+      "trim": "SR",
+      "wheels": [
+        {
+          "rim_size": "19x8.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "19x8",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Micra",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "15x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        },
+        {
+          "rim_size": "15x5.5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        }
+      ]
+    },
+    {
+      "model": "Micra",
+      "trim": "SR",
+      "wheels": [
+        {
+          "rim_size": "16x6J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        }
+      ]
+    },
+    {
+      "model": "Micra",
+      "trim": "SV",
+      "wheels": [
+        {
+          "rim_size": "15x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        },
+        {
+          "rim_size": "15x5.5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        }
+      ]
+    },
+    {
+      "model": "Murano",
+      "trim": "Platinum",
+      "wheels": [
+        {
+          "rim_size": "20x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Murano",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Murano",
+      "trim": "SL",
+      "wheels": [
+        {
+          "rim_size": "20x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Murano",
+      "trim": "SV",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "NV1500",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "offset": "-16",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "NV200",
+      "trim": "S (C-Type Tires)",
+      "wheels": [
+        {
+          "rim_size": "15x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "NV200",
+      "trim": "SV (C-Type Tires)",
+      "wheels": [
+        {
+          "rim_size": "15x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "NV2500",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "offset": "-16",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "NV2500",
+      "trim": "SV",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "offset": "-16",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "NV3500",
+      "trim": "S Cargo Van",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "offset": "-16",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "NV3500",
+      "trim": "S Passenger Van",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "offset": "-16",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "NV3500",
+      "trim": "SL Cargo Van",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "offset": "-16",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "NV3500",
+      "trim": "SL Passenger Van",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "offset": "-16",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "NV3500",
+      "trim": "SV Cargo Van",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "offset": "-16",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "NV3500",
+      "trim": "SV Passenger Van",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "offset": "-16",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Pathfinder",
+      "trim": "Platinum",
+      "wheels": [
+        {
+          "rim_size": "20x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x7.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Pathfinder",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "18x7.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Pathfinder",
+      "trim": "SL",
+      "wheels": [
+        {
+          "rim_size": "20x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "20x7.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "18x7.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "18x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Pathfinder",
+      "trim": "SV",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "18x7.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Qashqai",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "16x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Qashqai",
+      "trim": "SL",
+      "wheels": [
+        {
+          "rim_size": "19x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Qashqai",
+      "trim": "SV",
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Rogue",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "17x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Rogue",
+      "trim": "SL",
+      "wheels": [
+        {
+          "rim_size": "19x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Rogue",
+      "trim": "SV",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Sentra",
+      "trim": "Nismo",
+      "wheels": [
+        {
+          "rim_size": "18x7J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Sentra",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "16x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Sentra",
+      "trim": "SR",
+      "wheels": [
+        {
+          "rim_size": "17x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Sentra",
+      "trim": "SR Turbo",
+      "wheels": [
+        {
+          "rim_size": "17x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Sentra",
+      "trim": "SV",
+      "wheels": [
+        {
+          "rim_size": "16x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Sentra",
+      "trim": "SV Special Edition",
+      "wheels": [
+        {
+          "rim_size": "17x6.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "PRO-4X",
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "offset": "-4",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "Platinum Reserve",
+      "wheels": [
+        {
+          "rim_size": "20x7",
+          "offset": "-13",
+          "center_hub": "39.7"
+        },
+        {
+          "rim_size": "20x7.5J",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "SL",
+      "wheels": [
+        {
+          "rim_size": "20x8J",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "SV",
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "offset": "-13",
+          "center_hub": "39.7"
+        },
+        {
+          "rim_size": "20x8J",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "XD PRO-4X",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "offset": "-4",
+          "center_hub": "39.7"
+        },
+        {
+          "rim_size": "18x7.5J",
+          "offset": "-4",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "XD Platinum Reserve",
+      "wheels": [
+        {
+          "rim_size": "20x7",
+          "offset": "-13",
+          "center_hub": "39.7"
+        },
+        {
+          "rim_size": "20x7.5J",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "XD S",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "offset": "-13",
+          "center_hub": "39.7"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "XD SL",
+      "wheels": [
+        {
+          "rim_size": "20x7",
+          "offset": "-13",
+          "center_hub": "39.7"
+        },
+        {
+          "rim_size": "20x7.5J",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Titan",
+      "trim": "XD SV",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "offset": "-13",
+          "center_hub": "39.7"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Versa",
+      "trim": "Note S",
+      "wheels": [
+        {
+          "rim_size": "15x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        },
+        {
+          "rim_size": "15x5.5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        }
+      ]
+    },
+    {
+      "model": "Versa",
+      "trim": "Note SR",
+      "wheels": [
+        {
+          "rim_size": "16x6J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        }
+      ]
+    },
+    {
+      "model": "Versa",
+      "trim": "Note SV",
+      "wheels": [
+        {
+          "rim_size": "15x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        },
+        {
+          "rim_size": "15x5.5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        }
+      ]
+    },
+    {
+      "model": "Versa",
+      "trim": "Note SV Special Edition",
+      "wheels": [
+        {
+          "rim_size": "15x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        },
+        {
+          "rim_size": "15x5.5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "60.1"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-24T23:31:58.146782",
+    "total_vehicles": 79,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 48,
+    "vehicles_with_wheels": 78,
+    "wheel_coverage": 0.9873417721518988
+  }
+}

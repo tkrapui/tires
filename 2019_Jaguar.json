@@ -1,0 +1,1324 @@
+{
+  "brand": "Jaguar",
+  "year": 2019,
+  "vehicles": [
+    {
+      "model": "E-Pace",
+      "trim": "R-Dynamic HSE",
+      "wheels": [
+        {
+          "rim_size": "21x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "E-Pace",
+      "trim": "R-Dynamic SE",
+      "wheels": [
+        {
+          "rim_size": "21x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "E-Pace",
+      "trim": "SE",
+      "wheels": [
+        {
+          "rim_size": "21x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "F-Pace",
+      "trim": "Portfolio",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "22x9J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "F-Pace",
+      "trim": "Premium",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "F-Pace",
+      "trim": "Prestige",
+      "wheels": [
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "22x9J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "F-Pace",
+      "trim": "R-Sport",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "22x9J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "F-Pace",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "22x9J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "F-Pace",
+      "trim": "SVR",
+      "wheels": [
+        {
+          "rim_size": "21x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "21x10J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "22x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "22x10J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "F-Pace",
+      "trim": "SVR (Summer Only)",
+      "wheels": [
+        {
+          "rim_size": "21x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "21x10J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "22x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "22x10J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "F-Type",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "18x8.5J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "18x9.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x9.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x10.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x9",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x10",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "18x9",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "18x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "F-Type",
+      "trim": "R",
+      "wheels": [
+        {
+          "rim_size": "20x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x10.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x10",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "F-Type",
+      "trim": "R-Dynamic",
+      "wheels": [
+        {
+          "rim_size": "20x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x10.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x9.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x9",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "19x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x10",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "F-Type",
+      "trim": "SVR",
+      "wheels": [
+        {
+          "rim_size": "20x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x10.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x10",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "I-Pace",
+      "trim": "First Edition EV400",
+      "wheels": [
+        {
+          "rim_size": "22x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "22x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "I-Pace",
+      "trim": "HSE EV400",
+      "wheels": [
+        {
+          "rim_size": "22x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "22x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "18x7.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "I-Pace",
+      "trim": "S EV400",
+      "wheels": [
+        {
+          "rim_size": "22x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "22x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "18x7.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "I-Pace",
+      "trim": "SE EV400",
+      "wheels": [
+        {
+          "rim_size": "22x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "22x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "18x7.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        },
+        {
+          "rim_size": "20x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.4"
+        }
+      ]
+    },
+    {
+      "model": "XE",
+      "trim": "Portfolio",
+      "wheels": [
+        {
+          "rim_size": "19x7.5J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x7.5J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x7",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XE",
+      "trim": "Premium 20d",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "18x7.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XE",
+      "trim": "Premium 25t",
+      "wheels": [
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "18x7.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "17x7J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XE",
+      "trim": "Premium 30t",
+      "wheels": [
+        {
+          "rim_size": "18x7.5J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "18x8.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x7.5J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x7.5J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x7",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "18x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XE",
+      "trim": "R-Sport 20d",
+      "wheels": [
+        {
+          "rim_size": "19x7.5J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x7.5J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x7",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "18x7.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XE",
+      "trim": "R-Sport 25t",
+      "wheels": [
+        {
+          "rim_size": "19x7.5J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x7.5J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x7",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "18x7",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "18x7.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XE",
+      "trim": "R-Sport 30t",
+      "wheels": [
+        {
+          "rim_size": "19x7.5J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x7.5J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x7",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XE",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "19x7.5J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x7.5J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8.5J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "20x8J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "20x9J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x7",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XE",
+      "trim": "SV Project 8",
+      "wheels": [
+        {
+          "rim_size": "20x8J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "20x9J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XF",
+      "trim": "300 Sport",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XF",
+      "trim": "Portfolio",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XF",
+      "trim": "Premium",
+      "wheels": [
+        {
+          "rim_size": "18x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XF",
+      "trim": "Prestige",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XF",
+      "trim": "R-Sport",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x8J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XF",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "20x8",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "20x8.5J",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XJ",
+      "trim": "50",
+      "wheels": [
+        {
+          "rim_size": "20x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "20x10J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XJ",
+      "trim": "L Portfolio",
+      "wheels": [
+        {
+          "rim_size": "19x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x10J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x10J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "20x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "20x10J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XJ",
+      "trim": "Portfolio",
+      "wheels": [
+        {
+          "rim_size": "19x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x10J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x10J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "20x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "20x10J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XJ",
+      "trim": "R-Sport",
+      "wheels": [
+        {
+          "rim_size": "19x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x10J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "19x10J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "20x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "20x10J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    },
+    {
+      "model": "XJR575",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "20x9J",
+          "position": "front",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        },
+        {
+          "rim_size": "20x10J",
+          "position": "rear",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "63.5"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-24T23:08:05.904480",
+    "total_vehicles": 38,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 42,
+    "vehicles_with_wheels": 38,
+    "wheel_coverage": 1.0
+  }
+}

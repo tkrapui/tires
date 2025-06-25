@@ -1,0 +1,19 @@
+{
+  "brand": "Maybach",
+  "year": 2018,
+  "vehicles": [
+    {
+      "model": "Maybach",
+      "trim": "S650 Base",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-24T21:35:49.539268",
+    "total_vehicles": 1,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 0,
+    "vehicles_with_wheels": 0,
+    "wheel_coverage": 0.0
+  }
+}
