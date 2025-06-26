@@ -1,0 +1,128 @@
+{
+  "brand": "Hyundai",
+  "year": 1999,
+  "vehicles": [
+    {
+      "model": "Accent",
+      "trim": "GL",
+      "wheels": [
+        {
+          "rim_size": "13x5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Accent",
+      "trim": "GS",
+      "wheels": [
+        {
+          "rim_size": "13x5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Accent",
+      "trim": "GS w/Performance Pkg.",
+      "wheels": [
+        {
+          "rim_size": "14x5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Accent",
+      "trim": "L",
+      "wheels": [
+        {
+          "rim_size": "13x4.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "13x4",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Elantra",
+      "trim": "GL",
+      "wheels": [
+        {
+          "rim_size": "14x5J",
+          "offset": "-5",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Elantra",
+      "trim": "GLS",
+      "wheels": [
+        {
+          "rim_size": "14x5J",
+          "offset": "-5",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Sonata",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Sonata",
+      "trim": "GLS",
+      "wheels": []
+    },
+    {
+      "model": "Tiburon",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "14x5.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "14x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Tiburon",
+      "trim": "FX",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-26T00:32:42.754676",
+    "total_vehicles": 10,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 8,
+    "vehicles_with_wheels": 9,
+    "wheel_coverage": 0.9
+  }
+}

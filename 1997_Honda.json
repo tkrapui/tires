@@ -1,0 +1,277 @@
+{
+  "brand": "Honda",
+  "year": 1997,
+  "vehicles": [
+    {
+      "model": "Accord",
+      "trim": "DX",
+      "wheels": [
+        {
+          "rim_size": "14x5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "EX",
+      "wheels": [
+        {
+          "rim_size": "15x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "EX Sedan V6",
+      "wheels": []
+    },
+    {
+      "model": "Accord",
+      "trim": "LX",
+      "wheels": [
+        {
+          "rim_size": "15x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "LX Sedan V6",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "LX Wagon",
+      "wheels": [
+        {
+          "rim_size": "15x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "SE",
+      "wheels": [
+        {
+          "rim_size": "15x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Accord",
+      "trim": "SE Sedan",
+      "wheels": []
+    },
+    {
+      "model": "CR-V",
+      "trim": "LX",
+      "wheels": []
+    },
+    {
+      "model": "Civic",
+      "trim": "CX",
+      "wheels": [
+        {
+          "rim_size": "14x5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "DX",
+      "wheels": [
+        {
+          "rim_size": "14x5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "EX",
+      "wheels": [
+        {
+          "rim_size": "14x5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "HX",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "LX",
+      "wheels": [
+        {
+          "rim_size": "14x5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "del Sol S",
+      "wheels": [
+        {
+          "rim_size": "13x5J",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "del Sol Si",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
+      ]
+    },
+    {
+      "model": "Civic",
+      "trim": "del Sol VTEC",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
+      ]
+    },
+    {
+      "model": "Odyssey",
+      "trim": "EX",
+      "wheels": []
+    },
+    {
+      "model": "Odyssey",
+      "trim": "LX",
+      "wheels": []
+    },
+    {
+      "model": "Passport",
+      "trim": "EX",
+      "wheels": [
+        {
+          "rim_size": "16x7",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Passport",
+      "trim": "EX w/aluminum wheels",
+      "wheels": [
+        {
+          "rim_size": "16x7",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Passport",
+      "trim": "LX 4x2",
+      "wheels": []
+    },
+    {
+      "model": "Passport",
+      "trim": "LX 4x2 w/aluminum wheels",
+      "wheels": []
+    },
+    {
+      "model": "Passport",
+      "trim": "LX 4x4",
+      "wheels": [
+        {
+          "rim_size": "16x7",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Passport",
+      "trim": "LX 4x4 w/aluminum wheels",
+      "wheels": [
+        {
+          "rim_size": "16x7",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Prelude",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Prelude",
+      "trim": "Type SH",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-25T23:10:30.360486",
+    "total_vehicles": 27,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 8,
+    "vehicles_with_wheels": 20,
+    "wheel_coverage": 0.7407407407407407
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "brand": "Daewoo",
+  "year": 1999,
+  "vehicles": [
+    {
+      "model": "Daewoo",
+      "trim": "Lanos S",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.6"
+        }
+      ]
+    },
+    {
+      "model": "Daewoo",
+      "trim": "Lanos SE",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.6"
+        }
+      ]
+    },
+    {
+      "model": "Daewoo",
+      "trim": "Lanos SX",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.6"
+        }
+      ]
+    },
+    {
+      "model": "Daewoo",
+      "trim": "Leganza CDX",
+      "wheels": []
+    },
+    {
+      "model": "Daewoo",
+      "trim": "Leganza SE",
+      "wheels": []
+    },
+    {
+      "model": "Daewoo",
+      "trim": "Leganza SX",
+      "wheels": []
+    },
+    {
+      "model": "Daewoo",
+      "trim": "Nubira CDX",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.6"
+        }
+      ]
+    },
+    {
+      "model": "Daewoo",
+      "trim": "Nubira SX",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.6"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-26T00:14:56.791089",
+    "total_vehicles": 8,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 1,
+    "vehicles_with_wheels": 5,
+    "wheel_coverage": 0.625
+  }
+}

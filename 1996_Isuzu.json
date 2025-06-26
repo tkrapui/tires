@@ -1,0 +1,71 @@
+{
+  "brand": "Isuzu",
+  "year": 1996,
+  "vehicles": [
+    {
+      "model": "Isuzu",
+      "trim": "Hombre S",
+      "wheels": [
+        {
+          "rim_size": "15x7J",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Isuzu",
+      "trim": "Hombre XS",
+      "wheels": [
+        {
+          "rim_size": "15x7J",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Isuzu",
+      "trim": "Oasis LS",
+      "wheels": []
+    },
+    {
+      "model": "Isuzu",
+      "trim": "Oasis S",
+      "wheels": []
+    },
+    {
+      "model": "Isuzu",
+      "trim": "Rodeo LS",
+      "wheels": []
+    },
+    {
+      "model": "Isuzu",
+      "trim": "Rodeo LS w/aluminum wheels",
+      "wheels": []
+    },
+    {
+      "model": "Isuzu",
+      "trim": "Rodeo S",
+      "wheels": []
+    },
+    {
+      "model": "Isuzu",
+      "trim": "Rodeo S w/aluminum wheels",
+      "wheels": []
+    },
+    {
+      "model": "Isuzu",
+      "trim": "Trooper S",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-25T19:21:01.065350",
+    "total_vehicles": 9,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 1,
+    "vehicles_with_wheels": 2,
+    "wheel_coverage": 0.2222222222222222
+  }
+}

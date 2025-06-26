@@ -1,0 +1,156 @@
+{
+  "brand": "Chrysler",
+  "year": 1996,
+  "vehicles": [
+    {
+      "model": "Cirrus",
+      "trim": "LX",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Cirrus",
+      "trim": "LXi",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Concorde",
+      "trim": "LX",
+      "wheels": []
+    },
+    {
+      "model": "Concorde",
+      "trim": "LXi",
+      "wheels": []
+    },
+    {
+      "model": "LHS",
+      "trim": "Base",
+      "wheels": []
+    },
+    {
+      "model": "New",
+      "trim": "Yorker Base",
+      "wheels": []
+    },
+    {
+      "model": "Sebring",
+      "trim": "JX",
+      "wheels": []
+    },
+    {
+      "model": "Sebring",
+      "trim": "JXi",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Sebring",
+      "trim": "LX",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Sebring",
+      "trim": "LXi",
+      "wheels": []
+    },
+    {
+      "model": "Town",
+      "trim": "& Country (AWD)",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "& Country (FWD)",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "& Country LX (FWD)",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "& Country LXi (AWD)",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "& Country LXi (FWD)",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-25T18:58:03.914855",
+    "total_vehicles": 15,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 5,
+    "vehicles_with_wheels": 9,
+    "wheel_coverage": 0.6
+  }
+}

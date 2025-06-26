@@ -1,0 +1,19 @@
+{
+  "brand": "Aston Martin",
+  "year": 1997,
+  "vehicles": [
+    {
+      "model": "DB7",
+      "trim": "Base",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-25T22:41:40.843345",
+    "total_vehicles": 1,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 0,
+    "vehicles_with_wheels": 0,
+    "wheel_coverage": 0.0
+  }
+}

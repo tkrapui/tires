@@ -1,0 +1,1193 @@
+{
+  "brand": "GMC",
+  "year": 1996,
+  "vehicles": [
+    {
+      "model": "C1500",
+      "trim": "Sierra SL",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "78.3"
+        }
+      ]
+    },
+    {
+      "model": "C1500",
+      "trim": "Sierra SLE",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "78.3"
+        }
+      ]
+    },
+    {
+      "model": "C1500",
+      "trim": "Sierra SLT",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "78.3"
+        }
+      ]
+    },
+    {
+      "model": "C1500",
+      "trim": "Sierra Special",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "78.3"
+        }
+      ]
+    },
+    {
+      "model": "C1500",
+      "trim": "Suburban Base",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "19"
+        }
+      ]
+    },
+    {
+      "model": "C1500",
+      "trim": "Suburban SLE",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "19"
+        }
+      ]
+    },
+    {
+      "model": "C1500",
+      "trim": "Suburban SLT",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "19"
+        }
+      ]
+    },
+    {
+      "model": "C2500",
+      "trim": "Sierra SL Ext. Cab",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "C2500",
+      "trim": "Sierra SL Reg. Cab",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "C2500",
+      "trim": "Sierra SL w/H.D. Suspension",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "C2500",
+      "trim": "Sierra SLE Ext. Cab",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "C2500",
+      "trim": "Sierra SLE Reg. Cab",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "C2500",
+      "trim": "Sierra SLE w/H.D. Suspension",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "C2500",
+      "trim": "Sierra SLT Ext. Cab",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "C2500",
+      "trim": "Sierra SLT Reg. Cab",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "C2500",
+      "trim": "Sierra SLT w/H.D. Suspension",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "C2500",
+      "trim": "Suburban Base",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "C2500",
+      "trim": "Suburban SLE",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "C2500",
+      "trim": "Suburban SLT",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "C3500",
+      "trim": "Sierra SL",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "C3500",
+      "trim": "Sierra SL (DRW)",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "position": "front",
+          "offset": "-16",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "16x6",
+          "position": "rear",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "C3500",
+      "trim": "Sierra SLE",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "C3500",
+      "trim": "Sierra SLE (DRW)",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "position": "front",
+          "offset": "-16",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "16x6",
+          "position": "rear",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "C3500",
+      "trim": "Sierra SLT",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "C3500",
+      "trim": "Sierra SLT (DRW)",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "position": "front",
+          "offset": "-16",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "16x6",
+          "position": "rear",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "G3500",
+      "trim": "Rally",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "G3500",
+      "trim": "Rally STX",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "G3500",
+      "trim": "Rally STX w/H.D. Suspension",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "G3500",
+      "trim": "Rally w/H.D. Suspension",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "G3500",
+      "trim": "Vandura",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "G3500",
+      "trim": "Vandura (G-Classic)",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "G3500",
+      "trim": "Vandura (G-Classic) H.D.",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "G3500",
+      "trim": "Vandura (GMT 600)",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Jimmy",
+      "trim": "4x2",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Jimmy",
+      "trim": "4x4",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Jimmy",
+      "trim": "SL 4x2",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Jimmy",
+      "trim": "SL 4x4",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Jimmy",
+      "trim": "SLE 4x2",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Jimmy",
+      "trim": "SLE 4x4",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Jimmy",
+      "trim": "SLS 4x2",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Jimmy",
+      "trim": "SLS 4x4",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Jimmy",
+      "trim": "SLT 4x2",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Jimmy",
+      "trim": "SLT 4x4",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "K1500",
+      "trim": "Sierra SL",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-7",
+          "center_hub": "19"
+        }
+      ]
+    },
+    {
+      "model": "K1500",
+      "trim": "Sierra SLE",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-7",
+          "center_hub": "19"
+        }
+      ]
+    },
+    {
+      "model": "K1500",
+      "trim": "Sierra SLT",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-7",
+          "center_hub": "19"
+        }
+      ]
+    },
+    {
+      "model": "K1500",
+      "trim": "Sierra Special",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-7",
+          "center_hub": "19"
+        }
+      ]
+    },
+    {
+      "model": "K1500",
+      "trim": "Suburban Base",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "K1500",
+      "trim": "Suburban SLE",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "K1500",
+      "trim": "Suburban SLT",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "K2500",
+      "trim": "Sierra SL",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-7",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "K2500",
+      "trim": "Sierra SL w/H.D. Suspension",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-7",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "K2500",
+      "trim": "Sierra SLE",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-7",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "K2500",
+      "trim": "Sierra SLE w/H.D. Suspension",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-7",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "K2500",
+      "trim": "Sierra SLT",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-7",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "K2500",
+      "trim": "Sierra SLT w/H.D. Suspension",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-7",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "K2500",
+      "trim": "Suburban Base",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "K2500",
+      "trim": "Suburban SLE",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "K2500",
+      "trim": "Suburban SLT",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "K3500",
+      "trim": "Sierra SL",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-7",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "K3500",
+      "trim": "Sierra SL (DRW)",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "position": "front",
+          "offset": "-16",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "16x6",
+          "position": "rear",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "K3500",
+      "trim": "Sierra SLE",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "K3500",
+      "trim": "Sierra SLE (DRW)",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "position": "front",
+          "offset": "-16",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "16x6",
+          "position": "rear",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "K3500",
+      "trim": "Sierra SLT",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "K3500",
+      "trim": "Sierra SLT (DRW)",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "position": "front",
+          "offset": "-16",
+          "center_hub": "65.1"
+        },
+        {
+          "rim_size": "16x6",
+          "position": "rear",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Safari",
+      "trim": "Passenger Van",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "bolt_circle": "5-127mm",
+          "offset": "-6",
+          "center_hub": "77.8"
+        }
+      ]
+    },
+    {
+      "model": "Safari",
+      "trim": "Passenger Van w/FE2 Suspension Pkg.",
+      "wheels": [
+        {
+          "rim_size": "15x6.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "77.8"
+        }
+      ]
+    },
+    {
+      "model": "Safari",
+      "trim": "SL Cargo Van",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "77.8"
+        }
+      ]
+    },
+    {
+      "model": "Safari",
+      "trim": "SLE Passenger Van",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "77.8"
+        }
+      ]
+    },
+    {
+      "model": "Safari",
+      "trim": "SLE Passenger Van w/FE2 Suspension Pkg.",
+      "wheels": [
+        {
+          "rim_size": "15x6.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "77.8"
+        }
+      ]
+    },
+    {
+      "model": "Safari",
+      "trim": "SLT Passenger Van",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "bolt_circle": "5-127mm",
+          "offset": "-6",
+          "center_hub": "77.8"
+        }
+      ]
+    },
+    {
+      "model": "Safari",
+      "trim": "SLT Passenger Van w/FE2 Suspension Pkg.",
+      "wheels": [
+        {
+          "rim_size": "15x6.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "77.8"
+        }
+      ]
+    },
+    {
+      "model": "Safari",
+      "trim": "SLX Passenger Van",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "bolt_circle": "5-127mm",
+          "offset": "-6",
+          "center_hub": "77.8"
+        }
+      ]
+    },
+    {
+      "model": "Safari",
+      "trim": "SLX Passenger Van w/FE2 Suspension Pkg.",
+      "wheels": [
+        {
+          "rim_size": "15x6.5",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "77.8"
+        }
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "1500 Cargo Van",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "19"
+        }
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "1500 Passenger Van",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "19"
+        }
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "1500 SLE",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "19"
+        }
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "2500 Cargo Van",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "2500 Cargo Van Ext.",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "2500 Passenger Van",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "2500 SLE",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "3500 Base",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Savana",
+      "trim": "3500 SLE",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Sonoma",
+      "trim": "SL (Optional Tire Pkg.)",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Sonoma",
+      "trim": "SL 4x2",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Sonoma",
+      "trim": "SL 4x4",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Sonoma",
+      "trim": "SL w/Sport Pkg.",
+      "wheels": [
+        {
+          "rim_size": "16x8",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Sonoma",
+      "trim": "SLE (Optional Tire Pkg.)",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Sonoma",
+      "trim": "SLE 4x2",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Sonoma",
+      "trim": "SLE 4x4",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Sonoma",
+      "trim": "SLE w/Sport Pkg.",
+      "wheels": [
+        {
+          "rim_size": "16x8",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Sonoma",
+      "trim": "SLS (Optional Tire Pkg.)",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Sonoma",
+      "trim": "SLS 4x2",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Sonoma",
+      "trim": "SLS 4x4",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Sonoma",
+      "trim": "SLS w/Sport Pkg.",
+      "wheels": [
+        {
+          "rim_size": "16x8",
+          "offset": "-12",
+          "center_hub": "20.7"
+        }
+      ]
+    },
+    {
+      "model": "Yukon",
+      "trim": "SL 4x2",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "77.8"
+        }
+      ]
+    },
+    {
+      "model": "Yukon",
+      "trim": "SL 4x4",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Yukon",
+      "trim": "SLE 4x2",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "77.8"
+        }
+      ]
+    },
+    {
+      "model": "Yukon",
+      "trim": "SLE 4x4",
+      "wheels": [
+        {
+          "rim_size": "16x7",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Yukon",
+      "trim": "SLT 4x2",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "77.8"
+        }
+      ]
+    },
+    {
+      "model": "Yukon",
+      "trim": "SLT 4x4",
+      "wheels": [
+        {
+          "rim_size": "16x7",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-25T19:13:14.685622",
+    "total_vehicles": 101,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 16,
+    "vehicles_with_wheels": 101,
+    "wheel_coverage": 1.0
+  }
+}

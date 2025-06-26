@@ -1,0 +1,67 @@
+{
+  "brand": "Eagle",
+  "year": 1997,
+  "vehicles": [
+    {
+      "model": "Eagle",
+      "trim": "Talon Base",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Talon ESi",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Talon TSi (AWD)",
+      "wheels": [
+        {
+          "rim_size": "17x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Talon TSi (FWD)",
+      "wheels": []
+    },
+    {
+      "model": "Eagle",
+      "trim": "Vision ESi",
+      "wheels": []
+    },
+    {
+      "model": "Eagle",
+      "trim": "Vision TSi",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-25T22:57:32.152986",
+    "total_vehicles": 6,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 3,
+    "vehicles_with_wheels": 3,
+    "wheel_coverage": 0.5
+  }
+}
