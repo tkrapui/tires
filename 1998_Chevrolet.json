@@ -410,12 +410,12 @@
       "trim": "Base",
       "wheels": [
         {
-          "rim_size": "16x8",
+          "rim_size": "16x7.5",
           "offset": "-12",
           "center_hub": "20.7"
         },
         {
-          "rim_size": "16x7.5",
+          "rim_size": "16x8",
           "offset": "-12",
           "center_hub": "20.7"
         }
@@ -426,12 +426,12 @@
       "trim": "Z28",
       "wheels": [
         {
-          "rim_size": "16x8J",
+          "rim_size": "17x9.5",
           "offset": "-12",
           "center_hub": "20.7"
         },
         {
-          "rim_size": "17x9.5",
+          "rim_size": "16x8J",
           "offset": "-12",
           "center_hub": "20.7"
         }
@@ -867,13 +867,13 @@
       "trim": "Base",
       "wheels": [
         {
-          "rim_size": "16x6.5",
+          "rim_size": "15x6",
           "bolt_circle": "5-115mm",
           "offset": "-11",
           "center_hub": "70.3"
         },
         {
-          "rim_size": "15x6",
+          "rim_size": "16x6.5",
           "bolt_circle": "5-115mm",
           "offset": "-11",
           "center_hub": "70.3"
@@ -977,13 +977,13 @@
       "trim": "Carlo LS",
       "wheels": [
         {
-          "rim_size": "16x6.5",
+          "rim_size": "15x6",
           "bolt_circle": "5-115mm",
           "offset": "-11",
           "center_hub": "70.3"
         },
         {
-          "rim_size": "15x6",
+          "rim_size": "16x6.5",
           "bolt_circle": "5-115mm",
           "offset": "-11",
           "center_hub": "70.3"
@@ -1019,13 +1019,13 @@
       "trim": "Base",
       "wheels": [
         {
-          "rim_size": "14x5.5J",
+          "rim_size": "14x5",
           "bolt_circle": "4-100mm",
           "offset": "-10",
           "center_hub": "54.1"
         },
         {
-          "rim_size": "14x5",
+          "rim_size": "14x5.5J",
           "bolt_circle": "4-100mm",
           "offset": "-10",
           "center_hub": "54.1"
@@ -1037,13 +1037,13 @@
       "trim": "LSi",
       "wheels": [
         {
-          "rim_size": "14x5.5J",
+          "rim_size": "14x5",
           "bolt_circle": "4-100mm",
           "offset": "-10",
           "center_hub": "54.1"
         },
         {
-          "rim_size": "14x5",
+          "rim_size": "14x5.5J",
           "bolt_circle": "4-100mm",
           "offset": "-10",
           "center_hub": "54.1"
@@ -1301,7 +1301,7 @@
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-25T23:29:34.552050",
+    "scraping_date": "2025-06-26T16:21:09.354249",
     "total_vehicles": 103,
     "total_tire_sizes": 0,
     "total_wheel_specs": 32,

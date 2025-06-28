@@ -1,0 +1,122 @@
+{
+  "brand": "Eagle",
+  "year": 1994,
+  "vehicles": [
+    {
+      "model": "Eagle",
+      "trim": "Summit Base",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Summit DL Sedan & Coupe",
+      "wheels": [
+        {
+          "rim_size": "13x4",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Summit DL Wagon",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Summit ES Coupe",
+      "wheels": []
+    },
+    {
+      "model": "Eagle",
+      "trim": "Summit ES Sedan",
+      "wheels": []
+    },
+    {
+      "model": "Eagle",
+      "trim": "Summit ESi",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Summit LX Sedan",
+      "wheels": []
+    },
+    {
+      "model": "Eagle",
+      "trim": "Summit LX Wagon",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Talon DL",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Talon ES",
+      "wheels": []
+    },
+    {
+      "model": "Eagle",
+      "trim": "Talon TSi (AWD)",
+      "wheels": []
+    },
+    {
+      "model": "Eagle",
+      "trim": "Talon TSi (FWD)",
+      "wheels": []
+    },
+    {
+      "model": "Eagle",
+      "trim": "Vision ESi",
+      "wheels": []
+    },
+    {
+      "model": "Eagle",
+      "trim": "Vision TSi",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-27T18:43:40.762178",
+    "total_vehicles": 14,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 3,
+    "vehicles_with_wheels": 6,
+    "wheel_coverage": 0.42857142857142855
+  }
+}

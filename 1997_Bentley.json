@@ -7,12 +7,12 @@
       "trim": "Base",
       "wheels": [
         {
-          "rim_size": "17x7",
+          "rim_size": "17x7.5J",
           "offset": "-13",
           "center_hub": "32.7"
         },
         {
-          "rim_size": "17x7.5J",
+          "rim_size": "17x7",
           "offset": "-13",
           "center_hub": "32.7"
         }
@@ -55,12 +55,12 @@
       "trim": "R",
       "wheels": [
         {
-          "rim_size": "17x7",
+          "rim_size": "17x7.5J",
           "offset": "-13",
           "center_hub": "32.7"
         },
         {
-          "rim_size": "17x7.5J",
+          "rim_size": "17x7",
           "offset": "-13",
           "center_hub": "32.7"
         }
@@ -71,12 +71,12 @@
       "trim": "T",
       "wheels": [
         {
-          "rim_size": "18x9",
+          "rim_size": "18x9.5J",
           "offset": "-13",
           "center_hub": "32.7"
         },
         {
-          "rim_size": "18x9.5J",
+          "rim_size": "18x9",
           "offset": "-13",
           "center_hub": "32.7"
         }
@@ -87,12 +87,12 @@
       "trim": "R LWB",
       "wheels": [
         {
-          "rim_size": "17x7",
+          "rim_size": "17x7.5J",
           "offset": "-13",
           "center_hub": "32.7"
         },
         {
-          "rim_size": "17x7.5J",
+          "rim_size": "17x7",
           "offset": "-13",
           "center_hub": "32.7"
         }
@@ -100,7 +100,7 @@
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-25T22:45:23.969127",
+    "scraping_date": "2025-06-26T17:14:58.814397",
     "total_vehicles": 6,
     "total_tire_sizes": 0,
     "total_wheel_specs": 6,

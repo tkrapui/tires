@@ -1,0 +1,52 @@
+{
+  "brand": "Infiniti",
+  "year": 1991,
+  "vehicles": [
+    {
+      "model": "G20",
+      "trim": "Base",
+      "wheels": []
+    },
+    {
+      "model": "M30",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Q45",
+      "trim": "A",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Q45",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-27T20:42:44.134679",
+    "total_vehicles": 4,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 1,
+    "vehicles_with_wheels": 3,
+    "wheel_coverage": 0.75
+  }
+}

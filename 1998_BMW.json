@@ -49,13 +49,13 @@
       "trim": "Convertible",
       "wheels": [
         {
-          "rim_size": "15x7J",
+          "rim_size": "16x7J",
           "bolt_circle": "5-120mm",
           "offset": "-12",
           "center_hub": "72.6"
         },
         {
-          "rim_size": "16x7J",
+          "rim_size": "15x7J",
           "bolt_circle": "5-120mm",
           "offset": "-12",
           "center_hub": "72.6"
@@ -67,13 +67,13 @@
       "trim": "Base",
       "wheels": [
         {
-          "rim_size": "15x7J",
+          "rim_size": "16x7J",
           "bolt_circle": "5-120mm",
           "offset": "-12",
           "center_hub": "72.6"
         },
         {
-          "rim_size": "16x7J",
+          "rim_size": "15x7J",
           "bolt_circle": "5-120mm",
           "offset": "-12",
           "center_hub": "72.6"
@@ -85,13 +85,13 @@
       "trim": "Base",
       "wheels": [
         {
-          "rim_size": "15x7J",
+          "rim_size": "16x7J",
           "bolt_circle": "5-120mm",
           "offset": "-12",
           "center_hub": "72.6"
         },
         {
-          "rim_size": "16x7J",
+          "rim_size": "15x7J",
           "bolt_circle": "5-120mm",
           "offset": "-12",
           "center_hub": "72.6"
@@ -103,13 +103,13 @@
       "trim": "Convertible",
       "wheels": [
         {
-          "rim_size": "15x7J",
+          "rim_size": "16x7J",
           "bolt_circle": "5-120mm",
           "offset": "-12",
           "center_hub": "72.6"
         },
         {
-          "rim_size": "16x7J",
+          "rim_size": "15x7J",
           "bolt_circle": "5-120mm",
           "offset": "-12",
           "center_hub": "72.6"
@@ -121,13 +121,13 @@
       "trim": "Base",
       "wheels": [
         {
-          "rim_size": "15x7J",
+          "rim_size": "16x7J",
           "bolt_circle": "5-120mm",
           "offset": "-12",
           "center_hub": "72.6"
         },
         {
-          "rim_size": "16x7J",
+          "rim_size": "15x7J",
           "bolt_circle": "5-120mm",
           "offset": "-12",
           "center_hub": "72.6"
@@ -312,7 +312,7 @@
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-25T23:22:19.343216",
+    "scraping_date": "2025-06-26T16:13:49.908796",
     "total_vehicles": 17,
     "total_tire_sizes": 0,
     "total_wheel_specs": 12,

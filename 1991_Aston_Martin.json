@@ -1,0 +1,19 @@
+{
+  "brand": "Aston Martin",
+  "year": 1991,
+  "vehicles": [
+    {
+      "model": "Virage",
+      "trim": "Base",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-27T20:09:04.333657",
+    "total_vehicles": 1,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 0,
+    "vehicles_with_wheels": 0,
+    "wheel_coverage": 0.0
+  }
+}

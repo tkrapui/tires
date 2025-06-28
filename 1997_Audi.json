@@ -115,13 +115,13 @@
       "trim": "Base",
       "wheels": [
         {
-          "rim_size": "17x8J",
+          "rim_size": "16x7J",
           "bolt_circle": "5-112mm",
           "offset": "-11",
           "center_hub": "57.1"
         },
         {
-          "rim_size": "16x7J",
+          "rim_size": "17x8J",
           "bolt_circle": "5-112mm",
           "offset": "-11",
           "center_hub": "57.1"
@@ -133,13 +133,13 @@
       "trim": "Quattro Base",
       "wheels": [
         {
-          "rim_size": "17x8J",
+          "rim_size": "16x7J",
           "bolt_circle": "5-112mm",
           "offset": "-11",
           "center_hub": "57.1"
         },
         {
-          "rim_size": "16x7J",
+          "rim_size": "17x8J",
           "bolt_circle": "5-112mm",
           "offset": "-11",
           "center_hub": "57.1"
@@ -184,7 +184,7 @@
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-25T22:42:56.159126",
+    "scraping_date": "2025-06-26T17:12:29.866401",
     "total_vehicles": 12,
     "total_tire_sizes": 0,
     "total_wheel_specs": 6,

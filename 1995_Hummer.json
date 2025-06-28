@@ -1,0 +1,24 @@
+{
+  "brand": "Hummer",
+  "year": 1995,
+  "vehicles": [
+    {
+      "model": "AM",
+      "trim": "General Hummer (1 Piece Steel Wheel)",
+      "wheels": []
+    },
+    {
+      "model": "AM",
+      "trim": "General Hummer Base",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-27T15:18:11.512726",
+    "total_vehicles": 2,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 0,
+    "vehicles_with_wheels": 0,
+    "wheel_coverage": 0.0
+  }
+}

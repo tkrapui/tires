@@ -1,0 +1,882 @@
+{
+  "brand": "Dodge",
+  "year": 1992,
+  "vehicles": [
+    {
+      "model": "B150",
+      "trim": "(GVWR 5000 & 5300)",
+      "wheels": [
+        {
+          "rim_size": "15x6.5",
+          "offset": "-7",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "B150",
+      "trim": "(GVWR 5500)",
+      "wheels": [
+        {
+          "rim_size": "15x6.5",
+          "offset": "-7",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "B150",
+      "trim": "(GVWR 6010)",
+      "wheels": [
+        {
+          "rim_size": "15x6.5",
+          "offset": "-7",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "B250",
+      "trim": "(GVWR 6010)",
+      "wheels": [
+        {
+          "rim_size": "15x6.5",
+          "offset": "-7",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "B250",
+      "trim": "(GVWR 6400)",
+      "wheels": [
+        {
+          "rim_size": "15x6.5",
+          "offset": "-7",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "B250",
+      "trim": "Maxi",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "B350",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "B350",
+      "trim": "HD",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "B350",
+      "trim": "Maxi",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "B350",
+      "trim": "Maxi (GVWR 9000)",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Caravan",
+      "trim": "(AWD)",
+      "wheels": []
+    },
+    {
+      "model": "Caravan",
+      "trim": "(FWD)",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Caravan",
+      "trim": "C/V (AWD)",
+      "wheels": []
+    },
+    {
+      "model": "Caravan",
+      "trim": "C/V (FWD)(GVWR 4220)",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Caravan",
+      "trim": "C/V (FWD)(GVWR 5080)",
+      "wheels": []
+    },
+    {
+      "model": "Caravan",
+      "trim": "C/V Ext. Length (AWD)",
+      "wheels": []
+    },
+    {
+      "model": "Caravan",
+      "trim": "C/V Ext. Length (FWD)",
+      "wheels": []
+    },
+    {
+      "model": "Caravan",
+      "trim": "ES",
+      "wheels": []
+    },
+    {
+      "model": "Caravan",
+      "trim": "LE",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Caravan",
+      "trim": "SE",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Colt",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "13x4",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "13x4.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Colt",
+      "trim": "GL",
+      "wheels": [
+        {
+          "rim_size": "13x5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "D150",
+      "trim": "(GVWR 5500)",
+      "wheels": [
+        {
+          "rim_size": "15x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        },
+        {
+          "rim_size": "15x7",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "D150",
+      "trim": "(GVWR 6200)",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "D150",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "15x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "D250",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "D250",
+      "trim": "Heavy Duty (GVWR 8510)",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "D350",
+      "trim": "(DRW)",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "D350",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "4x2 Club Cab (GVWR 4780)",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "4x2 Club Cab (GVWR 5610)",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "4x2 Reg. Cab (GVWR 4300)",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "4x2 Reg. Cab (GVWR 4880)",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "4x2 Reg. Cab (GVWR 5930)",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "4x4 Club Cab (GVWR 5410)",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "4x4 Club Cab (GVWR 5790)",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "4x4 Reg. Cab (GVWR 5200)",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "4x4 Reg. Cab (GVWR 5770)",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "LE 4x2",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "LE 4x4",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "Sport 4x2",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Dakota",
+      "trim": "Sport 4x4",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Daytona",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Daytona",
+      "trim": "ES",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Daytona",
+      "trim": "Iroc",
+      "wheels": [
+        {
+          "rim_size": "16x6J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Daytona",
+      "trim": "Iroc R/T",
+      "wheels": [
+        {
+          "rim_size": "16x6J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Dynasty",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Dynasty",
+      "trim": "LS",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Grand",
+      "trim": "Caravan Base",
+      "wheels": []
+    },
+    {
+      "model": "Grand",
+      "trim": "Caravan ES",
+      "wheels": []
+    },
+    {
+      "model": "Grand",
+      "trim": "Caravan LE",
+      "wheels": []
+    },
+    {
+      "model": "Grand",
+      "trim": "Caravan SE",
+      "wheels": []
+    },
+    {
+      "model": "Monaco",
+      "trim": "ES",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Monaco",
+      "trim": "ES (1/2 inch studs)",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Monaco",
+      "trim": "ES w/aluminum wheels",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Monaco",
+      "trim": "LE",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Monaco",
+      "trim": "LE (1/2 inch studs)",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Monaco",
+      "trim": "LE w/aluminum wheels",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "50",
+      "trim": "(2000 lbs Pkg.)",
+      "wheels": []
+    },
+    {
+      "model": "50",
+      "trim": "Base",
+      "wheels": []
+    },
+    {
+      "model": "50",
+      "trim": "SE",
+      "wheels": []
+    },
+    {
+      "model": "Ramcharger",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Ramcharger",
+      "trim": "Canyon Sport",
+      "wheels": [
+        {
+          "rim_size": "15x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Ramcharger",
+      "trim": "w/Snow Pkg.",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "Shadow",
+      "trim": "America",
+      "wheels": [
+        {
+          "rim_size": "14x6J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Shadow",
+      "trim": "ES",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Shadow",
+      "trim": "ES Convertible",
+      "wheels": []
+    },
+    {
+      "model": "Shadow",
+      "trim": "High Line",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Spirit",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Spirit",
+      "trim": "ES",
+      "wheels": []
+    },
+    {
+      "model": "Spirit",
+      "trim": "LE",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Spirit",
+      "trim": "R/T",
+      "wheels": []
+    },
+    {
+      "model": "Stealth",
+      "trim": "Base",
+      "wheels": []
+    },
+    {
+      "model": "Stealth",
+      "trim": "ES",
+      "wheels": []
+    },
+    {
+      "model": "Stealth",
+      "trim": "R/T DOHC",
+      "wheels": []
+    },
+    {
+      "model": "Stealth",
+      "trim": "R/T SOHC",
+      "wheels": []
+    },
+    {
+      "model": "Stealth",
+      "trim": "R/T Turbo",
+      "wheels": [
+        {
+          "rim_size": "17x8",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x8.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Viper",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "17x10J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x13J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "W150",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        },
+        {
+          "rim_size": "15x7",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "W150",
+      "trim": "S",
+      "wheels": [
+        {
+          "rim_size": "15x6.5",
+          "offset": "-13",
+          "center_hub": "39.7"
+        },
+        {
+          "rim_size": "15x7",
+          "offset": "-13",
+          "center_hub": "39.7"
+        }
+      ]
+    },
+    {
+      "model": "W250",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "W250",
+      "trim": "Heavy Duty (GVWR 8510)",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "W350",
+      "trim": "(DRW)",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    },
+    {
+      "model": "W350",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-16",
+          "center_hub": "65.1"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-27T21:33:18.732364",
+    "total_vehicles": 85,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 18,
+    "vehicles_with_wheels": 65,
+    "wheel_coverage": 0.7647058823529411
+  }
+}

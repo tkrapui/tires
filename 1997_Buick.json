@@ -179,13 +179,13 @@
       "trim": "Custom",
       "wheels": [
         {
-          "rim_size": "15x6J",
+          "rim_size": "16x6J",
           "bolt_circle": "5-100mm",
           "offset": "-10",
           "center_hub": "57.1"
         },
         {
-          "rim_size": "16x6J",
+          "rim_size": "15x6J",
           "bolt_circle": "5-100mm",
           "offset": "-10",
           "center_hub": "57.1"
@@ -203,13 +203,13 @@
       "trim": "Gran Sport",
       "wheels": [
         {
-          "rim_size": "15x6J",
+          "rim_size": "16x6J",
           "bolt_circle": "5-100mm",
           "offset": "-10",
           "center_hub": "57.1"
         },
         {
-          "rim_size": "16x6J",
+          "rim_size": "15x6J",
           "bolt_circle": "5-100mm",
           "offset": "-10",
           "center_hub": "57.1"
@@ -227,13 +227,13 @@
       "trim": "Limited",
       "wheels": [
         {
-          "rim_size": "15x6J",
+          "rim_size": "16x6J",
           "bolt_circle": "5-100mm",
           "offset": "-10",
           "center_hub": "57.1"
         },
         {
-          "rim_size": "16x6J",
+          "rim_size": "15x6J",
           "bolt_circle": "5-100mm",
           "offset": "-10",
           "center_hub": "57.1"
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-25T22:46:44.538631",
+    "scraping_date": "2025-06-26T17:16:20.581408",
     "total_vehicles": 16,
     "total_tire_sizes": 0,
     "total_wheel_specs": 7,

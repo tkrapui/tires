@@ -1,7 +1,113 @@
 {
-  "generated_at": "2025-06-26T07:51:19.024612",
-  "total_files": 961,
+  "generated_at": "2025-06-27T23:31:01.329896",
+  "total_files": 1035,
   "years": {
+    "1991": {
+      "total_brands": 20,
+      "brands": [
+        "Acura",
+        "Alfa Romeo",
+        "Aston Martin",
+        "Audi",
+        "BMW",
+        "Bentley",
+        "Buick",
+        "Cadillac",
+        "Chevrolet",
+        "Chrysler",
+        "Daihatsu",
+        "Dodge",
+        "Eagle",
+        "Ferrari",
+        "Ford",
+        "GMC",
+        "Geo",
+        "Honda",
+        "Hyundai",
+        "Infiniti"
+      ],
+      "total_vehicles": 570,
+      "total_tire_sizes": 0,
+      "total_wheel_sizes": 112
+    },
+    "1992": {
+      "total_brands": 14,
+      "brands": [
+        "Acura",
+        "Alfa Romeo",
+        "Aston Martin",
+        "Audi",
+        "BMW",
+        "Bentley",
+        "Buick",
+        "Cadillac",
+        "Chevrolet",
+        "Chrysler",
+        "Daihatsu",
+        "Dodge",
+        "Eagle",
+        "Ferrari"
+      ],
+      "total_vehicles": 311,
+      "total_tire_sizes": 0,
+      "total_wheel_sizes": 86
+    },
+    "1994": {
+      "total_brands": 20,
+      "brands": [
+        "Acura",
+        "Alfa Romeo",
+        "Audi",
+        "BMW",
+        "Bentley",
+        "Buick",
+        "Cadillac",
+        "Chevrolet",
+        "Chrysler",
+        "Dodge",
+        "Eagle",
+        "Ferrari",
+        "Ford",
+        "GMC",
+        "Geo",
+        "Honda",
+        "Hummer",
+        "Hyundai",
+        "Infiniti",
+        "Isuzu"
+      ],
+      "total_vehicles": 576,
+      "total_tire_sizes": 0,
+      "total_wheel_sizes": 123
+    },
+    "1995": {
+      "total_brands": 20,
+      "brands": [
+        "Acura",
+        "Alfa Romeo",
+        "Audi",
+        "BMW",
+        "Bentley",
+        "Buick",
+        "Cadillac",
+        "Chevrolet",
+        "Chrysler",
+        "Dodge",
+        "Eagle",
+        "Ferrari",
+        "Ford",
+        "GMC",
+        "Geo",
+        "Honda",
+        "Hummer",
+        "Hyundai",
+        "Infiniti",
+        "Isuzu"
+      ],
+      "total_vehicles": 612,
+      "total_tire_sizes": 0,
+      "total_wheel_sizes": 137
+    },
     "1996": {
       "total_brands": 20,
       "brands": [
@@ -54,9 +160,9 @@
         "Infiniti",
         "Isuzu"
       ],
-      "total_vehicles": 536,
+      "total_vehicles": 433,
       "total_tire_sizes": 0,
-      "total_wheel_sizes": 128
+      "total_wheel_sizes": 115
     },
     "1998": {
       "total_brands": 20,
@@ -1207,8 +1313,12 @@
       "total_wheel_sizes": 0
     },
     "Acura": {
-      "total_years": 28,
+      "total_years": 32,
       "years": [
+        1991,
+        1992,
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1238,13 +1348,17 @@
         2024,
         2025
       ],
-      "total_vehicles": 361,
+      "total_vehicles": 407,
       "total_tire_sizes": 225,
-      "total_wheel_sizes": 106
+      "total_wheel_sizes": 126
     },
     "Alfa Romeo": {
-      "total_years": 11,
+      "total_years": 15,
       "years": [
+        1991,
+        1992,
+        1994,
+        1995,
         2015,
         2016,
         2017,
@@ -1257,13 +1371,15 @@
         2024,
         2025
       ],
-      "total_vehicles": 96,
+      "total_vehicles": 111,
       "total_tire_sizes": 87,
-      "total_wheel_sizes": 92
+      "total_wheel_sizes": 102
     },
     "Aston Martin": {
-      "total_years": 24,
+      "total_years": 26,
       "years": [
+        1991,
+        1992,
         1997,
         1998,
         2000,
@@ -1289,13 +1405,17 @@
         2024,
         2025
       ],
-      "total_vehicles": 145,
+      "total_vehicles": 147,
       "total_tire_sizes": 107,
       "total_wheel_sizes": 89
     },
     "Audi": {
-      "total_years": 28,
+      "total_years": 32,
       "years": [
+        1991,
+        1992,
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1325,13 +1445,17 @@
         2024,
         2025
       ],
-      "total_vehicles": 1392,
+      "total_vehicles": 1432,
       "total_tire_sizes": 592,
-      "total_wheel_sizes": 235
+      "total_wheel_sizes": 256
     },
     "BMW": {
-      "total_years": 29,
+      "total_years": 33,
       "years": [
+        1991,
+        1992,
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1362,13 +1486,17 @@
         2025,
         2026
       ],
-      "total_vehicles": 1595,
+      "total_vehicles": 1657,
       "total_tire_sizes": 827,
-      "total_wheel_sizes": 537
+      "total_wheel_sizes": 568
     },
     "Bentley": {
-      "total_years": 26,
+      "total_years": 30,
       "years": [
+        1991,
+        1992,
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1396,13 +1524,17 @@
         2024,
         2025
       ],
-      "total_vehicles": 279,
+      "total_vehicles": 300,
       "total_tire_sizes": 97,
-      "total_wheel_sizes": 116
+      "total_wheel_sizes": 139
     },
     "Buick": {
-      "total_years": 28,
+      "total_years": 32,
       "years": [
+        1991,
+        1992,
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1432,13 +1564,17 @@
         2024,
         2025
       ],
-      "total_vehicles": 409,
+      "total_vehicles": 488,
       "total_tire_sizes": 189,
-      "total_wheel_sizes": 115
+      "total_wheel_sizes": 148
     },
     "Cadillac": {
-      "total_years": 28,
+      "total_years": 32,
       "years": [
+        1991,
+        1992,
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1468,13 +1604,17 @@
         2024,
         2025
       ],
-      "total_vehicles": 767,
+      "total_vehicles": 816,
       "total_tire_sizes": 371,
-      "total_wheel_sizes": 142
+      "total_wheel_sizes": 153
     },
     "Chevrolet": {
-      "total_years": 29,
+      "total_years": 33,
       "years": [
+        1991,
+        1992,
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1505,13 +1645,17 @@
         2025,
         2026
       ],
-      "total_vehicles": 2863,
+      "total_vehicles": 3310,
       "total_tire_sizes": 1013,
-      "total_wheel_sizes": 379
+      "total_wheel_sizes": 438
     },
     "Chrysler": {
-      "total_years": 28,
+      "total_years": 32,
       "years": [
+        1991,
+        1992,
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1541,9 +1685,9 @@
         2024,
         2025
       ],
-      "total_vehicles": 567,
+      "total_vehicles": 606,
       "total_tire_sizes": 237,
-      "total_wheel_sizes": 107
+      "total_wheel_sizes": 118
     },
     "Daewoo": {
       "total_years": 2,
@@ -1555,9 +1699,23 @@
       "total_tire_sizes": 3,
       "total_wheel_sizes": 1
     },
-    "Dodge": {
-      "total_years": 28,
+    "Daihatsu": {
+      "total_years": 2,
       "years": [
+        1991,
+        1992
+      ],
+      "total_vehicles": 15,
+      "total_tire_sizes": 0,
+      "total_wheel_sizes": 4
+    },
+    "Dodge": {
+      "total_years": 32,
+      "years": [
+        1991,
+        1992,
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1587,25 +1745,33 @@
         2024,
         2025
       ],
-      "total_vehicles": 1544,
+      "total_vehicles": 1841,
       "total_tire_sizes": 457,
-      "total_wheel_sizes": 197
+      "total_wheel_sizes": 251
     },
     "Eagle": {
-      "total_years": 4,
+      "total_years": 8,
       "years": [
+        1991,
+        1992,
+        1994,
+        1995,
         1996,
         1997,
         1998,
         2020
       ],
-      "total_vehicles": 26,
+      "total_vehicles": 78,
       "total_tire_sizes": 0,
-      "total_wheel_sizes": 7
+      "total_wheel_sizes": 19
     },
     "Ferrari": {
-      "total_years": 16,
+      "total_years": 20,
       "years": [
+        1991,
+        1992,
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1623,9 +1789,9 @@
         2023,
         2024
       ],
-      "total_vehicles": 116,
+      "total_vehicles": 141,
       "total_tire_sizes": 12,
-      "total_wheel_sizes": 117
+      "total_wheel_sizes": 153
     },
     "Fiat": {
       "total_years": 10,
@@ -1655,8 +1821,11 @@
       "total_wheel_sizes": 0
     },
     "Ford": {
-      "total_years": 28,
+      "total_years": 31,
       "years": [
+        1991,
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1686,13 +1855,16 @@
         2024,
         2025
       ],
-      "total_vehicles": 3518,
+      "total_vehicles": 3839,
       "total_tire_sizes": 1069,
-      "total_wheel_sizes": 359
+      "total_wheel_sizes": 405
     },
     "GMC": {
-      "total_years": 27,
+      "total_years": 30,
       "years": [
+        1991,
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1721,9 +1893,9 @@
         2025,
         2026
       ],
-      "total_vehicles": 1773,
+      "total_vehicles": 2046,
       "total_tire_sizes": 427,
-      "total_wheel_sizes": 216
+      "total_wheel_sizes": 228
     },
     "Genesis": {
       "total_years": 17,
@@ -1751,18 +1923,24 @@
       "total_wheel_sizes": 45
     },
     "Geo": {
-      "total_years": 2,
+      "total_years": 5,
       "years": [
+        1991,
+        1994,
+        1995,
         1996,
         1997
       ],
-      "total_vehicles": 13,
+      "total_vehicles": 36,
       "total_tire_sizes": 0,
-      "total_wheel_sizes": 10
+      "total_wheel_sizes": 23
     },
     "Honda": {
-      "total_years": 27,
+      "total_years": 30,
       "years": [
+        1991,
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1791,13 +1969,15 @@
         2025,
         2026
       ],
-      "total_vehicles": 824,
+      "total_vehicles": 900,
       "total_tire_sizes": 320,
-      "total_wheel_sizes": 124
+      "total_wheel_sizes": 152
     },
     "Hummer": {
-      "total_years": 9,
+      "total_years": 11,
       "years": [
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1808,13 +1988,16 @@
         2023,
         2024
       ],
-      "total_vehicles": 18,
+      "total_vehicles": 22,
       "total_tire_sizes": 1,
       "total_wheel_sizes": 0
     },
     "Hyundai": {
-      "total_years": 26,
+      "total_years": 29,
       "years": [
+        1991,
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1842,9 +2025,9 @@
         2024,
         2025
       ],
-      "total_vehicles": 868,
+      "total_vehicles": 897,
       "total_tire_sizes": 393,
-      "total_wheel_sizes": 120
+      "total_wheel_sizes": 133
     },
     "INEOS": {
       "total_years": 1,
@@ -1856,8 +2039,11 @@
       "total_wheel_sizes": 0
     },
     "Infiniti": {
-      "total_years": 26,
+      "total_years": 29,
       "years": [
+        1991,
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1885,13 +2071,15 @@
         2024,
         2025
       ],
-      "total_vehicles": 432,
+      "total_vehicles": 448,
       "total_tire_sizes": 263,
-      "total_wheel_sizes": 116
+      "total_wheel_sizes": 119
     },
     "Isuzu": {
-      "total_years": 6,
+      "total_years": 8,
       "years": [
+        1994,
+        1995,
         1996,
         1997,
         1998,
@@ -1899,9 +2087,9 @@
         2000,
         2003
       ],
-      "total_vehicles": 67,
+      "total_vehicles": 102,
       "total_tire_sizes": 8,
-      "total_wheel_sizes": 4
+      "total_wheel_sizes": 9
     },
     "Jaguar": {
       "total_years": 26,
@@ -2994,6 +3182,24 @@
       "file_size": 3649,
       "mode": "singleshot"
     },
+    "1991_Chrysler": {
+      "filename": "1991_Chrysler.json",
+      "year": 1991,
+      "brand": "Chrysler",
+      "total_vehicles": 9,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 7,
+      "wheel_coverage": 0.778,
+      "total_wheel_sizes": 3,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:20:26.421684",
+      "file_date": "2025-06-27T20:20:26.423192",
+      "file_size": 2077,
+      "mode": "carinfo"
+    },
     "2026_Chevrolet": {
       "filename": "2026_Chevrolet.json",
       "year": 2026,
@@ -3354,6 +3560,24 @@
       "file_size": 3277,
       "mode": "singleshot"
     },
+    "1995_Chrysler": {
+      "filename": "1995_Chrysler.json",
+      "year": 1995,
+      "brand": "Chrysler",
+      "total_vehicles": 10,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 3,
+      "wheel_coverage": 0.3,
+      "total_wheel_sizes": 3,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T14:57:46.651537",
+      "file_date": "2025-06-27T14:57:46.652826",
+      "file_size": 1609,
+      "mode": "carinfo"
+    },
     "2018_Mazda": {
       "filename": "2018_Mazda.json",
       "year": 2018,
@@ -3478,6 +3702,24 @@
       "scraping_date": "2025-06-24T23:27:32.409866",
       "file_date": "2025-06-24T23:27:32.412345",
       "file_size": 10234,
+      "mode": "carinfo"
+    },
+    "1995_Hummer": {
+      "filename": "1995_Hummer.json",
+      "year": 1995,
+      "brand": "Hummer",
+      "total_vehicles": 2,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 0,
+      "wheel_coverage": 0.0,
+      "total_wheel_sizes": 0,
+      "has_wheel_data": false,
+      "scraping_date": "2025-06-27T15:18:11.512726",
+      "file_date": "2025-06-27T15:18:11.514513",
+      "file_size": 465,
       "mode": "carinfo"
     },
     "2018_Lotus": {
@@ -3606,6 +3848,24 @@
       "file_size": 3713,
       "mode": "singleshot"
     },
+    "1991_Daihatsu": {
+      "filename": "1991_Daihatsu.json",
+      "year": 1991,
+      "brand": "Daihatsu",
+      "total_vehicles": 8,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 6,
+      "wheel_coverage": 0.75,
+      "total_wheel_sizes": 2,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:22:06.298832",
+      "file_date": "2025-06-27T20:22:06.301630",
+      "file_size": 2815,
+      "mode": "carinfo"
+    },
     "2022_Acura": {
       "filename": "2022_Acura.json",
       "year": 2022,
@@ -3642,6 +3902,24 @@
       "file_size": 5791,
       "mode": "carinfo"
     },
+    "1991_Dodge": {
+      "filename": "1991_Dodge.json",
+      "year": 1991,
+      "brand": "Dodge",
+      "total_vehicles": 89,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 69,
+      "wheel_coverage": 0.775,
+      "total_wheel_sizes": 11,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:25:22.261957",
+      "file_date": "2025-06-27T20:25:22.263026",
+      "file_size": 17031,
+      "mode": "carinfo"
+    },
     "1997_Infiniti": {
       "filename": "1997_Infiniti.json",
       "year": 1997,
@@ -3655,8 +3933,8 @@
       "wheel_coverage": 0.857,
       "total_wheel_sizes": 1,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:13:52.267717",
-      "file_date": "2025-06-25T23:13:52.269766",
+      "scraping_date": "2025-06-26T17:40:40.323246",
+      "file_date": "2025-06-26T17:40:40.325661",
       "file_size": 1498,
       "mode": "carinfo"
     },
@@ -3745,8 +4023,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 6,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T22:45:23.969127",
-      "file_date": "2025-06-25T22:45:23.970755",
+      "scraping_date": "2025-06-26T17:14:58.814397",
+      "file_date": "2025-06-26T17:14:58.816477",
       "file_size": 2115,
       "mode": "carinfo"
     },
@@ -4072,6 +4350,24 @@
       "scraping_date": "2025-06-21T23:30:12.557138",
       "file_date": "2025-06-23T14:37:31.020374",
       "file_size": 780,
+      "mode": "carinfo"
+    },
+    "1994_Chevrolet": {
+      "filename": "1994_Chevrolet.json",
+      "year": 1994,
+      "brand": "Chevrolet",
+      "total_vehicles": 119,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 118,
+      "wheel_coverage": 0.992,
+      "total_wheel_sizes": 17,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:37:40.878584",
+      "file_date": "2025-06-27T18:37:40.880579",
+      "file_size": 29242,
       "mode": "carinfo"
     },
     "2023_Hummer": {
@@ -4411,8 +4707,8 @@
       "wheel_coverage": 0.592,
       "total_wheel_sizes": 23,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T19:09:09.765701",
-      "file_date": "2025-06-25T19:09:09.771088",
+      "scraping_date": "2025-06-27T09:41:07.709683",
+      "file_date": "2025-06-27T09:41:07.715872",
       "file_size": 24494,
       "mode": "carinfo"
     },
@@ -4501,8 +4797,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 1,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:25:56.885436",
-      "file_date": "2025-06-25T23:25:56.888021",
+      "scraping_date": "2025-06-26T16:17:29.642907",
+      "file_date": "2025-06-26T16:17:29.647287",
       "file_size": 3135,
       "mode": "carinfo"
     },
@@ -4645,8 +4941,8 @@
       "wheel_coverage": 0.0,
       "total_wheel_sizes": 0,
       "has_wheel_data": false,
-      "scraping_date": "2025-06-25T23:19:47.268723",
-      "file_date": "2025-06-25T23:19:47.269694",
+      "scraping_date": "2025-06-26T16:11:17.113617",
+      "file_date": "2025-06-26T16:11:17.115396",
       "file_size": 350,
       "mode": "carinfo"
     },
@@ -4721,6 +5017,24 @@
       "file_date": "2025-06-23T14:37:31.051132",
       "file_size": 2322,
       "mode": "singleshot"
+    },
+    "1992_Alfa_Romeo": {
+      "filename": "1992_Alfa_Romeo.json",
+      "year": 1992,
+      "brand": "Alfa Romeo",
+      "total_vehicles": 4,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 4,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 3,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T21:16:21.243247",
+      "file_date": "2025-06-27T21:16:21.247390",
+      "file_size": 1261,
+      "mode": "carinfo"
     },
     "2007_Rolls_Royce": {
       "filename": "2007_Rolls_Royce.json",
@@ -4861,8 +5175,8 @@
       "wheel_coverage": 0.75,
       "total_wheel_sizes": 2,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:35:05.542444",
-      "file_date": "2025-06-25T23:35:05.543004",
+      "scraping_date": "2025-06-26T16:26:41.933387",
+      "file_date": "2025-06-26T16:26:41.934932",
       "file_size": 958,
       "mode": "carinfo"
     },
@@ -4938,6 +5252,24 @@
       "file_size": 2335,
       "mode": "carinfo"
     },
+    "1995_Acura": {
+      "filename": "1995_Acura.json",
+      "year": 1995,
+      "brand": "Acura",
+      "total_vehicles": 15,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 11,
+      "wheel_coverage": 0.733,
+      "total_wheel_sizes": 6,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T14:44:46.286129",
+      "file_date": "2025-06-27T14:44:46.286990",
+      "file_size": 3371,
+      "mode": "carinfo"
+    },
     "2008_Nissan": {
       "filename": "2008_Nissan.json",
       "year": 2008,
@@ -4955,6 +5287,24 @@
       "file_date": "2025-06-23T14:37:31.066345",
       "file_size": 5422,
       "mode": "singleshot"
+    },
+    "1995_Alfa_Romeo": {
+      "filename": "1995_Alfa_Romeo.json",
+      "year": 1995,
+      "brand": "Alfa Romeo",
+      "total_vehicles": 2,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 2,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 1,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T14:45:45.082548",
+      "file_date": "2025-06-27T14:45:45.083905",
+      "file_size": 658,
+      "mode": "carinfo"
     },
     "2024_Aston_Martin": {
       "filename": "2024_Aston_Martin.json",
@@ -5131,8 +5481,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 4,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T18:50:07.551938",
-      "file_date": "2025-06-25T18:50:07.554608",
+      "scraping_date": "2025-06-27T09:21:57.934655",
+      "file_date": "2025-06-27T09:21:57.937401",
       "file_size": 2114,
       "mode": "carinfo"
     },
@@ -5207,6 +5557,24 @@
       "file_date": "2025-06-23T14:37:31.082138",
       "file_size": 3825,
       "mode": "singleshot"
+    },
+    "1991_Bentley": {
+      "filename": "1991_Bentley.json",
+      "year": 1991,
+      "brand": "Bentley",
+      "total_vehicles": 4,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 4,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 3,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:12:40.479848",
+      "file_date": "2025-06-27T20:12:40.483699",
+      "file_size": 1385,
+      "mode": "carinfo"
     },
     "2010_GMC": {
       "filename": "2010_GMC.json",
@@ -5617,9 +5985,45 @@
       "wheel_coverage": 0.741,
       "total_wheel_sizes": 7,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:10:30.360486",
-      "file_date": "2025-06-25T23:10:30.364132",
+      "scraping_date": "2025-06-26T17:37:20.082929",
+      "file_date": "2025-06-26T17:37:20.085671",
       "file_size": 5095,
+      "mode": "carinfo"
+    },
+    "1991_GMC": {
+      "filename": "1991_GMC.json",
+      "year": 1991,
+      "brand": "GMC",
+      "total_vehicles": 84,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 66,
+      "wheel_coverage": 0.786,
+      "total_wheel_sizes": 7,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:36:51.505434",
+      "file_date": "2025-06-27T20:36:51.507535",
+      "file_size": 17399,
+      "mode": "carinfo"
+    },
+    "1994_Isuzu": {
+      "filename": "1994_Isuzu.json",
+      "year": 1994,
+      "brand": "Isuzu",
+      "total_vehicles": 19,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 19,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 4,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T19:02:09.811246",
+      "file_date": "2025-06-27T19:02:09.814620",
+      "file_size": 4857,
       "mode": "carinfo"
     },
     "1998_Buick": {
@@ -5635,8 +6039,8 @@
       "wheel_coverage": 0.846,
       "total_wheel_sizes": 7,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:24:42.034278",
-      "file_date": "2025-06-25T23:24:42.036634",
+      "scraping_date": "2025-06-26T16:16:14.358128",
+      "file_date": "2025-06-26T16:16:14.361542",
       "file_size": 3359,
       "mode": "carinfo"
     },
@@ -5712,6 +6116,42 @@
       "file_size": 2696,
       "mode": "singleshot"
     },
+    "1994_Geo": {
+      "filename": "1994_Geo.json",
+      "year": 1994,
+      "brand": "Geo",
+      "total_vehicles": 7,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 5,
+      "wheel_coverage": 0.714,
+      "total_wheel_sizes": 5,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:55:45.637900",
+      "file_date": "2025-06-27T18:55:45.639335",
+      "file_size": 1725,
+      "mode": "carinfo"
+    },
+    "1995_Geo": {
+      "filename": "1995_Geo.json",
+      "year": 1995,
+      "brand": "Geo",
+      "total_vehicles": 5,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 5,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 5,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T15:15:26.165456",
+      "file_date": "2025-06-27T15:15:26.167179",
+      "file_size": 1547,
+      "mode": "carinfo"
+    },
     "2014_Nissan": {
       "filename": "2014_Nissan.json",
       "year": 2014,
@@ -5729,6 +6169,24 @@
       "file_date": "2025-06-23T14:37:31.108615",
       "file_size": 11053,
       "mode": "singleshot"
+    },
+    "1995_Chevrolet": {
+      "filename": "1995_Chevrolet.json",
+      "year": 1995,
+      "brand": "Chevrolet",
+      "total_vehicles": 116,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 115,
+      "wheel_coverage": 0.991,
+      "total_wheel_sizes": 16,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T14:56:34.839808",
+      "file_date": "2025-06-27T14:56:34.844751",
+      "file_size": 28763,
+      "mode": "carinfo"
     },
     "2021_BMW": {
       "filename": "2021_BMW.json",
@@ -5837,6 +6295,24 @@
       "file_date": "2025-06-23T20:08:01.345558",
       "file_size": 21477,
       "mode": "singleshot"
+    },
+    "1992_Chrysler": {
+      "filename": "1992_Chrysler.json",
+      "year": 1992,
+      "brand": "Chrysler",
+      "total_vehicles": 12,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 9,
+      "wheel_coverage": 0.75,
+      "total_wheel_sizes": 4,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T21:28:30.730048",
+      "file_date": "2025-06-27T21:28:30.732910",
+      "file_size": 2628,
+      "mode": "carinfo"
     },
     "2020_Lincoln": {
       "filename": "2020_Lincoln.json",
@@ -6090,6 +6566,24 @@
       "file_size": 1852,
       "mode": "singleshot"
     },
+    "1995_Eagle": {
+      "filename": "1995_Eagle.json",
+      "year": 1995,
+      "brand": "Eagle",
+      "total_vehicles": 13,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 7,
+      "wheel_coverage": 0.538,
+      "total_wheel_sizes": 2,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T15:02:40.365975",
+      "file_date": "2025-06-27T15:02:40.376005",
+      "file_size": 2388,
+      "mode": "carinfo"
+    },
     "2000_Mercedes_Benz": {
       "filename": "2000_Mercedes_Benz.json",
       "year": 2000,
@@ -6121,8 +6615,8 @@
       "wheel_coverage": 0.5,
       "total_wheel_sizes": 6,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:18:19.224960",
-      "file_date": "2025-06-25T23:18:19.226375",
+      "scraping_date": "2025-06-26T16:09:48.159235",
+      "file_date": "2025-06-26T16:09:48.164110",
       "file_size": 2228,
       "mode": "carinfo"
     },
@@ -6193,8 +6687,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 3,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T18:47:45.745269",
-      "file_date": "2025-06-25T18:47:45.748023",
+      "scraping_date": "2025-06-27T09:19:34.980644",
+      "file_date": "2025-06-27T09:19:34.982349",
       "file_size": 2259,
       "mode": "carinfo"
     },
@@ -6414,6 +6908,24 @@
       "file_size": 3434,
       "mode": "singleshot"
     },
+    "1995_Buick": {
+      "filename": "1995_Buick.json",
+      "year": 1995,
+      "brand": "Buick",
+      "total_vehicles": 19,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 16,
+      "wheel_coverage": 0.842,
+      "total_wheel_sizes": 8,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T14:51:25.285418",
+      "file_date": "2025-06-27T14:51:25.292331",
+      "file_size": 4784,
+      "mode": "carinfo"
+    },
     "1996_Chrysler": {
       "filename": "1996_Chrysler.json",
       "year": 1996,
@@ -6427,9 +6939,27 @@
       "wheel_coverage": 0.6,
       "total_wheel_sizes": 4,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T18:58:03.914855",
-      "file_date": "2025-06-25T18:58:03.916265",
+      "scraping_date": "2025-06-27T09:29:57.984958",
+      "file_date": "2025-06-27T09:29:57.988550",
       "file_size": 2872,
+      "mode": "carinfo"
+    },
+    "1994_Dodge": {
+      "filename": "1994_Dodge.json",
+      "year": 1994,
+      "brand": "Dodge",
+      "total_vehicles": 60,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 47,
+      "wheel_coverage": 0.783,
+      "total_wheel_sizes": 13,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:42:22.379672",
+      "file_date": "2025-06-27T18:42:22.382626",
+      "file_size": 11625,
       "mode": "carinfo"
     },
     "2012_Jeep": {
@@ -6540,6 +7070,24 @@
       "file_size": 8535,
       "mode": "singleshot"
     },
+    "1992_Chevrolet": {
+      "filename": "1992_Chevrolet.json",
+      "year": 1992,
+      "brand": "Chevrolet",
+      "total_vehicles": 107,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 99,
+      "wheel_coverage": 0.925,
+      "total_wheel_sizes": 13,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T21:27:16.633670",
+      "file_date": "2025-06-27T21:27:16.635772",
+      "file_size": 23863,
+      "mode": "carinfo"
+    },
     "2010_Mercedes_Benz": {
       "filename": "2010_Mercedes_Benz.json",
       "year": 2010,
@@ -6557,6 +7105,60 @@
       "file_date": "2025-06-23T14:37:31.149149",
       "file_size": 11207,
       "mode": "singleshot"
+    },
+    "1995_BMW": {
+      "filename": "1995_BMW.json",
+      "year": 1995,
+      "brand": "BMW",
+      "total_vehicles": 19,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 19,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 9,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T14:48:52.782051",
+      "file_date": "2025-06-27T14:48:52.784509",
+      "file_size": 6318,
+      "mode": "carinfo"
+    },
+    "1994_Infiniti": {
+      "filename": "1994_Infiniti.json",
+      "year": 1994,
+      "brand": "Infiniti",
+      "total_vehicles": 6,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 5,
+      "wheel_coverage": 0.833,
+      "total_wheel_sizes": 1,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T19:00:43.581384",
+      "file_date": "2025-06-27T19:00:43.582414",
+      "file_size": 1307,
+      "mode": "carinfo"
+    },
+    "1994_BMW": {
+      "filename": "1994_BMW.json",
+      "year": 1994,
+      "brand": "BMW",
+      "total_vehicles": 16,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 16,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 7,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:29:56.713470",
+      "file_date": "2025-06-27T18:29:56.715061",
+      "file_size": 4595,
+      "mode": "carinfo"
     },
     "2011_Land_Rover": {
       "filename": "2011_Land_Rover.json",
@@ -6646,6 +7248,24 @@
       "scraping_date": "2025-06-24T10:53:52.646422",
       "file_date": "2025-06-24T10:53:52.649832",
       "file_size": 2082,
+      "mode": "carinfo"
+    },
+    "1992_Daihatsu": {
+      "filename": "1992_Daihatsu.json",
+      "year": 1992,
+      "brand": "Daihatsu",
+      "total_vehicles": 7,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 5,
+      "wheel_coverage": 0.714,
+      "total_wheel_sizes": 2,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T21:30:08.799891",
+      "file_date": "2025-06-27T21:30:08.800348",
+      "file_size": 2437,
       "mode": "carinfo"
     },
     "2017_Rolls_Royce": {
@@ -7183,8 +7803,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 21,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:29:34.552050",
-      "file_date": "2025-06-25T23:29:34.555792",
+      "scraping_date": "2025-06-26T16:21:09.354249",
+      "file_date": "2025-06-26T16:21:09.361171",
       "file_size": 25378,
       "mode": "carinfo"
     },
@@ -7260,6 +7880,24 @@
       "file_size": 57031,
       "mode": "singleshot"
     },
+    "1994_Alfa_Romeo": {
+      "filename": "1994_Alfa_Romeo.json",
+      "year": 1994,
+      "brand": "Alfa Romeo",
+      "total_vehicles": 4,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 4,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 3,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:26:54.289705",
+      "file_date": "2025-06-27T18:26:54.291837",
+      "file_size": 1269,
+      "mode": "carinfo"
+    },
     "1998_Jaguar": {
       "filename": "1998_Jaguar.json",
       "year": 1998,
@@ -7273,8 +7911,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 3,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:52:12.343168",
-      "file_date": "2025-06-25T23:52:12.343646",
+      "scraping_date": "2025-06-26T16:43:50.190853",
+      "file_date": "2025-06-26T16:43:50.195036",
       "file_size": 1233,
       "mode": "carinfo"
     },
@@ -7314,6 +7952,24 @@
       "file_size": 21051,
       "mode": "singleshot"
     },
+    "1992_Buick": {
+      "filename": "1992_Buick.json",
+      "year": 1992,
+      "brand": "Buick",
+      "total_vehicles": 20,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 19,
+      "wheel_coverage": 0.95,
+      "total_wheel_sizes": 9,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T21:22:15.311416",
+      "file_date": "2025-06-27T21:22:15.312071",
+      "file_size": 5618,
+      "mode": "carinfo"
+    },
     "2010_Hyundai": {
       "filename": "2010_Hyundai.json",
       "year": 2010,
@@ -7345,8 +8001,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 11,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:22:19.343216",
-      "file_date": "2025-06-25T23:22:19.346987",
+      "scraping_date": "2025-06-26T16:13:49.908796",
+      "file_date": "2025-06-26T16:13:49.911922",
       "file_size": 6782,
       "mode": "carinfo"
     },
@@ -7426,18 +8082,18 @@
       "filename": "1997_GMC.json",
       "year": 1997,
       "brand": "GMC",
-      "total_vehicles": 97,
+      "total_vehicles": 50,
       "vehicles_with_tires": 0,
       "tire_coverage": 0.0,
       "total_tire_sizes": 0,
       "has_tire_data": false,
-      "vehicles_with_wheels": 97,
+      "vehicles_with_wheels": 50,
       "wheel_coverage": 1.0,
-      "total_wheel_sizes": 8,
+      "total_wheel_sizes": 4,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:07:14.001579",
-      "file_date": "2025-06-25T23:07:14.004709",
-      "file_size": 23069,
+      "scraping_date": "2025-06-26T17:34:05.506727",
+      "file_date": "2025-06-26T17:34:05.511403",
+      "file_size": 11938,
       "mode": "carinfo"
     },
     "1996_GMC": {
@@ -7453,8 +8109,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 7,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T19:13:14.685622",
-      "file_date": "2025-06-25T19:13:14.688652",
+      "scraping_date": "2025-06-27T09:45:14.460535",
+      "file_date": "2025-06-27T09:45:14.466670",
       "file_size": 22855,
       "mode": "carinfo"
     },
@@ -7525,8 +8181,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 7,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:30:51.420863",
-      "file_date": "2025-06-25T23:30:51.422117",
+      "scraping_date": "2025-06-26T16:22:26.278412",
+      "file_date": "2025-06-26T16:22:26.285136",
       "file_size": 3934,
       "mode": "carinfo"
     },
@@ -7565,6 +8221,24 @@
       "file_date": "2025-06-23T14:37:31.212021",
       "file_size": 3874,
       "mode": "singleshot"
+    },
+    "1992_Eagle": {
+      "filename": "1992_Eagle.json",
+      "year": 1992,
+      "brand": "Eagle",
+      "total_vehicles": 14,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 8,
+      "wheel_coverage": 0.571,
+      "total_wheel_sizes": 4,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T21:34:36.833533",
+      "file_date": "2025-06-27T21:34:36.834849",
+      "file_size": 2644,
+      "mode": "carinfo"
     },
     "2012_Rolls_Royce": {
       "filename": "2012_Rolls_Royce.json",
@@ -7926,6 +8600,24 @@
       "file_size": 7088,
       "mode": "singleshot"
     },
+    "1991_Cadillac": {
+      "filename": "1991_Cadillac.json",
+      "year": 1991,
+      "brand": "Cadillac",
+      "total_vehicles": 17,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 7,
+      "wheel_coverage": 0.412,
+      "total_wheel_sizes": 2,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:15:33.693061",
+      "file_date": "2025-06-27T20:15:33.695842",
+      "file_size": 2782,
+      "mode": "carinfo"
+    },
     "2020_Eagle": {
       "filename": "2020_Eagle.json",
       "year": 2020,
@@ -8178,6 +8870,24 @@
       "file_size": 11343,
       "mode": "carinfo"
     },
+    "1991_Audi": {
+      "filename": "1991_Audi.json",
+      "year": 1991,
+      "brand": "Audi",
+      "total_vehicles": 13,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 13,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 7,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:10:20.908335",
+      "file_date": "2025-06-27T20:10:20.909567",
+      "file_size": 4332,
+      "mode": "carinfo"
+    },
     "2017_Mazda": {
       "filename": "2017_Mazda.json",
       "year": 2017,
@@ -8407,8 +9117,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 15,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T22:51:51.864612",
-      "file_date": "2025-06-25T22:51:51.868488",
+      "scraping_date": "2025-06-26T17:21:29.198482",
+      "file_date": "2025-06-26T17:21:29.205013",
       "file_size": 27205,
       "mode": "carinfo"
     },
@@ -8447,6 +9157,24 @@
       "file_date": "2025-06-23T14:37:31.269118",
       "file_size": 1880,
       "mode": "singleshot"
+    },
+    "1995_Cadillac": {
+      "filename": "1995_Cadillac.json",
+      "year": 1995,
+      "brand": "Cadillac",
+      "total_vehicles": 9,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 9,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 3,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T14:52:35.658888",
+      "file_date": "2025-06-27T14:52:35.677433",
+      "file_size": 2376,
+      "mode": "carinfo"
     },
     "2006_Volvo": {
       "filename": "2006_Volvo.json",
@@ -8520,22 +9248,40 @@
       "file_size": 30472,
       "mode": "singleshot"
     },
-    "1997_Ford": {
-      "filename": "1997_Ford.json",
-      "year": 1997,
-      "brand": "Ford",
-      "total_vehicles": 105,
+    "1991_Hyundai": {
+      "filename": "1991_Hyundai.json",
+      "year": 1991,
+      "brand": "Hyundai",
+      "total_vehicles": 8,
       "vehicles_with_tires": 0,
       "tire_coverage": 0.0,
       "total_tire_sizes": 0,
       "has_tire_data": false,
-      "vehicles_with_wheels": 69,
-      "wheel_coverage": 0.657,
-      "total_wheel_sizes": 21,
+      "vehicles_with_wheels": 7,
+      "wheel_coverage": 0.875,
+      "total_wheel_sizes": 6,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:03:15.654298",
-      "file_date": "2025-06-25T23:03:15.657121",
-      "file_size": 21937,
+      "scraping_date": "2025-06-27T20:41:41.353006",
+      "file_date": "2025-06-27T20:41:41.355635",
+      "file_size": 2368,
+      "mode": "carinfo"
+    },
+    "1997_Ford": {
+      "filename": "1997_Ford.json",
+      "year": 1997,
+      "brand": "Ford",
+      "total_vehicles": 50,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 27,
+      "wheel_coverage": 0.54,
+      "total_wheel_sizes": 13,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-26T17:31:21.915446",
+      "file_date": "2025-06-26T17:31:21.917600",
+      "file_size": 10044,
       "mode": "carinfo"
     },
     "2022_Chevrolet": {
@@ -8555,6 +9301,24 @@
       "file_date": "2025-06-24T10:07:08.111707",
       "file_size": 48075,
       "mode": "singleshot"
+    },
+    "1992_Acura": {
+      "filename": "1992_Acura.json",
+      "year": 1992,
+      "brand": "Acura",
+      "total_vehicles": 12,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 10,
+      "wheel_coverage": 0.833,
+      "total_wheel_sizes": 4,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T21:15:18.696961",
+      "file_date": "2025-06-27T21:15:18.698795",
+      "file_size": 2854,
+      "mode": "carinfo"
     },
     "2019_Audi": {
       "filename": "2019_Audi.json",
@@ -8641,8 +9405,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 9,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T19:04:03.056622",
-      "file_date": "2025-06-25T19:04:03.058426",
+      "scraping_date": "2025-06-27T09:35:59.151522",
+      "file_date": "2025-06-27T09:35:59.155879",
       "file_size": 2993,
       "mode": "carinfo"
     },
@@ -8695,8 +9459,8 @@
       "wheel_coverage": 0.333,
       "total_wheel_sizes": 4,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T19:18:41.622292",
-      "file_date": "2025-06-25T19:18:41.623883",
+      "scraping_date": "2025-06-27T09:50:41.718299",
+      "file_date": "2025-06-27T09:50:41.720546",
       "file_size": 1777,
       "mode": "carinfo"
     },
@@ -8808,6 +9572,24 @@
       "file_size": 12993,
       "mode": "singleshot"
     },
+    "1992_BMW": {
+      "filename": "1992_BMW.json",
+      "year": 1992,
+      "brand": "BMW",
+      "total_vehicles": 14,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 14,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 8,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T21:19:45.262095",
+      "file_date": "2025-06-27T21:19:45.262611",
+      "file_size": 3932,
+      "mode": "carinfo"
+    },
     "2005_Mitsubishi": {
       "filename": "2005_Mitsubishi.json",
       "year": 2005,
@@ -8861,6 +9643,24 @@
       "file_date": "2025-06-24T12:21:37.995489",
       "file_size": 19926,
       "mode": "singleshot"
+    },
+    "1991_Ferrari": {
+      "filename": "1991_Ferrari.json",
+      "year": 1991,
+      "brand": "Ferrari",
+      "total_vehicles": 7,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 7,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 8,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:27:42.951165",
+      "file_date": "2025-06-27T20:27:42.951802",
+      "file_size": 3261,
+      "mode": "carinfo"
     },
     "2006_Audi": {
       "filename": "2006_Audi.json",
@@ -8965,9 +9765,27 @@
       "wheel_coverage": 0.991,
       "total_wheel_sizes": 18,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T18:56:44.321982",
-      "file_date": "2025-06-25T18:56:44.326587",
+      "scraping_date": "2025-06-27T09:28:38.251603",
+      "file_date": "2025-06-27T09:28:38.255718",
       "file_size": 28539,
+      "mode": "carinfo"
+    },
+    "1992_Cadillac": {
+      "filename": "1992_Cadillac.json",
+      "year": 1992,
+      "brand": "Cadillac",
+      "total_vehicles": 14,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 10,
+      "wheel_coverage": 0.714,
+      "total_wheel_sizes": 3,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T21:23:33.351844",
+      "file_date": "2025-06-27T21:23:33.353034",
+      "file_size": 2975,
       "mode": "carinfo"
     },
     "2016_Ferrari": {
@@ -9019,8 +9837,8 @@
       "wheel_coverage": 0.222,
       "total_wheel_sizes": 1,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T19:21:01.065350",
-      "file_date": "2025-06-25T19:21:01.067695",
+      "scraping_date": "2025-06-27T09:53:01.351212",
+      "file_date": "2025-06-27T09:53:01.354912",
       "file_size": 1287,
       "mode": "carinfo"
     },
@@ -9041,6 +9859,24 @@
       "file_date": "2025-06-23T14:37:31.298697",
       "file_size": 5930,
       "mode": "singleshot"
+    },
+    "1995_Honda": {
+      "filename": "1995_Honda.json",
+      "year": 1995,
+      "brand": "Honda",
+      "total_vehicles": 31,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 24,
+      "wheel_coverage": 0.774,
+      "total_wheel_sizes": 11,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T15:17:11.505356",
+      "file_date": "2025-06-27T15:17:11.510121",
+      "file_size": 6122,
+      "mode": "carinfo"
     },
     "2000_GMC": {
       "filename": "2000_GMC.json",
@@ -9361,8 +10197,8 @@
       "wheel_coverage": 0.444,
       "total_wheel_sizes": 6,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T22:40:12.228518",
-      "file_date": "2025-06-25T22:40:12.231893",
+      "scraping_date": "2025-06-26T17:09:45.679846",
+      "file_date": "2025-06-26T17:09:45.683231",
       "file_size": 3234,
       "mode": "carinfo"
     },
@@ -9379,8 +10215,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 2,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T18:52:48.485287",
-      "file_date": "2025-06-25T18:52:48.487927",
+      "scraping_date": "2025-06-27T09:24:40.275750",
+      "file_date": "2025-06-27T09:24:40.279454",
       "file_size": 2616,
       "mode": "carinfo"
     },
@@ -9942,6 +10778,24 @@
       "file_size": 2544,
       "mode": "singleshot"
     },
+    "1991_Chevrolet": {
+      "filename": "1991_Chevrolet.json",
+      "year": 1991,
+      "brand": "Chevrolet",
+      "total_vehicles": 105,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 82,
+      "wheel_coverage": 0.781,
+      "total_wheel_sizes": 13,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:19:15.678406",
+      "file_date": "2025-06-27T20:19:15.683367",
+      "file_size": 21945,
+      "mode": "carinfo"
+    },
     "2025_Volvo": {
       "filename": "2025_Volvo.json",
       "year": 2025,
@@ -10027,8 +10881,8 @@
       "wheel_coverage": 0.875,
       "total_wheel_sizes": 5,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T22:46:44.538631",
-      "file_date": "2025-06-25T22:46:44.541238",
+      "scraping_date": "2025-06-26T17:16:20.581408",
+      "file_date": "2025-06-26T17:16:20.583446",
       "file_size": 5379,
       "mode": "carinfo"
     },
@@ -10153,8 +11007,8 @@
       "wheel_coverage": 0.889,
       "total_wheel_sizes": 17,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T19:01:39.812361",
-      "file_date": "2025-06-25T19:01:39.815817",
+      "scraping_date": "2025-06-27T09:33:34.696550",
+      "file_date": "2025-06-27T09:33:34.700422",
       "file_size": 15048,
       "mode": "carinfo"
     },
@@ -10261,8 +11115,8 @@
       "wheel_coverage": 0.333,
       "total_wheel_sizes": 4,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:12:45.426755",
-      "file_date": "2025-06-25T23:12:45.429163",
+      "scraping_date": "2025-06-26T17:39:33.647037",
+      "file_date": "2025-06-26T17:39:33.648562",
       "file_size": 2348,
       "mode": "carinfo"
     },
@@ -10297,8 +11151,8 @@
       "wheel_coverage": 0.667,
       "total_wheel_sizes": 6,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:46:38.761213",
-      "file_date": "2025-06-25T23:46:38.764318",
+      "scraping_date": "2025-06-26T16:38:17.377610",
+      "file_date": "2025-06-26T16:38:17.379325",
       "file_size": 3844,
       "mode": "carinfo"
     },
@@ -10387,8 +11241,8 @@
       "wheel_coverage": 0.0,
       "total_wheel_sizes": 0,
       "has_wheel_data": false,
-      "scraping_date": "2025-06-25T19:17:31.073521",
-      "file_date": "2025-06-25T19:17:31.076558",
+      "scraping_date": "2025-06-27T09:49:31.021190",
+      "file_date": "2025-06-27T09:49:31.023181",
       "file_size": 465,
       "mode": "carinfo"
     },
@@ -10405,8 +11259,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 6,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T22:58:33.306851",
-      "file_date": "2025-06-25T22:58:33.310103",
+      "scraping_date": "2025-06-26T17:28:07.297428",
+      "file_date": "2025-06-26T17:28:07.300433",
       "file_size": 2017,
       "mode": "carinfo"
     },
@@ -10427,6 +11281,24 @@
       "file_date": "2025-06-23T14:37:31.377956",
       "file_size": 1296,
       "mode": "singleshot"
+    },
+    "1991_Ford": {
+      "filename": "1991_Ford.json",
+      "year": 1991,
+      "brand": "Ford",
+      "total_vehicles": 132,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 55,
+      "wheel_coverage": 0.417,
+      "total_wheel_sizes": 13,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:33:11.608670",
+      "file_date": "2025-06-27T20:33:11.614539",
+      "file_size": 20376,
+      "mode": "carinfo"
     },
     "2012_Infiniti": {
       "filename": "2012_Infiniti.json",
@@ -10729,8 +11601,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 4,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T22:42:56.159126",
-      "file_date": "2025-06-25T22:42:56.163063",
+      "scraping_date": "2025-06-26T17:12:29.866401",
+      "file_date": "2025-06-26T17:12:29.869663",
       "file_size": 3915,
       "mode": "carinfo"
     },
@@ -10909,8 +11781,8 @@
       "wheel_coverage": 0.5,
       "total_wheel_sizes": 3,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T22:57:32.152986",
-      "file_date": "2025-06-25T22:57:32.155719",
+      "scraping_date": "2025-06-26T17:27:06.889763",
+      "file_date": "2025-06-26T17:27:06.891498",
       "file_size": 1234,
       "mode": "carinfo"
     },
@@ -11346,6 +12218,24 @@
       "file_size": 2226,
       "mode": "carinfo"
     },
+    "1994_Acura": {
+      "filename": "1994_Acura.json",
+      "year": 1994,
+      "brand": "Acura",
+      "total_vehicles": 10,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 7,
+      "wheel_coverage": 0.7,
+      "total_wheel_sizes": 6,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:25:51.745057",
+      "file_date": "2025-06-27T18:25:51.747383",
+      "file_size": 2211,
+      "mode": "carinfo"
+    },
     "2018_Cadillac": {
       "filename": "2018_Cadillac.json",
       "year": 2018,
@@ -11539,8 +12429,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 1,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T22:47:57.827876",
-      "file_date": "2025-06-25T22:47:57.830611",
+      "scraping_date": "2025-06-26T17:17:34.342419",
+      "file_date": "2025-06-26T17:17:34.344591",
       "file_size": 2876,
       "mode": "carinfo"
     },
@@ -11647,8 +12537,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 18,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:34:03.162083",
-      "file_date": "2025-06-25T23:34:03.163578",
+      "scraping_date": "2025-06-26T16:25:39.053208",
+      "file_date": "2025-06-26T16:25:39.056351",
       "file_size": 15033,
       "mode": "carinfo"
     },
@@ -11845,8 +12735,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 11,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T18:49:02.235597",
-      "file_date": "2025-06-25T18:49:02.237517",
+      "scraping_date": "2025-06-27T09:20:52.314427",
+      "file_date": "2025-06-27T09:20:52.317790",
       "file_size": 5437,
       "mode": "carinfo"
     },
@@ -11863,8 +12753,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 12,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T22:44:19.047737",
-      "file_date": "2025-06-25T22:44:19.049547",
+      "scraping_date": "2025-06-26T17:13:52.992171",
+      "file_date": "2025-06-26T17:13:52.994196",
       "file_size": 6365,
       "mode": "carinfo"
     },
@@ -12007,8 +12897,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 7,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:44:07.567547",
-      "file_date": "2025-06-25T23:44:07.570812",
+      "scraping_date": "2025-06-26T16:35:45.872595",
+      "file_date": "2025-06-26T16:35:45.876803",
       "file_size": 22852,
       "mode": "carinfo"
     },
@@ -12084,6 +12974,42 @@
       "file_size": 465,
       "mode": "carinfo"
     },
+    "1995_Isuzu": {
+      "filename": "1995_Isuzu.json",
+      "year": 1995,
+      "brand": "Isuzu",
+      "total_vehicles": 16,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 2,
+      "wheel_coverage": 0.125,
+      "total_wheel_sizes": 1,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T15:21:51.627044",
+      "file_date": "2025-06-27T15:21:51.629109",
+      "file_size": 1978,
+      "mode": "carinfo"
+    },
+    "1992_Aston_Martin": {
+      "filename": "1992_Aston_Martin.json",
+      "year": 1992,
+      "brand": "Aston Martin",
+      "total_vehicles": 1,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 0,
+      "wheel_coverage": 0.0,
+      "total_wheel_sizes": 0,
+      "has_wheel_data": false,
+      "scraping_date": "2025-06-27T21:17:18.355407",
+      "file_date": "2025-06-27T21:17:18.355839",
+      "file_size": 353,
+      "mode": "carinfo"
+    },
     "2006_Hyundai": {
       "filename": "2006_Hyundai.json",
       "year": 2006,
@@ -12115,8 +13041,8 @@
       "wheel_coverage": 0.75,
       "total_wheel_sizes": 8,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T19:16:31.462022",
-      "file_date": "2025-06-25T19:16:31.464671",
+      "scraping_date": "2025-06-27T09:48:31.445135",
+      "file_date": "2025-06-27T09:48:31.448889",
       "file_size": 5315,
       "mode": "carinfo"
     },
@@ -12151,8 +13077,8 @@
       "wheel_coverage": 0.4,
       "total_wheel_sizes": 2,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:49:57.807848",
-      "file_date": "2025-06-25T23:49:57.810677",
+      "scraping_date": "2025-06-26T16:41:36.010697",
+      "file_date": "2025-06-26T16:41:36.012921",
       "file_size": 874,
       "mode": "carinfo"
     },
@@ -12259,8 +13185,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 8,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:23:25.785130",
-      "file_date": "2025-06-25T23:23:25.787624",
+      "scraping_date": "2025-06-26T16:14:57.388545",
+      "file_date": "2025-06-26T16:14:57.390680",
       "file_size": 2872,
       "mode": "carinfo"
     },
@@ -12300,6 +13226,24 @@
       "file_size": 1194,
       "mode": "singleshot"
     },
+    "1995_Ferrari": {
+      "filename": "1995_Ferrari.json",
+      "year": 1995,
+      "brand": "Ferrari",
+      "total_vehicles": 6,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 6,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 15,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T15:03:46.297217",
+      "file_date": "2025-06-27T15:03:46.300654",
+      "file_size": 3578,
+      "mode": "carinfo"
+    },
     "2018_Karma": {
       "filename": "2018_Karma.json",
       "year": 2018,
@@ -12336,6 +13280,42 @@
       "file_size": 3492,
       "mode": "singleshot"
     },
+    "1994_Ford": {
+      "filename": "1994_Ford.json",
+      "year": 1994,
+      "brand": "Ford",
+      "total_vehicles": 113,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 61,
+      "wheel_coverage": 0.54,
+      "total_wheel_sizes": 20,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:49:38.028033",
+      "file_date": "2025-06-27T18:49:38.029186",
+      "file_size": 19793,
+      "mode": "carinfo"
+    },
+    "1994_Eagle": {
+      "filename": "1994_Eagle.json",
+      "year": 1994,
+      "brand": "Eagle",
+      "total_vehicles": 14,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 6,
+      "wheel_coverage": 0.429,
+      "total_wheel_sizes": 2,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:43:40.762178",
+      "file_date": "2025-06-27T18:43:40.764466",
+      "file_size": 2267,
+      "mode": "carinfo"
+    },
     "2020_Subaru": {
       "filename": "2020_Subaru.json",
       "year": 2020,
@@ -12371,6 +13351,24 @@
       "file_date": "2025-06-24T14:41:14.454500",
       "file_size": 10980,
       "mode": "singleshot"
+    },
+    "1995_Hyundai": {
+      "filename": "1995_Hyundai.json",
+      "year": 1995,
+      "brand": "Hyundai",
+      "total_vehicles": 10,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 5,
+      "wheel_coverage": 0.5,
+      "total_wheel_sizes": 4,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T15:19:23.624325",
+      "file_date": "2025-06-27T15:19:23.626194",
+      "file_size": 2076,
+      "mode": "carinfo"
     },
     "2011_Genesis": {
       "filename": "2011_Genesis.json",
@@ -12462,6 +13460,24 @@
       "file_size": 13474,
       "mode": "singleshot"
     },
+    "1992_Ferrari": {
+      "filename": "1992_Ferrari.json",
+      "year": 1992,
+      "brand": "Ferrari",
+      "total_vehicles": 9,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 9,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 10,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T21:35:47.298924",
+      "file_date": "2025-06-27T21:35:47.305047",
+      "file_size": 4590,
+      "mode": "carinfo"
+    },
     "2017_Fiat": {
       "filename": "2017_Fiat.json",
       "year": 2017,
@@ -12493,8 +13509,8 @@
       "wheel_coverage": 0.0,
       "total_wheel_sizes": 0,
       "has_wheel_data": false,
-      "scraping_date": "2025-06-25T23:47:38.480037",
-      "file_date": "2025-06-25T23:47:38.482867",
+      "scraping_date": "2025-06-26T16:39:16.163802",
+      "file_date": "2025-06-26T16:39:16.166396",
       "file_size": 465,
       "mode": "carinfo"
     },
@@ -12925,8 +13941,8 @@
       "wheel_coverage": 0.556,
       "total_wheel_sizes": 1,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:51:08.181618",
-      "file_date": "2025-06-25T23:51:08.183160",
+      "scraping_date": "2025-06-26T16:42:46.142571",
+      "file_date": "2025-06-26T16:42:46.144021",
       "file_size": 1644,
       "mode": "carinfo"
     },
@@ -12965,6 +13981,24 @@
       "file_date": "2025-06-23T14:37:31.580699",
       "file_size": 1792,
       "mode": "singleshot"
+    },
+    "1992_Audi": {
+      "filename": "1992_Audi.json",
+      "year": 1992,
+      "brand": "Audi",
+      "total_vehicles": 8,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 8,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 7,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T21:18:27.286056",
+      "file_date": "2025-06-27T21:18:27.287253",
+      "file_size": 2690,
+      "mode": "carinfo"
     },
     "2014_Mercedes_Benz": {
       "filename": "2014_Mercedes_Benz.json",
@@ -13087,8 +14121,8 @@
       "wheel_coverage": 0.0,
       "total_wheel_sizes": 0,
       "has_wheel_data": false,
-      "scraping_date": "2025-06-25T22:41:40.843345",
-      "file_date": "2025-06-25T22:41:40.846291",
+      "scraping_date": "2025-06-26T17:11:14.855815",
+      "file_date": "2025-06-26T17:11:14.857909",
       "file_size": 350,
       "mode": "carinfo"
     },
@@ -13218,6 +14252,24 @@
       "file_size": 57063,
       "mode": "singleshot"
     },
+    "1994_Buick": {
+      "filename": "1994_Buick.json",
+      "year": 1994,
+      "brand": "Buick",
+      "total_vehicles": 18,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 15,
+      "wheel_coverage": 0.833,
+      "total_wheel_sizes": 8,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:32:27.143483",
+      "file_date": "2025-06-27T18:32:27.144092",
+      "file_size": 4547,
+      "mode": "carinfo"
+    },
     "2025_Hyundai": {
       "filename": "2025_Hyundai.json",
       "year": 2025,
@@ -13267,9 +14319,27 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 5,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:08:52.164180",
-      "file_date": "2025-06-25T23:08:52.166701",
+      "scraping_date": "2025-06-26T17:35:42.268446",
+      "file_date": "2025-06-26T17:35:42.272762",
       "file_size": 2066,
+      "mode": "carinfo"
+    },
+    "1995_Dodge": {
+      "filename": "1995_Dodge.json",
+      "year": 1995,
+      "brand": "Dodge",
+      "total_vehicles": 64,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 54,
+      "wheel_coverage": 0.844,
+      "total_wheel_sizes": 16,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T15:01:23.903887",
+      "file_date": "2025-06-27T15:01:23.905714",
+      "file_size": 13238,
       "mode": "carinfo"
     },
     "2022_Ferrari": {
@@ -13303,8 +14373,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 5,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T19:14:51.706144",
-      "file_date": "2025-06-25T19:14:51.708622",
+      "scraping_date": "2025-06-27T09:46:51.285028",
+      "file_date": "2025-06-27T09:46:51.288180",
       "file_size": 1757,
       "mode": "carinfo"
     },
@@ -13681,8 +14751,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 2,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T19:22:06.652338",
-      "file_date": "2025-06-25T19:22:06.652850",
+      "scraping_date": "2025-06-27T09:54:07.380178",
+      "file_date": "2025-06-27T09:54:07.383112",
       "file_size": 1438,
       "mode": "carinfo"
     },
@@ -13938,6 +15008,24 @@
       "file_size": 18393,
       "mode": "singleshot"
     },
+    "1991_Eagle": {
+      "filename": "1991_Eagle.json",
+      "year": 1991,
+      "brand": "Eagle",
+      "total_vehicles": 11,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 5,
+      "wheel_coverage": 0.455,
+      "total_wheel_sizes": 4,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:26:35.629562",
+      "file_date": "2025-06-27T20:26:35.632907",
+      "file_size": 2045,
+      "mode": "carinfo"
+    },
     "2007_Toyota": {
       "filename": "2007_Toyota.json",
       "year": 2007,
@@ -14189,6 +15277,24 @@
       "file_date": "2025-06-23T14:37:31.631993",
       "file_size": 11091,
       "mode": "singleshot"
+    },
+    "1991_Buick": {
+      "filename": "1991_Buick.json",
+      "year": 1991,
+      "brand": "Buick",
+      "total_vehicles": 22,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 15,
+      "wheel_coverage": 0.682,
+      "total_wheel_sizes": 8,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:14:11.281628",
+      "file_date": "2025-06-27T20:14:11.283153",
+      "file_size": 4457,
+      "mode": "carinfo"
     },
     "2022_SRT": {
       "filename": "2022_SRT.json",
@@ -14586,6 +15692,24 @@
       "file_size": 7510,
       "mode": "singleshot"
     },
+    "1991_Alfa_Romeo": {
+      "filename": "1991_Alfa_Romeo.json",
+      "year": 1991,
+      "brand": "Alfa Romeo",
+      "total_vehicles": 5,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 5,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 3,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:08:06.237720",
+      "file_date": "2025-06-27T20:08:06.238162",
+      "file_size": 1451,
+      "mode": "carinfo"
+    },
     "2012_Jaguar": {
       "filename": "2012_Jaguar.json",
       "year": 2012,
@@ -14622,6 +15746,24 @@
       "file_size": 11316,
       "mode": "singleshot"
     },
+    "1991_Acura": {
+      "filename": "1991_Acura.json",
+      "year": 1991,
+      "brand": "Acura",
+      "total_vehicles": 9,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 9,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 4,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:07:02.152013",
+      "file_date": "2025-06-27T20:07:02.153108",
+      "file_size": 2454,
+      "mode": "carinfo"
+    },
     "2006_Aston_Martin": {
       "filename": "2006_Aston_Martin.json",
       "year": 2006,
@@ -14638,6 +15780,42 @@
       "scraping_date": "2025-06-22T15:47:22.791344",
       "file_date": "2025-06-23T14:37:31.652040",
       "file_size": 1715,
+      "mode": "carinfo"
+    },
+    "1994_Hummer": {
+      "filename": "1994_Hummer.json",
+      "year": 1994,
+      "brand": "Hummer",
+      "total_vehicles": 2,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 0,
+      "wheel_coverage": 0.0,
+      "total_wheel_sizes": 0,
+      "has_wheel_data": false,
+      "scraping_date": "2025-06-27T18:58:24.107920",
+      "file_date": "2025-06-27T18:58:24.108877",
+      "file_size": 465,
+      "mode": "carinfo"
+    },
+    "1994_Audi": {
+      "filename": "1994_Audi.json",
+      "year": 1994,
+      "brand": "Audi",
+      "total_vehicles": 9,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 9,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 4,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:28:35.330703",
+      "file_date": "2025-06-27T18:28:35.331932",
+      "file_size": 2769,
       "mode": "carinfo"
     },
     "2019_Nissan": {
@@ -14982,6 +16160,24 @@
       "file_size": 3547,
       "mode": "carinfo"
     },
+    "1994_Cadillac": {
+      "filename": "1994_Cadillac.json",
+      "year": 1994,
+      "brand": "Cadillac",
+      "total_vehicles": 9,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 9,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 3,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:33:37.752712",
+      "file_date": "2025-06-27T18:33:37.753640",
+      "file_size": 2380,
+      "mode": "carinfo"
+    },
     "2021_Lexus": {
       "filename": "2021_Lexus.json",
       "year": 2021,
@@ -15306,6 +16502,24 @@
       "file_size": 11639,
       "mode": "singleshot"
     },
+    "1994_Hyundai": {
+      "filename": "1994_Hyundai.json",
+      "year": 1994,
+      "brand": "Hyundai",
+      "total_vehicles": 11,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 6,
+      "wheel_coverage": 0.545,
+      "total_wheel_sizes": 3,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:59:37.727083",
+      "file_date": "2025-06-27T18:59:37.727658",
+      "file_size": 2173,
+      "mode": "carinfo"
+    },
     "2025_Jeep": {
       "filename": "2025_Jeep.json",
       "year": 2025,
@@ -15395,6 +16609,24 @@
       "file_date": "2025-06-23T14:37:31.682629",
       "file_size": 16997,
       "mode": "singleshot"
+    },
+    "1994_Ferrari": {
+      "filename": "1994_Ferrari.json",
+      "year": 1994,
+      "brand": "Ferrari",
+      "total_vehicles": 3,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 3,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 3,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:44:41.512410",
+      "file_date": "2025-06-27T18:44:41.512797",
+      "file_size": 2012,
+      "mode": "carinfo"
     },
     "2020_Jaguar": {
       "filename": "2020_Jaguar.json",
@@ -15864,6 +17096,24 @@
       "file_size": 6792,
       "mode": "singleshot"
     },
+    "1994_Bentley": {
+      "filename": "1994_Bentley.json",
+      "year": 1994,
+      "brand": "Bentley",
+      "total_vehicles": 6,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 6,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 8,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:31:02.535487",
+      "file_date": "2025-06-27T18:31:02.536209",
+      "file_size": 2120,
+      "mode": "carinfo"
+    },
     "2023_Toyota": {
       "filename": "2023_Toyota.json",
       "year": 2023,
@@ -15949,8 +17199,8 @@
       "wheel_coverage": 0.709,
       "total_wheel_sizes": 18,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:40:10.095050",
-      "file_date": "2025-06-25T23:40:10.096551",
+      "scraping_date": "2025-06-26T16:31:47.175101",
+      "file_date": "2025-06-26T16:31:47.179456",
       "file_size": 17379,
       "mode": "carinfo"
     },
@@ -16134,6 +17384,24 @@
       "file_size": 7013,
       "mode": "singleshot"
     },
+    "1994_Honda": {
+      "filename": "1994_Honda.json",
+      "year": 1994,
+      "brand": "Honda",
+      "total_vehicles": 27,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 23,
+      "wheel_coverage": 0.852,
+      "total_wheel_sizes": 10,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:57:24.332652",
+      "file_date": "2025-06-27T18:57:24.335599",
+      "file_size": 5683,
+      "mode": "carinfo"
+    },
     "2023_Jaguar": {
       "filename": "2023_Jaguar.json",
       "year": 2023,
@@ -16165,8 +17433,8 @@
       "wheel_coverage": 0.182,
       "total_wheel_sizes": 1,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:15:05.700482",
-      "file_date": "2025-06-25T23:15:05.703159",
+      "scraping_date": "2025-06-26T17:41:53.787034",
+      "file_date": "2025-06-26T17:41:53.789234",
       "file_size": 1458,
       "mode": "carinfo"
     },
@@ -16453,8 +17721,8 @@
       "wheel_coverage": 0.0,
       "total_wheel_sizes": 0,
       "has_wheel_data": false,
-      "scraping_date": "2025-06-25T23:11:29.999520",
-      "file_date": "2025-06-25T23:11:30.001038",
+      "scraping_date": "2025-06-26T17:38:19.175154",
+      "file_date": "2025-06-26T17:38:19.177509",
       "file_size": 465,
       "mode": "carinfo"
     },
@@ -16489,8 +17757,8 @@
       "wheel_coverage": 0.571,
       "total_wheel_sizes": 6,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T18:45:35.596080",
-      "file_date": "2025-06-25T18:45:35.599221",
+      "scraping_date": "2025-06-27T09:17:24.071740",
+      "file_date": "2025-06-27T09:17:24.074772",
       "file_size": 2937,
       "mode": "carinfo"
     },
@@ -16908,6 +18176,24 @@
       "file_size": 11545,
       "mode": "singleshot"
     },
+    "1995_Infiniti": {
+      "filename": "1995_Infiniti.json",
+      "year": 1995,
+      "brand": "Infiniti",
+      "total_vehicles": 6,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 5,
+      "wheel_coverage": 0.833,
+      "total_wheel_sizes": 1,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T15:20:29.724180",
+      "file_date": "2025-06-27T15:20:29.725120",
+      "file_size": 1307,
+      "mode": "carinfo"
+    },
     "2025_Maserati": {
       "filename": "2025_Maserati.json",
       "year": 2025,
@@ -16957,8 +18243,8 @@
       "wheel_coverage": 0.786,
       "total_wheel_sizes": 8,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T22:53:09.556090",
-      "file_date": "2025-06-25T22:53:09.558784",
+      "scraping_date": "2025-06-26T17:22:46.893593",
+      "file_date": "2025-06-26T17:22:46.898609",
       "file_size": 4410,
       "mode": "carinfo"
     },
@@ -17106,6 +18392,24 @@
       "file_size": 5461,
       "mode": "singleshot"
     },
+    "1995_Ford": {
+      "filename": "1995_Ford.json",
+      "year": 1995,
+      "brand": "Ford",
+      "total_vehicles": 131,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 78,
+      "wheel_coverage": 0.595,
+      "total_wheel_sizes": 21,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T15:09:11.333580",
+      "file_date": "2025-06-27T15:09:11.338668",
+      "file_size": 26140,
+      "mode": "carinfo"
+    },
     "2013_Volvo": {
       "filename": "2013_Volvo.json",
       "year": 2013,
@@ -17209,8 +18513,8 @@
       "wheel_coverage": 0.909,
       "total_wheel_sizes": 9,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T18:51:37.595203",
-      "file_date": "2025-06-25T18:51:37.597153",
+      "scraping_date": "2025-06-27T09:23:28.554851",
+      "file_date": "2025-06-27T09:23:28.558571",
       "file_size": 7182,
       "mode": "carinfo"
     },
@@ -17344,18 +18648,18 @@
       "filename": "1997_Dodge.json",
       "year": 1997,
       "brand": "Dodge",
-      "total_vehicles": 51,
+      "total_vehicles": 50,
       "vehicles_with_tires": 0,
       "tire_coverage": 0.0,
       "total_tire_sizes": 0,
       "has_tire_data": false,
-      "vehicles_with_wheels": 49,
-      "wheel_coverage": 0.961,
-      "total_wheel_sizes": 15,
+      "vehicles_with_wheels": 48,
+      "wheel_coverage": 0.96,
+      "total_wheel_sizes": 14,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T22:56:26.843033",
-      "file_date": "2025-06-25T22:56:26.847368",
-      "file_size": 15420,
+      "scraping_date": "2025-06-26T17:26:01.714467",
+      "file_date": "2025-06-26T17:26:01.719089",
+      "file_size": 15176,
       "mode": "carinfo"
     },
     "2015_Bentley": {
@@ -17393,6 +18697,24 @@
       "file_date": "2025-06-23T14:37:31.763877",
       "file_size": 1260,
       "mode": "singleshot"
+    },
+    "1991_Infiniti": {
+      "filename": "1991_Infiniti.json",
+      "year": 1991,
+      "brand": "Infiniti",
+      "total_vehicles": 4,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 3,
+      "wheel_coverage": 0.75,
+      "total_wheel_sizes": 1,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:42:44.134679",
+      "file_date": "2025-06-27T20:42:44.137152",
+      "file_size": 917,
+      "mode": "carinfo"
     },
     "2009_Ford": {
       "filename": "2009_Ford.json",
@@ -17479,8 +18801,8 @@
       "wheel_coverage": 0.533,
       "total_wheel_sizes": 2,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T19:02:59.434439",
-      "file_date": "2025-06-25T19:02:59.436278",
+      "scraping_date": "2025-06-27T09:34:54.767013",
+      "file_date": "2025-06-27T09:34:54.771216",
       "file_size": 2676,
       "mode": "carinfo"
     },
@@ -17803,8 +19125,8 @@
       "wheel_coverage": 0.875,
       "total_wheel_sizes": 1,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T19:19:50.629339",
-      "file_date": "2025-06-25T19:19:50.631884",
+      "scraping_date": "2025-06-27T09:51:50.663512",
+      "file_date": "2025-06-27T09:51:50.666644",
       "file_size": 1673,
       "mode": "carinfo"
     },
@@ -17915,6 +19237,24 @@
       "file_date": "2025-06-24T12:05:25.715307",
       "file_size": 4012,
       "mode": "singleshot"
+    },
+    "1992_Dodge": {
+      "filename": "1992_Dodge.json",
+      "year": 1992,
+      "brand": "Dodge",
+      "total_vehicles": 85,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 65,
+      "wheel_coverage": 0.765,
+      "total_wheel_sizes": 15,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T21:33:18.732364",
+      "file_date": "2025-06-27T21:33:18.734801",
+      "file_size": 16429,
+      "mode": "carinfo"
     },
     "2015_Chevrolet": {
       "filename": "2015_Chevrolet.json",
@@ -18145,8 +19485,8 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 4,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:20:56.732102",
-      "file_date": "2025-06-25T23:20:56.736141",
+      "scraping_date": "2025-06-26T16:12:27.384968",
+      "file_date": "2025-06-26T16:12:27.387897",
       "file_size": 3231,
       "mode": "carinfo"
     },
@@ -18330,6 +19670,24 @@
       "file_size": 2127,
       "mode": "singleshot"
     },
+    "1994_Chrysler": {
+      "filename": "1994_Chrysler.json",
+      "year": 1994,
+      "brand": "Chrysler",
+      "total_vehicles": 8,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 2,
+      "wheel_coverage": 0.25,
+      "total_wheel_sizes": 1,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:38:49.783773",
+      "file_date": "2025-06-27T18:38:49.785244",
+      "file_size": 1228,
+      "mode": "carinfo"
+    },
     "2016_Nissan": {
       "filename": "2016_Nissan.json",
       "year": 2016,
@@ -18379,9 +19737,27 @@
       "wheel_coverage": 1.0,
       "total_wheel_sizes": 7,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:36:08.239053",
-      "file_date": "2025-06-25T23:36:08.241712",
+      "scraping_date": "2025-06-26T16:27:44.786341",
+      "file_date": "2025-06-26T16:27:44.788831",
       "file_size": 2758,
+      "mode": "carinfo"
+    },
+    "1995_Bentley": {
+      "filename": "1995_Bentley.json",
+      "year": 1995,
+      "brand": "Bentley",
+      "total_vehicles": 7,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 7,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 8,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T14:49:59.078615",
+      "file_date": "2025-06-27T14:49:59.080008",
+      "file_size": 2432,
       "mode": "carinfo"
     },
     "2004_Audi": {
@@ -18456,6 +19832,24 @@
       "file_size": 23980,
       "mode": "singleshot"
     },
+    "1992_Bentley": {
+      "filename": "1992_Bentley.json",
+      "year": 1992,
+      "brand": "Bentley",
+      "total_vehicles": 4,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 4,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 4,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T21:20:47.646015",
+      "file_date": "2025-06-27T21:20:47.646678",
+      "file_size": 1386,
+      "mode": "carinfo"
+    },
     "2019_Lexus": {
       "filename": "2019_Lexus.json",
       "year": 2019,
@@ -18523,8 +19917,8 @@
       "wheel_coverage": 0.333,
       "total_wheel_sizes": 4,
       "has_wheel_data": true,
-      "scraping_date": "2025-06-25T23:48:53.615489",
-      "file_date": "2025-06-25T23:48:53.623676",
+      "scraping_date": "2025-06-26T16:40:31.583430",
+      "file_date": "2025-06-26T16:40:31.585809",
       "file_size": 2349,
       "mode": "carinfo"
     },
@@ -18690,6 +20084,24 @@
       "file_size": 4922,
       "mode": "singleshot"
     },
+    "1991_BMW": {
+      "filename": "1991_BMW.json",
+      "year": 1991,
+      "brand": "BMW",
+      "total_vehicles": 13,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 13,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 7,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:11:37.630366",
+      "file_date": "2025-06-27T20:11:37.634562",
+      "file_size": 3686,
+      "mode": "carinfo"
+    },
     "2012_Mercedes_Benz": {
       "filename": "2012_Mercedes_Benz.json",
       "year": 2012,
@@ -18761,6 +20173,24 @@
       "file_date": "2025-06-23T23:19:58.746078",
       "file_size": 37266,
       "mode": "singleshot"
+    },
+    "1991_Aston_Martin": {
+      "filename": "1991_Aston_Martin.json",
+      "year": 1991,
+      "brand": "Aston Martin",
+      "total_vehicles": 1,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 0,
+      "wheel_coverage": 0.0,
+      "total_wheel_sizes": 0,
+      "has_wheel_data": false,
+      "scraping_date": "2025-06-27T20:09:04.333657",
+      "file_date": "2025-06-27T20:09:04.335526",
+      "file_size": 353,
+      "mode": "carinfo"
     },
     "2023_Ford": {
       "filename": "2023_Ford.json",
@@ -18977,6 +20407,24 @@
       "file_date": "2025-06-23T14:37:31.848189",
       "file_size": 4405,
       "mode": "singleshot"
+    },
+    "1991_Honda": {
+      "filename": "1991_Honda.json",
+      "year": 1991,
+      "brand": "Honda",
+      "total_vehicles": 18,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 18,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 7,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:40:01.152220",
+      "file_date": "2025-06-27T20:40:01.154620",
+      "file_size": 4404,
+      "mode": "carinfo"
     },
     "2003_Hummer": {
       "filename": "2003_Hummer.json",
@@ -19266,6 +20714,24 @@
       "file_size": 1485,
       "mode": "singleshot"
     },
+    "1995_Audi": {
+      "filename": "1995_Audi.json",
+      "year": 1995,
+      "brand": "Audi",
+      "total_vehicles": 10,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 10,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 3,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T14:47:26.719327",
+      "file_date": "2025-06-27T14:47:26.721160",
+      "file_size": 2727,
+      "mode": "carinfo"
+    },
     "2008_Jaguar": {
       "filename": "2008_Jaguar.json",
       "year": 2008,
@@ -19410,6 +20876,24 @@
       "file_size": 5899,
       "mode": "carinfo"
     },
+    "1994_GMC": {
+      "filename": "1994_GMC.json",
+      "year": 1994,
+      "brand": "GMC",
+      "total_vehicles": 115,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 115,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 5,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T18:54:06.898335",
+      "file_date": "2025-06-27T18:54:06.902179",
+      "file_size": 26872,
+      "mode": "carinfo"
+    },
     "2009_Audi": {
       "filename": "2009_Audi.json",
       "year": 2009,
@@ -19427,6 +20911,24 @@
       "file_date": "2025-06-23T14:37:31.866181",
       "file_size": 8606,
       "mode": "singleshot"
+    },
+    "1995_GMC": {
+      "filename": "1995_GMC.json",
+      "year": 1995,
+      "brand": "GMC",
+      "total_vehicles": 121,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 121,
+      "wheel_coverage": 1.0,
+      "total_wheel_sizes": 4,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T15:13:50.241098",
+      "file_date": "2025-06-27T15:13:50.245159",
+      "file_size": 27778,
+      "mode": "carinfo"
     },
     "2025_Alfa_Romeo": {
       "filename": "2025_Alfa_Romeo.json",
@@ -19787,6 +21289,24 @@
       "file_date": "2025-06-24T10:49:38.735779",
       "file_size": 3401,
       "mode": "singleshot"
+    },
+    "1991_Geo": {
+      "filename": "1991_Geo.json",
+      "year": 1991,
+      "brand": "Geo",
+      "total_vehicles": 11,
+      "vehicles_with_tires": 0,
+      "tire_coverage": 0.0,
+      "total_tire_sizes": 0,
+      "has_tire_data": false,
+      "vehicles_with_wheels": 10,
+      "wheel_coverage": 0.909,
+      "total_wheel_sizes": 3,
+      "has_wheel_data": true,
+      "scraping_date": "2025-06-27T20:38:36.466971",
+      "file_date": "2025-06-27T20:38:36.469296",
+      "file_size": 2552,
+      "mode": "carinfo"
     },
     "2024_Jeep": {
       "filename": "2024_Jeep.json",

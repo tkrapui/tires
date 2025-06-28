@@ -514,12 +514,12 @@
       "trim": "Base",
       "wheels": [
         {
-          "rim_size": "16x7.5",
+          "rim_size": "16x8",
           "offset": "-12",
           "center_hub": "20.7"
         },
         {
-          "rim_size": "16x8",
+          "rim_size": "16x7.5",
           "offset": "-12",
           "center_hub": "20.7"
         }
@@ -530,12 +530,12 @@
       "trim": "RS",
       "wheels": [
         {
-          "rim_size": "16x7.5",
+          "rim_size": "16x8",
           "offset": "-12",
           "center_hub": "20.7"
         },
         {
-          "rim_size": "16x8",
+          "rim_size": "16x7.5",
           "offset": "-12",
           "center_hub": "20.7"
         }
@@ -1400,7 +1400,7 @@
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-25T22:51:51.864612",
+    "scraping_date": "2025-06-26T17:21:29.198482",
     "total_vehicles": 113,
     "total_tire_sizes": 0,
     "total_wheel_specs": 27,

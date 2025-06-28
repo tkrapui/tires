@@ -91,13 +91,13 @@
       "trim": "Base",
       "wheels": [
         {
-          "rim_size": "16x8J",
+          "rim_size": "15x7J",
           "bolt_circle": "5-112mm",
           "offset": "-11",
           "center_hub": "57.1"
         },
         {
-          "rim_size": "15x7J",
+          "rim_size": "16x8J",
           "bolt_circle": "5-112mm",
           "offset": "-11",
           "center_hub": "57.1"
@@ -106,7 +106,7 @@
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-25T18:47:45.745269",
+    "scraping_date": "2025-06-27T09:19:34.980644",
     "total_vehicles": 8,
     "total_tire_sizes": 0,
     "total_wheel_specs": 4,

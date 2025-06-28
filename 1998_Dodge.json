@@ -7,12 +7,12 @@
       "trim": "Base",
       "wheels": [
         {
-          "rim_size": "14x5.5J",
+          "rim_size": "14x5",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "14x5",
+          "rim_size": "14x5.5J",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -23,12 +23,12 @@
       "trim": "ES",
       "wheels": [
         {
-          "rim_size": "16x6",
+          "rim_size": "17x6",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "17x6",
+          "rim_size": "16x6",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -106,7 +106,12 @@
       "trim": "ES",
       "wheels": [
         {
-          "rim_size": "15x6.5J",
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         },
@@ -116,12 +121,7 @@
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x6",
-          "offset": "-11",
-          "center_hub": "14.3"
-        },
-        {
-          "rim_size": "16x6.5J",
+          "rim_size": "15x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -132,7 +132,12 @@
       "trim": "LE",
       "wheels": [
         {
-          "rim_size": "15x6.5J",
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         },
@@ -142,12 +147,7 @@
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x6",
-          "offset": "-11",
-          "center_hub": "14.3"
-        },
-        {
-          "rim_size": "16x6.5J",
+          "rim_size": "15x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -158,7 +158,12 @@
       "trim": "SE",
       "wheels": [
         {
-          "rim_size": "15x6.5J",
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         },
@@ -168,12 +173,7 @@
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x6",
-          "offset": "-11",
-          "center_hub": "14.3"
-        },
-        {
-          "rim_size": "16x6.5J",
+          "rim_size": "15x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -184,7 +184,12 @@
       "trim": "Sport",
       "wheels": [
         {
-          "rim_size": "15x6.5J",
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         },
@@ -194,12 +199,7 @@
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x6",
-          "offset": "-11",
-          "center_hub": "14.3"
-        },
-        {
-          "rim_size": "16x6.5J",
+          "rim_size": "15x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -210,12 +210,12 @@
       "trim": "4x2",
       "wheels": [
         {
-          "rim_size": "15x8",
+          "rim_size": "15x6",
           "offset": "-7",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x6",
+          "rim_size": "15x8",
           "offset": "-7",
           "center_hub": "14.3"
         }
@@ -226,12 +226,12 @@
       "trim": "4x4",
       "wheels": [
         {
-          "rim_size": "15x8",
+          "rim_size": "15x6",
           "offset": "-7",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x6",
+          "rim_size": "15x8",
           "offset": "-7",
           "center_hub": "14.3"
         }
@@ -253,12 +253,12 @@
       "trim": "SLT 4x2",
       "wheels": [
         {
-          "rim_size": "15x8",
+          "rim_size": "15x6",
           "offset": "-7",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x6",
+          "rim_size": "15x8",
           "offset": "-7",
           "center_hub": "14.3"
         }
@@ -269,12 +269,12 @@
       "trim": "SLT 4x4",
       "wheels": [
         {
-          "rim_size": "15x8",
+          "rim_size": "15x6",
           "offset": "-7",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x6",
+          "rim_size": "15x8",
           "offset": "-7",
           "center_hub": "14.3"
         }
@@ -285,12 +285,12 @@
       "trim": "Sport 4x2",
       "wheels": [
         {
-          "rim_size": "15x8",
+          "rim_size": "15x6",
           "offset": "-7",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x6",
+          "rim_size": "15x8",
           "offset": "-7",
           "center_hub": "14.3"
         }
@@ -301,12 +301,12 @@
       "trim": "Sport 4x4",
       "wheels": [
         {
-          "rim_size": "15x8",
+          "rim_size": "15x6",
           "offset": "-7",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x6",
+          "rim_size": "15x8",
           "offset": "-7",
           "center_hub": "14.3"
         }
@@ -317,12 +317,12 @@
       "trim": "Base",
       "wheels": [
         {
-          "rim_size": "15x8",
+          "rim_size": "15x7",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x7",
+          "rim_size": "15x8",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -333,12 +333,12 @@
       "trim": "SLT",
       "wheels": [
         {
-          "rim_size": "15x8",
+          "rim_size": "15x7",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x7",
+          "rim_size": "15x8",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -361,7 +361,12 @@
       "trim": "Caravan ES (AWD)",
       "wheels": [
         {
-          "rim_size": "15x6.5J",
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         },
@@ -371,12 +376,7 @@
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x6",
-          "offset": "-11",
-          "center_hub": "14.3"
-        },
-        {
-          "rim_size": "16x6.5J",
+          "rim_size": "15x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -387,7 +387,12 @@
       "trim": "Caravan ES (FWD)",
       "wheels": [
         {
-          "rim_size": "15x6.5J",
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         },
@@ -397,12 +402,7 @@
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x6",
-          "offset": "-11",
-          "center_hub": "14.3"
-        },
-        {
-          "rim_size": "16x6.5J",
+          "rim_size": "15x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -413,7 +413,12 @@
       "trim": "Caravan LE (AWD)",
       "wheels": [
         {
-          "rim_size": "15x6.5J",
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         },
@@ -423,12 +428,7 @@
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x6",
-          "offset": "-11",
-          "center_hub": "14.3"
-        },
-        {
-          "rim_size": "16x6.5J",
+          "rim_size": "15x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -439,7 +439,12 @@
       "trim": "Caravan LE (FWD)",
       "wheels": [
         {
-          "rim_size": "15x6.5J",
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         },
@@ -449,12 +454,7 @@
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x6",
-          "offset": "-11",
-          "center_hub": "14.3"
-        },
-        {
-          "rim_size": "16x6.5J",
+          "rim_size": "15x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -465,7 +465,12 @@
       "trim": "Caravan SE (AWD)",
       "wheels": [
         {
-          "rim_size": "15x6.5J",
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "16x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         },
@@ -475,12 +480,7 @@
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x6",
-          "offset": "-11",
-          "center_hub": "14.3"
-        },
-        {
-          "rim_size": "16x6.5J",
+          "rim_size": "15x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -491,12 +491,12 @@
       "trim": "Caravan SE (FWD)",
       "wheels": [
         {
-          "rim_size": "15x6.5J",
+          "rim_size": "15x6",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "15x6",
+          "rim_size": "15x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -507,12 +507,6 @@
       "trim": "High Line",
       "wheels": [
         {
-          "rim_size": "14x5.5J",
-          "bolt_circle": "5-100mm",
-          "offset": "-10",
-          "center_hub": "57.1"
-        },
-        {
           "rim_size": "14x5",
           "bolt_circle": "5-100mm",
           "offset": "-10",
@@ -520,6 +514,12 @@
         },
         {
           "rim_size": "14x6J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        },
+        {
+          "rim_size": "14x5.5J",
           "bolt_circle": "5-100mm",
           "offset": "-10",
           "center_hub": "57.1"
@@ -579,12 +579,12 @@
       "trim": "Laramie 4x2",
       "wheels": [
         {
-          "rim_size": "16x7",
+          "rim_size": "17x9",
           "offset": "-13",
           "center_hub": "39.7"
         },
         {
-          "rim_size": "17x9",
+          "rim_size": "16x7",
           "offset": "-13",
           "center_hub": "39.7"
         }
@@ -606,12 +606,12 @@
       "trim": "ST 4x2",
       "wheels": [
         {
-          "rim_size": "16x7",
+          "rim_size": "17x9",
           "offset": "-13",
           "center_hub": "39.7"
         },
         {
-          "rim_size": "17x9",
+          "rim_size": "16x7",
           "offset": "-13",
           "center_hub": "39.7"
         }
@@ -644,12 +644,12 @@
       "trim": "WS",
       "wheels": [
         {
-          "rim_size": "16x7",
+          "rim_size": "17x9",
           "offset": "-13",
           "center_hub": "39.7"
         },
         {
-          "rim_size": "17x9",
+          "rim_size": "16x7",
           "offset": "-13",
           "center_hub": "39.7"
         }
@@ -761,7 +761,7 @@
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-25T23:34:03.162083",
+    "scraping_date": "2025-06-26T16:25:39.053208",
     "total_vehicles": 47,
     "total_tire_sizes": 0,
     "total_wheel_specs": 26,

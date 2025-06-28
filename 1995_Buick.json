@@ -1,0 +1,239 @@
+{
+  "brand": "Buick",
+  "year": 1995,
+  "vehicles": [
+    {
+      "model": "Century",
+      "trim": "Custom",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Century",
+      "trim": "Special Sedan",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Century",
+      "trim": "Special Wagon",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "LeSabre",
+      "trim": "Custom",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "LeSabre",
+      "trim": "Custom w/Performance Pkg.",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        },
+        {
+          "rim_size": "16x6.5J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "LeSabre",
+      "trim": "Limited",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "LeSabre",
+      "trim": "Limited w/Performance Pkg.",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        },
+        {
+          "rim_size": "16x6.5J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Park",
+      "trim": "Avenue Base",
+      "wheels": [
+        {
+          "rim_size": "16x7J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        },
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Park",
+      "trim": "Avenue Ultra",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "Custom",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "Gran Sport",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "Limited",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Riviera",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Roadmaster",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x7J",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "77.8"
+        }
+      ]
+    },
+    {
+      "model": "Roadmaster",
+      "trim": "Estate Wagon",
+      "wheels": [
+        {
+          "rim_size": "15x7J",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "77.8"
+        }
+      ]
+    },
+    {
+      "model": "Roadmaster",
+      "trim": "Limited",
+      "wheels": [
+        {
+          "rim_size": "15x7J",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "77.8"
+        }
+      ]
+    },
+    {
+      "model": "Skylark",
+      "trim": "Custom",
+      "wheels": []
+    },
+    {
+      "model": "Skylark",
+      "trim": "Gran Sport",
+      "wheels": []
+    },
+    {
+      "model": "Skylark",
+      "trim": "Limited",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-27T14:51:25.285418",
+    "total_vehicles": 19,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 8,
+    "vehicles_with_wheels": 16,
+    "wheel_coverage": 0.8421052631578947
+  }
+}

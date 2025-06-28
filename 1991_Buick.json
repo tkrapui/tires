@@ -1,0 +1,229 @@
+{
+  "brand": "Buick",
+  "year": 1991,
+  "vehicles": [
+    {
+      "model": "Century",
+      "trim": "Custom",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Century",
+      "trim": "Limited",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Century",
+      "trim": "Special",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "LeSabre",
+      "trim": "Base",
+      "wheels": []
+    },
+    {
+      "model": "LeSabre",
+      "trim": "Custom",
+      "wheels": []
+    },
+    {
+      "model": "LeSabre",
+      "trim": "Limited",
+      "wheels": []
+    },
+    {
+      "model": "LeSabre",
+      "trim": "w/Gran Touring Pkg.",
+      "wheels": []
+    },
+    {
+      "model": "Park",
+      "trim": "Avenue Base",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Park",
+      "trim": "Avenue Ultra",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Park",
+      "trim": "Avenue w/Gran Touring Pkg.",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Reatta",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "16x7",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "Custom",
+      "wheels": [
+        {
+          "rim_size": "14x5.5",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "Gran Sport",
+      "wheels": [
+        {
+          "rim_size": "16x6.5",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "Gran Sport w/Towing Suspension",
+      "wheels": [
+        {
+          "rim_size": "16x8",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Regal",
+      "trim": "Limited",
+      "wheels": [
+        {
+          "rim_size": "14x5.5",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Riviera",
+      "trim": "Luxury",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Riviera",
+      "trim": "Luxury w/Gran Touring Pkg.",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Roadmaster",
+      "trim": "Estate Wagon",
+      "wheels": [
+        {
+          "rim_size": "15x7",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "77.8"
+        }
+      ]
+    },
+    {
+      "model": "Skylark",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "13x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Skylark",
+      "trim": "Custom",
+      "wheels": []
+    },
+    {
+      "model": "Skylark",
+      "trim": "Gran Sport",
+      "wheels": []
+    },
+    {
+      "model": "Skylark",
+      "trim": "Luxury Edition",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-27T20:14:11.281628",
+    "total_vehicles": 22,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 8,
+    "vehicles_with_wheels": 15,
+    "wheel_coverage": 0.6818181818181818
+  }
+}

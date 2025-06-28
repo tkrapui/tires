@@ -21,13 +21,13 @@
           "center_hub": "10.5"
         },
         {
-          "rim_size": "18x10",
+          "rim_size": "18x8",
           "bolt_circle": "5-108mm",
           "offset": "-10",
           "center_hub": "10.5"
         },
         {
-          "rim_size": "18x8",
+          "rim_size": "18x10",
           "bolt_circle": "5-108mm",
           "offset": "-10",
           "center_hub": "10.5"
@@ -114,7 +114,7 @@
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-25T23:36:08.239053",
+    "scraping_date": "2025-06-26T16:27:44.786341",
     "total_vehicles": 4,
     "total_tire_sizes": 0,
     "total_wheel_specs": 7,

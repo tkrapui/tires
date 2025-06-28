@@ -46,13 +46,13 @@
       "trim": "JX",
       "wheels": [
         {
-          "rim_size": "16x6",
+          "rim_size": "16x6.5J",
           "bolt_circle": "5-100mm",
           "offset": "-10",
           "center_hub": "57.1"
         },
         {
-          "rim_size": "16x6.5J",
+          "rim_size": "16x6",
           "bolt_circle": "5-100mm",
           "offset": "-10",
           "center_hub": "57.1"
@@ -88,12 +88,12 @@
       "trim": "LX",
       "wheels": [
         {
-          "rim_size": "14x5.5J",
+          "rim_size": "14x5",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "14x5",
+          "rim_size": "14x5.5J",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -115,12 +115,12 @@
       "trim": "& Country LX (AWD)",
       "wheels": [
         {
-          "rim_size": "16x6",
+          "rim_size": "16x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "16x6.5J",
+          "rim_size": "16x6",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -131,12 +131,12 @@
       "trim": "& Country LX (FWD)",
       "wheels": [
         {
-          "rim_size": "16x6",
+          "rim_size": "16x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "16x6.5J",
+          "rim_size": "16x6",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -147,12 +147,12 @@
       "trim": "& Country LXi (AWD)",
       "wheels": [
         {
-          "rim_size": "16x6",
+          "rim_size": "16x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "16x6.5J",
+          "rim_size": "16x6",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -163,12 +163,12 @@
       "trim": "& Country LXi (FWD)",
       "wheels": [
         {
-          "rim_size": "16x6",
+          "rim_size": "16x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "16x6.5J",
+          "rim_size": "16x6",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -179,12 +179,12 @@
       "trim": "& Country SX",
       "wheels": [
         {
-          "rim_size": "16x6",
+          "rim_size": "16x6.5J",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "16x6.5J",
+          "rim_size": "16x6",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -192,7 +192,7 @@
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-25T23:30:51.420863",
+    "scraping_date": "2025-06-26T16:22:26.278412",
     "total_vehicles": 13,
     "total_tire_sizes": 0,
     "total_wheel_specs": 10,

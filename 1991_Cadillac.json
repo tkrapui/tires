@@ -1,0 +1,148 @@
+{
+  "brand": "Cadillac",
+  "year": 1991,
+  "vehicles": [
+    {
+      "model": "Allante",
+      "trim": "Base",
+      "wheels": []
+    },
+    {
+      "model": "Allante",
+      "trim": "Value Leader",
+      "wheels": []
+    },
+    {
+      "model": "Brougham",
+      "trim": "Base",
+      "wheels": []
+    },
+    {
+      "model": "Brougham",
+      "trim": "d'Elegance",
+      "wheels": []
+    },
+    {
+      "model": "DeVille",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "DeVille",
+      "trim": "Spring Edition",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "DeVille",
+      "trim": "Touring",
+      "wheels": [
+        {
+          "rim_size": "16x6J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Eldorado",
+      "trim": "Base",
+      "wheels": []
+    },
+    {
+      "model": "Eldorado",
+      "trim": "Biarritz",
+      "wheels": []
+    },
+    {
+      "model": "Eldorado",
+      "trim": "Spring Edition",
+      "wheels": []
+    },
+    {
+      "model": "Eldorado",
+      "trim": "Touring",
+      "wheels": []
+    },
+    {
+      "model": "Fleetwood",
+      "trim": "60 Special",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Fleetwood",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "19"
+        }
+      ]
+    },
+    {
+      "model": "Fleetwood",
+      "trim": "Limousine",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-127mm",
+          "offset": "-12",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Fleetwood",
+      "trim": "d'Elegance",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-115mm",
+          "offset": "-11",
+          "center_hub": "70.3"
+        }
+      ]
+    },
+    {
+      "model": "Seville",
+      "trim": "Base",
+      "wheels": []
+    },
+    {
+      "model": "Seville",
+      "trim": "STS",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-27T20:15:33.693061",
+    "total_vehicles": 17,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 4,
+    "vehicles_with_wheels": 7,
+    "wheel_coverage": 0.4117647058823529
+  }
+}

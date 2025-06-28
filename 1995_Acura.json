@@ -1,0 +1,181 @@
+{
+  "brand": "Acura",
+  "year": 1995,
+  "vehicles": [
+    {
+      "model": "Integra",
+      "trim": "GS-R",
+      "wheels": []
+    },
+    {
+      "model": "Integra",
+      "trim": "LS",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
+      ]
+    },
+    {
+      "model": "Integra",
+      "trim": "RS",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "4-100mm",
+          "offset": "-10",
+          "center_hub": "56.1"
+        }
+      ]
+    },
+    {
+      "model": "Integra",
+      "trim": "Special Edition",
+      "wheels": []
+    },
+    {
+      "model": "Legend",
+      "trim": "GS",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Legend",
+      "trim": "L",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Legend",
+      "trim": "LS Coupe",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Legend",
+      "trim": "LS Sedan",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Legend",
+      "trim": "SE",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "NSX",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "16x7J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x8.5J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x8",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "NSX",
+      "trim": "T",
+      "wheels": [
+        {
+          "rim_size": "16x7J",
+          "position": "front",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x8.5J",
+          "position": "rear",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "17x8",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "TL",
+      "trim": "2.5",
+      "wheels": []
+    },
+    {
+      "model": "TL",
+      "trim": "3.2",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "TL",
+      "trim": "Premium 2.5",
+      "wheels": []
+    },
+    {
+      "model": "TL",
+      "trim": "Premium 3.2",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-27T14:44:46.286129",
+    "total_vehicles": 15,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 6,
+    "vehicles_with_wheels": 11,
+    "wheel_coverage": 0.7333333333333333
+  }
+}

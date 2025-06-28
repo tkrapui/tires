@@ -1,0 +1,139 @@
+{
+  "brand": "Eagle",
+  "year": 1992,
+  "vehicles": [
+    {
+      "model": "Eagle",
+      "trim": "Premier ES",
+      "wheels": []
+    },
+    {
+      "model": "Eagle",
+      "trim": "Premier ES Limited",
+      "wheels": []
+    },
+    {
+      "model": "Eagle",
+      "trim": "Premier ES Limited w/aluminum wheels",
+      "wheels": []
+    },
+    {
+      "model": "Eagle",
+      "trim": "Premier ES w/aluminum wheels",
+      "wheels": []
+    },
+    {
+      "model": "Eagle",
+      "trim": "Premier LX",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "67.1"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Premier LX w/aluminum wheels",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-108mm",
+          "offset": "-10",
+          "center_hub": "67.1"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Summit DL",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Summit DL (AWD)",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Summit ES",
+      "wheels": [
+        {
+          "rim_size": "13x5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Summit Hatchback",
+      "wheels": [
+        {
+          "rim_size": "13x4",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "13x4.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Summit LX",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Summit Sedan",
+      "wheels": [
+        {
+          "rim_size": "13x5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Eagle",
+      "trim": "Talon Base",
+      "wheels": []
+    },
+    {
+      "model": "Eagle",
+      "trim": "Talon TSi",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-27T21:34:36.833533",
+    "total_vehicles": 14,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 5,
+    "vehicles_with_wheels": 8,
+    "wheel_coverage": 0.5714285714285714
+  }
+}

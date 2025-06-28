@@ -1,0 +1,232 @@
+{
+  "brand": "BMW",
+  "year": 1994,
+  "vehicles": [
+    {
+      "model": "318i",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
+      ]
+    },
+    {
+      "model": "318is",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x7J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
+      ]
+    },
+    {
+      "model": "325i",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x7J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
+      ]
+    },
+    {
+      "model": "325i",
+      "trim": "Convertible",
+      "wheels": [
+        {
+          "rim_size": "15x7J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
+      ]
+    },
+    {
+      "model": "325is",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x7J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
+      ]
+    },
+    {
+      "model": "525i",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x7J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
+      ]
+    },
+    {
+      "model": "525i",
+      "trim": "Touring",
+      "wheels": [
+        {
+          "rim_size": "15x7J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
+      ]
+    },
+    {
+      "model": "530i",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x7J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
+      ]
+    },
+    {
+      "model": "540i",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x7J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
+      ]
+    },
+    {
+      "model": "740i",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x7J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
+      ]
+    },
+    {
+      "model": "740iL",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x7J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
+      ]
+    },
+    {
+      "model": "750iL",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x7J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
+      ]
+    },
+    {
+      "model": "840Ci",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "16x7",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "16x7.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
+      ]
+    },
+    {
+      "model": "850CSi",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "17x9J",
+          "position": "front",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "17x9J",
+          "position": "rear",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
+      ]
+    },
+    {
+      "model": "850Ci",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "16x7",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "16x7.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
+      ]
+    },
+    {
+      "model": "M3",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "17x7",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        },
+        {
+          "rim_size": "17x7.5J",
+          "bolt_circle": "5-120mm",
+          "offset": "-12",
+          "center_hub": "72.6"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-27T18:29:56.713470",
+    "total_vehicles": 16,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 7,
+    "vehicles_with_wheels": 16,
+    "wheel_coverage": 1.0
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "brand": "Chrysler",
+  "year": 1995,
+  "vehicles": [
+    {
+      "model": "Cirrus",
+      "trim": "LX",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Cirrus",
+      "trim": "LXi",
+      "wheels": [
+        {
+          "rim_size": "15x6J",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "Concorde",
+      "trim": "Base",
+      "wheels": []
+    },
+    {
+      "model": "LHS",
+      "trim": "Base",
+      "wheels": []
+    },
+    {
+      "model": "LeBaron",
+      "trim": "GTC",
+      "wheels": []
+    },
+    {
+      "model": "New",
+      "trim": "Yorker Base",
+      "wheels": []
+    },
+    {
+      "model": "Sebring",
+      "trim": "LX",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "offset": "-11",
+          "center_hub": "14.3"
+        },
+        {
+          "rim_size": "14x5.5J",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Sebring",
+      "trim": "LXi",
+      "wheels": []
+    },
+    {
+      "model": "Town",
+      "trim": "& Country (AWD)",
+      "wheels": []
+    },
+    {
+      "model": "Town",
+      "trim": "& Country (FWD)",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-27T14:57:46.651537",
+    "total_vehicles": 10,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 3,
+    "vehicles_with_wheels": 3,
+    "wheel_coverage": 0.3
+  }
+}

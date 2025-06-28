@@ -1,0 +1,74 @@
+{
+  "brand": "Infiniti",
+  "year": 1995,
+  "vehicles": [
+    {
+      "model": "G20",
+      "trim": "Base",
+      "wheels": []
+    },
+    {
+      "model": "J30",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "J30",
+      "trim": "T",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Q45",
+      "trim": "A",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Q45",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    },
+    {
+      "model": "Q45",
+      "trim": "T",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-27T15:20:29.724180",
+    "total_vehicles": 6,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 1,
+    "vehicles_with_wheels": 5,
+    "wheel_coverage": 0.8333333333333334
+  }
+}

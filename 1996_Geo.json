@@ -7,12 +7,12 @@
       "trim": "Metro LSi",
       "wheels": [
         {
-          "rim_size": "13x4.5J",
+          "rim_size": "13x4",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "13x4",
+          "rim_size": "13x4.5J",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -82,7 +82,7 @@
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-25T19:14:51.706144",
+    "scraping_date": "2025-06-27T09:46:51.285028",
     "total_vehicles": 6,
     "total_tire_sizes": 0,
     "total_wheel_specs": 5,

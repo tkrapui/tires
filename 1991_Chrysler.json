@@ -1,0 +1,107 @@
+{
+  "brand": "Chrysler",
+  "year": 1991,
+  "vehicles": [
+    {
+      "model": "Imperial",
+      "trim": "Base",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "LeBaron",
+      "trim": "Coupe & Convertible",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "LeBaron",
+      "trim": "GTC",
+      "wheels": [
+        {
+          "rim_size": "16x6",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "LeBaron",
+      "trim": "LX",
+      "wheels": []
+    },
+    {
+      "model": "LeBaron",
+      "trim": "w/Performance Pkg.",
+      "wheels": []
+    },
+    {
+      "model": "New",
+      "trim": "Yorker Fifth Avenue",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "New",
+      "trim": "Yorker Salon",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "TC",
+      "trim": "Maserati Base",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "19"
+        }
+      ]
+    },
+    {
+      "model": "Town",
+      "trim": "& Country Base",
+      "wheels": [
+        {
+          "rim_size": "15x6",
+          "offset": "-11",
+          "center_hub": "14.3"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-27T20:20:26.421684",
+    "total_vehicles": 9,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 4,
+    "vehicles_with_wheels": 7,
+    "wheel_coverage": 0.7777777777777778
+  }
+}

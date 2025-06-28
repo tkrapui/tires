@@ -1,0 +1,68 @@
+{
+  "brand": "Chrysler",
+  "year": 1994,
+  "vehicles": [
+    {
+      "model": "Concorde",
+      "trim": "Base",
+      "wheels": []
+    },
+    {
+      "model": "LHS",
+      "trim": "Base",
+      "wheels": []
+    },
+    {
+      "model": "LeBaron",
+      "trim": "GTC",
+      "wheels": []
+    },
+    {
+      "model": "LeBaron",
+      "trim": "LE",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "LeBaron",
+      "trim": "Landau",
+      "wheels": [
+        {
+          "rim_size": "14x5",
+          "bolt_circle": "5-100mm",
+          "offset": "-10",
+          "center_hub": "57.1"
+        }
+      ]
+    },
+    {
+      "model": "New",
+      "trim": "Yorker Base",
+      "wheels": []
+    },
+    {
+      "model": "Town",
+      "trim": "& Country (AWD)",
+      "wheels": []
+    },
+    {
+      "model": "Town",
+      "trim": "& Country (FWD)",
+      "wheels": []
+    }
+  ],
+  "metadata": {
+    "scraping_date": "2025-06-27T18:38:49.783773",
+    "total_vehicles": 8,
+    "total_tire_sizes": 0,
+    "total_wheel_specs": 1,
+    "vehicles_with_wheels": 2,
+    "wheel_coverage": 0.25
+  }
+}

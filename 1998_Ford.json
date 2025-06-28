@@ -19,13 +19,13 @@
       "trim": "GL w/2.0L Eng.",
       "wheels": [
         {
-          "rim_size": "14x5.5",
+          "rim_size": "15x6",
           "bolt_circle": "4-108mm",
           "offset": "-10",
           "center_hub": "47.5"
         },
         {
-          "rim_size": "15x6",
+          "rim_size": "14x5.5",
           "bolt_circle": "4-108mm",
           "offset": "-10",
           "center_hub": "47.5"
@@ -37,13 +37,13 @@
       "trim": "GL w/2.5L Eng.",
       "wheels": [
         {
-          "rim_size": "14x5.5",
+          "rim_size": "15x6",
           "bolt_circle": "4-108mm",
           "offset": "-10",
           "center_hub": "47.5"
         },
         {
-          "rim_size": "15x6",
+          "rim_size": "14x5.5",
           "bolt_circle": "4-108mm",
           "offset": "-10",
           "center_hub": "47.5"
@@ -55,13 +55,13 @@
       "trim": "LX w/2.0L Eng.",
       "wheels": [
         {
-          "rim_size": "14x5.5",
+          "rim_size": "15x6",
           "bolt_circle": "4-108mm",
           "offset": "-10",
           "center_hub": "47.5"
         },
         {
-          "rim_size": "15x6",
+          "rim_size": "14x5.5",
           "bolt_circle": "4-108mm",
           "offset": "-10",
           "center_hub": "47.5"
@@ -73,13 +73,13 @@
       "trim": "LX w/2.5L Eng.",
       "wheels": [
         {
-          "rim_size": "14x5.5",
+          "rim_size": "15x6",
           "bolt_circle": "4-108mm",
           "offset": "-10",
           "center_hub": "47.5"
         },
         {
-          "rim_size": "15x6",
+          "rim_size": "14x5.5",
           "bolt_circle": "4-108mm",
           "offset": "-10",
           "center_hub": "47.5"
@@ -341,13 +341,13 @@
       "trim": "ZX2 Cool Coupe",
       "wheels": [
         {
-          "rim_size": "15x5",
+          "rim_size": "14x5",
           "bolt_circle": "4-100mm",
           "offset": "-10",
           "center_hub": "54.1"
         },
         {
-          "rim_size": "14x5",
+          "rim_size": "15x5",
           "bolt_circle": "4-100mm",
           "offset": "-10",
           "center_hub": "54.1"
@@ -359,13 +359,13 @@
       "trim": "ZX2 Hot Coupe",
       "wheels": [
         {
-          "rim_size": "15x5",
+          "rim_size": "14x5",
           "bolt_circle": "4-100mm",
           "offset": "-10",
           "center_hub": "54.1"
         },
         {
-          "rim_size": "14x5",
+          "rim_size": "15x5",
           "bolt_circle": "4-100mm",
           "offset": "-10",
           "center_hub": "54.1"
@@ -377,13 +377,13 @@
       "trim": "Eddie Bauer",
       "wheels": [
         {
-          "rim_size": "17x7.5",
+          "rim_size": "16x7",
           "bolt_circle": "5-135mm",
           "offset": "-13",
           "center_hub": "19"
         },
         {
-          "rim_size": "16x7",
+          "rim_size": "17x7.5",
           "bolt_circle": "5-135mm",
           "offset": "-13",
           "center_hub": "19"
@@ -395,13 +395,13 @@
       "trim": "XLT",
       "wheels": [
         {
-          "rim_size": "17x7.5",
+          "rim_size": "16x7",
           "bolt_circle": "5-135mm",
           "offset": "-13",
           "center_hub": "19"
         },
         {
-          "rim_size": "16x7",
+          "rim_size": "17x7.5",
           "bolt_circle": "5-135mm",
           "offset": "-13",
           "center_hub": "19"
@@ -429,12 +429,12 @@
       "trim": "Limited",
       "wheels": [
         {
-          "rim_size": "15x7",
+          "rim_size": "16x7J",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "16x7J",
+          "rim_size": "15x7",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -445,12 +445,12 @@
       "trim": "Sport",
       "wheels": [
         {
-          "rim_size": "15x7",
+          "rim_size": "16x7J",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "16x7J",
+          "rim_size": "15x7",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -461,12 +461,12 @@
       "trim": "XL",
       "wheels": [
         {
-          "rim_size": "15x7",
+          "rim_size": "16x7J",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "16x7J",
+          "rim_size": "15x7",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -477,12 +477,12 @@
       "trim": "XLT",
       "wheels": [
         {
-          "rim_size": "15x7",
+          "rim_size": "16x7J",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "16x7J",
+          "rim_size": "15x7",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -505,6 +505,12 @@
       "trim": "Lariat",
       "wheels": [
         {
+          "rim_size": "16x7J",
+          "bolt_circle": "5-135mm",
+          "offset": "-15",
+          "center_hub": "87.1"
+        },
+        {
           "rim_size": "17x7.5J",
           "bolt_circle": "5-135mm",
           "offset": "-15",
@@ -512,12 +518,6 @@
         },
         {
           "rim_size": "17x7",
-          "bolt_circle": "5-135mm",
-          "offset": "-15",
-          "center_hub": "87.1"
-        },
-        {
-          "rim_size": "16x7J",
           "bolt_circle": "5-135mm",
           "offset": "-15",
           "center_hub": "87.1"
@@ -541,6 +541,12 @@
       "trim": "XLT",
       "wheels": [
         {
+          "rim_size": "16x7J",
+          "bolt_circle": "5-135mm",
+          "offset": "-15",
+          "center_hub": "87.1"
+        },
+        {
           "rim_size": "17x7.5J",
           "bolt_circle": "5-135mm",
           "offset": "-15",
@@ -548,12 +554,6 @@
         },
         {
           "rim_size": "17x7",
-          "bolt_circle": "5-135mm",
-          "offset": "-15",
-          "center_hub": "87.1"
-        },
-        {
-          "rim_size": "16x7J",
           "bolt_circle": "5-135mm",
           "offset": "-15",
           "center_hub": "87.1"
@@ -672,12 +672,12 @@
       "trim": "GT",
       "wheels": [
         {
-          "rim_size": "17x8",
+          "rim_size": "16x7.5",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "16x7.5",
+          "rim_size": "17x8",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -820,13 +820,13 @@
       "trim": "SHO",
       "wheels": [
         {
-          "rim_size": "16x6",
+          "rim_size": "16x6.5J",
           "bolt_circle": "5-108mm",
           "offset": "-10",
           "center_hub": "63.5"
         },
         {
-          "rim_size": "16x6.5J",
+          "rim_size": "16x6",
           "bolt_circle": "5-108mm",
           "offset": "-10",
           "center_hub": "63.5"
@@ -874,7 +874,7 @@
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-25T23:40:10.095050",
+    "scraping_date": "2025-06-26T16:31:47.175101",
     "total_vehicles": 79,
     "total_tire_sizes": 0,
     "total_wheel_specs": 26,

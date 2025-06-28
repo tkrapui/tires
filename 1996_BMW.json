@@ -151,13 +151,13 @@
       "trim": "Base",
       "wheels": [
         {
-          "rim_size": "16x7",
+          "rim_size": "16x7.5J",
           "bolt_circle": "5-120mm",
           "offset": "-12",
           "center_hub": "72.6"
         },
         {
-          "rim_size": "16x7.5J",
+          "rim_size": "16x7",
           "bolt_circle": "5-120mm",
           "offset": "-12",
           "center_hub": "72.6"
@@ -169,13 +169,13 @@
       "trim": "Base",
       "wheels": [
         {
-          "rim_size": "16x7",
+          "rim_size": "16x7.5J",
           "bolt_circle": "5-120mm",
           "offset": "-12",
           "center_hub": "72.6"
         },
         {
-          "rim_size": "16x7.5J",
+          "rim_size": "16x7",
           "bolt_circle": "5-120mm",
           "offset": "-12",
           "center_hub": "72.6"
@@ -233,13 +233,13 @@
           "center_hub": "72.6"
         },
         {
-          "rim_size": "17x8",
+          "rim_size": "16x7J",
           "bolt_circle": "5-120mm",
           "offset": "-12",
           "center_hub": "72.6"
         },
         {
-          "rim_size": "16x7J",
+          "rim_size": "17x8",
           "bolt_circle": "5-120mm",
           "offset": "-12",
           "center_hub": "72.6"
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-25T18:49:02.235597",
+    "scraping_date": "2025-06-27T09:20:52.314427",
     "total_vehicles": 13,
     "total_tire_sizes": 0,
     "total_wheel_specs": 12,

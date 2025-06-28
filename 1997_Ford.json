@@ -416,12 +416,12 @@
       "trim": "Limited",
       "wheels": [
         {
-          "rim_size": "15x7",
+          "rim_size": "16x7J",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "16x7J",
+          "rim_size": "15x7",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -432,12 +432,12 @@
       "trim": "Sport",
       "wheels": [
         {
-          "rim_size": "15x7",
+          "rim_size": "16x7J",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "16x7J",
+          "rim_size": "15x7",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -448,12 +448,12 @@
       "trim": "XL",
       "wheels": [
         {
-          "rim_size": "15x7",
+          "rim_size": "16x7J",
           "offset": "-11",
           "center_hub": "14.3"
         },
         {
-          "rim_size": "16x7J",
+          "rim_size": "15x7",
           "offset": "-11",
           "center_hub": "14.3"
         }
@@ -464,492 +464,10 @@
       "trim": "XLT",
       "wheels": [
         {
-          "rim_size": "15x7",
-          "offset": "-11",
-          "center_hub": "14.3"
-        },
-        {
           "rim_size": "16x7J",
           "offset": "-11",
           "center_hub": "14.3"
-        }
-      ]
-    },
-    {
-      "model": "F-150",
-      "trim": "Base",
-      "wheels": [
-        {
-          "rim_size": "17x7",
-          "bolt_circle": "5-135mm",
-          "offset": "-15",
-          "center_hub": "87.1"
         },
-        {
-          "rim_size": "16x7J",
-          "bolt_circle": "5-135mm",
-          "offset": "-15",
-          "center_hub": "87.1"
-        },
-        {
-          "rim_size": "17x7.5J",
-          "bolt_circle": "5-135mm",
-          "offset": "-15",
-          "center_hub": "87.1"
-        }
-      ]
-    },
-    {
-      "model": "F-150",
-      "trim": "Lariat",
-      "wheels": [
-        {
-          "rim_size": "17x7",
-          "bolt_circle": "5-135mm",
-          "offset": "-15",
-          "center_hub": "87.1"
-        },
-        {
-          "rim_size": "16x7J",
-          "bolt_circle": "5-135mm",
-          "offset": "-15",
-          "center_hub": "87.1"
-        },
-        {
-          "rim_size": "17x7.5J",
-          "bolt_circle": "5-135mm",
-          "offset": "-15",
-          "center_hub": "87.1"
-        }
-      ]
-    },
-    {
-      "model": "F-150",
-      "trim": "XL",
-      "wheels": [
-        {
-          "rim_size": "17x7",
-          "bolt_circle": "5-135mm",
-          "offset": "-15",
-          "center_hub": "87.1"
-        },
-        {
-          "rim_size": "16x7J",
-          "bolt_circle": "5-135mm",
-          "offset": "-15",
-          "center_hub": "87.1"
-        },
-        {
-          "rim_size": "17x7.5J",
-          "bolt_circle": "5-135mm",
-          "offset": "-15",
-          "center_hub": "87.1"
-        }
-      ]
-    },
-    {
-      "model": "F-150",
-      "trim": "XLT",
-      "wheels": [
-        {
-          "rim_size": "17x7",
-          "bolt_circle": "5-135mm",
-          "offset": "-15",
-          "center_hub": "87.1"
-        },
-        {
-          "rim_size": "16x7J",
-          "bolt_circle": "5-135mm",
-          "offset": "-15",
-          "center_hub": "87.1"
-        },
-        {
-          "rim_size": "17x7.5J",
-          "bolt_circle": "5-135mm",
-          "offset": "-15",
-          "center_hub": "87.1"
-        }
-      ]
-    },
-    {
-      "model": "F-250",
-      "trim": "4x2",
-      "wheels": [
-        {
-          "rim_size": "16x7J",
-          "bolt_circle": "7-150mm",
-          "offset": "-25",
-          "center_hub": "24.9"
-        }
-      ]
-    },
-    {
-      "model": "F-250",
-      "trim": "4x4",
-      "wheels": [
-        {
-          "rim_size": "16x7J",
-          "bolt_circle": "7-150mm",
-          "offset": "-25",
-          "center_hub": "24.9"
-        }
-      ]
-    },
-    {
-      "model": "F-250",
-      "trim": "H.D.",
-      "wheels": []
-    },
-    {
-      "model": "F-250",
-      "trim": "Lariat 4x2",
-      "wheels": [
-        {
-          "rim_size": "16x7J",
-          "bolt_circle": "7-150mm",
-          "offset": "-25",
-          "center_hub": "24.9"
-        }
-      ]
-    },
-    {
-      "model": "F-250",
-      "trim": "Lariat 4x4",
-      "wheels": [
-        {
-          "rim_size": "16x7J",
-          "bolt_circle": "7-150mm",
-          "offset": "-25",
-          "center_hub": "24.9"
-        }
-      ]
-    },
-    {
-      "model": "F-250",
-      "trim": "Lariat H.D.",
-      "wheels": []
-    },
-    {
-      "model": "F-250",
-      "trim": "XL 4x2",
-      "wheels": [
-        {
-          "rim_size": "16x7J",
-          "bolt_circle": "7-150mm",
-          "offset": "-25",
-          "center_hub": "24.9"
-        }
-      ]
-    },
-    {
-      "model": "F-250",
-      "trim": "XL 4x4",
-      "wheels": [
-        {
-          "rim_size": "16x7J",
-          "bolt_circle": "7-150mm",
-          "offset": "-25",
-          "center_hub": "24.9"
-        }
-      ]
-    },
-    {
-      "model": "F-250",
-      "trim": "XL H.D.",
-      "wheels": []
-    },
-    {
-      "model": "F-250",
-      "trim": "XLT 4x2",
-      "wheels": [
-        {
-          "rim_size": "16x7J",
-          "bolt_circle": "7-150mm",
-          "offset": "-25",
-          "center_hub": "24.9"
-        }
-      ]
-    },
-    {
-      "model": "F-250",
-      "trim": "XLT 4x4",
-      "wheels": [
-        {
-          "rim_size": "16x7J",
-          "bolt_circle": "7-150mm",
-          "offset": "-25",
-          "center_hub": "24.9"
-        }
-      ]
-    },
-    {
-      "model": "F-250",
-      "trim": "XLT H.D.",
-      "wheels": []
-    },
-    {
-      "model": "F-350",
-      "trim": "4x2",
-      "wheels": [
-        {
-          "rim_size": "16x7",
-          "offset": "-35",
-          "center_hub": "65.1"
-        }
-      ]
-    },
-    {
-      "model": "F-350",
-      "trim": "4x2 (DRW)",
-      "wheels": [
-        {
-          "rim_size": "16x6",
-          "offset": "-35",
-          "center_hub": "65.1"
-        }
-      ]
-    },
-    {
-      "model": "F-350",
-      "trim": "4x4",
-      "wheels": [
-        {
-          "rim_size": "16x7",
-          "offset": "-35",
-          "center_hub": "65.1"
-        }
-      ]
-    },
-    {
-      "model": "F-350",
-      "trim": "Lariat 4x2",
-      "wheels": [
-        {
-          "rim_size": "16x7",
-          "offset": "-35",
-          "center_hub": "65.1"
-        }
-      ]
-    },
-    {
-      "model": "F-350",
-      "trim": "Lariat 4x2 (DRW)",
-      "wheels": [
-        {
-          "rim_size": "16x6",
-          "offset": "-35",
-          "center_hub": "65.1"
-        }
-      ]
-    },
-    {
-      "model": "F-350",
-      "trim": "Lariat 4x4",
-      "wheels": [
-        {
-          "rim_size": "16x7",
-          "offset": "-35",
-          "center_hub": "65.1"
-        }
-      ]
-    },
-    {
-      "model": "F-350",
-      "trim": "XL 4x2",
-      "wheels": [
-        {
-          "rim_size": "16x7",
-          "offset": "-35",
-          "center_hub": "65.1"
-        }
-      ]
-    },
-    {
-      "model": "F-350",
-      "trim": "XL 4x2 (DRW)",
-      "wheels": [
-        {
-          "rim_size": "16x6",
-          "offset": "-35",
-          "center_hub": "65.1"
-        }
-      ]
-    },
-    {
-      "model": "F-350",
-      "trim": "XL 4x4",
-      "wheels": [
-        {
-          "rim_size": "16x7",
-          "offset": "-35",
-          "center_hub": "65.1"
-        }
-      ]
-    },
-    {
-      "model": "F-350",
-      "trim": "XLT 4x2",
-      "wheels": [
-        {
-          "rim_size": "16x7",
-          "offset": "-35",
-          "center_hub": "65.1"
-        }
-      ]
-    },
-    {
-      "model": "F-350",
-      "trim": "XLT 4x2 (DRW)",
-      "wheels": [
-        {
-          "rim_size": "16x6",
-          "offset": "-35",
-          "center_hub": "65.1"
-        }
-      ]
-    },
-    {
-      "model": "F-350",
-      "trim": "XLT 4x4",
-      "wheels": [
-        {
-          "rim_size": "16x7",
-          "offset": "-35",
-          "center_hub": "65.1"
-        }
-      ]
-    },
-    {
-      "model": "Mustang",
-      "trim": "Base",
-      "wheels": [
-        {
-          "rim_size": "15x6.5",
-          "offset": "-11",
-          "center_hub": "14.3"
-        }
-      ]
-    },
-    {
-      "model": "Mustang",
-      "trim": "GT",
-      "wheels": [
-        {
-          "rim_size": "17x8",
-          "offset": "-11",
-          "center_hub": "14.3"
-        },
-        {
-          "rim_size": "16x7.5",
-          "offset": "-11",
-          "center_hub": "14.3"
-        }
-      ]
-    },
-    {
-      "model": "Mustang",
-      "trim": "SVT Cobra",
-      "wheels": [
-        {
-          "rim_size": "17x8",
-          "offset": "-11",
-          "center_hub": "14.3"
-        }
-      ]
-    },
-    {
-      "model": "Probe",
-      "trim": "Base",
-      "wheels": [
-        {
-          "rim_size": "14x5",
-          "offset": "-11",
-          "center_hub": "14.3"
-        }
-      ]
-    },
-    {
-      "model": "Probe",
-      "trim": "GT",
-      "wheels": []
-    },
-    {
-      "model": "Probe",
-      "trim": "GTS",
-      "wheels": []
-    },
-    {
-      "model": "Probe",
-      "trim": "w/Handling Pkg.",
-      "wheels": []
-    },
-    {
-      "model": "Ranger",
-      "trim": "STX 4x2",
-      "wheels": [
-        {
-          "rim_size": "14x5",
-          "offset": "-11",
-          "center_hub": "14.3"
-        },
-        {
-          "rim_size": "14x6J",
-          "offset": "-11",
-          "center_hub": "14.3"
-        }
-      ]
-    },
-    {
-      "model": "Ranger",
-      "trim": "STX 4x4",
-      "wheels": [
-        {
-          "rim_size": "15x7J",
-          "offset": "-11",
-          "center_hub": "14.3"
-        }
-      ]
-    },
-    {
-      "model": "Ranger",
-      "trim": "Splash 4x2",
-      "wheels": []
-    },
-    {
-      "model": "Ranger",
-      "trim": "Splash 4x2 Super Cab",
-      "wheels": []
-    },
-    {
-      "model": "Ranger",
-      "trim": "Splash 4x4",
-      "wheels": []
-    },
-    {
-      "model": "Ranger",
-      "trim": "Splash 4x4 Super Cab",
-      "wheels": []
-    },
-    {
-      "model": "Ranger",
-      "trim": "Sport 4x2",
-      "wheels": [
-        {
-          "rim_size": "14x5",
-          "offset": "-11",
-          "center_hub": "14.3"
-        },
-        {
-          "rim_size": "14x6J",
-          "offset": "-11",
-          "center_hub": "14.3"
-        }
-      ]
-    },
-    {
-      "model": "Ranger",
-      "trim": "Sport 4x4",
-      "wheels": [
         {
           "rim_size": "15x7",
           "offset": "-11",
@@ -958,178 +476,36 @@
       ]
     },
     {
-      "model": "Ranger",
-      "trim": "XL 4x2",
+      "model": "F-150",
+      "trim": "Base",
       "wheels": [
         {
-          "rim_size": "14x5",
-          "offset": "-11",
-          "center_hub": "14.3"
+          "rim_size": "17x7.5J",
+          "bolt_circle": "5-135mm",
+          "offset": "-15",
+          "center_hub": "87.1"
         },
         {
-          "rim_size": "14x6J",
-          "offset": "-11",
-          "center_hub": "14.3"
-        }
-      ]
-    },
-    {
-      "model": "Ranger",
-      "trim": "XL 4x4",
-      "wheels": [
-        {
-          "rim_size": "15x7J",
-          "offset": "-11",
-          "center_hub": "14.3"
-        }
-      ]
-    },
-    {
-      "model": "Ranger",
-      "trim": "XLT 4x2",
-      "wheels": [
-        {
-          "rim_size": "14x5",
-          "offset": "-11",
-          "center_hub": "14.3"
+          "rim_size": "16x7J",
+          "bolt_circle": "5-135mm",
+          "offset": "-15",
+          "center_hub": "87.1"
         },
         {
-          "rim_size": "14x6J",
-          "offset": "-11",
-          "center_hub": "14.3"
+          "rim_size": "17x7",
+          "bolt_circle": "5-135mm",
+          "offset": "-15",
+          "center_hub": "87.1"
         }
       ]
-    },
-    {
-      "model": "Ranger",
-      "trim": "XLT 4x4",
-      "wheels": [
-        {
-          "rim_size": "15x7J",
-          "offset": "-11",
-          "center_hub": "14.3"
-        }
-      ]
-    },
-    {
-      "model": "Taurus",
-      "trim": "G",
-      "wheels": [
-        {
-          "rim_size": "15x6J",
-          "bolt_circle": "5-108mm",
-          "offset": "-10",
-          "center_hub": "63.5"
-        }
-      ]
-    },
-    {
-      "model": "Taurus",
-      "trim": "GL",
-      "wheels": [
-        {
-          "rim_size": "15x6J",
-          "bolt_circle": "5-108mm",
-          "offset": "-10",
-          "center_hub": "63.5"
-        }
-      ]
-    },
-    {
-      "model": "Taurus",
-      "trim": "LX",
-      "wheels": [
-        {
-          "rim_size": "15x6J",
-          "bolt_circle": "5-108mm",
-          "offset": "-10",
-          "center_hub": "63.5"
-        }
-      ]
-    },
-    {
-      "model": "Taurus",
-      "trim": "SHO",
-      "wheels": [
-        {
-          "rim_size": "16x6.5J",
-          "bolt_circle": "5-108mm",
-          "offset": "-10",
-          "center_hub": "63.5"
-        },
-        {
-          "rim_size": "16x6",
-          "bolt_circle": "5-108mm",
-          "offset": "-10",
-          "center_hub": "63.5"
-        }
-      ]
-    },
-    {
-      "model": "Thunderbird",
-      "trim": "LX",
-      "wheels": [
-        {
-          "rim_size": "15x6J",
-          "bolt_circle": "5-108mm",
-          "offset": "-10",
-          "center_hub": "63.5"
-        },
-        {
-          "rim_size": "15x6",
-          "bolt_circle": "5-108mm",
-          "offset": "-10",
-          "center_hub": "63.5"
-        },
-        {
-          "rim_size": "15x6.5J",
-          "bolt_circle": "5-108mm",
-          "offset": "-10",
-          "center_hub": "63.5"
-        }
-      ]
-    },
-    {
-      "model": "Thunderbird",
-      "trim": "LX w/Sport Pkg.",
-      "wheels": [
-        {
-          "rim_size": "16x7",
-          "bolt_circle": "5-108mm",
-          "offset": "-10",
-          "center_hub": "63.5"
-        }
-      ]
-    },
-    {
-      "model": "Windstar",
-      "trim": "Cargo Van",
-      "wheels": []
-    },
-    {
-      "model": "Windstar",
-      "trim": "GL",
-      "wheels": [
-        {
-          "rim_size": "15x5",
-          "bolt_circle": "5-108mm",
-          "offset": "-10",
-          "center_hub": "63.5"
-        }
-      ]
-    },
-    {
-      "model": "Windstar",
-      "trim": "LX Wagon",
-      "wheels": []
     }
   ],
   "metadata": {
-    "scraping_date": "2025-06-25T23:03:15.654298",
-    "total_vehicles": 105,
+    "scraping_date": "2025-06-26T17:31:21.915446",
+    "total_vehicles": 50,
     "total_tire_sizes": 0,
-    "total_wheel_specs": 32,
-    "vehicles_with_wheels": 69,
-    "wheel_coverage": 0.6571428571428571
+    "total_wheel_specs": 17,
+    "vehicles_with_wheels": 27,
+    "wheel_coverage": 0.54
   }
 }
